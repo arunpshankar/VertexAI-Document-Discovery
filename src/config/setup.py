@@ -28,16 +28,9 @@ class Config:
         
         self.__config = self._load_config(config_path)
         self.PROJECT_ID = self.__config['project_id']
-        self.SITE_SEARCH_DATA_STORE_ID = self.__config['site_search_datastore_id']
-        self.CDN_SEARCH_DATA_STORE_ID = self.__config['cdn_search_datastore_id']
-        self.SEC_SEARCH_DATA_STORE_ID = self.__config['sec_search_datastore_id']
-        self.DOC_SEARCH_DATA_STORE_ID = self.__config['doc_search_datastore_id']
         self.CREDENTIALS_PATH = self.__config['credentials_json']
         self._set_google_credentials(self.CREDENTIALS_PATH)
         self.ACCESS_TOKEN = self._set_access_token()
-        self.USER_PSEUDO_ID = self.__config['user_pseudo_id']
-        self.TEXT_EMBED_MODEL_NAME = self.__config['text_embed_model_name']
-        self.TEXT_GEN_MODEL_NAME = self.__config['text_gen_model_name']
 
     @staticmethod
     def _load_config(config_path: str) -> Dict[str, Any]:

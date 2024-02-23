@@ -7,7 +7,7 @@ import pandas as pd
 import os
 
 # Initialize Firestore client
-db = firestore.Client()
+db = firestore.Client(project=config.PROJECT_ID)
 
 def create_and_populate_collection(collection_name: str, csv_path: str) -> None:
     """
@@ -17,18 +17,17 @@ def create_and_populate_collection(collection_name: str, csv_path: str) -> None:
     - collection_name (str): The name of the Firestore collection to create.
     - csv_path (str): The path to the CSV file to import data from.
     """
-    try:
-        # Load CSV data
-        df = pd.read_csv(csv_path)
-        
-        # Convert DataFrame to dictionary and add to Firestore
-        for index, row in df.iterrows():
-            doc_ref = db.collection(collection_name).document()
-            doc_ref.set(row.to_dict())
-        
-        print(f"Data from {csv_path} added to collection '{collection_name}'.")
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    #try:
+    # Load CSV data
+    df = pd.read_csv(csv_path)
+    
+    # Convert DataFrame to dictionary and add to Firestore
+    for _, row in df.iterrows():
+        doc_ref = db.collection(collection_name).document()
+        doc_ref.set(row.to_dict())
+    
+    print(f"Data from {csv_path} added to collection '{collection_name}'.")
+   
 
 def delete_collection(collection_name: str) -> None:
     """
