@@ -1,9 +1,10 @@
 from google.cloud.sql.connector import Connector
+from sqlalchemy.exc import SQLAlchemyError
+from sqlalchemy.engine.base import Engine
 from src.config.logging import logger
 from src.config.setup import config
 import sqlalchemy
-from sqlalchemy.engine.base import Engine
-from sqlalchemy.exc import SQLAlchemyError
+
 
 # Initialize connection parameters
 instance_connection_name = f"{config.PROJECT_ID}:{config.REGION}:{config.CLOUD_SQL_INSTANCE}"
@@ -11,6 +12,7 @@ logger.info(f"Connection name: {instance_connection_name}")
 
 # Initialize Connector object
 connector = Connector()
+
 
 def get_connection() -> sqlalchemy.engine.base.Connection:
     """
@@ -33,6 +35,7 @@ def get_connection() -> sqlalchemy.engine.base.Connection:
         logger.error(f"Failed to connect to Cloud SQL: {e}")
         raise
 
+
 def create_engine_with_connection_pool() -> Engine:
     """
     Creates a SQLAlchemy engine with a connection pool using the `get_connection` function.
@@ -43,6 +46,7 @@ def create_engine_with_connection_pool() -> Engine:
     engine = sqlalchemy.create_engine("mysql+pymysql://", creator=get_connection)
     logger.info("SQLAlchemy engine with connection pool created successfully.")
     return engine
+
 
 def create_university_urls_table(engine: Engine):
     """
@@ -82,6 +86,7 @@ def create_university_urls_table(engine: Engine):
         logger.error(f"Failed to create table 'university_urls': {e}")
         raise
 
+
 def insert_university_url(engine: Engine, university_url_data: dict):
     """
     Inserts a new entry into the 'university_urls' table.
@@ -107,15 +112,11 @@ def insert_university_url(engine: Engine, university_url_data: dict):
         raise
 
 
-
-# Main execution flow
 if __name__ == "__main__":
     try:
-        # Create engine with connection pool
         engine = create_engine_with_connection_pool()
-        # Create the university_urls table
         create_university_urls_table(engine)
-        # Example usage: Inserting a new entry into university_urls table
+        # Inserting data into university_urls table
         stanford_university_entry = {
             "university": "Stanford University",
             "url": "https://stanford.edu",
