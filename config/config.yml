@@ -1,3 +1,8 @@
 project_id: arun-genai-bb
 credentials_json: ./credentials/key.json
 text_gen_model_name: gemini-1.0-pro
+region: us-central1
+cloud_sql_instance: vais-app-builder
+cloud_sql_username: arun
+cloud_sql_password: '9586'
+cloud_sql_database: universities

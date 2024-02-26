@@ -31,6 +31,12 @@ class Config:
         self.CREDENTIALS_PATH = self.__config['credentials_json']
         self._set_google_credentials(self.CREDENTIALS_PATH)
         self.ACCESS_TOKEN = self._set_access_token()
+        self.REGION = self.__config['region']
+        self.CLOUD_SQL_INSTANCE = self.__config['cloud_sql_instance']
+        self.CLOUD_SQL_USERNAME = self.__config['cloud_sql_username']
+        self.CLOUD_SQL_PASSWORD = self.__config['cloud_sql_password']
+        self.CLOUD_SQL_DATABASE = self.__config['cloud_sql_database']
+
 
     @staticmethod
     def _load_config(config_path: str) -> Dict[str, Any]:
