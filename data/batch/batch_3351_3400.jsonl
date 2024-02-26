@@ -1,0 +1,50 @@
+{"name": "University of Aquila", "root_url": "*.univaq.it/*", "country": "Italy"}
+{"name": "University of Venice", "root_url": "*.unive.it/*", "country": "Italy"}
+{"name": "University of Verona", "root_url": "*.univr.it/*", "country": "Italy"}
+{"name": "University of Trieste", "root_url": "*.univ.trieste.it/*", "country": "Italy"}
+{"name": "Northern Caribbean University", "root_url": "*.ncu.edu.jm/*", "country": "Jamaica"}
+{"name": "University of Technology Jamaica", "root_url": "*.utech.edu.jm/*", "country": "Jamaica"}
+{"name": "Aichi Shukutoku University", "root_url": "*.aasa.ac.jp/*", "country": "Japan"}
+{"name": "Aichi Bunkyo University", "root_url": "*.abu.ac.jp/*", "country": "Japan"}
+{"name": "Aichi University of Education", "root_url": "*.aichi-edu.ac.jp/*", "country": "Japan"}
+{"name": "Aichi Gakuin University", "root_url": "*.aichi-gakuin.ac.jp/*", "country": "Japan"}
+{"name": "Aichi Medical University", "root_url": "*.aichi-med-u.ac.jp/*", "country": "Japan"}
+{"name": "Aichi Prefectural University", "root_url": "*.aichi-pu.ac.jp/*", "country": "Japan"}
+{"name": "Aichi University", "root_url": "*.aichi-u.ac.jp/*", "country": "Japan"}
+{"name": "Aikoku Gakuen University", "root_url": "*.aikoku-u.ac.jp/*", "country": "Japan"}
+{"name": "Aichi Institute of Technology", "root_url": "*.aitech.ac.jp/*", "country": "Japan"}
+{"name": "Akita University of Economics and Law", "root_url": "*.akeihou-u.ac.jp/*", "country": "Japan"}
+{"name": "Akita University", "root_url": "*.akita-u.ac.jp/*", "country": "Japan"}
+{"name": "Aomori Chuoh Gakuin University", "root_url": "*.aomoricgu.ac.jp/*", "country": "Japan"}
+{"name": "Aomori University", "root_url": "*.aomori-u.ac.jp/*", "country": "Japan"}
+{"name": "Aoyama Gakuin University", "root_url": "*.aoyama.ac.jp/*", "country": "Japan"}
+{"name": "Ritsumeikan Asia Pacific University", "root_url": "*.apu.ac.jp/*", "country": "Japan"}
+{"name": "Asahikawa Medical College", "root_url": "*.asahikawa-med.ac.jp/*", "country": "Japan"}
+{"name": "Asahikawa University", "root_url": "*.asahikawa-u.ac.jp/*", "country": "Japan"}
+{"name": "Asahi University", "root_url": "*.asahi-u.ac.jp/*", "country": "Japan"}
+{"name": "Ashikaga Institute of Technology", "root_url": "*.ashitech.ac.jp/*", "country": "Japan"}
+{"name": "Ashiya University", "root_url": "*.ashiya-u.ac.jp/*", "country": "Japan"}
+{"name": "Asia University", "root_url": "*.asia-u.ac.jp/*", "country": "Japan"}
+{"name": "Aichi Sangyo University", "root_url": "*.asu.ac.jp/*", "country": "Japan"}
+{"name": "Atomi College", "root_url": "*.atomi.ac.jp/*", "country": "Japan"}
+{"name": "Aomori University of Health and Welfare", "root_url": "*.auhw.ac.jp/*", "country": "Japan"}
+{"name": "Azabu University", "root_url": "*.azabu-u.ac.jp/*", "country": "Japan"}
+{"name": "Beppu University", "root_url": "*.beppu-u.ac.jp/*", "country": "Japan"}
+{"name": "International Budo University", "root_url": "*.budo-u.ac.jp/*", "country": "Japan"}
+{"name": "Bukkyo University", "root_url": "*.bukkyo-u.ac.jp/*", "country": "Japan"}
+{"name": "Bunkyo University", "root_url": "*.bunkyo.ac.jp/*", "country": "Japan"}
+{"name": "Tokushima Bunri University", "root_url": "*.bunri-u.ac.jp/*", "country": "Japan"}
+{"name": "Chuo Gakuin University", "root_url": "*.cgu.ac.jp/*", "country": "Japan"}
+{"name": "Chiba University", "root_url": "*.chiba-u.ac.jp/*", "country": "Japan"}
+{"name": "Chikushi Jogakuen University", "root_url": "*.chikushi.ac.jp/*", "country": "Japan"}
+{"name": "Chubu University", "root_url": "*.chubu.ac.jp/*", "country": "Japan"}
+{"name": "Chukyo Gakuin University", "root_url": "*.chukyogakuin-u.ac.jp/*", "country": "Japan"}
+{"name": "Chukyo University", "root_url": "*.chukyo-u.ac.jp/*", "country": "Japan"}
+{"name": "Chuo University", "root_url": "*.chuo-u.ac.jp/*", "country": "Japan"}
+{"name": "Chiba Keizai University", "root_url": "*.cku.ac.jp/*", "country": "Japan"}
+{"name": "Chiba University of Commerce", "root_url": "*.cuc.ac.jp/*", "country": "Japan"}
+{"name": "Daido Institute of Technology", "root_url": "*.daido-it.ac.jp/*", "country": "Japan"}
+{"name": "Daiichi College of Pharmaceutical Sciences", "root_url": "*.daiichi-cps.ac.jp/*", "country": "Japan"}
+{"name": "Daiichi University of Economics", "root_url": "*.daiichi-ue.ac.jp/*", "country": "Japan"}
+{"name": "Osaka College of Music", "root_url": "*.daion.ac.jp/*", "country": "Japan"}
+{"name": "Osaka University of Commerce", "root_url": "*.daishodai.ac.jp/*", "country": "Japan"}

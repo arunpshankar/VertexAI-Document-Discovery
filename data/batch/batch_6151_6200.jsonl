@@ -1,0 +1,50 @@
+{"name": "Saigon University", "root_url": "*.sgu.edu.vn/*", "country": "Viet Nam"}
+{"name": "Tay Nguyen University", "root_url": "*.taynguyenuni.edu.vn/*", "country": "Viet Nam"}
+{"name": "Thai Nguyen University of Agriculture and Forestry", "root_url": "*.tuaf.edu.vn/*", "country": "Viet Nam"}
+{"name": "Hanoi Univerisity of Transportation", "root_url": "*.uct.edu.vn/*", "country": "Viet Nam"}
+{"name": "University of Da Nang", "root_url": "*.ud.edu.vn/*", "country": "Viet Nam"}
+{"name": "Ho Chi Minh City University of Economics", "root_url": "*.ueh.edu.vn/*", "country": "Viet Nam"}
+{"name": "Vietnam Maritime University", "root_url": "*.vimaru.edu.vn/*", "country": "Viet Nam"}
+{"name": "Vietnam National University Hanoi", "root_url": "*.vnu.edu.vn/*", "country": "Viet Nam"}
+{"name": "Vietnam National University Ho Chi Minh City", "root_url": "*.vnuhcm.edu.vn/*", "country": "Viet Nam"}
+{"name": "Ho Chi Minh City University of Medicine and Pharmacy", "root_url": "*.yds.edu.vn/*", "country": "Viet Nam"}
+{"name": "Pham Ngoc Thach University of Medicine", "root_url": "*.pnt.edu.vn*", "country": "Viet Nam"}
+{"name": "University of the Virgin Islands", "root_url": "*.uvi.edu/*", "country": "Virgin Islands, British"}
+{"name": "University of Aden", "root_url": "*.adenuniversity.edu.ye/*", "country": "Yemen"}
+{"name": "Alahgaff University", "root_url": "*.ahgaff.edu/*", "country": "Yemen"}
+{"name": "Queen Arwa University", "root_url": "*.arwauniversity.org/*", "country": "Yemen"}
+{"name": "Hodeidah University", "root_url": "*.hoduniv.net.ye/*", "country": "Yemen"}
+{"name": "Hadhramout University of Science and Technology", "root_url": "*.hust.edu.ye/*", "country": "Yemen"}
+{"name": "Saba University", "root_url": "*.sabauni.net/*", "country": "Yemen"}
+{"name": "Taiz University", "root_url": "*.taizun.net/*", "country": "Yemen"}
+{"name": "Thamar University", "root_url": "*.thuniv.net/*", "country": "Yemen"}
+{"name": "Yemenia University", "root_url": "*.yuniv.net/*", "country": "Yemen"}
+{"name": "Cavendish University", "root_url": "*.cavendishza.org/*", "country": "Zambia"}
+{"name": "Copperbelt University", "root_url": "*.cbu.edu.zm/*", "country": "Zambia"}
+{"name": "Mulungushi University", "root_url": "*.mu.ac.zm/*", "country": "Zambia"}
+{"name": "Rusangu University", "root_url": "*.rusangu-university.edu.zm/*", "country": "Zambia"}
+{"name": "University of Lusaka", "root_url": "*.unilus.ac.zm/*", "country": "Zambia"}
+{"name": "University of Zambia", "root_url": "*.unza.zm/*", "country": "Zambia"}
+{"name": "Zambian Open University", "root_url": "*.zaou.ac.zm/*", "country": "Zambia"}
+{"name": "Africa University", "root_url": "*.africau.edu/*", "country": "Zimbabwe"}
+{"name": "Bindura University of Science Education", "root_url": "*.buse.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Chinhoyi University of Technology", "root_url": "*.cut.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Catholic University in Zimbabwe", "root_url": "*.cuz.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Great Zimbabwe University", "root_url": "*.gzu.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Harare Institute of Technology", "root_url": "*.hit.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Lupane State University", "root_url": "*.lsu.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Midlands State University", "root_url": "*.msu.ac.zw/*", "country": "Zimbabwe"}
+{"name": "National University of Science and Technology Bulawayo", "root_url": "*.nust.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Reformed Church University", "root_url": "*.rcu.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Solusi University", "root_url": "*.solusi.ac.zw/*", "country": "Zimbabwe"}
+{"name": "University of Zimbabwe", "root_url": "*.uz.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Zimbabwe Ezekiel Guti University", "root_url": "*.zegu.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Zimbabwe Open University", "root_url": "*.zou.ac.zw/*", "country": "Zimbabwe"}
+{"name": "Abdullah Gul University", "root_url": "*.agu.edu.tr/*", "country": "Turkey"}
+{"name": "Adana Science and Technology University", "root_url": "*.agu.edu.tr/*", "country": "Turkey"}
+{"name": "Adiyaman University", "root_url": "*.adiyaman.edu.tr/*", "country": "Turkey"}
+{"name": "Aksaray University", "root_url": "*.aksaray.edu.tr/*", "country": "Turkey"}
+{"name": "Alanya Alaaddin Keykubat University", "root_url": "*.alanyaaku.edu.tr/*", "country": "Turkey"}
+{"name": "Amasya University", "root_url": "*.amasya.edu.tr/*", "country": "Turkey"}
+{"name": "Ankara Social Science University", "root_url": "*.asbu.edu.tr/*", "country": "Turkey"}
+{"name": "Ardahan University", "root_url": "*.ardahan.edu.tr/*", "country": "Turkey"}

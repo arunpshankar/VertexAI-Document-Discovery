@@ -1,0 +1,50 @@
+{"name": "Carlow Institute of Technology", "root_url": "*.itcarlow.ie/*", "country": "Ireland"}
+{"name": "LSB College", "root_url": "*.lsb.ie/*", "country": "Ireland"}
+{"name": "National College of Ireland", "root_url": "*.ncirl.ie/*", "country": "Ireland"}
+{"name": "National University of Ireland", "root_url": "*.nui.ie/*", "country": "Ireland"}
+{"name": "Royal College of Physicians of Ireland", "root_url": "*.rcpi.ie/*", "country": "Ireland"}
+{"name": "Royal College of Surgeons", "root_url": "*.rcsi.ie/*", "country": "Ireland"}
+{"name": "Shannon College of Hotel Management", "root_url": "*.shannoncollege.com/*", "country": "Ireland"}
+{"name": "University College Cork", "root_url": "*.ucc.ie/*", "country": "Ireland"}
+{"name": "University College Dublin", "root_url": "*.ucd.ie/*", "country": "Ireland"}
+{"name": "University of Limerick", "root_url": "*.ul.ie/*", "country": "Ireland"}
+{"name": "Warnborough University", "root_url": "*.warnborough.edu/*", "country": "Ireland"}
+{"name": "Waterford Institute Of Technology", "root_url": "*.wit.ie/*", "country": "Ireland"}
+{"name": "Afeka Tel Aviv Academic College of Engineering", "root_url": "*.afeka.ac.il/*", "country": "Israel"}
+{"name": "Ariel University Center of Samaria", "root_url": "*.ariel.ac.il/*", "country": "Israel"}
+{"name": "Ashkelon Academic College", "root_url": "*.ash-college.ac.il/*", "country": "Israel"}
+{"name": "Bezalel Academy of Art and Design", "root_url": "*.bezalel.ac.il/*", "country": "Israel"}
+{"name": "Acdemic Center for Law and Business", "root_url": "*.clb.ac.il/*", "country": "Israel"}
+{"name": "College of Management", "root_url": "*.colman.ac.il/*", "country": "Israel"}
+{"name": "Galillee College", "root_url": "*.galilcol.ac.il/*", "country": "Israel"}
+{"name": "University of Haifa", "root_url": "*.haifa.ac.il/*", "country": "Israel"}
+{"name": "Hebrew University of Jerusalem", "root_url": "*.huji.ac.il/*", "country": "Israel"}
+{"name": "The Interdisciplinary Center Herzliya", "root_url": "*.idc.ac.il/*", "country": "Israel"}
+{"name": "Jerusalem University College", "root_url": "*.juc.edu/*", "country": "Israel"}
+{"name": "Open University of Israel", "root_url": "*.openu.ac.il/*", "country": "Israel"}
+{"name": "Russell Berrie Nanotechnology Institute", "root_url": "*.rbni.technion.ac.il/*", "country": "Israel"}
+{"name": "Sami Shamoon College of Engineering", "root_url": "*.sce.ac.il/*", "country": "Israel"}
+{"name": "Tel Aviv University", "root_url": "*.tau.ac.il/*", "country": "Israel"}
+{"name": "Weizmann Institute of Science", "root_url": "*.weizmann.ac.il/*", "country": "Israel"}
+{"name": "Western Galilee College", "root_url": "*.wgalil.ac.il/*", "country": "Israel"}
+{"name": "Emeq Yizrael College", "root_url": "*.yvc.ac.il/*", "country": "Israel"}
+{"name": "Pontificio Ateneo Antonianum", "root_url": "*.antonianum.ofm.org/*", "country": "Italy"}
+{"name": "University of Modena", "root_url": "*.casa.unimo.it/*", "country": "Italy"}
+{"name": "Abdus Salam international centre for theoretical physics", "root_url": "*.ictp.trieste.it/*", "country": "Italy"}
+{"name": "Institute for Advanced Studies Lucca", "root_url": "*.imtlucca.it/*", "country": "Italy"}
+{"name": "University Institute of Architecture Venice", "root_url": "*.iuav.unive.it/*", "country": "Italy"}
+{"name": "European University Institute", "root_url": "*.iue.it/*", "country": "Italy"}
+{"name": "University Institute of Modern Languages", "root_url": "*.iulm.it/*", "country": "Italy"}
+{"name": "University Institute of Oriental Studies", "root_url": "*.iuo.it/*", "country": "Italy"}
+{"name": "Istituto Universitario di Studi Superiori", "root_url": "*.iusspavia.it/*", "country": "Italy"}
+{"name": "John Cabot University", "root_url": "*.johncabot.edu/*", "country": "Italy"}
+{"name": "Free International University of Social Studies", "root_url": "*.luiss.it/*", "country": "Italy"}
+{"name": "Pontificio Istituto Orientale", "root_url": "*.pio.urbe.it/*", "country": "Italy"}
+{"name": "Polytechnic Institute of Bari", "root_url": "*.poliba.it/*", "country": "Italy"}
+{"name": "Polytechnic Institute of Milan", "root_url": "*.polimi.it/*", "country": "Italy"}
+{"name": "Polytechnic Institute of Turin", "root_url": "*.polito.it/*", "country": "Italy"}
+{"name": "Fondazione Sacro Cuore", "root_url": "*.sacrocuore.org/*", "country": "Italy"}
+{"name": "International Higher School for Advanced Studies Trieste", "root_url": "*.sissa.it/*", "country": "Italy"}
+{"name": "School of Education Pisa", "root_url": "*.sns.it/*", "country": "Italy"}
+{"name": "Higher School of University and Advanced Studies Pisa", "root_url": "*.sssup.it/*", "country": "Italy"}
+{"name": "University of Ancona", "root_url": "*.unian.it/*", "country": "Italy"}

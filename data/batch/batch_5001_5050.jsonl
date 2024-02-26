@@ -1,0 +1,50 @@
+{"name": "Academia de Studii Economice din Bucuresti", "root_url": "*.ase.ro/*", "country": "Romania"}
+{"name": "University of Craiova", "root_url": "*.central.ucv.ro/*", "country": "Romania"}
+{"name": "Emanuel University", "root_url": "*.emanuel.ro/*", "country": "Romania"}
+{"name": "Academia Tehnica Militara", "root_url": "*.mta.ro/*", "country": "Romania"}
+{"name": "University of Medicine and Pharmacology of Oradea", "root_url": "*.oradeauniversity.com/*", "country": "Romania"}
+{"name": "Oradea University", "root_url": "*.oradeauniversity.com*", "country": "Romania"}
+{"name": "University of Constanta Medical School", "root_url": "*.ovidunivconstanta-edu.org/*", "country": "Romania"}
+{"name": "University Politehnica of Bucharest", "root_url": "*.pub.ro/*", "country": "Romania"}
+{"name": "University of Sibiu", "root_url": "*.sibiu.ro/*", "country": "Romania"}
+{"name": "National School of Political and Administrative Studies Bucharest", "root_url": "*.snspa.ro/*", "country": "Romania"}
+{"name": "Spiru Haret University", "root_url": "*.spiruharet.ro/*", "country": "Romania"}
+{"name": "Technical University of Iasi", "root_url": "*.tuiasi.ro/*", "country": "Romania"}
+{"name": "University of Iasi", "root_url": "*.uaic.ro/*", "country": "Romania"}
+{"name": "North University of Baia Mare", "root_url": "*.ubm.ro/*", "country": "Romania"}
+{"name": "University of Bacau", "root_url": "*.ub.ro/*", "country": "Romania"}
+{"name": "University of Resita", "root_url": "*.uem.ro/*", "country": "Romania"}
+{"name": "University of Galatzi", "root_url": "*.ugal.ro/*", "country": "Romania"}
+{"name": "University Lucian Blaga of Sibiu", "root_url": "*.ulbsibiu.ro/*", "country": "Romania"}
+{"name": "University of Medicine and Pharmacy of Iasi", "root_url": "*.umfiasi.ro/*", "country": "Romania"}
+{"name": "University of Medicine and Pharmacy of Targu Mures", "root_url": "*.umftgm.ro/*", "country": "Romania"}
+{"name": "University of Medicine and Pharmacy of Timisoara", "root_url": "*.umft.ro/*", "country": "Romania"}
+{"name": "National University of Arts", "root_url": "*.unarte.ro/*", "country": "Romania"}
+{"name": "National University of Theater and Film Arts", "root_url": "*.unatc.ro/*", "country": "Romania"}
+{"name": "University of Bucharest", "root_url": "*.unibuc.ro/*", "country": "Romania"}
+{"name": "University of Agriculture and Veterinary Medicine Iasi", "root_url": "*.univagro-iasi.ro/*", "country": "Romania"}
+{"name": "Constantin Brancoveanu University Pitesti", "root_url": "*.univcb.ro/*", "country": "Romania"}
+{"name": "University of Medicine and Pharmacy of Bucharest", "root_url": "*.univermed-cdgm.ro/*", "country": "Romania"}
+{"name": "Maritime University Constanta", "root_url": "*.universitateamaritima.ro/*", "country": "Romania"}
+{"name": "University of Constanta", "root_url": "*.univ-ovidius.ro/*", "country": "Romania"}
+{"name": "National University of Music", "root_url": "*.unmb.ro/*", "country": "Romania"}
+{"name": "University of Oradea", "root_url": "*.uoradea.ro/*", "country": "Romania"}
+{"name": "University of Petrosani", "root_url": "*.upet.ro/*", "country": "Romania"}
+{"name": "University of Pitesti", "root_url": "*.upit.ro/*", "country": "Romania"}
+{"name": "Petru Maior University of Targu Mures", "root_url": "*.upm.ro/*", "country": "Romania"}
+{"name": "University of Agriculture and Veterinary Medicine Bucharest", "root_url": "*.usab.ro/*", "country": "Romania"}
+{"name": "University of Agriculture and Veterinary Medicine Timisoara", "root_url": "*.usab-tm.ro/*", "country": "Romania"}
+{"name": "University of Suceava", "root_url": "*.usv.ro/*", "country": "Romania"}
+{"name": "Technical University of Civil Engineering Bucharest", "root_url": "*.utcb.ro/*", "country": "Romania"}
+{"name": "University of Targu Jiu", "root_url": "*.utgjiu.ro/*", "country": "Romania"}
+{"name": "Technical University of Timisoara", "root_url": "*.utt.ro/*", "country": "Romania"}
+{"name": "West University of Timisoara", "root_url": "*.uvt.ro/*", "country": "Romania"}
+{"name": "Valahia University of Targoviste", "root_url": "*.valahia.ro/*", "country": "Romania"}
+{"name": "Adygeja State University", "root_url": "*.adygnet.ru/*", "country": "Russian Federation"}
+{"name": "Khabarovsk State Academy of Economics and Law", "root_url": "*.ael.ru/*", "country": "Russian Federation"}
+{"name": "Astrahan State Medical Academy", "root_url": "*.agma.astranet.ru/*", "country": "Russian Federation"}
+{"name": "Arhangelsk State Technical University", "root_url": "*.agtu.ru/*", "country": "Russian Federation"}
+{"name": "Academy of Management and Entrepreneurship", "root_url": "*.ame.ru/*", "country": "Russian Federation"}
+{"name": "Amur State University", "root_url": "*.amursu.ru/*", "country": "Russian Federation"}
+{"name": "Volga State Academy of Water Transport", "root_url": "*.aqua.sci-nnov.ru/*", "country": "Russian Federation"}
+{"name": "Altai State Medical University", "root_url": "*.asmu.ru/*", "country": "Russian Federation"}

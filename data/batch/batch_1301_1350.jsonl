@@ -1,0 +1,50 @@
+{"name": "European Humanities University", "root_url": "*.data.minsk.by/ehu/*", "country": "Belarus"}
+{"name": "Grodno State Medical University", "root_url": "*.grsmu.by/*", "country": "Belarus"}
+{"name": "Grodno State University Yanka Kupaly", "root_url": "*.grsu.by/*", "country": "Belarus"}
+{"name": "Gomel State Technical University Pavel Sukhoi", "root_url": "*.gstu.gomel.by/*", "country": "Belarus"}
+{"name": "Gomel State University Francisk Scarnia", "root_url": "*.gsu.unibel.by/*", "country": "Belarus"}
+{"name": "International Sakharov Environmental University", "root_url": "*.iseu.by/*", "country": "Belarus"}
+{"name": "Institute for Command Engineers of The Ministry for Emergency Situations", "root_url": "*.kii.gov.by/*", "country": "Belarus"}
+{"name": "Gomel State Medical University", "root_url": "*.meduniver.gomel.by/*", "country": "Belarus"}
+{"name": "Mozyr State Pedagogical Institute", "root_url": "*.mgpu.gomel.by/*", "country": "Belarus"}
+{"name": "Minsk Institute of Management", "root_url": "*.miu.by/*", "country": "Belarus"}
+{"name": "Minsk State Linguistic University", "root_url": "*.mslu.by/*", "country": "Belarus"}
+{"name": "Academy of Public Administration of Belarus", "root_url": "*.pac.by/*", "country": "Belarus"}
+{"name": "Polotsk State University", "root_url": "*.psu.by/*", "country": "Belarus"}
+{"name": "Grodno State Agrarian University", "root_url": "*.uni-agro.grodno.by/*", "country": "Belarus"}
+{"name": "Vitebsk State Medical University", "root_url": "*.vgmu.vitebsk.by/*", "country": "Belarus"}
+{"name": "Vitebsk State Academy of Veterinary Medicine", "root_url": "*.vsavm.com/*", "country": "Belarus"}
+{"name": "Vitebsk State Technological University", "root_url": "*.vstu.vitebsk.by/*", "country": "Belarus"}
+{"name": "Vitebsk State University", "root_url": "*.vsu.by/*", "country": "Belarus"}
+{"name": "Brexgata University Academy", "root_url": "*.brexgata.eu/*", "country": "Belgium"}
+{"name": "European Carolus Magnus University", "root_url": "*.carolus-magnus-university.eu/*", "country": "Belgium"}
+{"name": "College of Europe", "root_url": "*.coleurope.eu/*", "country": "Belgium"}
+{"name": "Continental Theological Seminary", "root_url": "*.ctsem.edu/*", "country": "Belgium"}
+{"name": "Erasmushogeschool Brussel", "root_url": "*.ehb.be/*", "country": "Belgium"}
+{"name": "European International University", "root_url": "*.europeaniu.org/*", "country": "Belgium"}
+{"name": "Fondation Universitaire Luxembourgeoise", "root_url": "*.ful.ac.be/*", "country": "Belgium"}
+{"name": "Hogeschool Antwerpen", "root_url": "*.ha.be/*", "country": "Belgium"}
+{"name": "Karel De Grote Hogeschool", "root_url": "*.kdg.be/*", "country": "Belgium"}
+{"name": "Katholieke Hogeschool Kempen", "root_url": "*.khk.be/*", "country": "Belgium"}
+{"name": "Katholieke Hogeschool Leuven", "root_url": "*.khleuven.be/*", "country": "Belgium"}
+{"name": "Katholieke Hogeschool Limburg", "root_url": "*.khlim.be/*", "country": "Belgium"}
+{"name": "Katholieke Universiteit Brussel", "root_url": "*.kubrussel.ac.be/*", "country": "Belgium"}
+{"name": "Katholieke Universiteit Leuven", "root_url": "*.kuleuven.ac.be/*", "country": "Belgium"}
+{"name": "Royal Military Academy", "root_url": "*.rma.ac.be/*", "country": "Belgium"}
+{"name": "Universiteit Gent", "root_url": "*.rug.ac.be/*", "country": "Belgium"}
+{"name": "Thierry Graduate School of Leadership", "root_url": "*.thierryschool.org/*", "country": "Belgium"}
+{"name": "Universiteit Antwerpen", "root_url": "*.ua.ac.be/*", "country": "Belgium"}
+{"name": "Universiteit Antwerpen Management School", "root_url": "*.uams.be/*", "country": "Belgium"}
+{"name": "United Business Institute", "root_url": "*.ubi.edu/*", "country": "Belgium"}
+{"name": "Hasselt University", "root_url": "*.uhasselt.be/*", "country": "Belgium"}
+{"name": "Brussels School of International Studies", "root_url": "*.ukc.ac.uk/international/bsis/*", "country": "Belgium"}
+{"name": "Vesalius College", "root_url": "*.vesalius.edu/*", "country": "Belgium"}
+{"name": "Vlerick Leuven Gent Management School", "root_url": "*.vlerick.be/*", "country": "Belgium"}
+{"name": "Vrije Universiteit Brussel", "root_url": "*.vub.ac.be/*", "country": "Belgium"}
+{"name": "Greenford International University", "root_url": "*.giuedu.bz/*", "country": "Belize"}
+{"name": "University of Belize", "root_url": "*.ub.edu.bz/*", "country": "Belize"}
+{"name": "Espam Formation University", "root_url": "*.espam-formationuc.org/*", "country": "Benin"}
+{"name": "Houdegbe North American University Benin", "root_url": "*.hnaubenin.org/*", "country": "Benin"}
+{"name": "Bermuda College", "root_url": "*.bercol.bm/*", "country": "Bermuda"}
+{"name": "Royal University of Bhutan", "root_url": "*.rub.edu.bt/*", "country": "Bhutan"}
+{"name": "Universidad NUR", "root_url": "*.nur.edu/*", "country": "Bolivia, Plurinational State of"}

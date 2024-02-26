@@ -1,0 +1,50 @@
+{"name": "University of Aleppo", "root_url": "*.alepuniv.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Damascus University", "root_url": "*.damascusuniversity.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Higher Institute of Business Administration", "root_url": "*.hiba.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Ittihad Private University", "root_url": "*.ipu.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Mamoun Private University for Science and Technology", "root_url": "*.must.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Syrian Virtual University", "root_url": "*.svuonline.org/*", "country": "Syrian Arab Republic"}
+{"name": "Tishreen University", "root_url": "*.tishreen.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "University of Kalamoon", "root_url": "*.uok.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Wadi International University", "root_url": "*.wiu.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Yarmouk Private University", "root_url": "*.ypu.edu.sy/*", "country": "Syrian Arab Republic"}
+{"name": "Aletheia University", "root_url": "*.au.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Chung Cheng University", "root_url": "*.ccu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Chang Gung University", "root_url": "*.cgu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Chia Nana College of Pharmacy and Science", "root_url": "*.chna.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Chung Hua University", "root_url": "*.chu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Chang Jung University", "root_url": "*.cju.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "China Medical College", "root_url": "*.cmc.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Central Police University", "root_url": "*.cpu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Chung Shan Medical and Dental College", "root_url": "*.csmc.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Chung Yuan Christian University", "root_url": "*.cycu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Chao Yang University of Science and Technology", "root_url": "*.cyut.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Cheng Kung University", "root_url": "*.english.web.ncku.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Feng Chia University", "root_url": "*.fcu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Fu Jen Catholic University", "root_url": "*.fju.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Hsuan Chuang University", "root_url": "*.hcu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Huafan University", "root_url": "*.hfu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Kaohsiung Medical College", "root_url": "*.kmc.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Kung Shan Institute of Technology", "root_url": "*.ksit.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Kun Shan University", "root_url": "*.ksu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Kaohsiung University of Applied Sciences", "root_url": "*.kuas.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "LungHwa University of Science and Technology", "root_url": "*.lhu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Ling Tung University", "root_url": "*.ltc.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Ming Chuan University", "root_url": "*.mcu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Chengchi University", "root_url": "*.nccu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Chi Nan University", "root_url": "*.ncnu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National College of Physical Education and Sports", "root_url": "*.ncpes.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Chiao Tung University", "root_url": "*.nctu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Central University", "root_url": "*.ncu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Changhua University of Education", "root_url": "*.ncue.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Chiayi University", "root_url": "*.ncyu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Dong Hwa University", "root_url": "*.ndhu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Formosa University", "root_url": "*.nfu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Hualien Teachers College", "root_url": "*.nhltc.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "Nanhua University", "root_url": "*.nhu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Institute of the Arts", "root_url": "*.nia.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Ilan University", "root_url": "*.niu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Kaohsiung First University of Science and Technology", "root_url": "*.nkfu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Kaohsiung Normal University", "root_url": "*.nknu.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Open University", "root_url": "*.nou.edu.tw/*", "country": "Taiwan, Province of China"}
+{"name": "National Pingtung Teachers College", "root_url": "*.npttc.edu.tw/*", "country": "Taiwan, Province of China"}

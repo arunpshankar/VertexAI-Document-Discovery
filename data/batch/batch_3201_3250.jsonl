@@ -1,0 +1,50 @@
+{"name": "Yazd University", "root_url": "*.yazduni.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"name": "Yasuj University", "root_url": "*.yu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"name": "Yasuj University of Medical Sciences", "root_url": "*.yums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"name": "Zahedan University of Medical Sciences", "root_url": "*.zdmu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"name": "Zanjan University", "root_url": "*.znu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"name": "Zanjan University of Medical Sciences", "root_url": "*.zums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"name": "Ahlulbait International University", "root_url": "*.ahlulbaitonline.com/*", "country": "Iraq"}
+{"name": "Al Mamon University College", "root_url": "*.almamonuc.org/*", "country": "Iraq"}
+{"name": "Al Rasheed University College", "root_url": "*.alrasheed-uc.com/*", "country": "Iraq"}
+{"name": "Alsadrain University", "root_url": "*.alsadrain.org/*", "country": "Iraq"}
+{"name": "Al Maarif University College", "root_url": "*.auc-edu.org/*", "country": "Iraq"}
+{"name": "Baghdad College of Economic Sciences University", "root_url": "*.baghdadcollege.edu.iq/*", "country": "Iraq"}
+{"name": "Baghdad College of Pharmacy", "root_url": "*.bpc.edu.iq/*", "country": "Iraq"}
+{"name": "British Royal University", "root_url": "*.broyalu.net/*", "country": "Iraq"}
+{"name": "Cihan University", "root_url": "*.cihanuniversity.edu.iq/*", "country": "Iraq"}
+{"name": "Al Rafidain University College", "root_url": "*.coalrafidain.edu.iq/*", "country": "Iraq"}
+{"name": "Dijla University College", "root_url": "*.duc.edu.iq/*", "country": "Iraq"}
+{"name": "Hawler Medical University", "root_url": "*.hawlermu.org/*", "country": "Iraq"}
+{"name": "Iraq University College", "root_url": "*.iraquniversity.net/*", "country": "Iraq"}
+{"name": "Ishik University", "root_url": "*.iu.edu.iq/*", "country": "Iraq"}
+{"name": "Komar University of Science and Technology", "root_url": "*.komar.edu.iq/*", "country": "Iraq"}
+{"name": "Madenat Alelem University College", "root_url": "*.madenatalelem.com/*", "country": "Iraq"}
+{"name": "Al Mansour University College", "root_url": "*.muc.edu.iq/*", "country": "Iraq"}
+{"name": "Al Nahrain University", "root_url": "*.nahrainuniv.edu.iq/*", "country": "Iraq"}
+{"name": "Nawroz University", "root_url": "*.nawrozuniversity.com/*", "country": "Iraq"}
+{"name": "Soran University", "root_url": "*.soran.edu.iq/*", "country": "Iraq"}
+{"name": "Thi Qar University", "root_url": "*.thiqaruni.org/*", "country": "Iraq"}
+{"name": "Tikrit University", "root_url": "*.tu.edu.iq/*", "country": "Iraq"}
+{"name": "Al Turath University College", "root_url": "*.turathun.com/*", "country": "Iraq"}
+{"name": "Al Muthanna University", "root_url": "*.uoalmuthana.edu.iq/*", "country": "Iraq"}
+{"name": "University of Anbar", "root_url": "*.uoanbar.edu.iq/*", "country": "Iraq"}
+{"name": "Uinversity of Babylon", "root_url": "*.uobabylon.edu.iq/*", "country": "Iraq"}
+{"name": "University of Baghdad", "root_url": "*.uobaghdad.edu.iq/*", "country": "Iraq"}
+{"name": "University of Basrah", "root_url": "*.uobasrah.edu.iq/*", "country": "Iraq"}
+{"name": "Diyala University", "root_url": "*.uodiyala.edu.iq/*", "country": "Iraq"}
+{"name": "Kerbala University", "root_url": "*.uokerbala.edu.iq/*", "country": "Iraq"}
+{"name": "University of Kirkuk", "root_url": "*.uokirkuk.edu.iq/*", "country": "Iraq"}
+{"name": "University of Kufa", "root_url": "*.uokufa.edu.iq/*", "country": "Iraq"}
+{"name": "Misan University", "root_url": "*.uomisan.edu.iq/*", "country": "Iraq"}
+{"name": "University of Mosul", "root_url": "*.uomosul.edu.iq/*", "country": "Iraq"}
+{"name": "University of Mustansiriyah", "root_url": "*.uomustansiriyah.edu.iq/*", "country": "Iraq"}
+{"name": "University of Wassit", "root_url": "*.uowasit.edu.iq/*", "country": "Iraq"}
+{"name": "Al Yarmouk University College", "root_url": "*.yu.edu.jo/*", "country": "Iraq"}
+{"name": "Athlone Institute of Technology", "root_url": "*.ait.ie/*", "country": "Ireland"}
+{"name": "Cork Institute of Technology", "root_url": "*.cit.ie/*", "country": "Ireland"}
+{"name": "Dublin City University", "root_url": "*.dcu.ie/*", "country": "Ireland"}
+{"name": "Dublin Institute for Advanced Studies", "root_url": "*.dias.ie/*", "country": "Ireland"}
+{"name": "Dublin Institute of Technology", "root_url": "*.dit.ie/*", "country": "Ireland"}
+{"name": "Griffith College", "root_url": "*.gcd.ie/*", "country": "Ireland"}
+{"name": "Galway Mayo Institute of Technology", "root_url": "*.gmit.ie/*", "country": "Ireland"}

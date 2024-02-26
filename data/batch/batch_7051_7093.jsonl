@@ -1,0 +1,43 @@
+{"name": "Skagit Valley College", "root_url": "*.skagit.edu*", "country": "United States"}
+{"name": "South Puget Sound Community College", "root_url": "*.spscc.ctc.edu*", "country": "United States"}
+{"name": "Spokane Community College", "root_url": "*.scc.spokane.edu*", "country": "United States"}
+{"name": "Spokane Falls Community College", "root_url": "*.spokanefalls.edu*", "country": "United States"}
+{"name": "Tacoma Community College", "root_url": "*.tacomacc.edu*", "country": "United States"}
+{"name": "Walla Walla Community College", "root_url": "*.wwcc.edu/*", "country": "United States"}
+{"name": "Wenatchee Valley College", "root_url": "*.wvc.edu*", "country": "United States"}
+{"name": "Whatcom Community College", "root_url": "*.whatcom.ctc.edu*", "country": "United States"}
+{"name": "Yakima Valley Community College", "root_url": "*.yvcc.edu*", "country": "United States"}
+{"name": "Blue Ridge Community and Technical College", "root_url": "*.blueridgectc.edu/*", "country": "United States"}
+{"name": "Bridgemont Community and Technical College", "root_url": "*.bridgemont.edu*", "country": "United States"}
+{"name": "Eastern West Virginia Community and Technical College", "root_url": "*.Eastern.wvnet.edu*", "country": "United States"}
+{"name": "Huntington Junior College", "root_url": "*.huntingtonjuniorcollege.edu*", "country": "United States"}
+{"name": "Kanawha Valley Community and Technical College", "root_url": "*.kvctc.edu*", "country": "United States"}
+{"name": "Mountwest Community and Technical College", "root_url": "*.mctc.edu*", "country": "United States"}
+{"name": "New River Community and Technical College", "root_url": "*.newriver.edu*", "country": "United States"}
+{"name": "Pierpont Community and Technical College", "root_url": "*.pierpont.edu/*", "country": "United States"}
+{"name": "Southern West Virginia Community and Technical College", "root_url": "*.southernwv.edu*", "country": "United States"}
+{"name": "West Virginia Northern Community College", "root_url": "*.wvncc.edu/*", "country": "United States"}
+{"name": "Blackhawk Technical College", "root_url": "*.blackhawk.edu*", "country": "United States"}
+{"name": "Chippewa Valley Technical College", "root_url": "*.cvtc.edu*", "country": "United States"}
+{"name": "Fox Valley Technical College", "root_url": "*.fvtc.edu*", "country": "United States"}
+{"name": "Gateway Technical College", "root_url": "*.gtc.edu*", "country": "United States"}
+{"name": "Lac Courte Oreilles Ojibwa Community College", "root_url": "*.lco.edu*", "country": "United States"}
+{"name": "Lakeshore Technical College", "root_url": "*.gotoltc.edu*", "country": "United States"}
+{"name": "Madison Area Technical College", "root_url": "*.madisoncollege.edu*", "country": "United States"}
+{"name": "Milwaukee Area Technical College", "root_url": "*.matc.edu*", "country": "United States"}
+{"name": "Moraine Park Technical College", "root_url": "*.morainepark.edu*", "country": "United States"}
+{"name": "Nicolet Area Technical College", "root_url": "*.nicoletcollege.edu*", "country": "United States"}
+{"name": "Northcentral Technical College", "root_url": "*.ntc.edu*", "country": "United States"}
+{"name": "Northeast Wisconsin Technical College", "root_url": "*.nwtc.edu*", "country": "United States"}
+{"name": "Southwest Wisconsin Technical College", "root_url": "*.swtc.edu*", "country": "United States"}
+{"name": "University of Wisconsin Colleges", "root_url": "*.uwc.edu*", "country": "United States"}
+{"name": "Waukesha County Technical College", "root_url": "*.wctc.edu*", "country": "United States"}
+{"name": "Western Technical College", "root_url": "*.westerntc.edu*", "country": "United States"}
+{"name": "Wisconsin Indianhead Technical College", "root_url": "*.witc.edu*", "country": "United States"}
+{"name": "Casper College", "root_url": "*.caspercollege.edu*", "country": "United States"}
+{"name": "Central Wyoming College", "root_url": "*.cwc.edu/*", "country": "United States"}
+{"name": "Eastern Wyoming College", "root_url": "*.ewc.wy.edu*", "country": "United States"}
+{"name": "Laramie County Community College", "root_url": "*.lccc.wy.edu*", "country": "United States"}
+{"name": "Northwest College", "root_url": "*.northwestcollege.edu*", "country": "United States"}
+{"name": "Sheridan College", "root_url": "*.sheridan.edu*", "country": "United States"}
+{"name": "Western Wyoming Community College", "root_url": "*.wwcc.wy.edu*", "country": "United States"}

@@ -1,0 +1,50 @@
+{"name": "Universidad Nacional de Quilmes", "root_url": "*.unq.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Nacional de Rosario", "root_url": "*.unr.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Nacional de Salta", "root_url": "*.unsa.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Nacional del Sur", "root_url": "*.uns.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Nacional de Santiago del Estero", "root_url": "*.unse.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Nacional de San Juan", "root_url": "*.unsj.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Nacional de San Luis", "root_url": "*.unsl.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Nacional de Tres de Febrero", "root_url": "*.untref.edu.ar/*", "country": "Argentina"}
+{"name": "Universidad Torcuato di Tella", "root_url": "*.utdt.edu/*", "country": "Argentina"}
+{"name": "Universidad Abierta Interamericana", "root_url": "*.vaneduc.edu.ar/uai/*", "country": "Argentina"}
+{"name": "Mehrabyan Medical Institute and Medical College", "root_url": "*.armmed.am/*", "country": "Armenia"}
+{"name": "Armenian State Agrarian University", "root_url": "*.asau.am/*", "country": "Armenia"}
+{"name": "Armenian State University of Economics", "root_url": "*.asue.am/*", "country": "Armenia"}
+{"name": "American University of Armenia", "root_url": "*.aua.am/*", "country": "Armenia"}
+{"name": "Eurasia International University", "root_url": "*.eiu.am/*", "country": "Armenia"}
+{"name": "European Regional Educational Academy of Armenia", "root_url": "*.eriicta.am/*", "country": "Armenia"}
+{"name": "Yerevan Haibusak University", "root_url": "*.haybusak.org/*", "country": "Armenia"}
+{"name": "State Engineering University of Armenia", "root_url": "*.seua.am/*", "country": "Armenia"}
+{"name": "Yerevan State Medical University", "root_url": "*.ysmu.am/*", "country": "Armenia"}
+{"name": "Yerevan State University", "root_url": "*.ysu.am/*", "country": "Armenia"}
+{"name": "Australian Correspondence Schools", "root_url": "*.acs.edu.au/*", "country": "Australia"}
+{"name": "Australian Catholic University", "root_url": "*.acu.edu.au/*", "country": "Australia"}
+{"name": "University of Adelaide", "root_url": "*.adelaide.edu.au/*", "country": "Australia"}
+{"name": "Australian Defence Force Academy", "root_url": "*.adfa.oz.au/*", "country": "Australia"}
+{"name": "Australian Lutheran College", "root_url": "*.alc.edu.au/*", "country": "Australia"}
+{"name": "Australian Maritime College", "root_url": "*.amc.edu.au/*", "country": "Australia"}
+{"name": "Australian National University", "root_url": "*.anu.edu.au/*", "country": "Australia"}
+{"name": "Avondale College", "root_url": "*.avondale.edu.au/*", "country": "Australia"}
+{"name": "Federation University Australia", "root_url": "*.federation.edu.au/*", "country": "Australia"}
+{"name": "Bond University", "root_url": "*.bond.edu.au/*", "country": "Australia"}
+{"name": "University of Canberra", "root_url": "*.canberra.edu.au/*", "country": "Australia"}
+{"name": "Charles Darwin University", "root_url": "*.cdu.edu.au/*", "country": "Australia"}
+{"name": "Central Queensland University", "root_url": "*.cqu.edu.au/*", "country": "Australia"}
+{"name": "Charles Sturt University", "root_url": "*.csu.edu.au/*", "country": "Australia"}
+{"name": "Curtin University of Technology", "root_url": "*.curtin.edu.au/*", "country": "Australia"}
+{"name": "Deakin University", "root_url": "*.deakin.edu.au/*", "country": "Australia"}
+{"name": "Edith Cowan University", "root_url": "*.ecu.edu.au/*", "country": "Australia"}
+{"name": "Flinders University of South Australia", "root_url": "*.flinders.edu.au/*", "country": "Australia"}
+{"name": "Griffith University", "root_url": "*.gu.edu.au/*", "country": "Australia"}
+{"name": "Holmes Institute", "root_url": "*.holmes.edu.au/*", "country": "Australia"}
+{"name": "Blue Mountains Hotel School", "root_url": "*.hotelschool.com.au/*", "country": "Australia"}
+{"name": "International College of Tourism and Hotel Management", "root_url": "*.icthm.edu.au/*", "country": "Australia"}
+{"name": "James Cook University of North Queensland", "root_url": "*.jcu.edu.au/*", "country": "Australia"}
+{"name": "La Trobe University", "root_url": "*.latrobe.edu.au/*", "country": "Australia"}
+{"name": "Marcus Oldham College", "root_url": "*.marcusoldham.vic.edu.au/*", "country": "Australia"}
+{"name": "Monash University", "root_url": "*.monash.edu/*", "country": "Australia"}
+{"name": "Macquarie University", "root_url": "*.mq.edu.au/*", "country": "Australia"}
+{"name": "Murdoch University", "root_url": "*.murdoch.edu.au/*", "country": "Australia"}
+{"name": "University of Notre Dame Australia", "root_url": "*.nd.edu.au/*", "country": "Australia"}
+{"name": "University of Newcastle", "root_url": "*.newcastle.edu.au/*", "country": "Australia"}

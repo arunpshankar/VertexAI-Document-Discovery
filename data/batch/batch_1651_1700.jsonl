@@ -1,0 +1,50 @@
+{"name": "Universidad Catolica de Temuco", "root_url": "*.uctem.cl/*", "country": "Chile"}
+{"name": "Universidad Catolica de Valparaiso", "root_url": "*.ucv.cl/*", "country": "Chile"}
+{"name": "Universidad de Atacama", "root_url": "*.uda.cl/*", "country": "Chile"}
+{"name": "Universidad de Concepcion", "root_url": "*.udec.cl/*", "country": "Chile"}
+{"name": "Universidad del Mar", "root_url": "*.udelmar.cl/*", "country": "Chile"}
+{"name": "Universidad del Desarrollo", "root_url": "*.udesarrollo.cl/*", "country": "Chile"}
+{"name": "Universidad Diego Portales", "root_url": "*.udp.cl/*", "country": "Chile"}
+{"name": "Universidad Finis Terrae", "root_url": "*.ufinis.cl/*", "country": "Chile"}
+{"name": "Universidad de La Frontera", "root_url": "*.ufro.cl/*", "country": "Chile"}
+{"name": "Universidad Gabriela Mistral", "root_url": "*.ugm.cl/*", "country": "Chile"}
+{"name": "Universidad de Los Lagos", "root_url": "*.ulagos.cl/*", "country": "Chile"}
+{"name": "Universidad La Republica", "root_url": "*.ulare.cl/*", "country": "Chile"}
+{"name": "Universidad de Magallanes", "root_url": "*.umag.cl/*", "country": "Chile"}
+{"name": "Universidad Maritima de Chile", "root_url": "*.umaritima.cl/*", "country": "Chile"}
+{"name": "Universidad Mayor", "root_url": "*.umayor.cl/*", "country": "Chile"}
+{"name": "Universidad Adventista de Chile", "root_url": "*.unachile.cl/*", "country": "Chile"}
+{"name": "Universidad Francisco de Aguirre", "root_url": "*.unfa.cl/*", "country": "Chile"}
+{"name": "Universidad Iberoamericana de Ciencias y Tecnologia", "root_url": "*.unicit.cl/*", "country": "Chile"}
+{"name": "Universidad Arcis", "root_url": "*.universidadarcis.cl/*", "country": "Chile"}
+{"name": "Universidad de Playa Ancha de Ciencias de la Educacion", "root_url": "*.upa.cl/*", "country": "Chile"}
+{"name": "Universidad de Santiago de Chile", "root_url": "*.usach.cl/*", "country": "Chile"}
+{"name": "Universidad de San Andres", "root_url": "*.usanandres.cl/*", "country": "Chile"}
+{"name": "Universidad de La Serena", "root_url": "*.userena.cl/*", "country": "Chile"}
+{"name": "Universidad San Sebastian", "root_url": "*.uss.cl/*", "country": "Chile"}
+{"name": "Universidad de Talca", "root_url": "*.utalca.cl/*", "country": "Chile"}
+{"name": "Universidad de Valparaiso", "root_url": "*.uv.cl/*", "country": "Chile"}
+{"name": "Anhui Medical University", "root_url": "*.ahmu.edu.cn/*", "country": "China"}
+{"name": "Anhui Normal University", "root_url": "*.ahnu.edu.cn/*", "country": "China"}
+{"name": "Anhui Technical College of Water Resources and Hydroelectric Power", "root_url": "*.ahsdxy.ah.edu.cn/*", "country": "China"}
+{"name": "Anhui University of Traditional Chinese Medicine", "root_url": "*.ahtcm.edu.cn/*", "country": "China"}
+{"name": "Anhui University", "root_url": "*.ahu.edu.cn/*", "country": "China"}
+{"name": "Anhui University of Finance and Economics", "root_url": "*.aufe.edu.cn/*", "country": "China"}
+{"name": "Beijing University of Agriculture", "root_url": "*.bac.edu.cn/*", "country": "China"}
+{"name": "Beijing Foreign Studies University", "root_url": "*.bfsu.edu.cn/*", "country": "China"}
+{"name": "Bohai University", "root_url": "*.bhu.edu.cn/*", "country": "China"}
+{"name": "Beijing International Studies University", "root_url": "*.bisu.edu.cn/*", "country": "China"}
+{"name": "Beijing Institute of Technology", "root_url": "*.bit.edu.cn/*", "country": "China"}
+{"name": "Beijing Information Science and Technology University", "root_url": "*.biti.edu.cn/*", "country": "China"}
+{"name": "China Agriculture University East", "root_url": "*.bjaeu.edu.cn/*", "country": "China"}
+{"name": "Beijing Forestry University", "root_url": "*.bjfu.edu.cn/*", "country": "China"}
+{"name": "Beijing Medical University", "root_url": "*.bjmu.edu.cn/*", "country": "China"}
+{"name": "Beijing Petroleum University", "root_url": "*.bjpeu.edu.cn/*", "country": "China"}
+{"name": "Beijing Polytechnic University", "root_url": "*.bjpu.edu.cn/*", "country": "China"}
+{"name": "Beijing University of Chinese Medicine and Pharmacology", "root_url": "*.bjucmp.edu.cn/*", "country": "China"}
+{"name": "Beijing Language and Culture University", "root_url": "*.blcu.edu.cn/*", "country": "China"}
+{"name": "Beijing Normal University", "root_url": "*.bnu.edu.cn/*", "country": "China"}
+{"name": "Beijing Sport University", "root_url": "*.bsu.edu.cn/*", "country": "China"}
+{"name": "Beijing University of Aeronautics and Astronautics", "root_url": "*.buaa.edu.cn/*", "country": "China"}
+{"name": "Beijing University of Chemical Technology", "root_url": "*.buct.edu.cn/*", "country": "China"}
+{"name": "Beijing University of Posts and Telecommunications", "root_url": "*.bupt.edu.cn/*", "country": "China"}

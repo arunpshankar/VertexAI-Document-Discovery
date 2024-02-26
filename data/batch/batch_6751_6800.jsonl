@@ -1,0 +1,50 @@
+{"name": "Middlesex County College", "root_url": "*.middlesexcc.edu*", "country": "United States"}
+{"name": "Ocean County College", "root_url": "*.ocean.edu/*", "country": "United States"}
+{"name": "Passaic County Community College", "root_url": "*.pccc.edu*", "country": "United States"}
+{"name": "Raritan Valley Community College", "root_url": "*.raritanval.edu*", "country": "United States"}
+{"name": "Salem Community College", "root_url": "*.salemcc.edu*", "country": "United States"}
+{"name": "Sussex County Community College", "root_url": "*.sussex.edu*", "country": "United States"}
+{"name": "Union County College", "root_url": "*.ucc.edu*", "country": "United States"}
+{"name": "Warren County Community College", "root_url": "*.warren.edu*", "country": "United States"}
+{"name": "Central New Mexico Community College", "root_url": "*.cnm.edu*", "country": "United States"}
+{"name": "Clovis Community College", "root_url": "*.clovis.edu*", "country": "United States"}
+{"name": "Luna Community College", "root_url": "*.luna.edu*", "country": "United States"}
+{"name": "Mesalands Community College", "root_url": "*.mesalands.edu*", "country": "United States"}
+{"name": "New Mexico Junior College", "root_url": "*.nmjc.edu*", "country": "United States"}
+{"name": "New Mexico Military Institute", "root_url": "*.nmmi.edu*", "country": "United States"}
+{"name": "San Juan College", "root_url": "*.sanjuancollege.edu*", "country": "United States"}
+{"name": "Santa Fe Community College", "root_url": "*.sfcc.edu*", "country": "United States"}
+{"name": "Southwestern Indian Polytechnic Institute", "root_url": "*.sipi.edu*", "country": "United States"}
+{"name": "Adirondack Community College", "root_url": "*.WWW.SUNYACC.EDU*", "country": "United States"}
+{"name": "ASA College", "root_url": "*.asa.edu*", "country": "United States"}
+{"name": "Cayuga County Community College", "root_url": "*.cayuga-cc.edu/*", "country": "United States"}
+{"name": "Clinton Community College", "root_url": "*.clinton.edu*", "country": "United States"}
+{"name": "CUNY Borough of Manhattan Community College", "root_url": "*.bmcc.cuny.edu/*", "country": "United States"}
+{"name": "CUNY Bronx Community College", "root_url": "*.bcc.cuny.edu*", "country": "United States"}
+{"name": "CUNY Hostos Community College", "root_url": "*.hostos.cuny.edu*", "country": "United States"}
+{"name": "CUNY Kingsborough Community College", "root_url": "*.kbcc.cuny.edu*", "country": "United States"}
+{"name": "CUNY LaGuardia Community College", "root_url": "*.lagcc.cuny.edu*", "country": "United States"}
+{"name": "CUNY Queensborough Community College", "root_url": "*.qcc.cuny.edu*", "country": "United States"}
+{"name": "Dutchess Community College", "root_url": "*.sunydutchess.edu*", "country": "United States"}
+{"name": "Finger Lakes Community College", "root_url": "*.flcc.edu*", "country": "United States"}
+{"name": "Genesee Community College", "root_url": "*.genesee.edu*", "country": "United States"}
+{"name": "Herkimer County Community College", "root_url": "*.herkimer.edu/*", "country": "United States"}
+{"name": "Hudson Valley Community College", "root_url": "*.hvcc.edu*", "country": "United States"}
+{"name": "Jamestown Community College", "root_url": "*.sunyjcc.edu*", "country": "United States"}
+{"name": "Jefferson Community College", "root_url": "*.sunyjefferson.edu*", "country": "United States"}
+{"name": "Mohawk Valley Community College", "root_url": "*.mvcc.edu*", "country": "United States"}
+{"name": "Monroe Community College", "root_url": "*.monroecc.edu/*", "country": "United States"}
+{"name": "Nassau Community College", "root_url": "*.ncc.edu/*", "country": "United States"}
+{"name": "Niagara County Community College", "root_url": "*.niagaracc.suny.edu*", "country": "United States"}
+{"name": "North Country Community College", "root_url": "*.nccc.edu*", "country": "United States"}
+{"name": "Onondaga Community College", "root_url": "*.sunyocc.edu*", "country": "United States"}
+{"name": "Orange County Community College", "root_url": "*.sunyorange.edu/*", "country": "United States"}
+{"name": "Rockland Community College", "root_url": "*.sunyrockland.edu/*", "country": "United States"}
+{"name": "Saint Elizabeth College of Nursing", "root_url": "*.secon.edu*", "country": "United States"}
+{"name": "Schenectady County Community College", "root_url": "*.sunysccc.edu*", "country": "United States"}
+{"name": "Suffolk County Community College", "root_url": "*.www3.sunysuffolk.edu*", "country": "United States"}
+{"name": "Sullivan County Community College", "root_url": "*.sunysullivan.edu/*", "country": "United States"}
+{"name": "SUNY Broome Community College", "root_url": "*.WWW.SUNYBROOME.EDU*", "country": "United States"}
+{"name": "SUNY Westchester Community College", "root_url": "*.sunywcc.edu*", "country": "United States"}
+{"name": "Technical Career Institutes", "root_url": "*.tcicollege.edu*", "country": "United States"}
+{"name": "Tompkins Cortland Community College", "root_url": "*.TC3.edu*", "country": "United States"}

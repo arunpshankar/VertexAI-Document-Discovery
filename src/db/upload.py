@@ -1,5 +1,5 @@
-from google.cloud import storage
 from src.config.logging import logger
+from google.cloud import storage
 from src.config.setup import *
 import datetime
 import os 

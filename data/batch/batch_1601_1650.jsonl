@@ -1,0 +1,50 @@
+{"name": "Trinity Western University", "root_url": "*.twu.ca/*", "country": "Canada"}
+{"name": "University of Alberta", "root_url": "*.ualberta.ca/*", "country": "Canada"}
+{"name": "University of British Columbia", "root_url": "*.ubc.ca/*", "country": "Canada"}
+{"name": "University of Calgary", "root_url": "*.ucalgary.ca/*", "country": "Canada"}
+{"name": "University College of Cape Breton", "root_url": "*.uccb.ns.ca/*", "country": "Canada"}
+{"name": "University College of the Fraser Valley", "root_url": "*.ucfv.bc.ca/*", "country": "Canada"}
+{"name": "Memorial University of Newfoundland", "root_url": "*.ucs.mun.ca/*", "country": "Canada"}
+{"name": "University of Lethbridge", "root_url": "*.uleth.ca/*", "country": "Canada"}
+{"name": "University of Manitoba", "root_url": "*.umanitoba.ca/*", "country": "Canada"}
+{"name": "University of Moncton", "root_url": "*.umoncton.ca/*", "country": "Canada"}
+{"name": "University of New Brunswick", "root_url": "*.unb.ca/*", "country": "Canada"}
+{"name": "University of Northern British Columbia", "root_url": "*.unbc.ca/*", "country": "Canada"}
+{"name": "University Canada West", "root_url": "*.universitycanadawest.ca/*", "country": "Canada"}
+{"name": "University of Guelph", "root_url": "*.uoguelph.ca/*", "country": "Canada"}
+{"name": "University of Ontario Institute of Technology", "root_url": "*.uoit.ca/*", "country": "Canada"}
+{"name": "University of Ottawa", "root_url": "*.uottawa.ca/*", "country": "Canada"}
+{"name": "University of Prince Edward Island", "root_url": "*.upei.ca/*", "country": "Canada"}
+{"name": "Campion College", "root_url": "*.uregina.ca/campion/*", "country": "Canada"}
+{"name": "University of Regina", "root_url": "*.uregina.ca/*", "country": "Canada"}
+{"name": "University of Saskatchewan", "root_url": "*.usask.ca/*", "country": "Canada"}
+{"name": "University of Sudbury", "root_url": "*.usudbury.com/*", "country": "Canada"}
+{"name": "University of Toronto", "root_url": "*.utoronto.ca/*", "country": "Canada"}
+{"name": "University of Victoria", "root_url": "*.uvic.ca/*", "country": "Canada"}
+{"name": "University of Waterloo", "root_url": "*.uwaterloo.ca/*", "country": "Canada"}
+{"name": "University of Windsor", "root_url": "*.uwindsor.ca/*", "country": "Canada"}
+{"name": "University of Winnipeg", "root_url": "*.uwinnipeg.ca/*", "country": "Canada"}
+{"name": "Brescia College", "root_url": "*.uwo.ca/brescia/*", "country": "Canada"}
+{"name": "University of Western Ontario", "root_url": "*.uwo.ca/*", "country": "Canada"}
+{"name": "Vancouver Community College", "root_url": "*.vcc.ca/*", "country": "Canada"}
+{"name": "Wilfrid Laurier University", "root_url": "*.wlu.ca/*", "country": "Canada"}
+{"name": "York University", "root_url": "*.yorku.ca/*", "country": "Canada"}
+{"name": "Yukon College", "root_url": "*.yukoncollege.yk.ca/*", "country": "Canada"}
+{"name": "Universidade Jean Piaget de Cabo Verde", "root_url": "*.cv.unipiaget.org/*", "country": "Cape Verde"}
+{"name": "International College of the Cayman Islands", "root_url": "*.icci.edu.ky/*", "country": "Cayman Islands"}
+{"name": "Universidad Academia de Humanismo Cristiano", "root_url": "*.academia.cl/*", "country": "Chile"}
+{"name": "Pontificia Universidad Catolica de Chile", "root_url": "*.puc.cl/*", "country": "Chile"}
+{"name": "Universidad Austral de Chile", "root_url": "*.uach.cl/*", "country": "Chile"}
+{"name": "Universidad de Aconcagua", "root_url": "*.uaconcagua.cl/*", "country": "Chile"}
+{"name": "Universidad Alberto Hurtado", "root_url": "*.uahurtado.cl/*", "country": "Chile"}
+{"name": "Universidad de Los Andes", "root_url": "*.uandes.cl/*", "country": "Chile"}
+{"name": "Universidad de Antofagasta", "root_url": "*.uantof.cl/*", "country": "Chile"}
+{"name": "Universidad Autonoma del Sur", "root_url": "*.uas.cl/*", "country": "Chile"}
+{"name": "Universidad Bolivariana", "root_url": "*.ubolivariana.cl/*", "country": "Chile"}
+{"name": "Universidad Chileno Britanica de Cultura", "root_url": "*.ubritanica.cl/*", "country": "Chile"}
+{"name": "Universidad Central", "root_url": "*.ucentral.cl/*", "country": "Chile"}
+{"name": "Universidad Miguel de Cervantes", "root_url": "*.ucervantes.cl/*", "country": "Chile"}
+{"name": "Universidad de Chile", "root_url": "*.uchile.cl/*", "country": "Chile"}
+{"name": "Universidad de Ciencias de la Informatica", "root_url": "*.ucinf.cl/*", "country": "Chile"}
+{"name": "Universidad Catolica del Maule", "root_url": "*.ucm.cl/*", "country": "Chile"}
+{"name": "Universidad Catolica del Norte", "root_url": "*.ucn.cl/*", "country": "Chile"}

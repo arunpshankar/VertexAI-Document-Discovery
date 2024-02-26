@@ -1,0 +1,50 @@
+{"name": "Huron University USA in London", "root_url": "*.huron.ac.uk/*", "country": "United Kingdom"}
+{"name": "Imperial College London", "root_url": "*.ic.ac.uk/*", "country": "United Kingdom"}
+{"name": "ifs University College", "root_url": "*.ifslearning.ac.uk/*", "country": "United Kingdom"}
+{"name": "International Colleges of Islamic Science", "root_url": "*.islamiccolleges.com/*", "country": "United Kingdom"}
+{"name": "Keele University", "root_url": "*.keele.ac.uk/*", "country": "United Kingdom"}
+{"name": "Kingston University", "root_url": "*.kingston.ac.uk/*", "country": "United Kingdom"}
+{"name": "International Centre for Isclamic Science", "root_url": "*.kolieh.com/*", "country": "United Kingdom"}
+{"name": "University of Lancaster", "root_url": "*.lancs.ac.uk/*", "country": "United Kingdom"}
+{"name": "Loughborough University", "root_url": "*.lboro.ac.uk/*", "country": "United Kingdom"}
+{"name": "London Business School", "root_url": "*.lbs.lon.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Leicester", "root_url": "*.le.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Leeds", "root_url": "*.leeds.ac.uk/*", "country": "United Kingdom"}
+{"name": "London Guildhall University", "root_url": "*.lgu.ac.uk/*", "country": "United Kingdom"}
+{"name": "London Institute of Management and Technology", "root_url": "*.limt.co.uk/*", "country": "United Kingdom"}
+{"name": "University of Lincoln", "root_url": "*.lincoln.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Liverpool", "root_url": "*.liv.ac.uk/*", "country": "United Kingdom"}
+{"name": "Liverpool John Moores University", "root_url": "*.livjm.ac.uk/*", "country": "United Kingdom"}
+{"name": "Leeds Metropolitan University", "root_url": "*.lmu.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of London", "root_url": "*.lon.ac.uk/*", "country": "United Kingdom"}
+{"name": "London Metropolitan University", "root_url": "*.londonmet.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Manchester", "root_url": "*.man.ac.uk/*", "country": "United Kingdom"}
+{"name": "Middlesex University", "root_url": "*.mdx.ac.uk/*", "country": "United Kingdom"}
+{"name": "Imperial College School of Medicine", "root_url": "*.med.ic.ac.uk/*", "country": "United Kingdom"}
+{"name": "The Manchester Metropolitan University", "root_url": "*.mmu.ac.uk/*", "country": "United Kingdom"}
+{"name": "Napier University", "root_url": "*.napier.ac.uk/*", "country": "United Kingdom"}
+{"name": "Newport International University", "root_url": "*.niu.org.uk/*", "country": "United Kingdom"}
+{"name": "University of Northampton", "root_url": "*.northampton.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Nottingham", "root_url": "*.nottingham.ac.uk/*", "country": "United Kingdom"}
+{"name": "Nottingham Trent University", "root_url": "*.ntu.ac.uk/*", "country": "United Kingdom"}
+{"name": "Open University", "root_url": "*.open.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Oxford", "root_url": "*.ox.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Paisley", "root_url": "*.paisley.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Plymouth", "root_url": "*.plymouth.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Portsmouth", "root_url": "*.port.ac.uk/*", "country": "United Kingdom"}
+{"name": "Royal College of Art", "root_url": "*.rca.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Reading", "root_url": "*.rdg.ac.uk/*", "country": "United Kingdom"}
+{"name": "The Robert Gordon University", "root_url": "*.rgu.ac.uk/*", "country": "United Kingdom"}
+{"name": "Royal Holloway and Bedford New College", "root_url": "*.rhbnc.ac.uk/*", "country": "United Kingdom"}
+{"name": "Roehampton University of Surrey", "root_url": "*.roehampton.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Salford", "root_url": "*.salford.ac.uk/*", "country": "United Kingdom"}
+{"name": "South Bank University", "root_url": "*.sbu.ac.uk/*", "country": "United Kingdom"}
+{"name": "Stratford College London", "root_url": "*.sclondon.ac/*", "country": "United Kingdom"}
+{"name": "University of Sheffield", "root_url": "*.shef.ac.uk/*", "country": "United Kingdom"}
+{"name": "Sheffield Hallam University", "root_url": "*.shu.ac.uk/*", "country": "United Kingdom"}
+{"name": "Swansea Metropolitan University", "root_url": "*.smu.ac.uk/*", "country": "United Kingdom"}
+{"name": "Southampton Solent University", "root_url": "*.solent.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Southampton", "root_url": "*.soton.ac.uk/*", "country": "United Kingdom"}
+{"name": "Staffordshire University", "root_url": "*.staffs.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Stirling", "root_url": "*.stir.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Strathclyde", "root_url": "*.strath.ac.uk/*", "country": "United Kingdom"}

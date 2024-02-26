@@ -1,0 +1,50 @@
+{"name": "Palo Verde College", "root_url": "*.paloverde.edu*", "country": "United States"}
+{"name": "Pasadena City College", "root_url": "*.pasadena.edu*", "country": "United States"}
+{"name": "Porterville College", "root_url": "*.portervillecollege.edu*", "country": "United States"}
+{"name": "Reedley College", "root_url": "*.reedleycollege.edu*", "country": "United States"}
+{"name": "Rio Hondo College", "root_url": "*.riohondo.edu*", "country": "United States"}
+{"name": "Riverside City College", "root_url": "*.rcc.edu/riverside/*", "country": "United States"}
+{"name": "Sacramento City College", "root_url": "*.scc.losrios.edu/*", "country": "United States"}
+{"name": "Saddleback College", "root_url": "*.saddleback.edu*", "country": "United States"}
+{"name": "San Bernardino Valley College", "root_url": "*.valleycollege.edu*", "country": "United States"}
+{"name": "San Diego City College", "root_url": "*.sdcity.edu/*", "country": "United States"}
+{"name": "San Diego Mesa College", "root_url": "*.sdmesa.edu/*", "country": "United States"}
+{"name": "San Diego Miramar College", "root_url": "*.sdmiramar.edu/*", "country": "United States"}
+{"name": "San Joaquin Delta College", "root_url": "*.deltacollege.edu*", "country": "United States"}
+{"name": "San Jose City College", "root_url": "*.sjcc.edu*", "country": "United States"}
+{"name": "Santa Ana College", "root_url": "*.sac.edu*", "country": "United States"}
+{"name": "Santa Barbara City College", "root_url": "*.sbcc.edu*", "country": "United States"}
+{"name": "Santa Monica College", "root_url": "*.smc.edu*", "country": "United States"}
+{"name": "Santa Rosa Junior College", "root_url": "*.santarosa.edu*", "country": "United States"}
+{"name": "Santiago Canyon College", "root_url": "*.sccollege.edu/Pages/default.aspx*", "country": "United States"}
+{"name": "Shasta College", "root_url": "*.shastacollege.edu*", "country": "United States"}
+{"name": "Sierra College", "root_url": "*.sierracollege.edu*", "country": "United States"}
+{"name": "Skyline College", "root_url": "*.skylinecollege.edu*", "country": "United States"}
+{"name": "Solano Community College", "root_url": "*.solano.edu*", "country": "United States"}
+{"name": "Taft College", "root_url": "*.taftcollege.edu*", "country": "United States"}
+{"name": "Ventura College", "root_url": "*.venturacollege.edu/*", "country": "United States"}
+{"name": "Victor Valley College", "root_url": "*.vvc.edu*", "country": "United States"}
+{"name": "West Los Angeles College", "root_url": "*.wlac.edu*", "country": "United States"}
+{"name": "West Valley College", "root_url": "*.westvalley.edu*", "country": "United States"}
+{"name": "Woodland Community College", "root_url": "*.wcc.yccd.edu*", "country": "United States"}
+{"name": "Yuba College", "root_url": "*.yc.yccd.edu*", "country": "United States"}
+{"name": "Aims Community College", "root_url": "*.aims.edu*", "country": "United States"}
+{"name": "Arapahoe Community College", "root_url": "*.arapahoe.edu*", "country": "United States"}
+{"name": "Colorado Northwestern Community College", "root_url": "*.cncc.edu*", "country": "United States"}
+{"name": "Community College of Aurora", "root_url": "*.ccaurora.edu*", "country": "United States"}
+{"name": "Community College of Denver", "root_url": "*.ccd.edu*", "country": "United States"}
+{"name": "Front Range Community College", "root_url": "*.frontrange.edu*", "country": "United States"}
+{"name": "Lamar Community College", "root_url": "*.lamarcc.edu*", "country": "United States"}
+{"name": "Morgan Community College", "root_url": "*.morgancc.edu*", "country": "United States"}
+{"name": "Northeastern Junior College", "root_url": "*.njc.edu*", "country": "United States"}
+{"name": "Otero Junior College", "root_url": "*.WWW.OJC.EDU*", "country": "United States"}
+{"name": "Pikes Peak Community College", "root_url": "*.ppcc.edu*", "country": "United States"}
+{"name": "Pueblo Community College", "root_url": "*.pueblocc.edu*", "country": "United States"}
+{"name": "Red Rocks Community College", "root_url": "*.rrcc.edu*", "country": "United States"}
+{"name": "Trinidad State Junior College", "root_url": "*.trinidadstate.edu/*", "country": "United States"}
+{"name": "Asnuntuck Community College", "root_url": "*.Asnuntuck.edu*", "country": "United States"}
+{"name": "Capital Community College", "root_url": "*.ccc.commnet.edu*", "country": "United States"}
+{"name": "Gateway Community College", "root_url": "*.gwcc.commnet.edu/*", "country": "United States"}
+{"name": "Housatonic Community College", "root_url": "*.hcc.commnet.edu*", "country": "United States"}
+{"name": "Manchester Community College", "root_url": "*.mcc.commnet.edu/*", "country": "United States"}
+{"name": "Middlesex Community College", "root_url": "*.mxcc.commnet.edu*", "country": "United States"}

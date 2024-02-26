@@ -1,0 +1,50 @@
+{"name": "Universidad Externado de Colombia", "root_url": "*.uexternado.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Francisco de Paula Santander", "root_url": "*.ufps.edu.co/*", "country": "Colombia"}
+{"name": "Universidad La Gran Colombia", "root_url": "*.ugrancolombia.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Industrial de Santander", "root_url": "*.uis.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de Manizales", "root_url": "*.umanizales.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Mariana", "root_url": "*.umariana.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Militar Nueva Granada", "root_url": "*.umng.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Adventista de Colombia", "root_url": "*.unac.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Nacional Abierta y a Distancia", "root_url": "*.unad.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Nacional de Colombia", "root_url": "*.unal.edu.co/*", "country": "Colombia"}
+{"name": "Universidad El Bosque", "root_url": "*.unbosque.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de La Amazonia", "root_url": "*.uniamazonia.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de Los Andes", "root_url": "*.uniandes.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de Cartagena", "root_url": "*.unicartagena.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Popular del Cesar", "root_url": "*.unicesar.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de La Guajira", "root_url": "*.uniguajira.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Libre de Colombia", "root_url": "*.unilibre.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de Los Llanos", "root_url": "*.unillanos.edu.co/*", "country": "Colombia"}
+{"name": "Universidad del Magdalena", "root_url": "*.unimagdalena.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Metropolitana", "root_url": "*.unimetro.edu.co/*", "country": "Colombia"}
+{"name": "Universidad INCCA de Colombia", "root_url": "*.unincca.edu.co/*", "country": "Colombia"}
+{"name": "Universidad del Norte", "root_url": "*.uninorte.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de Pamplona", "root_url": "*.unipamplona.edu.co/*", "country": "Colombia"}
+{"name": "Instituto Universitario de La Paz", "root_url": "*.unipaz.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Piloto de Colombia", "root_url": "*.unipiloto.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de La Sabana", "root_url": "*.unisabana.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de Sucre", "root_url": "*.unisucre.edu.co/*", "country": "Colombia"}
+{"name": "Universidad del Valle del Cauca", "root_url": "*.univalle.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Pontificia Bolivariana", "root_url": "*.upb.edu.co/*", "country": "Colombia"}
+{"name": "Universidad del Rosario", "root_url": "*.urosario.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Santiago de Cali", "root_url": "*.usaca.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de San Buenaventura", "root_url": "*.usb.edu.co/*", "country": "Colombia"}
+{"name": "Universidad de San Buenaventura Medellin", "root_url": "*.usbmed.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Sergio Arboleda", "root_url": "*.usergioarboleda.edu.co/*", "country": "Colombia"}
+{"name": "Universidad Surcolombiana", "root_url": "*.usurcolombia.com/*", "country": "Colombia"}
+{"name": "Universidad del Tolima", "root_url": "*.ut.edu.co/*", "country": "Colombia"}
+{"name": "University Marien Ngouabi Brazzaville", "root_url": "*.univ-mngb.net/*", "country": "Congo"}
+{"name": "Universidad Fundepos Alma Mater", "root_url": "*.fundepos.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad Isaac Newton", "root_url": "*.isaacnewtoncr.com/*", "country": "Costa Rica"}
+{"name": "Universidad San Juan de la Cruz", "root_url": "*.sjdlc.com/*", "country": "Costa Rica"}
+{"name": "Universidad de Cartago Florencio del Castillo", "root_url": "*.uca.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad de Costa Rica", "root_url": "*.ucr.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad Hispanoamericana", "root_url": "*.uhispanoamericana.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad de La Salle", "root_url": "*.ulasalle.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad Latina de Costa Rica", "root_url": "*.ulatina.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad Libre de Costa Rica", "root_url": "*.ulicori.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad Metropolitana Castro Carazo", "root_url": "*.umca.net/*", "country": "Costa Rica"}
+{"name": "Universidad Nacional", "root_url": "*.una.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad Autonoma Monterrey", "root_url": "*.unam.ac.cr/*", "country": "Costa Rica"}
+{"name": "Universidad Estatal a Distancia", "root_url": "*.uned.ac.cr/*", "country": "Costa Rica"}

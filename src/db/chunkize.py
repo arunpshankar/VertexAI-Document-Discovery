@@ -1,8 +1,8 @@
-
 from src.config.logging import logger  
 from src.config.setup import * 
 import pandas as pd
 import os
+import json  # Import the json module to serialize dict objects
 
 
 def load_dataframe(file_path: str) -> pd.DataFrame:
@@ -24,30 +24,29 @@ def load_dataframe(file_path: str) -> pd.DataFrame:
         raise
 
 
-def save_chunk_urls(df_chunk: pd.DataFrame, filename: str) -> None:
+def save_chunk_rows_as_jsonl(df_chunk: pd.DataFrame, filename: str) -> None:
     """
-    Save root URLs from DataFrame chunk to a text file.
+    Save rows from DataFrame chunk to a JSON Lines file.
 
     Parameters:
-    - df_chunk (pd.DataFrame): The DataFrame chunk containing the URLs.
-    - filename (str): The output filename to save the URLs.
+    - df_chunk (pd.DataFrame): The DataFrame chunk containing the rows.
+    - filename (str): The output filename to save the rows in JSON Lines format.
 
     Returns:
     - None
     """
     try:
-        root_urls = df_chunk['root_url'].to_list()
-        with open(filename, 'w') as file:
-            for url in root_urls:
-                file.write(url + '\n')
-        logger.info(f"Root URLs successfully saved to {filename}")
+        with open(filename, 'w', encoding='utf-8') as file:
+            for _, row in df_chunk.iterrows():
+                file.write(json.dumps(row.to_dict(), ensure_ascii=False) + '\n')  # Serialize row to JSON and write
+        logger.info(f"Rows successfully saved to {filename} in JSON Lines format")
     except Exception as e:
-        logger.error(f"Failed to save chunk URLs: {e}")
+        logger.error(f"Failed to save chunk rows as JSON Lines: {e}")
 
 
 def process_dataframe_chunks(df: pd.DataFrame, output_dir: str, chunk_size: int = 50) -> None:
     """
-    Process DataFrame in chunks, saving each chunk's root URLs to separate files.
+    Process DataFrame in chunks, saving each chunk's rows to separate JSON Lines files.
 
     Parameters:
     - df (pd.DataFrame): The DataFrame to process.
@@ -60,8 +59,8 @@ def process_dataframe_chunks(df: pd.DataFrame, output_dir: str, chunk_size: int 
     os.makedirs(output_dir, exist_ok=True)
     for start_row in range(0, df.shape[0], chunk_size):
         df_chunk = df.iloc[start_row:start_row + chunk_size]
-        filename = f"{output_dir}/batch_{start_row + 1}_{start_row + df_chunk.shape[0]}.txt"
-        save_chunk_urls(df_chunk, filename)
+        filename = f"{output_dir}/batch_{start_row + 1}_{start_row + df_chunk.shape[0]}.jsonl"
+        save_chunk_rows_as_jsonl(df_chunk, filename)
 
 
 if __name__ == '__main__':

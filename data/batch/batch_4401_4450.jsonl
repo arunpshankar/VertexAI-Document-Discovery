@@ -1,0 +1,50 @@
+{"name": "Foundation University", "root_url": "*.foundationuniversity.com/*", "country": "Netherlands"}
+{"name": "Hanze University Groningen", "root_url": "*.hanze.nl/*", "country": "Netherlands"}
+{"name": "Hotelschool The Hague", "root_url": "*.hotelschool.nl/*", "country": "Netherlands"}
+{"name": "Hogeschool Rotterdam", "root_url": "*.hro.nl/*", "country": "Netherlands"}
+{"name": "Hogeschool Leiden", "root_url": "*.hsleiden.nl/*", "country": "Netherlands"}
+{"name": "Hogeschool Utrecht", "root_url": "*.hu.nl/*", "country": "Netherlands"}
+{"name": "Hogeschool van Amsterdam", "root_url": "*.hva.nl/*", "country": "Netherlands"}
+{"name": "Hogeschool Inholland", "root_url": "*.inholland.nl/*", "country": "Netherlands"}
+{"name": "Islamic University of Rotterdam", "root_url": "*.islamicuniversity.nl/*", "country": "Netherlands"}
+{"name": "Institute of Social Studies", "root_url": "*.iss.nl/*", "country": "Netherlands"}
+{"name": "Leiden University", "root_url": "*.leidenuniv.nl/*", "country": "Netherlands"}
+{"name": "NHTV Breda University of Professional Education", "root_url": "*.nhtv.nl*", "country": "Netherlands"}
+{"name": "Nyenrode Business University", "root_url": "*.nyenrode.nl/*", "country": "Netherlands"}
+{"name": "Open University of the Netherlands", "root_url": "*.ou.nl/*", "country": "Netherlands"}
+{"name": "Roosevelt Academy University College", "root_url": "*.roac.nl/*", "country": "Netherlands"}
+{"name": "University of Groningen", "root_url": "*.rug.nl/*", "country": "Netherlands"}
+{"name": "Radboud University", "root_url": "*.ru.nl/*", "country": "Netherlands"}
+{"name": "Saxion Universities", "root_url": "*.saxion.edu/*", "country": "Netherlands"}
+{"name": "Stenden University", "root_url": "*.stenden.com/*", "country": "Netherlands"}
+{"name": "Tilburg University", "root_url": "*.tilburguniversity.nl/*", "country": "Netherlands"}
+{"name": "Delft University of Technology", "root_url": "*.tudelft.nl/*", "country": "Netherlands"}
+{"name": "Eindhoven University of Technology", "root_url": "*.tue.nl/*", "country": "Netherlands"}
+{"name": "Maastricht University", "root_url": "*.unimaas.nl/*", "country": "Netherlands"}
+{"name": "University of Twente", "root_url": "*.utwente.nl/*", "country": "Netherlands"}
+{"name": "Utrecht University", "root_url": "*.uu.nl/*", "country": "Netherlands"}
+{"name": "University of Amsterdam", "root_url": "*.uva.nl/*", "country": "Netherlands"}
+{"name": "Vrije Universiteit Amsterdam", "root_url": "*.vu.nl/*", "country": "Netherlands"}
+{"name": "Wageningen University", "root_url": "*.wageningenuniversity.nl/*", "country": "Netherlands"}
+{"name": "Christelijke Hogeschool Windesheim", "root_url": "*.windesheim.nl/*", "country": "Netherlands"}
+{"name": "Wittenborg University", "root_url": "*.wittenborg.eu/*", "country": "Netherlands"}
+{"name": "Zuyd University", "root_url": "*.zuyd.nl/*", "country": "Netherlands"}
+{"name": "University of New Caledonia", "root_url": "*.ufp.nc/*", "country": "New Caledonia"}
+{"name": "University of Auckland", "root_url": "*.auckland.ac.nz/*", "country": "New Zealand"}
+{"name": "Auckland University of Technology", "root_url": "*.aut.ac.nz/*", "country": "New Zealand"}
+{"name": "University of Canterbury", "root_url": "*.canterbury.ac.nz/*", "country": "New Zealand"}
+{"name": "Christchurch Polytechnic Institute of Technology", "root_url": "*.cpit.ac.nz/*", "country": "New Zealand"}
+{"name": "Lincoln University", "root_url": "*.lincoln.ac.nz/*", "country": "New Zealand"}
+{"name": "Massey University", "root_url": "*.massey.ac.nz/*", "country": "New Zealand"}
+{"name": "Open Polytechnic", "root_url": "*.openpolytechnic.ac.nz/*", "country": "New Zealand"}
+{"name": "University of Otago", "root_url": "*.otago.ac.nz/*", "country": "New Zealand"}
+{"name": "Victoria University of Wellington", "root_url": "*.vuw.ac.nz/*", "country": "New Zealand"}
+{"name": "University of Waikato", "root_url": "*.waikato.ac.nz/*", "country": "New Zealand"}
+{"name": "Universidad Americana", "root_url": "*.uam.edu.ni/*", "country": "Nicaragua"}
+{"name": "Universidad Centroamericana", "root_url": "*.uca.edu.ni/*", "country": "Nicaragua"}
+{"name": "Universidad Ciencias Comerciales", "root_url": "*.ucc.edu.ni/*", "country": "Nicaragua"}
+{"name": "Universidad Hispanoamericana", "root_url": "*.uhispam.edu.ni/*", "country": "Nicaragua"}
+{"name": "Universidad Nacional Agraria", "root_url": "*.una.edu.ni/*", "country": "Nicaragua"}
+{"name": "Universidad Nacional Autonoma de Nicaragua", "root_url": "*.unan.edu.ni/*", "country": "Nicaragua"}
+{"name": "Universidad Iberoamericana de Ciencia y Tecnologia", "root_url": "*.unicit.edu.ni/*", "country": "Nicaragua"}
+{"name": "Universidad Nacional de Ingenieria", "root_url": "*.uni.edu.ni/*", "country": "Nicaragua"}

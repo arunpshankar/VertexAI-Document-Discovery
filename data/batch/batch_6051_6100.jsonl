@@ -1,0 +1,50 @@
+{"name": "University of Sunderland", "root_url": "*.sunderland.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Surrey", "root_url": "*.surrey.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Sussex", "root_url": "*.sussex.ac.uk/*", "country": "United Kingdom"}
+{"name": "Trinity College of Music", "root_url": "*.tcm.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Teesside", "root_url": "*.tees.ac.uk/*", "country": "United Kingdom"}
+{"name": "Trinity College Carmarthen", "root_url": "*.trinity-cm.ac.uk/*", "country": "United Kingdom"}
+{"name": "Thames Valley University", "root_url": "*.tvu.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Central Lancashire", "root_url": "*.uclan.ac.uk/*", "country": "United Kingdom"}
+{"name": "University Campus Suffolk", "root_url": "*.ucs.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of East Anglia", "root_url": "*.uea.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of East London", "root_url": "*.uel.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Kent at Canterbury", "root_url": "*.ukc.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Ulster", "root_url": "*.ulst.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of North London", "root_url": "*.unl.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Northumbria at Newcastle", "root_url": "*.unn.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Wales College of Medicine", "root_url": "*.uwcm.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Wales", "root_url": "*.wales.ac.uk/*", "country": "United Kingdom"}
+{"name": "Warnborough University", "root_url": "*.warnborough.edu/*", "country": "United Kingdom"}
+{"name": "University of Warwick", "root_url": "*.warwick.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Westminster", "root_url": "*.westminster.ac.uk/*", "country": "United Kingdom"}
+{"name": "William Gilbert College", "root_url": "*.williamgilbert.co.uk/*", "country": "United Kingdom"}
+{"name": "Wimbledon School of Art", "root_url": "*.wimbledon.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Wolverhampton", "root_url": "*.wlv.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of Worcester", "root_url": "*.worc.ac.uk/*", "country": "United Kingdom"}
+{"name": "University of York", "root_url": "*.york.ac.uk/*", "country": "United Kingdom"}
+{"name": "Universidad ORT Uruguay", "root_url": "*.ort.edu.uy/*", "country": "Uruguay"}
+{"name": "Universidad de Montevideo", "root_url": "*.um.edu.uy/*", "country": "Uruguay"}
+{"name": "Tashkent State Agrarian University", "root_url": "*.agrar.uz/*", "country": "Uzbekistan"}
+{"name": "Ferghana Politechnical Institute", "root_url": "*.ferpi.dem.ru/*", "country": "Uzbekistan"}
+{"name": "International Business School Kelajak ILMI", "root_url": "*.ibs.uz/*", "country": "Uzbekistan"}
+{"name": "Nukus State Teachers Training Institute", "root_url": "*.ndpi.uz/*", "country": "Uzbekistan"}
+{"name": "National University of Uzbekistan", "root_url": "*.nuu.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent Pharmaceutical Institute", "root_url": "*.pharmi.uz/*", "country": "Uzbekistan"}
+{"name": "Turin Polytechnic University In Tashkent", "root_url": "*.polito.uz/*", "country": "Uzbekistan"}
+{"name": "Kokand State Pedagogical Institute", "root_url": "*.qdpi.uz/*", "country": "Uzbekistan"}
+{"name": "Samarkand State University", "root_url": "*.samdu.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent State University of Oriental Studies", "root_url": "*.tashgiv.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent Automobile and Roads Institute", "root_url": "*.tayi.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent State University of Economics", "root_url": "*.tdiu.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent State Technical University", "root_url": "*.tdtu.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent School of Finance", "root_url": "*.tfi.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent Institute of Irrigation and Melioration", "root_url": "*.tiim.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent Islam University", "root_url": "*.tiu.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent Medical Academy", "root_url": "*.tma.uz/*", "country": "Uzbekistan"}
+{"name": "Tashkent University of Information Technologies", "root_url": "*.tuit.uz/*", "country": "Uzbekistan"}
+{"name": "University of World Economy and Diplomacy", "root_url": "*.uwed.uz/*", "country": "Uzbekistan"}
+{"name": "Uzbek State World Languages University", "root_url": "*.uzswlu.uz/*", "country": "Uzbekistan"}
+{"name": "Westminster International University in Tashkent", "root_url": "*.wiut.uz/*", "country": "Uzbekistan"}
+{"name": "Universidad del Zulia", "root_url": "*.luz.ve/index2.html*", "country": "Venezuela, Bolivarian Republic of"}
+{"name": "Universidad Bicentenaria de Aragua", "root_url": "*.uba.edu.ve/*", "country": "Venezuela, Bolivarian Republic of"}

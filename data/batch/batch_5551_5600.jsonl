@@ -1,0 +1,50 @@
+{"name": "University of Swaziland", "root_url": "*.uniswa.sz/*", "country": "Swaziland"}
+{"name": "Blekinge Institute of Technology", "root_url": "*.bth.se/*", "country": "Sweden"}
+{"name": "Chalmers University of Technology", "root_url": "*.chalmers.se/*", "country": "Sweden"}
+{"name": "Dalarna University College", "root_url": "*.du.se/*", "country": "Sweden"}
+{"name": "School of Design and Crafts", "root_url": "*.hdk.gu.se/*", "country": "Sweden"}
+{"name": "Gotland University College", "root_url": "*.hgo.se/*", "country": "Sweden"}
+{"name": "Halmstad University College", "root_url": "*.hh.se/*", "country": "Sweden"}
+{"name": "Stockholm School of Economics", "root_url": "*.hhs.se/*", "country": "Sweden"}
+{"name": "Kalmar University College", "root_url": "*.hik.se/*", "country": "Sweden"}
+{"name": "University College of Kristianstad", "root_url": "*.hkr.se/*", "country": "Sweden"}
+{"name": "Karlstad University", "root_url": "*.kau.se/*", "country": "Sweden"}
+{"name": "Karolinska Institute Stockholm", "root_url": "*.ki.se/*", "country": "Sweden"}
+{"name": "Royal lnstitute of Technology", "root_url": "*.kth.se/*", "country": "Sweden"}
+{"name": "Stockholm Institute of Education", "root_url": "*.lhs.se/*", "country": "Sweden"}
+{"name": "Lund University", "root_url": "*.lu.se/*", "country": "Sweden"}
+{"name": "Lulea University of Technology", "root_url": "*.luth.se/*", "country": "Sweden"}
+{"name": "Nordic School of Public Health", "root_url": "*.nhv.se/*", "country": "Sweden"}
+{"name": "Swedish University of Agricultural Sciences", "root_url": "*.slu.se/*", "country": "Sweden"}
+{"name": "Free University Stockholm", "root_url": "*.stockholm-fu.com/*", "country": "Sweden"}
+{"name": "Stockholm University", "root_url": "*.su.se/*", "country": "Sweden"}
+{"name": "Umea University", "root_url": "*.umu.se/*", "country": "Sweden"}
+{"name": "Uppsala University", "root_url": "*.uu.se/*", "country": "Sweden"}
+{"name": "World Maritime University", "root_url": "*.wmu.se/*", "country": "Sweden"}
+{"name": "Business and Hotel Management School", "root_url": "*.bhms.ch/*", "country": "Switzerland"}
+{"name": "Cubidor University Switzerland", "root_url": "*.cubidor.com/*", "country": "Switzerland"}
+{"name": "European University", "root_url": "*.euruni.edu/*", "country": "Switzerland"}
+{"name": "Franklin College Switzerland", "root_url": "*.fc.edu/*", "country": "Switzerland"}
+{"name": "University of Applied Sciences Aargau", "root_url": "*.fh-aargau.ch/*", "country": "Switzerland"}
+{"name": "University of Applied Sciences Chur", "root_url": "*.fh-htachur.ch/*", "country": "Switzerland"}
+{"name": "University of Applied Sciences Solothurn Northwestern Switzerland", "root_url": "*.fhso.ch/*", "country": "Switzerland"}
+{"name": "Geneva Business School", "root_url": "*.gbs-ge.ch/*", "country": "Switzerland"}
+{"name": "Glion Institute of Higher Education", "root_url": "*.glion.edu/*", "country": "Switzerland"}
+{"name": "International Hotel Management Institute", "root_url": "*.imi-luzern.com/*", "country": "Switzerland"}
+{"name": "International School of Business Management", "root_url": "*.isbm-school.com/*", "country": "Switzerland"}
+{"name": "International University in Geneva", "root_url": "*.iun.ch/*", "country": "Switzerland"}
+{"name": "Les Roches International School of Hotel Management", "root_url": "*.lesroches.edu/*", "country": "Switzerland"}
+{"name": "Fachhochschule Pur", "root_url": "*.phw.info/*", "country": "Switzerland"}
+{"name": "Swiss Management Center", "root_url": "*.swissmc.ch/*", "country": "Switzerland"}
+{"name": "University of Switzerland", "root_url": "*.swissu.org/*", "country": "Switzerland"}
+{"name": "Victoria University", "root_url": "*.victoria-uni.ch/*", "country": "Switzerland"}
+{"name": "Webster University Geneva", "root_url": "*.webster.ch/*", "country": "Switzerland"}
+{"name": "Zurich University of Applied Sciences Winterthur", "root_url": "*.zhwin.ch/*", "country": "Switzerland"}
+{"name": "Universita della Svizzera Italiana", "root_url": "*.usi.ch/*", "country": "Switzerland"}
+{"name": "University of Basel", "root_url": "*.unibas.ch/*", "country": "Switzerland"}
+{"name": "University of Fribourg", "root_url": "*.unifr.ch/*", "country": "Switzerland"}
+{"name": "University of Geneva", "root_url": "*.unige.ch/*", "country": "Switzerland"}
+{"name": "University of Zurich", "root_url": "*.uzh.ch/*", "country": "Switzerland"}
+{"name": "Insel Gruppe", "root_url": "*.insel.ch/*", "country": "Switzerland"}
+{"name": "University Hospital Zurich", "root_url": "*.unispital.ch/*", "country": "Switzerland"}
+{"name": "Arab European University", "root_url": "*.aiu.edu.sy/*", "country": "Syrian Arab Republic"}

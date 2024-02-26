@@ -1,0 +1,50 @@
+{"name": "Stamford International University", "root_url": "*.stamford.edu/*", "country": "Thailand"}
+{"name": "Sukhothai Thammathirat Open University", "root_url": "*.stou.ac.th/*", "country": "Thailand"}
+{"name": "Silpakorn University", "root_url": "*.su.ac.th/*", "country": "Thailand"}
+{"name": "Suranaree University of Technology", "root_url": "*.sut.ac.th/*", "country": "Thailand"}
+{"name": "Srinakharinwirot University", "root_url": "*.swu.ac.th/*", "country": "Thailand"}
+{"name": "Thaksin University", "root_url": "*.tsu.ac.th/*", "country": "Thailand"}
+{"name": "Thammasat University", "root_url": "*.tu.ac.th/*", "country": "Thailand"}
+{"name": "Ubonratchathani University", "root_url": "*.ubu.ac.th/*", "country": "Thailand"}
+{"name": "University of the Thai Chamber of Commerce", "root_url": "*.utcc.ac.th/*", "country": "Thailand"}
+{"name": "Vongchavalitkul University", "root_url": "*.vu.ac.th/*", "country": "Thailand"}
+{"name": "Walailak University", "root_url": "*.wu.ac.th/*", "country": "Thailand"}
+{"name": "Yonok University", "root_url": "*.yonok.ac.th/*", "country": "Thailand"}
+{"name": "University of the South Pacific Centre", "root_url": "*.usp.ac.fj/*", "country": "Tonga"}
+{"name": "University of the Southern Caribbean", "root_url": "*.usc.edu.tt/*", "country": "Trinidad and Tobago"}
+{"name": "University of Trinidad and Tobago", "root_url": "*.utt.edu.tt/*", "country": "Trinidad and Tobago"}
+{"name": "University of Aviation and Technology", "root_url": "*.unat.ens.tn/*", "country": "Tunisia"}
+{"name": "Adnan Menderes University", "root_url": "*.adu.edu.tr/*", "country": "Turkey"}
+{"name": "Ahi Evran University", "root_url": "*.ahievran.edu.tr/*", "country": "Turkey"}
+{"name": "Akdeniz University", "root_url": "*.akdeniz.edu.tr/*", "country": "Turkey"}
+{"name": "Afyon Kocatepe University", "root_url": "*.aku.edu.tr/*", "country": "Turkey"}
+{"name": "Anadolu University", "root_url": "*.anadolu.edu.tr/*", "country": "Turkey"}
+{"name": "Ankara University", "root_url": "*.ankara.edu.tr/*", "country": "Turkey"}
+{"name": "Istanbul Arel University", "root_url": "*.arel.edu.tr/*", "country": "Turkey"}
+{"name": "Atilim University", "root_url": "*.atilim.edu.tr/*", "country": "Turkey"}
+{"name": "Bahcesehir University", "root_url": "*.bahcesehir.edu.tr/*", "country": "Turkey"}
+{"name": "Balikesir University", "root_url": "*.balikesir.edu.tr/*", "country": "Turkey"}
+{"name": "Baskent University", "root_url": "*.baskent.edu.tr/*", "country": "Turkey"}
+{"name": "Celal Bayar University", "root_url": "*.bayar.edu.tr/*", "country": "Turkey"}
+{"name": "Beykent University", "root_url": "*.beykent.edu.tr/*", "country": "Turkey"}
+{"name": "Bilecik University", "root_url": "*.bilecik.edu.tr/*", "country": "Turkey"}
+{"name": "Istanbul Bilgi University", "root_url": "*.bilgi.edu.tr/*", "country": "Turkey"}
+{"name": "Bilkent University", "root_url": "*.bilkent.edu.tr/*", "country": "Turkey"}
+{"name": "Bogazici University", "root_url": "*.boun.edu.tr/*", "country": "Turkey"}
+{"name": "Cag University", "root_url": "*.cag.edu.tr/*", "country": "Turkey"}
+{"name": "Cankaya University", "root_url": "*.cankaya.edu.tr/*", "country": "Turkey"}
+{"name": "Cukurova University", "root_url": "*.cu.edu.tr/*", "country": "Turkey"}
+{"name": "Turkish Naval Academy", "root_url": "*.dho.edu.tr/*", "country": "Turkey"}
+{"name": "Dogus University", "root_url": "*.dogus.edu.tr/*", "country": "Turkey"}
+{"name": "Dumlupinar University", "root_url": "*.dumlupinar.edu.tr/*", "country": "Turkey"}
+{"name": "Ege University", "root_url": "*.ege.edu.tr/*", "country": "Turkey"}
+{"name": "Erciyes University", "root_url": "*.erciyes.edu.tr/*", "country": "Turkey"}
+{"name": "Tobb Economics and Technology University", "root_url": "*.etu.edu.tr/*", "country": "Turkey"}
+{"name": "Gaziantep University", "root_url": "*.gantep.edu.tr/*", "country": "Turkey"}
+{"name": "Gazi University Ankara", "root_url": "*.gazi.edu.tr/*", "country": "Turkey"}
+{"name": "Gaziosmanpasa University", "root_url": "*.gop.edu.tr/*", "country": "Turkey"}
+{"name": "Galatasaray University", "root_url": "*.gsu.edu.tr/*", "country": "Turkey"}
+{"name": "Gebze Institute of Technology", "root_url": "*.gyte.edu.tr/*", "country": "Turkey"}
+{"name": "Halic University", "root_url": "*.halic.edu.tr/*", "country": "Turkey"}
+{"name": "Harran University", "root_url": "*.harran.edu.tr/*", "country": "Turkey"}
+{"name": "Hacettepe University", "root_url": "*.hun.edu.tr/*", "country": "Turkey"}

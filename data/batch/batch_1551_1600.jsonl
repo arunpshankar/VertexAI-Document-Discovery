@@ -1,0 +1,50 @@
+{"name": "Conestoga College", "root_url": "*.conestogac.on.ca/*", "country": "Canada"}
+{"name": "College of the Rockies", "root_url": "*.cotr.bc.ca/*", "country": "Canada"}
+{"name": "Dalhousie University", "root_url": "*.dal.ca/*", "country": "Canada"}
+{"name": "Douglas College", "root_url": "*.douglas.bc.ca/*", "country": "Canada"}
+{"name": "Durham College", "root_url": "*.durhamc.on.ca/*", "country": "Canada"}
+{"name": "First Nations University of Canada", "root_url": "*.firstnationsuniversity.ca/*", "country": "Canada"}
+{"name": "George Brown College", "root_url": "*.gbrownc.on.ca/*", "country": "Canada"}
+{"name": "Humber College", "root_url": "*.humber.ca/*", "country": "Canada"}
+{"name": "Huron University College", "root_url": "*.huronuc.on.ca/*", "country": "Canada"}
+{"name": "Kingston College", "root_url": "*.kingston.edu/*", "country": "Canada"}
+{"name": "Kwantleen University College", "root_url": "*.kwantlen.bc.ca/*", "country": "Canada"}
+{"name": "Lakehead University", "root_url": "*.lakeheadu.ca/*", "country": "Canada"}
+{"name": "Langara College", "root_url": "*.langara.bc.ca/*", "country": "Canada"}
+{"name": "Lansbridge University", "root_url": "*.lansbridge.com/*", "country": "Canada"}
+{"name": "Laurentian University of Sudbury", "root_url": "*.laurentian.ca/*", "country": "Canada"}
+{"name": "MacEwan University", "root_url": "*.macewan.ca/*", "country": "Canada"}
+{"name": "Malaspina University College", "root_url": "*.mala.bc.ca/*", "country": "Canada"}
+{"name": "McGill University", "root_url": "*.mcgill.ca/*", "country": "Canada"}
+{"name": "McMaster University", "root_url": "*.mcmaster.ca/*", "country": "Canada"}
+{"name": "Mount Saint Vincent University", "root_url": "*.msvu.ca/*", "country": "Canada"}
+{"name": "Mount Allison University", "root_url": "*.mta.ca/*", "country": "Canada"}
+{"name": "Mount Royal College", "root_url": "*.mtroyal.ab.ca/*", "country": "Canada"}
+{"name": "Northern Alberta Institute of Technology", "root_url": "*.nait.ca/*", "country": "Canada"}
+{"name": "North Island College", "root_url": "*.nic.bc.ca/*", "country": "Canada"}
+{"name": "Nipissing University", "root_url": "*.nipissingu.ca/*", "country": "Canada"}
+{"name": "Northern Lights College", "root_url": "*.nlc.bc.ca/*", "country": "Canada"}
+{"name": "Nova Scotia Agricultural College", "root_url": "*.nsac.ns.ca/*", "country": "Canada"}
+{"name": "Nova Scotia College of Art and Design", "root_url": "*.nscad.ns.ca/*", "country": "Canada"}
+{"name": "Nicola Valley Institute of Technology", "root_url": "*.nvit.bc.ca/*", "country": "Canada"}
+{"name": "Ontario College of Art and Design", "root_url": "*.ocad.ca/*", "country": "Canada"}
+{"name": "Okanagan University College", "root_url": "*.okanagan.bc.ca/*", "country": "Canada"}
+{"name": "Dominican College of Philosophy and Theology", "root_url": "*.op.org/canada/college.htm*", "country": "Canada"}
+{"name": "Pacific International College", "root_url": "*.picollege.ca/*", "country": "Canada"}
+{"name": "Quest University", "root_url": "*.questu.ca/*", "country": "Canada"}
+{"name": "Redeemer College", "root_url": "*.redeemer.ca/*", "country": "Canada"}
+{"name": "Regent College", "root_url": "*.regent-college.edu/*", "country": "Canada"}
+{"name": "Royal Military College of Canada", "root_url": "*.rmc.ca/*", "country": "Canada"}
+{"name": "Royal Roads University", "root_url": "*.royalroads.ca/*", "country": "Canada"}
+{"name": "Ryerson Polytechnic University", "root_url": "*.ryerson.ca/*", "country": "Canada"}
+{"name": "Southern Alberta Institute of Technology", "root_url": "*.sait.ca/*", "country": "Canada"}
+{"name": "Luther College", "root_url": "*.saskweb.com/luthercollege/*", "country": "Canada"}
+{"name": "Sauder School of Business", "root_url": "*.sauder.ubc.ca/*", "country": "Canada"}
+{"name": "Selkirk College", "root_url": "*.selkirk.bc.ca/*", "country": "Canada"}
+{"name": "Seneca College", "root_url": "*.senecacollege.ca/*", "country": "Canada"}
+{"name": "Simon Fraser University", "root_url": "*.sfu.ca/*", "country": "Canada"}
+{"name": "Sheridan College", "root_url": "*.sheridancollege.ca/*", "country": "Canada"}
+{"name": "Saskatchewan Indian Federated College", "root_url": "*.sifc.edu/*", "country": "Canada"}
+{"name": "Trent University", "root_url": "*.trentu.ca/*", "country": "Canada"}
+{"name": "University of Trinity College", "root_url": "*.trinity.utoronto.ca/*", "country": "Canada"}
+{"name": "Thompson Rivers University", "root_url": "*.tru.ca/*", "country": "Canada"}

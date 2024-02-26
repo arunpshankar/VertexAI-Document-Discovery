@@ -1,0 +1,50 @@
+{"name": "Universitat de Vic", "root_url": "*.uvic.es/*", "country": "Spain"}
+{"name": "Universidad de Vigo", "root_url": "*.uvigo.es/*", "country": "Spain"}
+{"name": "Centro Universitario Villanueva", "root_url": "*.villanueva.edu/*", "country": "Spain"}
+{"name": "Arthur C Clarke Institute of Modern Technologies", "root_url": "*.accimt.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Buddhasravaka Bhikshu University", "root_url": "*.bbu.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Buddhist and Pali University of Sri Lanka", "root_url": "*.bpu.ac.lk/*", "country": "Sri Lanka"}
+{"name": "University of Colombo", "root_url": "*.cmb.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Eastern University of Sri Lanka", "root_url": "*.esn.ac.lk/*", "country": "Sri Lanka"}
+{"name": "University of Jaffna", "root_url": "*.jfn.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Kotelawala Defence University", "root_url": "*.kdu.ac.lk/*", "country": "Sri Lanka"}
+{"name": "University of Kelaniya", "root_url": "*.kln.ac.lk/*", "country": "Sri Lanka"}
+{"name": "University of Moratuwa", "root_url": "*.mrt.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Open University of Sri Lanka", "root_url": "*.ou.ac.lk/*", "country": "Sri Lanka"}
+{"name": "University of Peradeniya", "root_url": "*.pdn.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Rajarata University of Sri Lanka", "root_url": "*.rjt.ac.lk/*", "country": "Sri Lanka"}
+{"name": "University of Ruhuna", "root_url": "*.ruh.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Sabaragamuwa University of Sri Lanka", "root_url": "*.sab.ac.lk/*", "country": "Sri Lanka"}
+{"name": "South Eastern University of Sri Lanka", "root_url": "*.seu.ac.lk/*", "country": "Sri Lanka"}
+{"name": "University of Sri Jayawardenapura", "root_url": "*.sjp.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Sri Lanka Institute of Advanced Technical Education", "root_url": "*.sliate.net/*", "country": "Sri Lanka"}
+{"name": "Uva Wellassa University", "root_url": "*.uwu.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Wayamba University of Sri Lanka", "root_url": "*.wyb.ac.lk/*", "country": "Sri Lanka"}
+{"name": "Ahfad University for Women", "root_url": "*.ahfad.edu.sd/*", "country": "Sudan"}
+{"name": "Blue Nile University", "root_url": "*.bnu.edu.sd/*", "country": "Sudan"}
+{"name": "Canadian Sudanese College", "root_url": "*.ccs.edu.sd/*", "country": "Sudan"}
+{"name": "Dalanj University", "root_url": "*.dalanjuniversity.edu.sd/*", "country": "Sudan"}
+{"name": "University of El Imam El Mahdi University", "root_url": "*.elmahdi.edu.sd/*", "country": "Sudan"}
+{"name": "Al Fashir University", "root_url": "*.fashir.edu.sd/*", "country": "Sudan"}
+{"name": "University of Gadarif", "root_url": "*.gaduniv.edu.sd/*", "country": "Sudan"}
+{"name": "Gezira College of Technology", "root_url": "*.geziracollege.edu.sd/*", "country": "Sudan"}
+{"name": "Kassala University", "root_url": "*.kassalauni.edu.sd/*", "country": "Sudan"}
+{"name": "University of Kordofan", "root_url": "*.kordofan.edu.sd/*", "country": "Sudan"}
+{"name": "National College for Medical and Technical Studies", "root_url": "*.nc.edu.sd/*", "country": "Sudan"}
+{"name": "Neelain University", "root_url": "*.neelain.edu.sd/*", "country": "Sudan"}
+{"name": "Nile Valley University", "root_url": "*.nilevalley.edu.sd/*", "country": "Sudan"}
+{"name": "Omdurman Ahlia University", "root_url": "*.oau.edu.sd/*", "country": "Sudan"}
+{"name": "Omdurman Islamic University", "root_url": "*.oiu.edu.sd/*", "country": "Sudan"}
+{"name": "University of Holy Quran and Islamic Siences", "root_url": "*.quran-unv.edu.sd/*", "country": "Sudan"}
+{"name": "National Ribat University", "root_url": "*.ribat.edu.sd/*", "country": "Sudan"}
+{"name": "Red Sea University", "root_url": "*.rsu.edu.sd/*", "country": "Sudan"}
+{"name": "Sudan Academy of Sciences", "root_url": "*.sas-sd.net/*", "country": "Sudan"}
+{"name": "Sinnar University", "root_url": "*.sinnaruniv.edu.sd/*", "country": "Sudan"}
+{"name": "Sudan University for Science and Technology", "root_url": "*.sustech.edu/*", "country": "Sudan"}
+{"name": "Upper Nile University", "root_url": "*.unu.edu.sd/*", "country": "Sudan"}
+{"name": "University of Dongola", "root_url": "*.uofd.edu.sd/*", "country": "Sudan"}
+{"name": "University of Gezira", "root_url": "*.uofg.edu.sd/*", "country": "Sudan"}
+{"name": "University of Khartoum", "root_url": "*.uofk.edu/*", "country": "Sudan"}
+{"name": "Shendi University", "root_url": "*.ush.sd/*", "country": "Sudan"}
+{"name": "University of Science and Technology", "root_url": "*.ust.edu.sd/*", "country": "Sudan"}
+{"name": "Anton de Kom University", "root_url": "*.uvs.edu/*", "country": "Suriname"}
