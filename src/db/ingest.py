@@ -2,6 +2,10 @@ from src.config.logging import logger
 from google.cloud import storage
 from src.config.setup import *
 from datetime import datetime, timezone
+from typing import Generator, Dict, Any
+from typing import Optional
+import json 
+import re 
 
 
 def find_most_recent_folder(bucket_name: str):
@@ -28,7 +32,6 @@ def find_most_recent_folder(bucket_name: str):
                     most_recent_prefix = prefix
 
         if most_recent_prefix:
-            logger.info(f"Most recent folder: {most_recent_prefix} (Created: {most_recent_time})")
             return most_recent_prefix
         else:
             logger.info("No folders found in the bucket.")
@@ -38,28 +41,66 @@ def find_most_recent_folder(bucket_name: str):
         return None
 
 
-def list_blobs_with_prefix(bucket_name: str, prefix: str, delimiter=None):
-    """Lists all the blobs in the bucket with a given prefix."""
+def extract_batch_id(filepath: str) -> str:
+    """
+    Extracts the batch ID from a filepath.
+    
+    Args:
+    - filepath: The filepath in the format 'path/to/batch_XXXX_YYYY.jsonl'.
+    
+    Returns:
+    - The batch ID in the format 'XXXX_YYYY'.
+    """
+    # Split the filepath by '/' and pick the last element
+    filename = filepath.split('/')[-1]
+    # Split the filename by '_', pick the parts with numbers, and join them back
+    parts = filename.split('_')
+    batch_id = '_'.join(parts[1:3]).replace('.jsonl', '')
+    return batch_id
+
+def list_blobs_with_prefix(bucket_name: str, prefix: str, delimiter=None) -> Generator[storage.Blob, None, None]:
+    """Yield Google Cloud Storage Blob objects in the bucket with a given prefix."""
     storage_client = storage.Client()
     blobs = storage_client.list_blobs(bucket_name, prefix=prefix, delimiter=delimiter)
 
-    try:
-        for blob in blobs:
-            print(f"Blob: {blob.name}")
-            # Optionally, download or process the blob here
-    except Exception as e:
-        logger.error(f"Failed to list or process blobs: {e}")
+    for blob in blobs:
+        # Make sure we're only yielding .jsonl files
+        if blob.name.endswith('.jsonl'):
+            yield blob
+
+def parse_blob_contents(blob: storage.Blob, bucket_name: str) -> Generator[Dict[str, Any], None, None]:
+    """Yield dictionaries from a JSONL file represented by a Blob object."""
+    # Download the blob's contents as text
+    blob_as_text = blob.download_as_text()
+    for line in blob_as_text.splitlines():
+        try:
+            # Parse each line as JSON and yield the resulting dictionary
+            batch_id = extract_batch_id(blob.name)
+
+            info = json.loads(line)
+            info['batch_id'] = batch_id
+            info['cloud_storage_uri'] = f'gs://{bucket_name}/{blob.name}'
+            
+            yield info
+        except json.JSONDecodeError as e:
+            logger.error(f"Error parsing JSON from blob {blob.name}: {e}")
 
 
 if __name__ == '__main__':
-    
     bucket_name = 'vais-app-builder'
     most_recent_folder = find_most_recent_folder(bucket_name)
     if most_recent_folder:
         print(f"The most recent folder is: {most_recent_folder}")
     else:
         print("No recent folder found or error occurred.")
-    try:
-        list_blobs_with_prefix(bucket_name, most_recent_folder)
-    except Exception as e:
-        logger.error(f"Failed to list blobs in GCS bucket: {e}")
+    
+
+    # List blobs with the specified prefix
+    for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
+        # Parse each blob's contents
+        try:
+            for info in parse_blob_contents(blob, bucket_name):
+                print(info)
+        except Exception as e:
+            logger.error(f"Failed to parse blob {blob.name}: {e}")
+        break
