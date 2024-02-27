@@ -1,8 +1,8 @@
 from src.config.logging import logger  
 from src.config.setup import * 
 import pandas as pd
+import json 
 import os
-import json  # Import the json module to serialize dict objects
 
 
 def load_dataframe(file_path: str) -> pd.DataFrame:
@@ -64,7 +64,6 @@ def process_dataframe_chunks(df: pd.DataFrame, output_dir: str, chunk_size: int 
 
 
 if __name__ == '__main__':
-    # Example usage
     try:
         data_file_path = './data/universities.csv'
         output_directory = './data/batch'

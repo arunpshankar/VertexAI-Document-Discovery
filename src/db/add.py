@@ -3,18 +3,18 @@ from src.db.ingest import find_most_recent_folder
 from src.db.ingest import list_blobs_with_prefix
 from google.cloud.sql.connector import Connector
 from src.db.ingest import parse_blob_contents
-
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.engine.base import Engine
 from src.config.logging import logger
 from src.config.setup import config
 from datetime import datetime
+from typing import Optional
+from typing import Dict
+from typing import List
+from typing import Any
 import sqlalchemy
-
 import subprocess
 import requests
-
-from typing import Optional, Dict, Any, List
 
 
 # Initialize connection parameters
@@ -75,12 +75,7 @@ def create_university_urls_table(engine: Engine):
             url VARCHAR(255) NOT NULL,
             country VARCHAR(255) NOT NULL,
             batch_id VARCHAR(255) NOT NULL,
-            data_store_name VARCHAR(255) NOT NULL,
-            data_store_id VARCHAR(255) NOT NULL,
-            app_name VARCHAR(255) NOT NULL,
-            app_id VARCHAR(255) NOT NULL,
             created_at TIMESTAMP NOT NULL,
-            index_status VARCHAR(50) NOT NULL,
             cloud_storage_uri VARCHAR(255),
             PRIMARY KEY (university, country), -- Composite primary key for uniqueness
             INDEX idx_university (university)
@@ -107,10 +102,10 @@ def insert_university_url(engine: Engine, university_url_data: dict):
         university_url_data: A dictionary containing the column data for the new entry.
     """
     insert_stmt = sqlalchemy.text(
-        "INSERT INTO university_urls (university, url, country, batch_id, data_store_name, "
-        "data_store_id, app_name, app_id, created_at, index_status, cloud_storage_uri) "
-        "VALUES (:university, :url, :country, :batch_id, :data_store_name, :data_store_id, "
-        ":app_name, :app_id, :created_at, :index_status, :cloud_storage_uri)"
+        "INSERT INTO university_urls (university, url, country, batch_id, "
+        "created_at, cloud_storage_uri) "
+        "VALUES (:university, :url, :country, :batch_id, "
+        ":created_at, :cloud_storage_uri)"
     )
     try:
         with engine.connect() as connection:
@@ -178,6 +173,7 @@ def fetch_access_token() -> Optional[str]:
         logger.error(f"Failed to fetch access token: {e}")
         return None
 
+
 def create_headers() -> Dict[str, str]:
     """
     Create headers for the HTTP request including authorization.
@@ -226,6 +222,7 @@ def extract_batch_id(filepath: str) -> str:
     parts = filename.split('_')
     batch_id = '_'.join(parts[1:3]).replace('.jsonl', '')
     return batch_id
+
 
 def create_data_store(batch_id):
     url = f"https://discoveryengine.googleapis.com/v1alpha/projects/{config.PROJECT_ID}/locations/global/collections/default_collection/dataStores?dataStoreId={batch_id}"

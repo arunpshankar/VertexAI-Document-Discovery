@@ -1,11 +1,12 @@
 from src.config.logging import logger
 from google.cloud import storage
 from src.config.setup import *
-from datetime import datetime, timezone
-from typing import Generator, Dict, Any
-from typing import Optional
+from datetime import datetime
+from datetime import timezone
+from typing import Generator
+from typing import Dict
+from typing import Any 
 import json 
-import re 
 
 
 def find_most_recent_folder(bucket_name: str):
