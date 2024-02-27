@@ -1,9 +1,20 @@
+
+from src.db.ingest import find_most_recent_folder
+from src.db.ingest import list_blobs_with_prefix
 from google.cloud.sql.connector import Connector
+from src.db.ingest import parse_blob_contents
+
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.engine.base import Engine
 from src.config.logging import logger
 from src.config.setup import config
+from datetime import datetime
 import sqlalchemy
+
+import subprocess
+import requests
+
+from typing import Optional, Dict, Any, List
 
 
 # Initialize connection parameters
@@ -112,24 +123,160 @@ def insert_university_url(engine: Engine, university_url_data: dict):
         raise
 
 
-if __name__ == "__main__":
+
+def fetch_access_token() -> Optional[str]:
+    """
+    Fetch an access token for authentication.
+    Returns:
+        Optional[str]: The fetched access token if successful, None otherwise.
+    """
+    cmd = ["gcloud", "auth", "print-access-token"]
     try:
-        engine = create_engine_with_connection_pool()
-        create_university_urls_table(engine)
-        # Inserting data into university_urls table
-        stanford_university_entry = {
-            "university": "Stanford University",
-            "url": "https://stanford.edu",
-            "country": "USA",
-            "batch_id": "1",
-            "data_store_name": "Academic Records",
-            "data_store_id": "DS-002",
-            "app_name": "Campus Navigator",
-            "app_id": "APP-002",
-            "created_at": "2024-02-26 00:00:00",
-            "index_status": "Indexed",
-            "cloud_storage_uri": "gs://university_bucket/stanford_path"
+        token = subprocess.check_output(cmd).decode('utf-8').strip()
+        return token
+    except subprocess.CalledProcessError as e:
+        logger.error(f"Failed to fetch access token: {e}")
+        return None
+
+def create_headers() -> Dict[str, str]:
+    """
+    Create headers for the HTTP request including authorization.
+    Returns:
+        Dict[str, str]: Headers for the request.
+    """
+    token = fetch_access_token()
+    if token is None:
+        raise RuntimeError("Failed to obtain access token")
+    return {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+        "X-Goog-User-Project": config.PROJECT_ID
+    }
+
+
+def create_request_body(uri_patterns: List[str], data_store_id: str) -> Dict[str, Any]:
+    """
+    Create the request body for target sites batch creation.
+    Args:
+        uri_patterns (List[str]): A list of URI patterns to include in the target sites.
+    Returns:
+        Dict[str, Any]: The constructed request body.
+    """
+    requests_list = [{
+        'parent': f'projects/{config.PROJECT_ID}/locations/global/collections/default_collection/dataStores/{data_store_id}/siteSearchEngine',
+        'targetSite': {'providedUriPattern': uri_pattern, 'type': 'INCLUDE', 'exactMatch': True}
+    } for uri_pattern in uri_patterns]
+    
+    return {"requests": requests_list}
+
+
+def extract_batch_id(filepath: str) -> str:
+    """
+    Extracts the batch ID from a filepath.
+    
+    Args:
+    - filepath: The filepath in the format 'path/to/batch_XXXX_YYYY.jsonl'.
+    
+    Returns:
+    - The batch ID in the format 'XXXX_YYYY'.
+    """
+    # Split the filepath by '/' and pick the last element
+    filename = filepath.split('/')[-1]
+    # Split the filename by '_', pick the parts with numbers, and join them back
+    parts = filename.split('_')
+    batch_id = '_'.join(parts[1:3]).replace('.jsonl', '')
+    return batch_id
+
+def create_data_store(batch_id):
+    url = f"https://discoveryengine.googleapis.com/v1alpha/projects/{config.PROJECT_ID}/locations/global/collections/default_collection/dataStores?dataStoreId={batch_id}"
+    headers = {
+            "Authorization": f"Bearer {fetch_access_token()}",
+            "Content-Type": "application/json",
+            "X-Goog-User-Project": config.PROJECT_ID
         }
-        insert_university_url(engine, stanford_university_entry)
-    except Exception as e:
-        logger.error(f"An error occurred: {e}")
+    data = {
+        'displayName': 'spider_man',
+        'industryVertical': 'GENERIC',
+        'solutionTypes': ['SOLUTION_TYPE_SEARCH'],
+        'contentConfig': 'PUBLIC_WEBSITE',
+        'searchTier': 'STANDARD'
+        
+    }
+    response = requests.post(url, headers=headers, json=data)
+    return response
+
+
+
+
+
+def post_target_sites(data: Dict[str, Any], data_store_id: str) -> Optional[Dict[str, Any]]:
+    """
+    Post target sites to the specified URL using the Google Cloud Discovery Engine API.
+    Args:
+        data (Dict[str, Any]): The data to be posted as JSON.
+    Returns:
+        Optional[Dict[str, Any]]: The JSON response if successful, None otherwise.
+    """
+    url = f"https://discoveryengine.googleapis.com/v1alpha/projects/{config.PROJECT_ID}/locations/global/collections/default_collection/dataStores/{data_store_id}/siteSearchEngine/targetSites:batchCreate"
+    headers = create_headers()
+    
+    
+    response = requests.post(url, headers=headers, json=data)
+    #response.raise_for_status()  # This will raise an HTTPError if the response was an error
+    return response.json()
+
+engine = create_engine_with_connection_pool()
+create_university_urls_table(engine)
+# Inserting data into university_urls table
+
+bucket_name = 'vais-app-builder'
+most_recent_folder = find_most_recent_folder(bucket_name)
+
+for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
+    # Parse each blob's contents
+    site_urls = []
+    batch_id = None
+
+    for info in parse_blob_contents(blob, bucket_name):
+        batch_id = info['batch_id']
+        university = info['name']
+        url = info['root_url']
+        country = info['country']
+        data_store_name = batch_id
+        data_store_id = batch_id
+        app_name = batch_id
+        app_id = batch_id
+        created_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        index_status = 'Indexed'
+        cloud_storage_uri = info['cloud_storage_uri']
+        site_urls.append(url)
+
+        entry = {
+            "university": university,
+            "url": url,
+            "country": country,
+            "batch_id": batch_id,
+            "data_store_name": data_store_name,
+            "data_store_id": data_store_id,
+            "app_name": app_name,
+            "app_id": app_id,
+            "created_at": created_at,
+            "index_status": "Indexed",
+            "cloud_storage_uri": cloud_storage_uri
+        }
+
+
+        #insert_university_url(engine, entry)
+    
+    response = create_data_store(batch_id)
+    print(response)
+
+    data = create_request_body(site_urls, batch_id)
+    #print(data)
+
+    response = post_target_sites(data, batch_id)
+    if response is not None:
+        logger.info(f"Successfully posted target sites: {response}")
+    else:
+        logger.error("Failed to post target sites.")
+    break

@@ -58,6 +58,7 @@ def extract_batch_id(filepath: str) -> str:
     batch_id = '_'.join(parts[1:3]).replace('.jsonl', '')
     return batch_id
 
+
 def list_blobs_with_prefix(bucket_name: str, prefix: str, delimiter=None) -> Generator[storage.Blob, None, None]:
     """Yield Google Cloud Storage Blob objects in the bucket with a given prefix."""
     storage_client = storage.Client()
@@ -67,6 +68,7 @@ def list_blobs_with_prefix(bucket_name: str, prefix: str, delimiter=None) -> Gen
         # Make sure we're only yielding .jsonl files
         if blob.name.endswith('.jsonl'):
             yield blob
+            
 
 def parse_blob_contents(blob: storage.Blob, bucket_name: str) -> Generator[Dict[str, Any], None, None]:
     """Yield dictionaries from a JSONL file represented by a Blob object."""
