@@ -206,9 +206,6 @@ def create_data_store(batch_id):
     return response
 
 
-
-
-
 def post_target_sites(data: Dict[str, Any], data_store_id: str) -> Optional[Dict[str, Any]]:
     """
     Post target sites to the specified URL using the Google Cloud Discovery Engine API.
@@ -272,7 +269,7 @@ for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
     print(response)
 
     data = create_request_body(site_urls, batch_id)
-    #print(data)
+    print(data)
 
     response = post_target_sites(data, batch_id)
     if response is not None:
