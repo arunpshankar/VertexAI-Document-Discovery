@@ -123,6 +123,46 @@ def insert_university_url(engine: Engine, university_url_data: dict):
         raise
 
 
+def create_search_app(data_store_id) -> Optional[Dict[str, Any]]:
+    """
+    Creates a site search application using the Google Discovery Engine API.
+
+    This function constructs a POST request to the Google Discovery Engine API to create a
+    new site search app for a list of 50 company urls webpages 
+
+    Returns:
+        dict: A dictionary containing the response data from the API if the request is successful.
+        None: If the request fails.
+    """
+    url = f"https://discoveryengine.googleapis.com/v1alpha/projects/{config.PROJECT_ID}/locations/global/collections/default_collection/engines?engineId={data_store_id}"
+
+    # Headers for the request
+    headers = {
+        "Authorization": f"Bearer {config.ACCESS_TOKEN}",
+        "Content-Type": "application/json",
+        "X-Goog-User-Project": config.PROJECT_ID
+    }
+
+    # Request payload
+    data = {
+        "displayName": f'moodys_site_search_{data_store_id}',
+        "dataStoreIds": [data_store_id],
+        "solutionType": "SOLUTION_TYPE_SEARCH", 
+        "searchEngineConfig": {
+            "searchTier": "SEARCH_TIER_ENTERPRISE",
+            
+        }
+    }
+
+    try:
+        response = requests.post(url, headers=headers, json=data)
+        response.raise_for_status()  # Raises an HTTPError if the HTTP request returned an unsuccessful status code
+        logger.info(f"Site search app created successfully for batch {data_store_id}.")
+        return response.json()
+    except requests.exceptions.RequestException as e:
+        logger.error(f"Failed to create document search app: {str(e)}")
+        return None
+    
 
 def fetch_access_token() -> Optional[str]:
     """
@@ -195,7 +235,7 @@ def create_data_store(batch_id):
             "X-Goog-User-Project": config.PROJECT_ID
         }
     data = {
-        'displayName': 'spider_man',
+        'displayName': f'moodys_site_search_{batch_id}',
         'industryVertical': 'GENERIC',
         'solutionTypes': ['SOLUTION_TYPE_SEARCH'],
         'contentConfig': 'PUBLIC_WEBSITE',
@@ -222,12 +262,20 @@ def post_target_sites(data: Dict[str, Any], data_store_id: str) -> Optional[Dict
     #response.raise_for_status()  # This will raise an HTTPError if the response was an error
     return response.json()
 
+
+def chunk_data(data, size):
+    """Yield successive size chunks from data."""
+    for i in range(0, len(data), size):
+        yield data[i:i + size]
+
+
 engine = create_engine_with_connection_pool()
 create_university_urls_table(engine)
 # Inserting data into university_urls table
 
 bucket_name = 'vais-app-builder'
 most_recent_folder = find_most_recent_folder(bucket_name)
+
 
 for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
     # Parse each blob's contents
@@ -266,14 +314,22 @@ for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
         #insert_university_url(engine, entry)
     
     response = create_data_store(batch_id)
-    print(response)
+    #print(response)
 
     data = create_request_body(site_urls, batch_id)
-    print(data)
-
-    response = post_target_sites(data, batch_id)
-    if response is not None:
-        logger.info(f"Successfully posted target sites: {response}")
-    else:
-        logger.error("Failed to post target sites.")
+    
+    # Example usage
+    chunks = list(chunk_data(data['requests'], 20))
+    for chunk in chunks:
+        #print(chunk)
+        print('_' * 100)
+    
+        batch_data = {'requests': chunk}
+        response = post_target_sites(batch_data, batch_id)
+        if response is not None:
+            logger.info(f"Successfully posted target sites: {response}")
+        else:
+            logger.error("Failed to post target sites.")
+    response = create_search_app(batch_id)
+    logger.info(response)
     break
