@@ -61,13 +61,3 @@ def process_dataframe_chunks(df: pd.DataFrame, output_dir: str, chunk_size: int 
         df_chunk = df.iloc[start_row:start_row + chunk_size]
         filename = f"{output_dir}/batch_{start_row + 1}_{start_row + df_chunk.shape[0]}.jsonl"
         save_chunk_rows_as_jsonl(df_chunk, filename)
-
-
-if __name__ == '__main__':
-    try:
-        data_file_path = './data/universities.csv'
-        output_directory = './data/batch'
-        df = load_dataframe(data_file_path)
-        process_dataframe_chunks(df, output_directory)
-    except Exception as e:
-        logger.error(f"An error occurred during processing: {e}")
