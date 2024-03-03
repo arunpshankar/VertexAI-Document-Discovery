@@ -1,50 +1,50 @@
-{"name": "American University of Afghanistan", "root_url": "*.auaf.edu.af/*", "country": "Afghanistan"}
-{"name": "Badakhshan University", "root_url": "*.badakhshan.edu.af/*", "country": "Afghanistan"}
-{"name": "Balkh University", "root_url": "*.ba.edu.af/*", "country": "Afghanistan"}
-{"name": "Baghlan University", "root_url": "*.baghlan.edu.af/*", "country": "Afghanistan"}
-{"name": "Bakhtar University", "root_url": "*.bakhtar.edu.af/*", "country": "Afghanistan"}
-{"name": "Bost University", "root_url": "*.bost.edu.af/*", "country": "Afghanistan"}
-{"name": "Bamiyan University", "root_url": "*.bu.edu.af/*", "country": "Afghanistan"}
-{"name": "Dawat University", "root_url": "*.dawat.edu.af/*", "country": "Afghanistan"}
-{"name": "Dunya Institute of Higher Education", "root_url": "*.dunya.edu.af/*", "country": "Afghanistan"}
-{"name": "Faryab Higher Education Institute", "root_url": "*.faryab.edu.af/*", "country": "Afghanistan"}
-{"name": "Ghazni University", "root_url": "*.gu.edu.af/*", "country": "Afghanistan"}
-{"name": "Herat University", "root_url": "*.hu.edu.af/*", "country": "Afghanistan"}
-{"name": "Ibn Sina University", "root_url": "*.ibnesina.edu.af/*", "country": "Afghanistan"}
-{"name": "Jawzjan University", "root_url": "*.ju.edu.af/*", "country": "Afghanistan"}
-{"name": "Kaboora Institute of Higher Education", "root_url": "*.kaboora.edu.af/*", "country": "Afghanistan"}
-{"name": "Kabul Health Sciences Institute", "root_url": "*.kabuli.edu.af/*", "country": "Afghanistan"}
-{"name": "Kandahar University", "root_url": "*.kan.edu.af/*", "country": "Afghanistan"}
-{"name": "Kardan University", "root_url": "*.kardan.edu.af/*", "country": "Afghanistan"}
-{"name": "Karwan Institute of Higher Education", "root_url": "*.karwan.edu.af/*", "country": "Afghanistan"}
-{"name": "Kateb Institute of Higher Education", "root_url": "*.kateb.edu.af/*", "country": "Afghanistan"}
-{"name": "Kabul Education University", "root_url": "*.keu.edu.af/*", "country": "Afghanistan"}
-{"name": "Kabul Medical University", "root_url": "*.kmu.edu.af/*", "country": "Afghanistan"}
-{"name": "Kabul University", "root_url": "*.ku.edu.af/*", "country": "Afghanistan"}
-{"name": "Khurasan University", "root_url": "*.kumsa.net/*", "country": "Afghanistan"}
-{"name": "Maryam Institute of Higher Education", "root_url": "*.maryam.edu.af/*", "country": "Afghanistan"}
-{"name": "National Military Academy of Afghanistan", "root_url": "*.nmaa.edu.af/*", "country": "Afghanistan"}
-{"name": "Nangarhar University", "root_url": "*.nu.edu.af/*", "country": "Afghanistan"}
-{"name": "Pamir University", "root_url": "*.pamir.edu.af/*", "country": "Afghanistan"}
-{"name": "Parwan University", "root_url": "*.parwan.edu.af/*", "country": "Afghanistan"}
-{"name": "Polytechnical University of Kabul", "root_url": "*.polytechnic-kabul.org/*", "country": "Afghanistan"}
-{"name": "Paktia University", "root_url": "*.pu.edu.af/*", "country": "Afghanistan"}
-{"name": "Rana Institute of Higher Education", "root_url": "*.rihs.edu.af/*", "country": "Afghanistan"}
-{"name": "Sadat Institute of Higher Education", "root_url": "*.sadat.edu.af/*", "country": "Afghanistan"}
-{"name": "Salam University", "root_url": "*.salam.edu.af/*", "country": "Afghanistan"}
-{"name": "Shaikh Zayed University", "root_url": "*.szu.edu.af/*", "country": "Afghanistan"}
-{"name": "Takhar University", "root_url": "*.tu.edu.af/*", "country": "Afghanistan"}
-{"name": "Academy of Sports and Physical Training", "root_url": "*.aefs.edu.al/*", "country": "Albania"}
-{"name": "Academy of Arts", "root_url": "*.akademiaearteve.edu.al/*", "country": "Albania"}
-{"name": "Beder University", "root_url": "*.beder.edu.al/*", "country": "Albania"}
-{"name": "Epoka University", "root_url": "*.epoka.edu.al/*", "country": "Albania"}
-{"name": "American University of Tirana", "root_url": "*.uat.edu.al/*", "country": "Albania"}
-{"name": "Agricultural University of Tirane", "root_url": "*.ubt.edu.al/*", "country": "Albania"}
-{"name": "University of Tirana", "root_url": "*.unitir.edu.al/*", "country": "Albania"}
-{"name": "University of New York Tirana", "root_url": "*.unyt.edu.al/*", "country": "Albania"}
-{"name": "Polytechnic University of Tirane", "root_url": "*.upt.al/*", "country": "Albania"}
-{"name": "Universite des Sciences Islamiques de Constantine", "root_url": "*.univ-emir.dz/*", "country": "Algeria"}
-{"name": "Centre Universitaire de Jijel", "root_url": "*.univ-jijel.dz/*", "country": "Algeria"}
-{"name": "Centre Universitaire de Tebessa", "root_url": "*.univ-tebessa.dz/*", "country": "Algeria"}
-{"name": "Centre Universitaire de Tiaret", "root_url": "*.univ-tiaret.dz/*", "country": "Algeria"}
-{"name": "University of Andorra", "root_url": "*.uda.ad/*", "country": "Andorra"}
+{"entity": "American University of Afghanistan", "url": "*.auaf.edu.af/*", "country": "Afghanistan"}
+{"entity": "Badakhshan University", "url": "*.badakhshan.edu.af/*", "country": "Afghanistan"}
+{"entity": "Balkh University", "url": "*.ba.edu.af/*", "country": "Afghanistan"}
+{"entity": "Baghlan University", "url": "*.baghlan.edu.af/*", "country": "Afghanistan"}
+{"entity": "Bakhtar University", "url": "*.bakhtar.edu.af/*", "country": "Afghanistan"}
+{"entity": "Bost University", "url": "*.bost.edu.af/*", "country": "Afghanistan"}
+{"entity": "Bamiyan University", "url": "*.bu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Dawat University", "url": "*.dawat.edu.af/*", "country": "Afghanistan"}
+{"entity": "Dunya Institute of Higher Education", "url": "*.dunya.edu.af/*", "country": "Afghanistan"}
+{"entity": "Faryab Higher Education Institute", "url": "*.faryab.edu.af/*", "country": "Afghanistan"}
+{"entity": "Ghazni University", "url": "*.gu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Herat University", "url": "*.hu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Ibn Sina University", "url": "*.ibnesina.edu.af/*", "country": "Afghanistan"}
+{"entity": "Jawzjan University", "url": "*.ju.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kaboora Institute of Higher Education", "url": "*.kaboora.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kabul Health Sciences Institute", "url": "*.kabuli.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kandahar University", "url": "*.kan.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kardan University", "url": "*.kardan.edu.af/*", "country": "Afghanistan"}
+{"entity": "Karwan Institute of Higher Education", "url": "*.karwan.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kateb Institute of Higher Education", "url": "*.kateb.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kabul Education University", "url": "*.keu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kabul Medical University", "url": "*.kmu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Kabul University", "url": "*.ku.edu.af/*", "country": "Afghanistan"}
+{"entity": "Khurasan University", "url": "*.kumsa.net/*", "country": "Afghanistan"}
+{"entity": "Maryam Institute of Higher Education", "url": "*.maryam.edu.af/*", "country": "Afghanistan"}
+{"entity": "National Military Academy of Afghanistan", "url": "*.nmaa.edu.af/*", "country": "Afghanistan"}
+{"entity": "Nangarhar University", "url": "*.nu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Pamir University", "url": "*.pamir.edu.af/*", "country": "Afghanistan"}
+{"entity": "Parwan University", "url": "*.parwan.edu.af/*", "country": "Afghanistan"}
+{"entity": "Polytechnical University of Kabul", "url": "*.polytechnic-kabul.org/*", "country": "Afghanistan"}
+{"entity": "Paktia University", "url": "*.pu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Rana Institute of Higher Education", "url": "*.rihs.edu.af/*", "country": "Afghanistan"}
+{"entity": "Sadat Institute of Higher Education", "url": "*.sadat.edu.af/*", "country": "Afghanistan"}
+{"entity": "Salam University", "url": "*.salam.edu.af/*", "country": "Afghanistan"}
+{"entity": "Shaikh Zayed University", "url": "*.szu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Takhar University", "url": "*.tu.edu.af/*", "country": "Afghanistan"}
+{"entity": "Academy of Sports and Physical Training", "url": "*.aefs.edu.al/*", "country": "Albania"}
+{"entity": "Academy of Arts", "url": "*.akademiaearteve.edu.al/*", "country": "Albania"}
+{"entity": "Beder University", "url": "*.beder.edu.al/*", "country": "Albania"}
+{"entity": "Epoka University", "url": "*.epoka.edu.al/*", "country": "Albania"}
+{"entity": "American University of Tirana", "url": "*.uat.edu.al/*", "country": "Albania"}
+{"entity": "Agricultural University of Tirane", "url": "*.ubt.edu.al/*", "country": "Albania"}
+{"entity": "University of Tirana", "url": "*.unitir.edu.al/*", "country": "Albania"}
+{"entity": "University of New York Tirana", "url": "*.unyt.edu.al/*", "country": "Albania"}
+{"entity": "Polytechnic University of Tirane", "url": "*.upt.al/*", "country": "Albania"}
+{"entity": "Universite des Sciences Islamiques de Constantine", "url": "*.univ-emir.dz/*", "country": "Algeria"}
+{"entity": "Centre Universitaire de Jijel", "url": "*.univ-jijel.dz/*", "country": "Algeria"}
+{"entity": "Centre Universitaire de Tebessa", "url": "*.univ-tebessa.dz/*", "country": "Algeria"}
+{"entity": "Centre Universitaire de Tiaret", "url": "*.univ-tiaret.dz/*", "country": "Algeria"}
+{"entity": "University of Andorra", "url": "*.uda.ad/*", "country": "Andorra"}

@@ -1,50 +1,50 @@
-{"name": "Central Academy of  Fine Art", "root_url": "*.cafa.edu.cn/*", "country": "China"}
-{"name": "Civil Aviation University of China", "root_url": "*.cauc.edu/*", "country": "China"}
-{"name": "China Agricultural University", "root_url": "*.cau.edu.cn/*", "country": "China"}
-{"name": "Central China Normal University", "root_url": "*.ccnu.edu.cn/*", "country": "China"}
-{"name": "Changchun University of Technology", "root_url": "*.ccut.edu.cn/*", "country": "China"}
-{"name": "Chengdu University", "root_url": "*.cdu.edu.cn/*", "country": "China"}
-{"name": "Chengdu University of Traditional Chinese Medicine", "root_url": "*.cdutcm.edu.cn/*", "country": "China"}
-{"name": "Chengdu University of Technology", "root_url": "*.cdut.edu.cn/*", "country": "China"}
-{"name": "China Foreign Affairs University", "root_url": "*.cfau.edu.cn/*", "country": "China"}
-{"name": "China Academy of Art", "root_url": "*.chinaacademyofart.com/*", "country": "China"}
-{"name": "Chengdu Institute of Sichuan International Studies University", "root_url": "*.cisisu.edu.cn/*", "country": "China"}
-{"name": "China Medical University Shenyang", "root_url": "*.cmu.edu.cn/*", "country": "China"}
-{"name": "Changchun Teachers College", "root_url": "*.cncnc.edu.cn/*", "country": "China"}
-{"name": "Capital Normal University", "root_url": "*.cnu.edu.cn/*", "country": "China"}
-{"name": "China Pharmaceutical University Nanjing", "root_url": "*.cpu.edu.cn/*", "country": "China"}
-{"name": "Capital University of Medical Sciences", "root_url": "*.cpums.edu.cn/*", "country": "China"}
-{"name": "Chongqing Education College", "root_url": "*.cqec.net.cn/*", "country": "China"}
-{"name": "Chongqing Vocational College of Public Transportation", "root_url": "*.cqgyzy.com/*", "country": "China"}
-{"name": "Chongqing Medical University", "root_url": "*.cqmu.edu.cn/*", "country": "China"}
-{"name": "Chongqing Normal University", "root_url": "*.cqnu.edu.cn/*", "country": "China"}
-{"name": "Chongqing Telecommunication College", "root_url": "*.cqtcedu.com/*", "country": "China"}
-{"name": "Chongqing University of Communications", "root_url": "*.cquc.edu.cn/*", "country": "China"}
-{"name": "Chongqing University", "root_url": "*.cqu.edu.cn/*", "country": "China"}
-{"name": "Chongqing University of Post and Telecommunications", "root_url": "*.cqupt.edu.cn/*", "country": "China"}
-{"name": "Chongqing University of Science and Technology", "root_url": "*.cqust.cn/*", "country": "China"}
-{"name": "Chongqing University of Technology", "root_url": "*.cqut.edu.cn/*", "country": "China"}
-{"name": "Chongqing Wenli University", "root_url": "*.cqwu.net/*", "country": "China"}
-{"name": "Central Radio and TV University", "root_url": "*.crtvu.edu.cn/*", "country": "China"}
-{"name": "Central South Forestry University", "root_url": "*.csfu.edu.cn/*", "country": "China"}
-{"name": "Changsha Railway University", "root_url": "*.csru.edu.cn/*", "country": "China"}
-{"name": "Central South University", "root_url": "*.csu.edu.cn/*", "country": "China"}
-{"name": "Changsha University of Electric Power", "root_url": "*.csuep.edu.cn/*", "country": "China"}
-{"name": "Chongqing Technology and Business University", "root_url": "*.ctbu.edu.cn/*", "country": "China"}
-{"name": "China Three Gorges University", "root_url": "*.ctgu.edu.cn/*", "country": "China"}
-{"name": "China USA Business University", "root_url": "*.cubu.edu/*", "country": "China"}
-{"name": "Communication University of China", "root_url": "*.cuc.edu.cn/*", "country": "China"}
-{"name": "Capital University of Economics and Business", "root_url": "*.cueb.edu.cn/*", "country": "China"}
-{"name": "Central University of Finance and Economics", "root_url": "*.cufe.edu.cn/*", "country": "China"}
-{"name": "China University of Geoscience Beijing", "root_url": "*.cugb.edu.cn/*", "country": "China"}
-{"name": "China University of Geosciences Wuhan", "root_url": "*.cug.edu.cn/*", "country": "China"}
-{"name": "Central University for Nationalities", "root_url": "*.cun.edu.cn/*", "country": "China"}
-{"name": "China University of Political Science and Law", "root_url": "*.cupl.edu.cn/*", "country": "China"}
-{"name": "China youth college for political science", "root_url": "*.cyc.edu.cn/*", "country": "China"}
-{"name": "Dalian Medical University", "root_url": "*.dlmedu.edu.cn/*", "country": "China"}
-{"name": "Dalian Martime University", "root_url": "*.dlmu.edu.cn/*", "country": "China"}
-{"name": "Dalian University", "root_url": "*.dlu.edu.cn/*", "country": "China"}
-{"name": "Dalian University of Foreign Language", "root_url": "*.dlufl.edu.cn/*", "country": "China"}
-{"name": "Dalian University of Technology", "root_url": "*.dlut.edu.cn/*", "country": "China"}
-{"name": "Dongbei University of Finance And Economics", "root_url": "*.dufe.edu.cn/*", "country": "China"}
-{"name": "East China Jiao Tong University", "root_url": "*.ecjtu.jx.cn/*", "country": "China"}
+{"entity": "Central Academy of  Fine Art", "url": "*.cafa.edu.cn/*", "country": "China"}
+{"entity": "Civil Aviation University of China", "url": "*.cauc.edu/*", "country": "China"}
+{"entity": "China Agricultural University", "url": "*.cau.edu.cn/*", "country": "China"}
+{"entity": "Central China Normal University", "url": "*.ccnu.edu.cn/*", "country": "China"}
+{"entity": "Changchun University of Technology", "url": "*.ccut.edu.cn/*", "country": "China"}
+{"entity": "Chengdu University", "url": "*.cdu.edu.cn/*", "country": "China"}
+{"entity": "Chengdu University of Traditional Chinese Medicine", "url": "*.cdutcm.edu.cn/*", "country": "China"}
+{"entity": "Chengdu University of Technology", "url": "*.cdut.edu.cn/*", "country": "China"}
+{"entity": "China Foreign Affairs University", "url": "*.cfau.edu.cn/*", "country": "China"}
+{"entity": "China Academy of Art", "url": "*.chinaacademyofart.com/*", "country": "China"}
+{"entity": "Chengdu Institute of Sichuan International Studies University", "url": "*.cisisu.edu.cn/*", "country": "China"}
+{"entity": "China Medical University Shenyang", "url": "*.cmu.edu.cn/*", "country": "China"}
+{"entity": "Changchun Teachers College", "url": "*.cncnc.edu.cn/*", "country": "China"}
+{"entity": "Capital Normal University", "url": "*.cnu.edu.cn/*", "country": "China"}
+{"entity": "China Pharmaceutical University Nanjing", "url": "*.cpu.edu.cn/*", "country": "China"}
+{"entity": "Capital University of Medical Sciences", "url": "*.cpums.edu.cn/*", "country": "China"}
+{"entity": "Chongqing Education College", "url": "*.cqec.net.cn/*", "country": "China"}
+{"entity": "Chongqing Vocational College of Public Transportation", "url": "*.cqgyzy.com/*", "country": "China"}
+{"entity": "Chongqing Medical University", "url": "*.cqmu.edu.cn/*", "country": "China"}
+{"entity": "Chongqing Normal University", "url": "*.cqnu.edu.cn/*", "country": "China"}
+{"entity": "Chongqing Telecommunication College", "url": "*.cqtcedu.com/*", "country": "China"}
+{"entity": "Chongqing University of Communications", "url": "*.cquc.edu.cn/*", "country": "China"}
+{"entity": "Chongqing University", "url": "*.cqu.edu.cn/*", "country": "China"}
+{"entity": "Chongqing University of Post and Telecommunications", "url": "*.cqupt.edu.cn/*", "country": "China"}
+{"entity": "Chongqing University of Science and Technology", "url": "*.cqust.cn/*", "country": "China"}
+{"entity": "Chongqing University of Technology", "url": "*.cqut.edu.cn/*", "country": "China"}
+{"entity": "Chongqing Wenli University", "url": "*.cqwu.net/*", "country": "China"}
+{"entity": "Central Radio and TV University", "url": "*.crtvu.edu.cn/*", "country": "China"}
+{"entity": "Central South Forestry University", "url": "*.csfu.edu.cn/*", "country": "China"}
+{"entity": "Changsha Railway University", "url": "*.csru.edu.cn/*", "country": "China"}
+{"entity": "Central South University", "url": "*.csu.edu.cn/*", "country": "China"}
+{"entity": "Changsha University of Electric Power", "url": "*.csuep.edu.cn/*", "country": "China"}
+{"entity": "Chongqing Technology and Business University", "url": "*.ctbu.edu.cn/*", "country": "China"}
+{"entity": "China Three Gorges University", "url": "*.ctgu.edu.cn/*", "country": "China"}
+{"entity": "China USA Business University", "url": "*.cubu.edu/*", "country": "China"}
+{"entity": "Communication University of China", "url": "*.cuc.edu.cn/*", "country": "China"}
+{"entity": "Capital University of Economics and Business", "url": "*.cueb.edu.cn/*", "country": "China"}
+{"entity": "Central University of Finance and Economics", "url": "*.cufe.edu.cn/*", "country": "China"}
+{"entity": "China University of Geoscience Beijing", "url": "*.cugb.edu.cn/*", "country": "China"}
+{"entity": "China University of Geosciences Wuhan", "url": "*.cug.edu.cn/*", "country": "China"}
+{"entity": "Central University for Nationalities", "url": "*.cun.edu.cn/*", "country": "China"}
+{"entity": "China University of Political Science and Law", "url": "*.cupl.edu.cn/*", "country": "China"}
+{"entity": "China youth college for political science", "url": "*.cyc.edu.cn/*", "country": "China"}
+{"entity": "Dalian Medical University", "url": "*.dlmedu.edu.cn/*", "country": "China"}
+{"entity": "Dalian Martime University", "url": "*.dlmu.edu.cn/*", "country": "China"}
+{"entity": "Dalian University", "url": "*.dlu.edu.cn/*", "country": "China"}
+{"entity": "Dalian University of Foreign Language", "url": "*.dlufl.edu.cn/*", "country": "China"}
+{"entity": "Dalian University of Technology", "url": "*.dlut.edu.cn/*", "country": "China"}
+{"entity": "Dongbei University of Finance And Economics", "url": "*.dufe.edu.cn/*", "country": "China"}
+{"entity": "East China Jiao Tong University", "url": "*.ecjtu.jx.cn/*", "country": "China"}

@@ -1,50 +1,50 @@
-{"name": "Lynchburg College", "root_url": "*.lynchburg.edu/*", "country": "United States"}
-{"name": "Lyndon State College", "root_url": "*.lyndonstate.edu/*", "country": "United States"}
-{"name": "Lyon College", "root_url": "*.lyon.edu/*", "country": "United States"}
-{"name": "Macalester College", "root_url": "*.macalester.edu/*", "country": "United States"}
-{"name": "Maharishi University of Management", "root_url": "*.mum.edu/*", "country": "United States"}
-{"name": "Malone College", "root_url": "*.malone.edu/*", "country": "United States"}
-{"name": "Manhattan College", "root_url": "*.manhattan.edu/*", "country": "United States"}
-{"name": "Mansfield University of Pennsylvania", "root_url": "*.mansfield.edu/*", "country": "United States"}
-{"name": "Maricopa County Community College District", "root_url": "*.maricopa.edu/*", "country": "United States"}
-{"name": "Marietta College", "root_url": "*.marietta.edu/*", "country": "United States"}
-{"name": "Marist College", "root_url": "*.marist.edu/*", "country": "United States"}
-{"name": "Marlboro College", "root_url": "*.marlboro.edu/*", "country": "United States"}
-{"name": "Marquette University", "root_url": "*.marquette.edu/*", "country": "United States"}
-{"name": "Marshall University", "root_url": "*.marshall.edu/*", "country": "United States"}
-{"name": "Mary Baldwin College", "root_url": "*.mbc.edu/*", "country": "United States"}
-{"name": "Marymount Manhattan College", "root_url": "*.mmm.edu/*", "country": "United States"}
-{"name": "Marymount University", "root_url": "*.marymount.edu/*", "country": "United States"}
-{"name": "Mary Washington College", "root_url": "*.mwc.edu/*", "country": "United States"}
-{"name": "Massachusetts Institute of Technology", "root_url": "*.web.mit.edu/*", "country": "United States"}
-{"name": "McDaniel College", "root_url": "*.mcdaniel.edu*", "country": "United States"}
-{"name": "McMurry University", "root_url": "*.www2.mcm.edu/*", "country": "United States"}
-{"name": "McNeese State University", "root_url": "*.mcneese.edu/*", "country": "United States"}
-{"name": "Medical College of Georgia", "root_url": "*.mcg.edu/*", "country": "United States"}
-{"name": "Medical College of Wisconsin", "root_url": "*.mcw.edu/*", "country": "United States"}
-{"name": "Mercer County Community College", "root_url": "*.mccc.edu/*", "country": "United States"}
-{"name": "Mercer University", "root_url": "*.mercer.edu/*", "country": "United States"}
-{"name": "Mercy College", "root_url": "*.mercy.edu/*", "country": "United States"}
-{"name": "Mercyhurst College", "root_url": "*.mercyhurst.edu/*", "country": "United States"}
-{"name": "Meredith College", "root_url": "*.meredith.edu/*", "country": "United States"}
-{"name": "Messiah College", "root_url": "*.messiah.edu/*", "country": "United States"}
-{"name": "Metropolitan State College of Denver", "root_url": "*.msudenver.edu/*", "country": "United States"}
-{"name": "Metropolitan State University", "root_url": "*.metrostate.edu/*", "country": "United States"}
-{"name": "Miami University of Ohio", "root_url": "*.miamioh.edu/*", "country": "United States"}
-{"name": "Michigan State University", "root_url": "*.msu.edu/*", "country": "United States"}
-{"name": "Michigan Technological University", "root_url": "*.mtu.edu/*", "country": "United States"}
-{"name": "Middlebury College", "root_url": "*.middlebury.edu/*", "country": "United States"}
-{"name": "Middle Georgia State College", "root_url": "*.mga.edu/*", "country": "United States"}
-{"name": "Middle Tennessee State University", "root_url": "*.mtsu.edu/*", "country": "United States"}
-{"name": "Midwestern State University", "root_url": "*.mwsu.edu/*", "country": "United States"}
-{"name": "Millersville University of Pennsylvania", "root_url": "*.millersville.edu/*", "country": "United States"}
-{"name": "Milligan College", "root_url": "*.milligan.edu/*", "country": "United States"}
-{"name": "Millikin University", "root_url": "*.millikin.edu/*", "country": "United States"}
-{"name": "Millsaps College", "root_url": "*.millsaps.edu/*", "country": "United States"}
-{"name": "Milwaukee School of Engineering", "root_url": "*.msoe.edu/*", "country": "United States"}
-{"name": "Minneapolis College of Art and Design", "root_url": "*.mcad.edu/*", "country": "United States"}
-{"name": "Minnesota State University Moorhead", "root_url": "*.mnstate.edu/*", "country": "United States"}
-{"name": "Minot State University", "root_url": "*.minotstateu.edu/*", "country": "United States"}
-{"name": "Mississippi College", "root_url": "*.mc.edu/*", "country": "United States"}
-{"name": "Mississippi State University", "root_url": "*.msstate.edu/*", "country": "United States"}
-{"name": "Mississippi University for Women", "root_url": "*.muw.edu/*", "country": "United States"}
+{"entity": "Lynchburg College", "url": "*.lynchburg.edu/*", "country": "United States"}
+{"entity": "Lyndon State College", "url": "*.lyndonstate.edu/*", "country": "United States"}
+{"entity": "Lyon College", "url": "*.lyon.edu/*", "country": "United States"}
+{"entity": "Macalester College", "url": "*.macalester.edu/*", "country": "United States"}
+{"entity": "Maharishi University of Management", "url": "*.mum.edu/*", "country": "United States"}
+{"entity": "Malone College", "url": "*.malone.edu/*", "country": "United States"}
+{"entity": "Manhattan College", "url": "*.manhattan.edu/*", "country": "United States"}
+{"entity": "Mansfield University of Pennsylvania", "url": "*.mansfield.edu/*", "country": "United States"}
+{"entity": "Maricopa County Community College District", "url": "*.maricopa.edu/*", "country": "United States"}
+{"entity": "Marietta College", "url": "*.marietta.edu/*", "country": "United States"}
+{"entity": "Marist College", "url": "*.marist.edu/*", "country": "United States"}
+{"entity": "Marlboro College", "url": "*.marlboro.edu/*", "country": "United States"}
+{"entity": "Marquette University", "url": "*.marquette.edu/*", "country": "United States"}
+{"entity": "Marshall University", "url": "*.marshall.edu/*", "country": "United States"}
+{"entity": "Mary Baldwin College", "url": "*.mbc.edu/*", "country": "United States"}
+{"entity": "Marymount Manhattan College", "url": "*.mmm.edu/*", "country": "United States"}
+{"entity": "Marymount University", "url": "*.marymount.edu/*", "country": "United States"}
+{"entity": "Mary Washington College", "url": "*.mwc.edu/*", "country": "United States"}
+{"entity": "Massachusetts Institute of Technology", "url": "*.web.mit.edu/*", "country": "United States"}
+{"entity": "McDaniel College", "url": "*.mcdaniel.edu*", "country": "United States"}
+{"entity": "McMurry University", "url": "*.www2.mcm.edu/*", "country": "United States"}
+{"entity": "McNeese State University", "url": "*.mcneese.edu/*", "country": "United States"}
+{"entity": "Medical College of Georgia", "url": "*.mcg.edu/*", "country": "United States"}
+{"entity": "Medical College of Wisconsin", "url": "*.mcw.edu/*", "country": "United States"}
+{"entity": "Mercer County Community College", "url": "*.mccc.edu/*", "country": "United States"}
+{"entity": "Mercer University", "url": "*.mercer.edu/*", "country": "United States"}
+{"entity": "Mercy College", "url": "*.mercy.edu/*", "country": "United States"}
+{"entity": "Mercyhurst College", "url": "*.mercyhurst.edu/*", "country": "United States"}
+{"entity": "Meredith College", "url": "*.meredith.edu/*", "country": "United States"}
+{"entity": "Messiah College", "url": "*.messiah.edu/*", "country": "United States"}
+{"entity": "Metropolitan State College of Denver", "url": "*.msudenver.edu/*", "country": "United States"}
+{"entity": "Metropolitan State University", "url": "*.metrostate.edu/*", "country": "United States"}
+{"entity": "Miami University of Ohio", "url": "*.miamioh.edu/*", "country": "United States"}
+{"entity": "Michigan State University", "url": "*.msu.edu/*", "country": "United States"}
+{"entity": "Michigan Technological University", "url": "*.mtu.edu/*", "country": "United States"}
+{"entity": "Middlebury College", "url": "*.middlebury.edu/*", "country": "United States"}
+{"entity": "Middle Georgia State College", "url": "*.mga.edu/*", "country": "United States"}
+{"entity": "Middle Tennessee State University", "url": "*.mtsu.edu/*", "country": "United States"}
+{"entity": "Midwestern State University", "url": "*.mwsu.edu/*", "country": "United States"}
+{"entity": "Millersville University of Pennsylvania", "url": "*.millersville.edu/*", "country": "United States"}
+{"entity": "Milligan College", "url": "*.milligan.edu/*", "country": "United States"}
+{"entity": "Millikin University", "url": "*.millikin.edu/*", "country": "United States"}
+{"entity": "Millsaps College", "url": "*.millsaps.edu/*", "country": "United States"}
+{"entity": "Milwaukee School of Engineering", "url": "*.msoe.edu/*", "country": "United States"}
+{"entity": "Minneapolis College of Art and Design", "url": "*.mcad.edu/*", "country": "United States"}
+{"entity": "Minnesota State University Moorhead", "url": "*.mnstate.edu/*", "country": "United States"}
+{"entity": "Minot State University", "url": "*.minotstateu.edu/*", "country": "United States"}
+{"entity": "Mississippi College", "url": "*.mc.edu/*", "country": "United States"}
+{"entity": "Mississippi State University", "url": "*.msstate.edu/*", "country": "United States"}
+{"entity": "Mississippi University for Women", "url": "*.muw.edu/*", "country": "United States"}

@@ -1,50 +1,50 @@
-{"name": "Open University of Tanzania", "root_url": "*.out.ac.tz/*", "country": "Tanzania, United Republic of"}
-{"name": "Sebatian Kolowa University College", "root_url": "*.sekuco.org/*", "country": "Tanzania, United Republic of"}
-{"name": "Sokoine University of Agriculture", "root_url": "*.suanet.ac.tz/*", "country": "Tanzania, United Republic of"}
-{"name": "University of Dodoma", "root_url": "*.udom.ac.tz/*", "country": "Tanzania, United Republic of"}
-{"name": "University of Dar Es Salaam", "root_url": "*.udsm.ac.tz/*", "country": "Tanzania, United Republic of"}
-{"name": "Asian Institute of Technology", "root_url": "*.ait.ac.th/*", "country": "Thailand"}
-{"name": "Phranakhon Si Ayutthaya Rajabhat University", "root_url": "*.aru.ac.th/*", "country": "Thailand"}
-{"name": "Asian University of Science and Technology", "root_url": "*.asianust.ac.th/*", "country": "Thailand"}
-{"name": "Assumption University of Thailand", "root_url": "*.au.edu/*", "country": "Thailand"}
-{"name": "Bangkok University", "root_url": "*.bu.ac.th/*", "country": "Thailand"}
-{"name": "Burapha University", "root_url": "*.buu.ac.th/*", "country": "Thailand"}
-{"name": "Chiang Mai University", "root_url": "*.chiangmai.ac.th/*", "country": "Thailand"}
-{"name": "Chulalongkorn University", "root_url": "*.chula.ac.th/*", "country": "Thailand"}
-{"name": "Chiang Mai Rajabhat University", "root_url": "*.cmru.ac.th/*", "country": "Thailand"}
-{"name": "Chiang Mai Vocational College", "root_url": "*.cmvc.ac.th/*", "country": "Thailand"}
-{"name": "Chaopraya University", "root_url": "*.cpu.ac.th/*", "country": "Thailand"}
-{"name": "Dhurakijpundit University", "root_url": "*.dpu.ac.th/*", "country": "Thailand"}
-{"name": "Suan Dusit Rajabhat University", "root_url": "*.dusit.ac.th/*", "country": "Thailand"}
-{"name": "Eastern Asia University", "root_url": "*.eau.ac.th/*", "country": "Thailand"}
-{"name": "Engineering Faculty of Asian University", "root_url": "*.efau.org/*", "country": "Thailand"}
-{"name": "Huachiew Chalermprakiet University", "root_url": "*.hcu.ac.th/*", "country": "Thailand"}
-{"name": "Hatyai University", "root_url": "*.hu.ac.th/*", "country": "Thailand"}
-{"name": "International Buddhist College", "root_url": "*.ibc.ac.th/*", "country": "Thailand"}
-{"name": "Kasem Bundit University", "root_url": "*.kbu.ac.th/*", "country": "Thailand"}
-{"name": "Khon Kaen University", "root_url": "*.kku.ac.th/*", "country": "Thailand"}
-{"name": "Krirk University", "root_url": "*.krirk.ac.th/*", "country": "Thailand"}
-{"name": "Kasetsart University", "root_url": "*.ku.ac.th/*", "country": "Thailand"}
-{"name": "Lampang Vocational College", "root_url": "*.lampangvc.ac.th/*", "country": "Thailand"}
-{"name": "Lamphun College of Agriculture and Technology", "root_url": "*.lcat.ac.th/*", "country": "Thailand"}
-{"name": "Lampang College of Commerce and Technology", "root_url": "*.lcct.ac.th/*", "country": "Thailand"}
-{"name": "Lampang Rajabhat University", "root_url": "*.lpru.ac.th/*", "country": "Thailand"}
-{"name": "Mahidol University", "root_url": "*.mahidol.ac.th/*", "country": "Thailand"}
-{"name": "Mahamakut Buddhist University", "root_url": "*.mbu.ac.th/*", "country": "Thailand"}
-{"name": "Mahachulalongkorn Buddhist University", "root_url": "*.mcu.ac.th/*", "country": "Thailand"}
-{"name": "Mae Fah Luang University", "root_url": "*.mfu.ac.th/*", "country": "Thailand"}
-{"name": "Maejo University", "root_url": "*.mju.ac.th/*", "country": "Thailand"}
-{"name": "Mahasarakham University", "root_url": "*.msu.ac.th/*", "country": "Thailand"}
-{"name": "Mahidol University International College", "root_url": "*.muic.mahidol.ac.th/*", "country": "Thailand"}
-{"name": "Mahanakorn University of Technology", "root_url": "*.mut.ac.th/*", "country": "Thailand"}
-{"name": "National Institute of Development Administration", "root_url": "*.nida.ac.th/*", "country": "Thailand"}
-{"name": "Nivadhana University", "root_url": "*.nivadhana.ac.th/*", "country": "Thailand"}
-{"name": "Naresuan University", "root_url": "*.nu.ac.th/*", "country": "Thailand"}
-{"name": "Payap University Chaiang Mai", "root_url": "*.payap.ac.th/*", "country": "Thailand"}
-{"name": "Prince of Songkla University", "root_url": "*.psu.ac.th/*", "country": "Thailand"}
-{"name": "Pathumthani University", "root_url": "*.ptu.ac.th/*", "country": "Thailand"}
-{"name": "Rangsit University", "root_url": "*.rsu.ac.th/*", "country": "Thailand"}
-{"name": "Ramkhamhaeng University", "root_url": "*.ru.ac.th/*", "country": "Thailand"}
-{"name": "Shinawatra University", "root_url": "*.shinawatra.ac.th/*", "country": "Thailand"}
-{"name": "Siam University", "root_url": "*.siam.edu/*", "country": "Thailand"}
-{"name": "Sripatum University", "root_url": "*.spu.ac.th/*", "country": "Thailand"}
+{"entity": "Open University of Tanzania", "url": "*.out.ac.tz/*", "country": "Tanzania, United Republic of"}
+{"entity": "Sebatian Kolowa University College", "url": "*.sekuco.org/*", "country": "Tanzania, United Republic of"}
+{"entity": "Sokoine University of Agriculture", "url": "*.suanet.ac.tz/*", "country": "Tanzania, United Republic of"}
+{"entity": "University of Dodoma", "url": "*.udom.ac.tz/*", "country": "Tanzania, United Republic of"}
+{"entity": "University of Dar Es Salaam", "url": "*.udsm.ac.tz/*", "country": "Tanzania, United Republic of"}
+{"entity": "Asian Institute of Technology", "url": "*.ait.ac.th/*", "country": "Thailand"}
+{"entity": "Phranakhon Si Ayutthaya Rajabhat University", "url": "*.aru.ac.th/*", "country": "Thailand"}
+{"entity": "Asian University of Science and Technology", "url": "*.asianust.ac.th/*", "country": "Thailand"}
+{"entity": "Assumption University of Thailand", "url": "*.au.edu/*", "country": "Thailand"}
+{"entity": "Bangkok University", "url": "*.bu.ac.th/*", "country": "Thailand"}
+{"entity": "Burapha University", "url": "*.buu.ac.th/*", "country": "Thailand"}
+{"entity": "Chiang Mai University", "url": "*.chiangmai.ac.th/*", "country": "Thailand"}
+{"entity": "Chulalongkorn University", "url": "*.chula.ac.th/*", "country": "Thailand"}
+{"entity": "Chiang Mai Rajabhat University", "url": "*.cmru.ac.th/*", "country": "Thailand"}
+{"entity": "Chiang Mai Vocational College", "url": "*.cmvc.ac.th/*", "country": "Thailand"}
+{"entity": "Chaopraya University", "url": "*.cpu.ac.th/*", "country": "Thailand"}
+{"entity": "Dhurakijpundit University", "url": "*.dpu.ac.th/*", "country": "Thailand"}
+{"entity": "Suan Dusit Rajabhat University", "url": "*.dusit.ac.th/*", "country": "Thailand"}
+{"entity": "Eastern Asia University", "url": "*.eau.ac.th/*", "country": "Thailand"}
+{"entity": "Engineering Faculty of Asian University", "url": "*.efau.org/*", "country": "Thailand"}
+{"entity": "Huachiew Chalermprakiet University", "url": "*.hcu.ac.th/*", "country": "Thailand"}
+{"entity": "Hatyai University", "url": "*.hu.ac.th/*", "country": "Thailand"}
+{"entity": "International Buddhist College", "url": "*.ibc.ac.th/*", "country": "Thailand"}
+{"entity": "Kasem Bundit University", "url": "*.kbu.ac.th/*", "country": "Thailand"}
+{"entity": "Khon Kaen University", "url": "*.kku.ac.th/*", "country": "Thailand"}
+{"entity": "Krirk University", "url": "*.krirk.ac.th/*", "country": "Thailand"}
+{"entity": "Kasetsart University", "url": "*.ku.ac.th/*", "country": "Thailand"}
+{"entity": "Lampang Vocational College", "url": "*.lampangvc.ac.th/*", "country": "Thailand"}
+{"entity": "Lamphun College of Agriculture and Technology", "url": "*.lcat.ac.th/*", "country": "Thailand"}
+{"entity": "Lampang College of Commerce and Technology", "url": "*.lcct.ac.th/*", "country": "Thailand"}
+{"entity": "Lampang Rajabhat University", "url": "*.lpru.ac.th/*", "country": "Thailand"}
+{"entity": "Mahidol University", "url": "*.mahidol.ac.th/*", "country": "Thailand"}
+{"entity": "Mahamakut Buddhist University", "url": "*.mbu.ac.th/*", "country": "Thailand"}
+{"entity": "Mahachulalongkorn Buddhist University", "url": "*.mcu.ac.th/*", "country": "Thailand"}
+{"entity": "Mae Fah Luang University", "url": "*.mfu.ac.th/*", "country": "Thailand"}
+{"entity": "Maejo University", "url": "*.mju.ac.th/*", "country": "Thailand"}
+{"entity": "Mahasarakham University", "url": "*.msu.ac.th/*", "country": "Thailand"}
+{"entity": "Mahidol University International College", "url": "*.muic.mahidol.ac.th/*", "country": "Thailand"}
+{"entity": "Mahanakorn University of Technology", "url": "*.mut.ac.th/*", "country": "Thailand"}
+{"entity": "National Institute of Development Administration", "url": "*.nida.ac.th/*", "country": "Thailand"}
+{"entity": "Nivadhana University", "url": "*.nivadhana.ac.th/*", "country": "Thailand"}
+{"entity": "Naresuan University", "url": "*.nu.ac.th/*", "country": "Thailand"}
+{"entity": "Payap University Chaiang Mai", "url": "*.payap.ac.th/*", "country": "Thailand"}
+{"entity": "Prince of Songkla University", "url": "*.psu.ac.th/*", "country": "Thailand"}
+{"entity": "Pathumthani University", "url": "*.ptu.ac.th/*", "country": "Thailand"}
+{"entity": "Rangsit University", "url": "*.rsu.ac.th/*", "country": "Thailand"}
+{"entity": "Ramkhamhaeng University", "url": "*.ru.ac.th/*", "country": "Thailand"}
+{"entity": "Shinawatra University", "url": "*.shinawatra.ac.th/*", "country": "Thailand"}
+{"entity": "Siam University", "url": "*.siam.edu/*", "country": "Thailand"}
+{"entity": "Sripatum University", "url": "*.spu.ac.th/*", "country": "Thailand"}

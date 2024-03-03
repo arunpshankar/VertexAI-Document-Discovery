@@ -1,50 +1,50 @@
-{"name": "Sogang University", "root_url": "*.sogang.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Soongsil University", "root_url": "*.soongsil.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seoul Teological University", "root_url": "*.stu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sunchon National University", "root_url": "*.sunchon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sungkyul University", "root_url": "*.sungkyul.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sunmoon University", "root_url": "*.sunmoon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Suwon University", "root_url": "*.suwon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Suwon Catholic University", "root_url": "*.suwoncatholic.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sahmyook University", "root_url": "*.syu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Taegu University", "root_url": "*.taegu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Taegu National University of Education", "root_url": "*.taegu-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Taejon University", "root_url": "*.taejon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Taeshin Christian University", "root_url": "*.taeshin.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Tongmyung University of Information Technology", "root_url": "*.tit.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Taejon National University of Technology", "root_url": "*.tnut.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Ulsan University", "root_url": "*.ulsan.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seoul City University", "root_url": "*.uos.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "University of Science and Technology", "root_url": "*.ust.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Wonkwang University", "root_url": "*.wonkwang.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Woosuk University", "root_url": "*.woosuk.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Yeungnam University", "root_url": "*.yeungnam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Yonsei University", "root_url": "*.yonsei.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Yosu National University", "root_url": "*.yosu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "American University In Kosovo", "root_url": "*.aukonline.org/*", "country": "Kosovo"}
-{"name": "ILIRIA College", "root_url": "*.uiliria.org/*", "country": "Kosovo"}
-{"name": "University of Prishtina", "root_url": "*.uni-pr.edu/*", "country": "Kosovo"}
-{"name": "Universum College", "root_url": "*.universum-ks.org/*", "country": "Kosovo"}
-{"name": "Australlian College of Kuwait", "root_url": "*.ackonline.com/*", "country": "Kuwait"}
-{"name": "American University of Kuwait", "root_url": "*.auk.edu.kw/*", "country": "Kuwait"}
-{"name": "American University of Middle East", "root_url": "*.aum.edu.kw/*", "country": "Kuwait"}
-{"name": "Gulf University for Science and Technology", "root_url": "*.gust.edu.kw/*", "country": "Kuwait"}
-{"name": "Kuwait International Law School", "root_url": "*.kilaw.edu.kw/*", "country": "Kuwait"}
-{"name": "Kuwait Maastricht Business School", "root_url": "*.kmbs.edu.kw/*", "country": "Kuwait"}
-{"name": "Kuwait University", "root_url": "*.kuniv.edu.kw/*", "country": "Kuwait"}
-{"name": "Asian Medical Institute", "root_url": "*.asmi.edu.kg/*", "country": "Kyrgyzstan"}
-{"name": "American University of Central Asia", "root_url": "*.auca.kg/*", "country": "Kyrgyzstan"}
-{"name": "Bishkek Humanities University", "root_url": "*.bhu.kg/*", "country": "Kyrgyzstan"}
-{"name": "International Ataturk Alatoo University", "root_url": "*.iaau.edu.kg/*", "country": "Kyrgyzstan"}
-{"name": "International University of Kyrgyzstan", "root_url": "*.iuk.kg/*", "country": "Kyrgyzstan"}
-{"name": "Jalalabad State University Kyrgyzstan", "root_url": "*.jasu.edu.kg/*", "country": "Kyrgyzstan"}
-{"name": "Kyrgyz National Agrarian University", "root_url": "*.knau.kg/*", "country": "Kyrgyzstan"}
-{"name": "Kyrgyz Russian Slavic University", "root_url": "*.krsu.edu.kg/*", "country": "Kyrgyzstan"}
-{"name": "Kyrgyz State Technical University", "root_url": "*.kstu.kg/*", "country": "Kyrgyzstan"}
-{"name": "Kyrgyz Turkish  Manas University", "root_url": "*.manas.kg/*", "country": "Kyrgyzstan"}
-{"name": "Kyrgyz National University", "root_url": "*.university.kg/*", "country": "Kyrgyzstan"}
-{"name": "National University of Laos", "root_url": "*.nuol.edu.la/*", "country": "Lao People's Democratic Republic"}
-{"name": "Soutsaka Institute of management and Technology", "root_url": "*.simt.edu.la/*", "country": "Lao People's Democratic Republic"}
-{"name": "Medical Academy of Latvia", "root_url": "*.aml.lv/*", "country": "Latvia"}
-{"name": "School of Business and Finance", "root_url": "*.ba.lv/*", "country": "Latvia"}
-{"name": "Baltic International Academy", "root_url": "*.bsa.edu.lv/*", "country": "Latvia"}
+{"entity": "Sogang University", "url": "*.sogang.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Soongsil University", "url": "*.soongsil.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seoul Teological University", "url": "*.stu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sunchon National University", "url": "*.sunchon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sungkyul University", "url": "*.sungkyul.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sunmoon University", "url": "*.sunmoon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Suwon University", "url": "*.suwon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Suwon Catholic University", "url": "*.suwoncatholic.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sahmyook University", "url": "*.syu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Taegu University", "url": "*.taegu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Taegu National University of Education", "url": "*.taegu-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Taejon University", "url": "*.taejon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Taeshin Christian University", "url": "*.taeshin.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Tongmyung University of Information Technology", "url": "*.tit.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Taejon National University of Technology", "url": "*.tnut.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Ulsan University", "url": "*.ulsan.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seoul City University", "url": "*.uos.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "University of Science and Technology", "url": "*.ust.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Wonkwang University", "url": "*.wonkwang.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Woosuk University", "url": "*.woosuk.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Yeungnam University", "url": "*.yeungnam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Yonsei University", "url": "*.yonsei.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Yosu National University", "url": "*.yosu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "American University In Kosovo", "url": "*.aukonline.org/*", "country": "Kosovo"}
+{"entity": "ILIRIA College", "url": "*.uiliria.org/*", "country": "Kosovo"}
+{"entity": "University of Prishtina", "url": "*.uni-pr.edu/*", "country": "Kosovo"}
+{"entity": "Universum College", "url": "*.universum-ks.org/*", "country": "Kosovo"}
+{"entity": "Australlian College of Kuwait", "url": "*.ackonline.com/*", "country": "Kuwait"}
+{"entity": "American University of Kuwait", "url": "*.auk.edu.kw/*", "country": "Kuwait"}
+{"entity": "American University of Middle East", "url": "*.aum.edu.kw/*", "country": "Kuwait"}
+{"entity": "Gulf University for Science and Technology", "url": "*.gust.edu.kw/*", "country": "Kuwait"}
+{"entity": "Kuwait International Law School", "url": "*.kilaw.edu.kw/*", "country": "Kuwait"}
+{"entity": "Kuwait Maastricht Business School", "url": "*.kmbs.edu.kw/*", "country": "Kuwait"}
+{"entity": "Kuwait University", "url": "*.kuniv.edu.kw/*", "country": "Kuwait"}
+{"entity": "Asian Medical Institute", "url": "*.asmi.edu.kg/*", "country": "Kyrgyzstan"}
+{"entity": "American University of Central Asia", "url": "*.auca.kg/*", "country": "Kyrgyzstan"}
+{"entity": "Bishkek Humanities University", "url": "*.bhu.kg/*", "country": "Kyrgyzstan"}
+{"entity": "International Ataturk Alatoo University", "url": "*.iaau.edu.kg/*", "country": "Kyrgyzstan"}
+{"entity": "International University of Kyrgyzstan", "url": "*.iuk.kg/*", "country": "Kyrgyzstan"}
+{"entity": "Jalalabad State University Kyrgyzstan", "url": "*.jasu.edu.kg/*", "country": "Kyrgyzstan"}
+{"entity": "Kyrgyz National Agrarian University", "url": "*.knau.kg/*", "country": "Kyrgyzstan"}
+{"entity": "Kyrgyz Russian Slavic University", "url": "*.krsu.edu.kg/*", "country": "Kyrgyzstan"}
+{"entity": "Kyrgyz State Technical University", "url": "*.kstu.kg/*", "country": "Kyrgyzstan"}
+{"entity": "Kyrgyz Turkish  Manas University", "url": "*.manas.kg/*", "country": "Kyrgyzstan"}
+{"entity": "Kyrgyz National University", "url": "*.university.kg/*", "country": "Kyrgyzstan"}
+{"entity": "National University of Laos", "url": "*.nuol.edu.la/*", "country": "Lao People's Democratic Republic"}
+{"entity": "Soutsaka Institute of management and Technology", "url": "*.simt.edu.la/*", "country": "Lao People's Democratic Republic"}
+{"entity": "Medical Academy of Latvia", "url": "*.aml.lv/*", "country": "Latvia"}
+{"entity": "School of Business and Finance", "url": "*.ba.lv/*", "country": "Latvia"}
+{"entity": "Baltic International Academy", "url": "*.bsa.edu.lv/*", "country": "Latvia"}

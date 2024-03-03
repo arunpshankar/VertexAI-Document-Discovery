@@ -1,50 +1,50 @@
-{"name": "Northeast Forest University", "root_url": "*.nefu.edu.cn/*", "country": "China"}
-{"name": "Neijiang Teacher University", "root_url": "*.neijtc.edu.cn/*", "country": "China"}
-{"name": "Northeast Normal University", "root_url": "*.nenu.edu.cn/*", "country": "China"}
-{"name": "Northeastern University", "root_url": "*.neu.edu.cn/*", "country": "China"}
-{"name": "Northeast University at Qinhuangdao Campus", "root_url": "*.neuq.edu.cn/*", "country": "China"}
-{"name": "Beijing New Asia University", "root_url": "*.newasia.bj.edu.cn/*", "country": "China"}
-{"name": "Nanjing Agricultural University", "root_url": "*.njau.edu.cn/*", "country": "China"}
-{"name": "Nanjing Forestry University", "root_url": "*.njfu.edu.cn/*", "country": "China"}
-{"name": "Nanjing Institute of Meteorology", "root_url": "*.njim.edu.cn/*", "country": "China"}
-{"name": "Nanjing Medical University", "root_url": "*.njmu.edu.cn/*", "country": "China"}
-{"name": "Nanjing Normal University", "root_url": "*.njnu.edu.cn/*", "country": "China"}
-{"name": "Northern Jiaotong University", "root_url": "*.njtu.edu.cn/*", "country": "China"}
-{"name": "Nanjing University of Chemical Technology", "root_url": "*.njuct.edu.cn/*", "country": "China"}
-{"name": "Nanjing University", "root_url": "*.nju.edu.cn/*", "country": "China"}
-{"name": "Nanjing University of Economics", "root_url": "*.njue.edu.cn/*", "country": "China"}
-{"name": "Nanjing University of Posts and Telecommunications", "root_url": "*.njupt.edu.cn/*", "country": "China"}
-{"name": "Nanjing University of Science and Technology", "root_url": "*.njust.edu.cn/*", "country": "China"}
-{"name": "Nanjing University of Traditional Chinese Medicine", "root_url": "*.njutcm.edu.cn/*", "country": "China"}
-{"name": "Nanjing Union Theological Seminary", "root_url": "*.njuts.cn/*", "country": "China"}
-{"name": "Nankai University", "root_url": "*.nku.nankai.edu.cn/*", "country": "China"}
-{"name": "The University of Nottingham Ningbo China", "root_url": "*.nottingham.edu.cn/*", "country": "China"}
-{"name": "Northern Sichuan Medical College", "root_url": "*.nsmc.edu.cn/*", "country": "China"}
-{"name": "Nanjing University of Aeronautics and Astronautics", "root_url": "*.nuaa.edu.cn/*", "country": "China"}
-{"name": "National University of Defense Technology", "root_url": "*.nudt.edu.cn/*", "country": "China"}
-{"name": "Northwest Normal University Lanzhou", "root_url": "*.nwnu.edu.cn/*", "country": "China"}
-{"name": "Ningxia Medical College", "root_url": "*.nxmc.edu.cn/*", "country": "China"}
-{"name": "Ningxia University", "root_url": "*.nxu.edu.cn/*", "country": "China"}
-{"name": "Ocean University of China", "root_url": "*.ouc.edu.cn/*", "country": "China"}
-{"name": "Guangdong Peizheng College", "root_url": "*.peizheng.com.cn/*", "country": "China"}
-{"name": "Peking University", "root_url": "*.pku.edu.cn/*", "country": "China"}
-{"name": "Panzhihua University", "root_url": "*.pzhu.edu.cn/*", "country": "China"}
-{"name": "Qingdao University", "root_url": "*.qdu.edu.cn/*", "country": "China"}
-{"name": "Qufu Normal University", "root_url": "*.qfnu.edu.cn/*", "country": "China"}
-{"name": "Qinghai Normal University", "root_url": "*.qhnu.edu.cn/*", "country": "China"}
-{"name": "Qinghai University", "root_url": "*.qhu.edu.cn/*", "country": "China"}
-{"name": "Qingdao University of Science and Technology", "root_url": "*.qust.edu.cn/*", "country": "China"}
-{"name": "Qiongzhou University", "root_url": "*.qzu.edu.cn/*", "country": "China"}
-{"name": "Renmin University of China", "root_url": "*.ruc.edu.cn/*", "country": "China"}
-{"name": "Shanghai Sanda University", "root_url": "*.sandau.edu.cn/*", "country": "China"}
-{"name": "Chongqing Three Gorges University", "root_url": "*.sanxiau.edu.cn/*", "country": "China"}
-{"name": "Shanghai Business School", "root_url": "*.sbs.edu.cn/*", "country": "China"}
-{"name": "South China Agricultural University", "root_url": "*.scau.edu.cn/*", "country": "China"}
-{"name": "South China Construction University", "root_url": "*.sccu.edu.cn/*", "country": "China"}
-{"name": "South China Normal University", "root_url": "*.scnu.edu.cn/*", "country": "China"}
-{"name": "Sichuan University", "root_url": "*.scu.edu.cn/*", "country": "China"}
-{"name": "South China University of Technology", "root_url": "*.scut.edu.cn/*", "country": "China"}
-{"name": "Shandong University of Art and Design", "root_url": "*.sdada.edu.cn/*", "country": "China"}
-{"name": "Shandong Agricultural University", "root_url": "*.sdau.edu.cn/*", "country": "China"}
-{"name": "Shandong Economic University", "root_url": "*.sdie.edu.cn/*", "country": "China"}
-{"name": "Shanghai Dainji University", "root_url": "*.sdju.edu.cn/*", "country": "China"}
+{"entity": "Northeast Forest University", "url": "*.nefu.edu.cn/*", "country": "China"}
+{"entity": "Neijiang Teacher University", "url": "*.neijtc.edu.cn/*", "country": "China"}
+{"entity": "Northeast Normal University", "url": "*.nenu.edu.cn/*", "country": "China"}
+{"entity": "Northeastern University", "url": "*.neu.edu.cn/*", "country": "China"}
+{"entity": "Northeast University at Qinhuangdao Campus", "url": "*.neuq.edu.cn/*", "country": "China"}
+{"entity": "Beijing New Asia University", "url": "*.newasia.bj.edu.cn/*", "country": "China"}
+{"entity": "Nanjing Agricultural University", "url": "*.njau.edu.cn/*", "country": "China"}
+{"entity": "Nanjing Forestry University", "url": "*.njfu.edu.cn/*", "country": "China"}
+{"entity": "Nanjing Institute of Meteorology", "url": "*.njim.edu.cn/*", "country": "China"}
+{"entity": "Nanjing Medical University", "url": "*.njmu.edu.cn/*", "country": "China"}
+{"entity": "Nanjing Normal University", "url": "*.njnu.edu.cn/*", "country": "China"}
+{"entity": "Northern Jiaotong University", "url": "*.njtu.edu.cn/*", "country": "China"}
+{"entity": "Nanjing University of Chemical Technology", "url": "*.njuct.edu.cn/*", "country": "China"}
+{"entity": "Nanjing University", "url": "*.nju.edu.cn/*", "country": "China"}
+{"entity": "Nanjing University of Economics", "url": "*.njue.edu.cn/*", "country": "China"}
+{"entity": "Nanjing University of Posts and Telecommunications", "url": "*.njupt.edu.cn/*", "country": "China"}
+{"entity": "Nanjing University of Science and Technology", "url": "*.njust.edu.cn/*", "country": "China"}
+{"entity": "Nanjing University of Traditional Chinese Medicine", "url": "*.njutcm.edu.cn/*", "country": "China"}
+{"entity": "Nanjing Union Theological Seminary", "url": "*.njuts.cn/*", "country": "China"}
+{"entity": "Nankai University", "url": "*.nku.nankai.edu.cn/*", "country": "China"}
+{"entity": "The University of Nottingham Ningbo China", "url": "*.nottingham.edu.cn/*", "country": "China"}
+{"entity": "Northern Sichuan Medical College", "url": "*.nsmc.edu.cn/*", "country": "China"}
+{"entity": "Nanjing University of Aeronautics and Astronautics", "url": "*.nuaa.edu.cn/*", "country": "China"}
+{"entity": "National University of Defense Technology", "url": "*.nudt.edu.cn/*", "country": "China"}
+{"entity": "Northwest Normal University Lanzhou", "url": "*.nwnu.edu.cn/*", "country": "China"}
+{"entity": "Ningxia Medical College", "url": "*.nxmc.edu.cn/*", "country": "China"}
+{"entity": "Ningxia University", "url": "*.nxu.edu.cn/*", "country": "China"}
+{"entity": "Ocean University of China", "url": "*.ouc.edu.cn/*", "country": "China"}
+{"entity": "Guangdong Peizheng College", "url": "*.peizheng.com.cn/*", "country": "China"}
+{"entity": "Peking University", "url": "*.pku.edu.cn/*", "country": "China"}
+{"entity": "Panzhihua University", "url": "*.pzhu.edu.cn/*", "country": "China"}
+{"entity": "Qingdao University", "url": "*.qdu.edu.cn/*", "country": "China"}
+{"entity": "Qufu Normal University", "url": "*.qfnu.edu.cn/*", "country": "China"}
+{"entity": "Qinghai Normal University", "url": "*.qhnu.edu.cn/*", "country": "China"}
+{"entity": "Qinghai University", "url": "*.qhu.edu.cn/*", "country": "China"}
+{"entity": "Qingdao University of Science and Technology", "url": "*.qust.edu.cn/*", "country": "China"}
+{"entity": "Qiongzhou University", "url": "*.qzu.edu.cn/*", "country": "China"}
+{"entity": "Renmin University of China", "url": "*.ruc.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Sanda University", "url": "*.sandau.edu.cn/*", "country": "China"}
+{"entity": "Chongqing Three Gorges University", "url": "*.sanxiau.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Business School", "url": "*.sbs.edu.cn/*", "country": "China"}
+{"entity": "South China Agricultural University", "url": "*.scau.edu.cn/*", "country": "China"}
+{"entity": "South China Construction University", "url": "*.sccu.edu.cn/*", "country": "China"}
+{"entity": "South China Normal University", "url": "*.scnu.edu.cn/*", "country": "China"}
+{"entity": "Sichuan University", "url": "*.scu.edu.cn/*", "country": "China"}
+{"entity": "South China University of Technology", "url": "*.scut.edu.cn/*", "country": "China"}
+{"entity": "Shandong University of Art and Design", "url": "*.sdada.edu.cn/*", "country": "China"}
+{"entity": "Shandong Agricultural University", "url": "*.sdau.edu.cn/*", "country": "China"}
+{"entity": "Shandong Economic University", "url": "*.sdie.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Dainji University", "url": "*.sdju.edu.cn/*", "country": "China"}

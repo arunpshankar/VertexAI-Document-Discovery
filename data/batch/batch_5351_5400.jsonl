@@ -1,50 +1,50 @@
-{"name": "Qassim Private College", "root_url": "*.qc.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Qassim University", "root_url": "*.qu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "College of Technology at Riyadh", "root_url": "*.rct.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Riyadh College of Dentistry and Pharmacy", "root_url": "*.riyadh.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Princess Nora Bint Abdulrahman University", "root_url": "*.rug.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Saad College of Nursing and Allied Health Sciences", "root_url": "*.saadcollege.com/*", "country": "Saudi Arabia"}
-{"name": "Shaqra University", "root_url": "*.su.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Taibah University", "root_url": "*.taibahu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "College of Technology at Jazan", "root_url": "*.tnmeyah.net/jct/*", "country": "Saudi Arabia"}
-{"name": "Taif University", "root_url": "*.tu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Jubail University College", "root_url": "*.ucj.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "University of Dammam", "root_url": "*.ud.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "University of Hail", "root_url": "*.uoh.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "University of Tabuk", "root_url": "*.ut.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Yanbu Industrial College", "root_url": "*.yic.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Yanbu Technical Institute", "root_url": "*.yti.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Yanbu University College", "root_url": "*.yuc.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "University of Fine Arts Belgrade", "root_url": "*.arts.bg.ac.rs/*", "country": "Serbia"}
-{"name": "University of Belgrade", "root_url": "*.bg.ac.rs/*", "country": "Serbia"}
-{"name": "European University", "root_url": "*.eu.ac.rs/*", "country": "Serbia"}
-{"name": "University of Kragujevac", "root_url": "*.kg.ac.rs/*", "country": "Serbia"}
-{"name": "Megatrend University of Applied Sciences", "root_url": "*.megatrend-edu.net/*", "country": "Serbia"}
-{"name": "Metropolitan University", "root_url": "*.metropolitan.edu.rs/*", "country": "Serbia"}
-{"name": "University of Nis", "root_url": "*.ni.ac.rs/*", "country": "Serbia"}
-{"name": "Drzavni Univerzitet u Novom Pazaru", "root_url": "*.np.ac.rs/*", "country": "Serbia"}
-{"name": "Singidunum University", "root_url": "*.singidunum.edu.rs/*", "country": "Serbia"}
-{"name": "International University of Novi Pazar", "root_url": "*.uninp.edu.rs/*", "country": "Serbia"}
-{"name": "University of Novi Sad", "root_url": "*.uns.ac.rs/*", "country": "Serbia"}
-{"name": "University of Seychelles", "root_url": "*.unisey.ac.sc/*", "country": "Seychelles"}
-{"name": "LICCSAL Business College", "root_url": "*.liccsalsl.org/*", "country": "Sierra Leone"}
-{"name": "Njala University", "root_url": "*.nu-online.com/*", "country": "Sierra Leone"}
-{"name": "University of Sierra Leone", "root_url": "*.tusol.org/*", "country": "Sierra Leone"}
-{"name": "Aventis School of Management", "root_url": "*.aventis.edu.sg/*", "country": "Singapore"}
-{"name": "Nanyang Technological University", "root_url": "*.ntu.edu.sg/*", "country": "Singapore"}
-{"name": "National University of Singapore", "root_url": "*.nus.edu/*", "country": "Singapore"}
-{"name": "Singapore Management University", "root_url": "*.smu.edu.sg/*", "country": "Singapore"}
-{"name": "Taoist College Singapore", "root_url": "*.taoistcollege.org.sg/*", "country": "Singapore"}
-{"name": "Police Academy in Bratislava", "root_url": "*.akademiapz.sk/*", "country": "Slovakia"}
-{"name": "Bratislava International School of Liberal Arts", "root_url": "*.bisla.sk/*", "country": "Slovakia"}
-{"name": "University of Economics in Bratislava", "root_url": "*.euba.sk/*", "country": "Slovakia"}
-{"name": "Catholic University in Ruzomberok", "root_url": "*.ku.sk/*", "country": "Slovakia"}
-{"name": "Slovak Medical University", "root_url": "*.szu.sk/*", "country": "Slovakia"}
-{"name": "Janos Selye University", "root_url": "*.selyeuni.sk/*", "country": "Slovakia"}
-{"name": "University of Central Europe in Skalica", "root_url": "*.sevs.sk/*", "country": "Slovakia"}
-{"name": "Slovak University of Technology in Bratislava", "root_url": "*.stuba.sk/*", "country": "Slovakia"}
-{"name": "University of Trnava", "root_url": "*.truni.sk/*", "country": "Slovakia"}
-{"name": "Technical University in Kosice", "root_url": "*.tuke.sk/*", "country": "Slovakia"}
-{"name": "Technical University in Zvolen", "root_url": "*.tuzvo.sk/*", "country": "Slovakia"}
-{"name": "University Konstantina Filozov in Nitra", "root_url": "*.ukf.sk/*", "country": "Slovakia"}
-{"name": "Slovak University of Agriculture in Nitra", "root_url": "*.uniag.sk/*", "country": "Slovakia"}
+{"entity": "Qassim Private College", "url": "*.qc.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Qassim University", "url": "*.qu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "College of Technology at Riyadh", "url": "*.rct.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Riyadh College of Dentistry and Pharmacy", "url": "*.riyadh.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Princess Nora Bint Abdulrahman University", "url": "*.rug.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Saad College of Nursing and Allied Health Sciences", "url": "*.saadcollege.com/*", "country": "Saudi Arabia"}
+{"entity": "Shaqra University", "url": "*.su.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Taibah University", "url": "*.taibahu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "College of Technology at Jazan", "url": "*.tnmeyah.net/jct/*", "country": "Saudi Arabia"}
+{"entity": "Taif University", "url": "*.tu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Jubail University College", "url": "*.ucj.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "University of Dammam", "url": "*.ud.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "University of Hail", "url": "*.uoh.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "University of Tabuk", "url": "*.ut.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Yanbu Industrial College", "url": "*.yic.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Yanbu Technical Institute", "url": "*.yti.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Yanbu University College", "url": "*.yuc.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "University of Fine Arts Belgrade", "url": "*.arts.bg.ac.rs/*", "country": "Serbia"}
+{"entity": "University of Belgrade", "url": "*.bg.ac.rs/*", "country": "Serbia"}
+{"entity": "European University", "url": "*.eu.ac.rs/*", "country": "Serbia"}
+{"entity": "University of Kragujevac", "url": "*.kg.ac.rs/*", "country": "Serbia"}
+{"entity": "Megatrend University of Applied Sciences", "url": "*.megatrend-edu.net/*", "country": "Serbia"}
+{"entity": "Metropolitan University", "url": "*.metropolitan.edu.rs/*", "country": "Serbia"}
+{"entity": "University of Nis", "url": "*.ni.ac.rs/*", "country": "Serbia"}
+{"entity": "Drzavni Univerzitet u Novom Pazaru", "url": "*.np.ac.rs/*", "country": "Serbia"}
+{"entity": "Singidunum University", "url": "*.singidunum.edu.rs/*", "country": "Serbia"}
+{"entity": "International University of Novi Pazar", "url": "*.uninp.edu.rs/*", "country": "Serbia"}
+{"entity": "University of Novi Sad", "url": "*.uns.ac.rs/*", "country": "Serbia"}
+{"entity": "University of Seychelles", "url": "*.unisey.ac.sc/*", "country": "Seychelles"}
+{"entity": "LICCSAL Business College", "url": "*.liccsalsl.org/*", "country": "Sierra Leone"}
+{"entity": "Njala University", "url": "*.nu-online.com/*", "country": "Sierra Leone"}
+{"entity": "University of Sierra Leone", "url": "*.tusol.org/*", "country": "Sierra Leone"}
+{"entity": "Aventis School of Management", "url": "*.aventis.edu.sg/*", "country": "Singapore"}
+{"entity": "Nanyang Technological University", "url": "*.ntu.edu.sg/*", "country": "Singapore"}
+{"entity": "National University of Singapore", "url": "*.nus.edu/*", "country": "Singapore"}
+{"entity": "Singapore Management University", "url": "*.smu.edu.sg/*", "country": "Singapore"}
+{"entity": "Taoist College Singapore", "url": "*.taoistcollege.org.sg/*", "country": "Singapore"}
+{"entity": "Police Academy in Bratislava", "url": "*.akademiapz.sk/*", "country": "Slovakia"}
+{"entity": "Bratislava International School of Liberal Arts", "url": "*.bisla.sk/*", "country": "Slovakia"}
+{"entity": "University of Economics in Bratislava", "url": "*.euba.sk/*", "country": "Slovakia"}
+{"entity": "Catholic University in Ruzomberok", "url": "*.ku.sk/*", "country": "Slovakia"}
+{"entity": "Slovak Medical University", "url": "*.szu.sk/*", "country": "Slovakia"}
+{"entity": "Janos Selye University", "url": "*.selyeuni.sk/*", "country": "Slovakia"}
+{"entity": "University of Central Europe in Skalica", "url": "*.sevs.sk/*", "country": "Slovakia"}
+{"entity": "Slovak University of Technology in Bratislava", "url": "*.stuba.sk/*", "country": "Slovakia"}
+{"entity": "University of Trnava", "url": "*.truni.sk/*", "country": "Slovakia"}
+{"entity": "Technical University in Kosice", "url": "*.tuke.sk/*", "country": "Slovakia"}
+{"entity": "Technical University in Zvolen", "url": "*.tuzvo.sk/*", "country": "Slovakia"}
+{"entity": "University Konstantina Filozov in Nitra", "url": "*.ukf.sk/*", "country": "Slovakia"}
+{"entity": "Slovak University of Agriculture in Nitra", "url": "*.uniag.sk/*", "country": "Slovakia"}

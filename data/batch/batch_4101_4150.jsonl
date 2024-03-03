@@ -1,50 +1,50 @@
-{"name": "Liepaja Pedagogical Higher School", "root_url": "*.cs.lpu.lv/*", "country": "Latvia"}
-{"name": "Daugavpils University", "root_url": "*.dau.lv/*", "country": "Latvia"}
-{"name": "Latvian Maritime Academy", "root_url": "*.lama.lv/*", "country": "Latvia"}
-{"name": "Latvian Academy of Culture", "root_url": "*.lka.edu.lv/*", "country": "Latvia"}
-{"name": "Latvian University of Agriculture", "root_url": "*.llu.lv/*", "country": "Latvia"}
-{"name": "Latvian Academy of Arts", "root_url": "*.lma.lv/*", "country": "Latvia"}
-{"name": "Latvian Academy of Music", "root_url": "*.lmuza.lv/academy/*", "country": "Latvia"}
-{"name": "Latvian Academy of Sports Education", "root_url": "*.lspa.lanet.lv/*", "country": "Latvia"}
-{"name": "University of Latvia", "root_url": "*.lu.lv/*", "country": "Latvia"}
-{"name": "National Defence Academy of Latvia", "root_url": "*.mil.lv/*", "country": "Latvia"}
-{"name": "Police Academy of Latvia", "root_url": "*.polak.edu.lv/*", "country": "Latvia"}
-{"name": "Higher School of Psychology", "root_url": "*.psy.lv/*", "country": "Latvia"}
-{"name": "Riga Aviation University", "root_url": "*.rau.lv/*", "country": "Latvia"}
-{"name": "Riga Teacher Training and Educational Management Academy", "root_url": "*.rpiva.lv/*", "country": "Latvia"}
-{"name": "Riga Technical University", "root_url": "*.rtu.lv/*", "country": "Latvia"}
-{"name": "Rezekne Higher School", "root_url": "*.ru.lv/*", "country": "Latvia"}
-{"name": "Stockholm School of Economics in Riga", "root_url": "*.sseriga.edu.lv/*", "country": "Latvia"}
-{"name": "Transport and Telecommunication Institute", "root_url": "*.tsi.lv/*", "country": "Latvia"}
-{"name": "Vidzeme University College", "root_url": "*.va.lv/*", "country": "Latvia"}
-{"name": "Arab Open University", "root_url": "*.arabou-lb.edu.lb/*", "country": "Lebanon"}
-{"name": "American University of Beirut", "root_url": "*.aub.edu.lb/*", "country": "Lebanon"}
-{"name": "American University of Science and Technology", "root_url": "*.aust.edu.lb/*", "country": "Lebanon"}
-{"name": "American University College of Technology", "root_url": "*.aut.edu/*", "country": "Lebanon"}
-{"name": "Balamand University", "root_url": "*.balamand.edu.lb/*", "country": "Lebanon"}
-{"name": "Beirut Arab University", "root_url": "*.bau.edu.lb/*", "country": "Lebanon"}
-{"name": "Centre Universitaire de Technologie", "root_url": "*.cut.edu.lb/*", "country": "Lebanon"}
-{"name": "Global University", "root_url": "*.gu.edu.lb/*", "country": "Lebanon"}
-{"name": "Haigazian University", "root_url": "*.haigazian.edu.lb/*", "country": "Lebanon"}
-{"name": "Hariri Canadian University", "root_url": "*.hariricanadian.edu.lb/*", "country": "Lebanon"}
-{"name": "Jinan University", "root_url": "*.jinan.edu.lb/*", "country": "Lebanon"}
-{"name": "Lebanese American University", "root_url": "*.lau.edu.lb/*", "country": "Lebanon"}
-{"name": "Lebanese International University", "root_url": "*.liu.edu.lb/*", "country": "Lebanon"}
-{"name": "Matn University", "root_url": "*.matnu.edu.lb/*", "country": "Lebanon"}
-{"name": "Notre Dame University", "root_url": "*.ndu.edu.lb/*", "country": "Lebanon"}
-{"name": "Near East School of Theology", "root_url": "*.theonest.edu.lb/*", "country": "Lebanon"}
-{"name": "Lebanese University", "root_url": "*.ul.edu.lb/*", "country": "Lebanon"}
-{"name": "Holy Spirit University of Kaslik", "root_url": "*.usek.edu.lb/*", "country": "Lebanon"}
-{"name": "National University of Lesotho", "root_url": "*.nul.ls/*", "country": "Lesotho"}
-{"name": "University of Liberia", "root_url": "*.universityliberia.org/*", "country": "Liberia"}
-{"name": "Elmergib University", "root_url": "*.elmergib.edu.ly/*", "country": "Libya"}
-{"name": "Libya Open University", "root_url": "*.libopenuniv-edu.org/*", "country": "Libya"}
-{"name": "Sebha University", "root_url": "*.sebhau.edu.ly/*", "country": "Libya"}
-{"name": "Sirte University", "root_url": "*.su.edu.ly/*", "country": "Libya"}
-{"name": "University of Benghazi", "root_url": "*.uob.edu.ly/*", "country": "Libya"}
-{"name": "University of Tripoli", "root_url": "*.uot.edu.ly/*", "country": "Libya"}
-{"name": "Zawiya University", "root_url": "*.zu.edu.ly/*", "country": "Libya"}
-{"name": "Kaunas Medical Academy", "root_url": "*.info.kma.lt/*", "country": "Lithuania"}
-{"name": "International School of Management", "root_url": "*.ism.lt/*", "country": "Lithuania"}
-{"name": "Kaunas University of Technology", "root_url": "*.ktu.lt/*", "country": "Lithuania"}
-{"name": "Klaipeda University", "root_url": "*.ku.lt/*", "country": "Lithuania"}
+{"entity": "Liepaja Pedagogical Higher School", "url": "*.cs.lpu.lv/*", "country": "Latvia"}
+{"entity": "Daugavpils University", "url": "*.dau.lv/*", "country": "Latvia"}
+{"entity": "Latvian Maritime Academy", "url": "*.lama.lv/*", "country": "Latvia"}
+{"entity": "Latvian Academy of Culture", "url": "*.lka.edu.lv/*", "country": "Latvia"}
+{"entity": "Latvian University of Agriculture", "url": "*.llu.lv/*", "country": "Latvia"}
+{"entity": "Latvian Academy of Arts", "url": "*.lma.lv/*", "country": "Latvia"}
+{"entity": "Latvian Academy of Music", "url": "*.lmuza.lv/academy/*", "country": "Latvia"}
+{"entity": "Latvian Academy of Sports Education", "url": "*.lspa.lanet.lv/*", "country": "Latvia"}
+{"entity": "University of Latvia", "url": "*.lu.lv/*", "country": "Latvia"}
+{"entity": "National Defence Academy of Latvia", "url": "*.mil.lv/*", "country": "Latvia"}
+{"entity": "Police Academy of Latvia", "url": "*.polak.edu.lv/*", "country": "Latvia"}
+{"entity": "Higher School of Psychology", "url": "*.psy.lv/*", "country": "Latvia"}
+{"entity": "Riga Aviation University", "url": "*.rau.lv/*", "country": "Latvia"}
+{"entity": "Riga Teacher Training and Educational Management Academy", "url": "*.rpiva.lv/*", "country": "Latvia"}
+{"entity": "Riga Technical University", "url": "*.rtu.lv/*", "country": "Latvia"}
+{"entity": "Rezekne Higher School", "url": "*.ru.lv/*", "country": "Latvia"}
+{"entity": "Stockholm School of Economics in Riga", "url": "*.sseriga.edu.lv/*", "country": "Latvia"}
+{"entity": "Transport and Telecommunication Institute", "url": "*.tsi.lv/*", "country": "Latvia"}
+{"entity": "Vidzeme University College", "url": "*.va.lv/*", "country": "Latvia"}
+{"entity": "Arab Open University", "url": "*.arabou-lb.edu.lb/*", "country": "Lebanon"}
+{"entity": "American University of Beirut", "url": "*.aub.edu.lb/*", "country": "Lebanon"}
+{"entity": "American University of Science and Technology", "url": "*.aust.edu.lb/*", "country": "Lebanon"}
+{"entity": "American University College of Technology", "url": "*.aut.edu/*", "country": "Lebanon"}
+{"entity": "Balamand University", "url": "*.balamand.edu.lb/*", "country": "Lebanon"}
+{"entity": "Beirut Arab University", "url": "*.bau.edu.lb/*", "country": "Lebanon"}
+{"entity": "Centre Universitaire de Technologie", "url": "*.cut.edu.lb/*", "country": "Lebanon"}
+{"entity": "Global University", "url": "*.gu.edu.lb/*", "country": "Lebanon"}
+{"entity": "Haigazian University", "url": "*.haigazian.edu.lb/*", "country": "Lebanon"}
+{"entity": "Hariri Canadian University", "url": "*.hariricanadian.edu.lb/*", "country": "Lebanon"}
+{"entity": "Jinan University", "url": "*.jinan.edu.lb/*", "country": "Lebanon"}
+{"entity": "Lebanese American University", "url": "*.lau.edu.lb/*", "country": "Lebanon"}
+{"entity": "Lebanese International University", "url": "*.liu.edu.lb/*", "country": "Lebanon"}
+{"entity": "Matn University", "url": "*.matnu.edu.lb/*", "country": "Lebanon"}
+{"entity": "Notre Dame University", "url": "*.ndu.edu.lb/*", "country": "Lebanon"}
+{"entity": "Near East School of Theology", "url": "*.theonest.edu.lb/*", "country": "Lebanon"}
+{"entity": "Lebanese University", "url": "*.ul.edu.lb/*", "country": "Lebanon"}
+{"entity": "Holy Spirit University of Kaslik", "url": "*.usek.edu.lb/*", "country": "Lebanon"}
+{"entity": "National University of Lesotho", "url": "*.nul.ls/*", "country": "Lesotho"}
+{"entity": "University of Liberia", "url": "*.universityliberia.org/*", "country": "Liberia"}
+{"entity": "Elmergib University", "url": "*.elmergib.edu.ly/*", "country": "Libya"}
+{"entity": "Libya Open University", "url": "*.libopenuniv-edu.org/*", "country": "Libya"}
+{"entity": "Sebha University", "url": "*.sebhau.edu.ly/*", "country": "Libya"}
+{"entity": "Sirte University", "url": "*.su.edu.ly/*", "country": "Libya"}
+{"entity": "University of Benghazi", "url": "*.uob.edu.ly/*", "country": "Libya"}
+{"entity": "University of Tripoli", "url": "*.uot.edu.ly/*", "country": "Libya"}
+{"entity": "Zawiya University", "url": "*.zu.edu.ly/*", "country": "Libya"}
+{"entity": "Kaunas Medical Academy", "url": "*.info.kma.lt/*", "country": "Lithuania"}
+{"entity": "International School of Management", "url": "*.ism.lt/*", "country": "Lithuania"}
+{"entity": "Kaunas University of Technology", "url": "*.ktu.lt/*", "country": "Lithuania"}
+{"entity": "Klaipeda University", "url": "*.ku.lt/*", "country": "Lithuania"}

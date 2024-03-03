@@ -1,50 +1,50 @@
-{"name": "Hiroshima International University", "root_url": "*.hirokoku-u.ac.jp/*", "country": "Japan"}
-{"name": "Hirosaki University", "root_url": "*.hirosaki-u.ac.jp/*", "country": "Japan"}
-{"name": "Hiroshima City University", "root_url": "*.hiroshima-cu.ac.jp/*", "country": "Japan"}
-{"name": "Hiroshima Prefectural University", "root_url": "*.hiroshima-pu.ac.jp/*", "country": "Japan"}
-{"name": "Hiroshima University", "root_url": "*.hiroshima-u.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaido Institute of Technology", "root_url": "*.hit.ac.jp/*", "country": "Japan"}
-{"name": "Hachinohe Institute of Technology", "root_url": "*.hi-tech.ac.jp/*", "country": "Japan"}
-{"name": "Hitotsubashi University", "root_url": "*.hit-u.ac.jp/*", "country": "Japan"}
-{"name": "Heisei International University", "root_url": "*.hiu.ac.jp/*", "country": "Japan"}
-{"name": "Hiroshima Jogakuin University", "root_url": "*.hju.ac.jp/*", "country": "Japan"}
-{"name": "Hiroshima Kokusai Gakuin University", "root_url": "*.hkg.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaigakuen University of Kitami", "root_url": "*.hokkai-k-u.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaigakuen University", "root_url": "*.hokkai-s-u.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaido University of Education", "root_url": "*.hokkyodai.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaido University", "root_url": "*.hokudai.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaido University of Health Sciences", "root_url": "*.hoku-iryo-u.ac.jp/*", "country": "Japan"}
-{"name": "Hokuriku University", "root_url": "*.hokuriku-u.ac.jp/*", "country": "Japan"}
-{"name": "Hokusei Gakuen University", "root_url": "*.hokusei.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaido Institute of Pharmaceutical Sciences", "root_url": "*.hokuyakudai.ac.jp/*", "country": "Japan"}
-{"name": "Hosei University", "root_url": "*.hosei.ac.jp/*", "country": "Japan"}
-{"name": "Hoshi University", "root_url": "*.hoshi.ac.jp/*", "country": "Japan"}
-{"name": "Hiroshima University of Economics", "root_url": "*.hue.ac.jp/*", "country": "Japan"}
-{"name": "Hyogo University", "root_url": "*.hyogo-dai.ac.jp/*", "country": "Japan"}
-{"name": "Hyogo University of Education", "root_url": "*.hyogo-u.ac.jp/*", "country": "Japan"}
-{"name": "Hyogo College of Medicine", "root_url": "*.hyo-med.ac.jp/*", "country": "Japan"}
-{"name": "Ibaraki University", "root_url": "*.ibaraki.ac.jp/*", "country": "Japan"}
-{"name": "Ibaraki Christian College", "root_url": "*.icc.ac.jp/*", "country": "Japan"}
-{"name": "International Christian University", "root_url": "*.icu.ac.jp/*", "country": "Japan"}
-{"name": "Kyushu Sangyo University", "root_url": "*.ip.kyusan-u.ac.jp/*", "country": "Japan"}
-{"name": "Ibaraki Prefectural University of Health Sciences", "root_url": "*.ipu.ac.jp/*", "country": "Japan"}
-{"name": "Ishinomaki Senshu University", "root_url": "*.isenshu-u.ac.jp/*", "country": "Japan"}
-{"name": "Chiba Institute of Technology", "root_url": "*.it-chiba.ac.jp/*", "country": "Japan"}
-{"name": "Hiroshima Institute of Technology", "root_url": "*.it-hiroshima.ac.jp/*", "country": "Japan"}
-{"name": "International University of Health and Welfare", "root_url": "*.iuhw.ac.jp/*", "country": "Japan"}
-{"name": "International University of Japan", "root_url": "*.iuj.ac.jp/*", "country": "Japan"}
-{"name": "International University of Kagoshima", "root_url": "*.iuk.ac.jp/*", "country": "Japan"}
-{"name": "Iwaki Meisei University", "root_url": "*.iwakimu.ac.jp/*", "country": "Japan"}
-{"name": "Iwate Medical University", "root_url": "*.iwate-med.ac.jp/*", "country": "Japan"}
-{"name": "Iwate Prefectural University", "root_url": "*.iwate-pu.ac.jp/*", "country": "Japan"}
-{"name": "Iwate University", "root_url": "*.iwate-u.ac.jp/*", "country": "Japan"}
-{"name": "Japan Advanced Institute of Science and Technology", "root_url": "*.jaist.ac.jp/*", "country": "Japan"}
-{"name": "Jichi Medical School", "root_url": "*.jichi.ac.jp/*", "country": "Japan"}
-{"name": "Jikei University School of Medicine", "root_url": "*.jikei.ac.jp/*", "country": "Japan"}
-{"name": "Josai International University", "root_url": "*.jiu.ac.jp/*", "country": "Japan"}
-{"name": "Jobu University", "root_url": "*.jobu.ac.jp/*", "country": "Japan"}
-{"name": "Josai University", "root_url": "*.josai.ac.jp/*", "country": "Japan"}
-{"name": "Joetsu University of Education", "root_url": "*.juen.ac.jp/*", "country": "Japan"}
-{"name": "Kagoshima Immaculate Heart University", "root_url": "*.juntan.k-junshin.ac.jp/jundai/*", "country": "Japan"}
-{"name": "Juntendo University", "root_url": "*.juntendo.ac.jp/*", "country": "Japan"}
-{"name": "Kagawa University", "root_url": "*.kagawa-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima International University", "url": "*.hirokoku-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hirosaki University", "url": "*.hirosaki-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima City University", "url": "*.hiroshima-cu.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima Prefectural University", "url": "*.hiroshima-pu.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima University", "url": "*.hiroshima-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaido Institute of Technology", "url": "*.hit.ac.jp/*", "country": "Japan"}
+{"entity": "Hachinohe Institute of Technology", "url": "*.hi-tech.ac.jp/*", "country": "Japan"}
+{"entity": "Hitotsubashi University", "url": "*.hit-u.ac.jp/*", "country": "Japan"}
+{"entity": "Heisei International University", "url": "*.hiu.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima Jogakuin University", "url": "*.hju.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima Kokusai Gakuin University", "url": "*.hkg.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaigakuen University of Kitami", "url": "*.hokkai-k-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaigakuen University", "url": "*.hokkai-s-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaido University of Education", "url": "*.hokkyodai.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaido University", "url": "*.hokudai.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaido University of Health Sciences", "url": "*.hoku-iryo-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hokuriku University", "url": "*.hokuriku-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hokusei Gakuen University", "url": "*.hokusei.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaido Institute of Pharmaceutical Sciences", "url": "*.hokuyakudai.ac.jp/*", "country": "Japan"}
+{"entity": "Hosei University", "url": "*.hosei.ac.jp/*", "country": "Japan"}
+{"entity": "Hoshi University", "url": "*.hoshi.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima University of Economics", "url": "*.hue.ac.jp/*", "country": "Japan"}
+{"entity": "Hyogo University", "url": "*.hyogo-dai.ac.jp/*", "country": "Japan"}
+{"entity": "Hyogo University of Education", "url": "*.hyogo-u.ac.jp/*", "country": "Japan"}
+{"entity": "Hyogo College of Medicine", "url": "*.hyo-med.ac.jp/*", "country": "Japan"}
+{"entity": "Ibaraki University", "url": "*.ibaraki.ac.jp/*", "country": "Japan"}
+{"entity": "Ibaraki Christian College", "url": "*.icc.ac.jp/*", "country": "Japan"}
+{"entity": "International Christian University", "url": "*.icu.ac.jp/*", "country": "Japan"}
+{"entity": "Kyushu Sangyo University", "url": "*.ip.kyusan-u.ac.jp/*", "country": "Japan"}
+{"entity": "Ibaraki Prefectural University of Health Sciences", "url": "*.ipu.ac.jp/*", "country": "Japan"}
+{"entity": "Ishinomaki Senshu University", "url": "*.isenshu-u.ac.jp/*", "country": "Japan"}
+{"entity": "Chiba Institute of Technology", "url": "*.it-chiba.ac.jp/*", "country": "Japan"}
+{"entity": "Hiroshima Institute of Technology", "url": "*.it-hiroshima.ac.jp/*", "country": "Japan"}
+{"entity": "International University of Health and Welfare", "url": "*.iuhw.ac.jp/*", "country": "Japan"}
+{"entity": "International University of Japan", "url": "*.iuj.ac.jp/*", "country": "Japan"}
+{"entity": "International University of Kagoshima", "url": "*.iuk.ac.jp/*", "country": "Japan"}
+{"entity": "Iwaki Meisei University", "url": "*.iwakimu.ac.jp/*", "country": "Japan"}
+{"entity": "Iwate Medical University", "url": "*.iwate-med.ac.jp/*", "country": "Japan"}
+{"entity": "Iwate Prefectural University", "url": "*.iwate-pu.ac.jp/*", "country": "Japan"}
+{"entity": "Iwate University", "url": "*.iwate-u.ac.jp/*", "country": "Japan"}
+{"entity": "Japan Advanced Institute of Science and Technology", "url": "*.jaist.ac.jp/*", "country": "Japan"}
+{"entity": "Jichi Medical School", "url": "*.jichi.ac.jp/*", "country": "Japan"}
+{"entity": "Jikei University School of Medicine", "url": "*.jikei.ac.jp/*", "country": "Japan"}
+{"entity": "Josai International University", "url": "*.jiu.ac.jp/*", "country": "Japan"}
+{"entity": "Jobu University", "url": "*.jobu.ac.jp/*", "country": "Japan"}
+{"entity": "Josai University", "url": "*.josai.ac.jp/*", "country": "Japan"}
+{"entity": "Joetsu University of Education", "url": "*.juen.ac.jp/*", "country": "Japan"}
+{"entity": "Kagoshima Immaculate Heart University", "url": "*.juntan.k-junshin.ac.jp/jundai/*", "country": "Japan"}
+{"entity": "Juntendo University", "url": "*.juntendo.ac.jp/*", "country": "Japan"}
+{"entity": "Kagawa University", "url": "*.kagawa-u.ac.jp/*", "country": "Japan"}

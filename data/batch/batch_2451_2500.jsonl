@@ -1,50 +1,50 @@
-{"name": "Internationale Fachhochschule Aalen", "root_url": "*.international.fh-aalen.de/*", "country": "Germany"}
-{"name": "International School of Management ISM Dortmund", "root_url": "*.ism-dortmund.de/*", "country": "Germany"}
-{"name": "International University in Germany", "root_url": "*.i-u.de/*", "country": "Germany"}
-{"name": "Jacobs University Bremen", "root_url": "*.jacobs-university.de/*", "country": "Germany"}
-{"name": "Karlshochschule International University", "root_url": "*.karlshochschule.de/*", "country": "Germany"}
-{"name": "Katholische Fachhochschule Norddeutschland", "root_url": "*.kath-fh-nord.de/*", "country": "Germany"}
-{"name": "Katholische Fachhochschule Mainz", "root_url": "*.kfh-mainz.de/*", "country": "Germany"}
-{"name": "Merkur Internationale FH Karlsruhe", "root_url": "*.merkur-fh.org/*", "country": "Germany"}
-{"name": "Medizinische Hochschule Hannover", "root_url": "*.mh-hannover.de/*", "country": "Germany"}
-{"name": "Private FernFachhochschule Darmstadt", "root_url": "*.privatfh-da.de/*", "country": "Germany"}
-{"name": "Lutherische Theologische Hochschule Oberursel", "root_url": "*.selk.de/LThH/*", "country": "Germany"}
-{"name": "SRH University of Applied Sciences", "root_url": "*.srh-berlin.de/*", "country": "Germany"}
-{"name": "Technische Fachhochschule Berlin", "root_url": "*.tfh-berlin.de/*", "country": "Germany"}
-{"name": "Technische Fachhochschule Wildau", "root_url": "*.tfh-wildau.de/*", "country": "Germany"}
-{"name": "Theologische Hochschule Friedensau", "root_url": "*.thh-friedensau.de/*", "country": "Germany"}
-{"name": "Hochschule Vechta", "root_url": "*.uni-vechta.de/*", "country": "Germany"}
-{"name": "Kirchliche Hochschule Wuppertal", "root_url": "*.uni-wuppertal.de/inst/kiho/*", "country": "Germany"}
-{"name": "Accra Polytechnic", "root_url": "*.accrapolytechnic.edu.gh/*", "country": "Ghana"}
-{"name": "All Nations University College", "root_url": "*.anuc.edu.gh/*", "country": "Ghana"}
-{"name": "Ashesi University", "root_url": "*.ashesi.edu.gh/*", "country": "Ghana"}
-{"name": "Central University College", "root_url": "*.central.edu.gh/*", "country": "Ghana"}
-{"name": "Cape Coast Polytechnic", "root_url": "*.cpoly.edu.gh/*", "country": "Ghana"}
-{"name": "Ghana Christian University College", "root_url": "*.ghanacu.org/*", "country": "Ghana"}
-{"name": "Ghana Telecom University College", "root_url": "*.gtuc.edu.gh/*", "country": "Ghana"}
-{"name": "Ho Polytechnic", "root_url": "*.hopoly.edu.gh/*", "country": "Ghana"}
-{"name": "Islamic University College", "root_url": "*.iug.edu.gh/*", "country": "Ghana"}
-{"name": "Kwame Nkrumah University of Science and Technology", "root_url": "*.knust.edu.gh/*", "country": "Ghana"}
-{"name": "Koforidua Polytechnic", "root_url": "*.koforiduapoly.edu.gh/*", "country": "Ghana"}
-{"name": "Kumasi Polytechnic", "root_url": "*.kpoly.edu.gh/*", "country": "Ghana"}
-{"name": "Pan African Christian University College", "root_url": "*.pacuc.edu.gh/*", "country": "Ghana"}
-{"name": "Prempeh College", "root_url": "*.prempeh-college.com/*", "country": "Ghana"}
-{"name": "Presbyterian University College", "root_url": "*.presbyuniversity.edu.gh/*", "country": "Ghana"}
-{"name": "Regent University College of Science and Technology", "root_url": "*.regentghana.net/*", "country": "Ghana"}
-{"name": "Takoradi Polytechnic", "root_url": "*.tpoly.edu.gh/*", "country": "Ghana"}
-{"name": "Trinity Theological Seminary", "root_url": "*.trinity.edu.gh/*", "country": "Ghana"}
-{"name": "University of Cape Coast", "root_url": "*.ucc.edu.gh/*", "country": "Ghana"}
-{"name": "University for Development Studies", "root_url": "*.uds.edu.gh/*", "country": "Ghana"}
-{"name": "University of Ghana", "root_url": "*.ug.edu.gh/*", "country": "Ghana"}
-{"name": "Valley View University", "root_url": "*.vvu.edu.gh/*", "country": "Ghana"}
-{"name": "American College of Greece", "root_url": "*.acg.gr/*", "country": "Greece"}
-{"name": "American College of Thessaloniki", "root_url": "*.act.edu/*", "country": "Greece"}
-{"name": "Aegean University", "root_url": "*.aegean.gr/*", "country": "Greece"}
-{"name": "Athens School of Fine Arts", "root_url": "*.asfa.gr/*", "country": "Greece"}
-{"name": "Agricultural University of Athens", "root_url": "*.aua.gr/*", "country": "Greece"}
-{"name": "Athens University of Economics and Business", "root_url": "*.aueb.gr/*", "country": "Greece"}
-{"name": "Aristotle University of Thessaloniki", "root_url": "*.auth.gr/*", "country": "Greece"}
-{"name": "City University Athens", "root_url": "*.cityu.gr/*", "country": "Greece"}
-{"name": "Dimocritus University of Thrace", "root_url": "*.duth.gr/*", "country": "Greece"}
-{"name": "Hellenic Open University", "root_url": "*.eap.gr/*", "country": "Greece"}
-{"name": "Harokopio University", "root_url": "*.hua.gr*", "country": "Greece"}
+{"entity": "Internationale Fachhochschule Aalen", "url": "*.international.fh-aalen.de/*", "country": "Germany"}
+{"entity": "International School of Management ISM Dortmund", "url": "*.ism-dortmund.de/*", "country": "Germany"}
+{"entity": "International University in Germany", "url": "*.i-u.de/*", "country": "Germany"}
+{"entity": "Jacobs University Bremen", "url": "*.jacobs-university.de/*", "country": "Germany"}
+{"entity": "Karlshochschule International University", "url": "*.karlshochschule.de/*", "country": "Germany"}
+{"entity": "Katholische Fachhochschule Norddeutschland", "url": "*.kath-fh-nord.de/*", "country": "Germany"}
+{"entity": "Katholische Fachhochschule Mainz", "url": "*.kfh-mainz.de/*", "country": "Germany"}
+{"entity": "Merkur Internationale FH Karlsruhe", "url": "*.merkur-fh.org/*", "country": "Germany"}
+{"entity": "Medizinische Hochschule Hannover", "url": "*.mh-hannover.de/*", "country": "Germany"}
+{"entity": "Private FernFachhochschule Darmstadt", "url": "*.privatfh-da.de/*", "country": "Germany"}
+{"entity": "Lutherische Theologische Hochschule Oberursel", "url": "*.selk.de/LThH/*", "country": "Germany"}
+{"entity": "SRH University of Applied Sciences", "url": "*.srh-berlin.de/*", "country": "Germany"}
+{"entity": "Technische Fachhochschule Berlin", "url": "*.tfh-berlin.de/*", "country": "Germany"}
+{"entity": "Technische Fachhochschule Wildau", "url": "*.tfh-wildau.de/*", "country": "Germany"}
+{"entity": "Theologische Hochschule Friedensau", "url": "*.thh-friedensau.de/*", "country": "Germany"}
+{"entity": "Hochschule Vechta", "url": "*.uni-vechta.de/*", "country": "Germany"}
+{"entity": "Kirchliche Hochschule Wuppertal", "url": "*.uni-wuppertal.de/inst/kiho/*", "country": "Germany"}
+{"entity": "Accra Polytechnic", "url": "*.accrapolytechnic.edu.gh/*", "country": "Ghana"}
+{"entity": "All Nations University College", "url": "*.anuc.edu.gh/*", "country": "Ghana"}
+{"entity": "Ashesi University", "url": "*.ashesi.edu.gh/*", "country": "Ghana"}
+{"entity": "Central University College", "url": "*.central.edu.gh/*", "country": "Ghana"}
+{"entity": "Cape Coast Polytechnic", "url": "*.cpoly.edu.gh/*", "country": "Ghana"}
+{"entity": "Ghana Christian University College", "url": "*.ghanacu.org/*", "country": "Ghana"}
+{"entity": "Ghana Telecom University College", "url": "*.gtuc.edu.gh/*", "country": "Ghana"}
+{"entity": "Ho Polytechnic", "url": "*.hopoly.edu.gh/*", "country": "Ghana"}
+{"entity": "Islamic University College", "url": "*.iug.edu.gh/*", "country": "Ghana"}
+{"entity": "Kwame Nkrumah University of Science and Technology", "url": "*.knust.edu.gh/*", "country": "Ghana"}
+{"entity": "Koforidua Polytechnic", "url": "*.koforiduapoly.edu.gh/*", "country": "Ghana"}
+{"entity": "Kumasi Polytechnic", "url": "*.kpoly.edu.gh/*", "country": "Ghana"}
+{"entity": "Pan African Christian University College", "url": "*.pacuc.edu.gh/*", "country": "Ghana"}
+{"entity": "Prempeh College", "url": "*.prempeh-college.com/*", "country": "Ghana"}
+{"entity": "Presbyterian University College", "url": "*.presbyuniversity.edu.gh/*", "country": "Ghana"}
+{"entity": "Regent University College of Science and Technology", "url": "*.regentghana.net/*", "country": "Ghana"}
+{"entity": "Takoradi Polytechnic", "url": "*.tpoly.edu.gh/*", "country": "Ghana"}
+{"entity": "Trinity Theological Seminary", "url": "*.trinity.edu.gh/*", "country": "Ghana"}
+{"entity": "University of Cape Coast", "url": "*.ucc.edu.gh/*", "country": "Ghana"}
+{"entity": "University for Development Studies", "url": "*.uds.edu.gh/*", "country": "Ghana"}
+{"entity": "University of Ghana", "url": "*.ug.edu.gh/*", "country": "Ghana"}
+{"entity": "Valley View University", "url": "*.vvu.edu.gh/*", "country": "Ghana"}
+{"entity": "American College of Greece", "url": "*.acg.gr/*", "country": "Greece"}
+{"entity": "American College of Thessaloniki", "url": "*.act.edu/*", "country": "Greece"}
+{"entity": "Aegean University", "url": "*.aegean.gr/*", "country": "Greece"}
+{"entity": "Athens School of Fine Arts", "url": "*.asfa.gr/*", "country": "Greece"}
+{"entity": "Agricultural University of Athens", "url": "*.aua.gr/*", "country": "Greece"}
+{"entity": "Athens University of Economics and Business", "url": "*.aueb.gr/*", "country": "Greece"}
+{"entity": "Aristotle University of Thessaloniki", "url": "*.auth.gr/*", "country": "Greece"}
+{"entity": "City University Athens", "url": "*.cityu.gr/*", "country": "Greece"}
+{"entity": "Dimocritus University of Thrace", "url": "*.duth.gr/*", "country": "Greece"}
+{"entity": "Hellenic Open University", "url": "*.eap.gr/*", "country": "Greece"}
+{"entity": "Harokopio University", "url": "*.hua.gr*", "country": "Greece"}

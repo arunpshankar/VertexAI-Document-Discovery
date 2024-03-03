@@ -1,50 +1,50 @@
-{"name": "Northwest Mississippi Community College", "root_url": "*.northwestms.edu*", "country": "United States"}
-{"name": "Pearl River Community College", "root_url": "*.prcc.edu*", "country": "United States"}
-{"name": "Southwest Mississippi Community College", "root_url": "*.smcc.edu*", "country": "United States"}
-{"name": "Crowder College", "root_url": "*.crowder.edu*", "country": "United States"}
-{"name": "East Central College", "root_url": "*.eastcentral.edu*", "country": "United States"}
-{"name": "Jefferson College", "root_url": "*.jeffco.edu*", "country": "United States"}
-{"name": "Linn State Technical College", "root_url": "*.linnstate.edu*", "country": "United States"}
-{"name": "Mineral Area College", "root_url": "*.mineralarea.edu*", "country": "United States"}
-{"name": "Missouri State University", "root_url": "*.missouristate.edu*", "country": "United States"}
-{"name": "Moberly Area Community College", "root_url": "*.macc.edu*", "country": "United States"}
-{"name": "North Central Missouri College", "root_url": "*.ncmissouri.edu*", "country": "United States"}
-{"name": "Ozarks Technical Community College", "root_url": "*.otc.edu*", "country": "United States"}
-{"name": "Southeast Missouri Hospital College of Nursing and Health Sciences", "root_url": "*.southeastmissourihospitalcollege.edu*", "country": "United States"}
-{"name": "State Fair Community College", "root_url": "*.sfccmo.edu*", "country": "United States"}
-{"name": "St Charles Community College", "root_url": "*.stchas.edu*", "country": "United States"}
-{"name": "Aaniiih Nakoda College", "root_url": "*.ancollege.edu*", "country": "United States"}
-{"name": "Blackfeet Community College", "root_url": "*.bfcc.edu*", "country": "United States"}
-{"name": "Chief Dull Knife College", "root_url": "*.cdkc.edu*", "country": "United States"}
-{"name": "Dawson Community College", "root_url": "*.dawson.edu*", "country": "United States"}
-{"name": "Flathead Valley Community College", "root_url": "*.fvcc.edu*", "country": "United States"}
-{"name": "Fort Peck Community College", "root_url": "*.fpcc.edu*", "country": "United States"}
-{"name": "Great Falls College Montana State University", "root_url": "*.gfcmsu.edu*", "country": "United States"}
-{"name": "Helena College University of Montana", "root_url": "*.umhelena.edu*", "country": "United States"}
-{"name": "Little Big Horn College", "root_url": "*.lbhc.edu/*", "country": "United States"}
-{"name": "Miles Community College", "root_url": "*.milescc.edu/*", "country": "United States"}
-{"name": "Stone Child College", "root_url": "*.stonechild.edu*", "country": "United States"}
-{"name": "Central Community College", "root_url": "*.cccneb.edu*", "country": "United States"}
-{"name": "Little Priest Tribal College", "root_url": "*.littlepriest.edu*", "country": "United States"}
-{"name": "Nebraska College of Technical Agriculture", "root_url": "*.NCTA.UNL.EDU*", "country": "United States"}
-{"name": "Nebraska Indian Community College", "root_url": "*.thenicc.edu*", "country": "United States"}
-{"name": "Northeast Community College", "root_url": "*.northeast.edu*", "country": "United States"}
-{"name": "Southeast Community College Area", "root_url": "*.southeast.edu*", "country": "United States"}
-{"name": "Western Nebraska Community College", "root_url": "*.wncc.edu*", "country": "United States"}
-{"name": "Truckee Meadows Community College", "root_url": "*.tmcc.edu*", "country": "United States"}
-{"name": "Great Bay Community College", "root_url": "*.greatbay.edu*", "country": "United States"}
-{"name": "Lakes Region Community College", "root_url": "*.lrcc.edu*", "country": "United States"}
-{"name": "Nashua Community College", "root_url": "*.nashuacc.edu*", "country": "United States"}
-{"name": "River Valley Community College", "root_url": "*.rivervalley.edu*", "country": "United States"}
-{"name": "White Mountains Community College", "root_url": "*.wmcc.edu*", "country": "United States"}
-{"name": "Assumption College for Sisters", "root_url": "*.acs350.org*", "country": "United States"}
-{"name": "Atlantic Cape Community College", "root_url": "*.atlantic.edu*", "country": "United States"}
-{"name": "Bergen Community College", "root_url": "*.bergen.edu*", "country": "United States"}
-{"name": "Brookdale Community College", "root_url": "*.brookdalecc.edu*", "country": "United States"}
-{"name": "Burlington County College", "root_url": "*.bcc.edu*", "country": "United States"}
-{"name": "Camden County College", "root_url": "*.camdencc.edu*", "country": "United States"}
-{"name": "County College of Morris", "root_url": "*.WWW.CCM.EDU*", "country": "United States"}
-{"name": "Cumberland County College", "root_url": "*.cccnj.edu*", "country": "United States"}
-{"name": "Essex County College", "root_url": "*.essex.edu*", "country": "United States"}
-{"name": "Gloucester County College", "root_url": "*.gccnj.edu*", "country": "United States"}
-{"name": "Hudson County Community College", "root_url": "*.hccc.edu*", "country": "United States"}
+{"entity": "Northwest Mississippi Community College", "url": "*.northwestms.edu*", "country": "United States"}
+{"entity": "Pearl River Community College", "url": "*.prcc.edu*", "country": "United States"}
+{"entity": "Southwest Mississippi Community College", "url": "*.smcc.edu*", "country": "United States"}
+{"entity": "Crowder College", "url": "*.crowder.edu*", "country": "United States"}
+{"entity": "East Central College", "url": "*.eastcentral.edu*", "country": "United States"}
+{"entity": "Jefferson College", "url": "*.jeffco.edu*", "country": "United States"}
+{"entity": "Linn State Technical College", "url": "*.linnstate.edu*", "country": "United States"}
+{"entity": "Mineral Area College", "url": "*.mineralarea.edu*", "country": "United States"}
+{"entity": "Missouri State University", "url": "*.missouristate.edu*", "country": "United States"}
+{"entity": "Moberly Area Community College", "url": "*.macc.edu*", "country": "United States"}
+{"entity": "North Central Missouri College", "url": "*.ncmissouri.edu*", "country": "United States"}
+{"entity": "Ozarks Technical Community College", "url": "*.otc.edu*", "country": "United States"}
+{"entity": "Southeast Missouri Hospital College of Nursing and Health Sciences", "url": "*.southeastmissourihospitalcollege.edu*", "country": "United States"}
+{"entity": "State Fair Community College", "url": "*.sfccmo.edu*", "country": "United States"}
+{"entity": "St Charles Community College", "url": "*.stchas.edu*", "country": "United States"}
+{"entity": "Aaniiih Nakoda College", "url": "*.ancollege.edu*", "country": "United States"}
+{"entity": "Blackfeet Community College", "url": "*.bfcc.edu*", "country": "United States"}
+{"entity": "Chief Dull Knife College", "url": "*.cdkc.edu*", "country": "United States"}
+{"entity": "Dawson Community College", "url": "*.dawson.edu*", "country": "United States"}
+{"entity": "Flathead Valley Community College", "url": "*.fvcc.edu*", "country": "United States"}
+{"entity": "Fort Peck Community College", "url": "*.fpcc.edu*", "country": "United States"}
+{"entity": "Great Falls College Montana State University", "url": "*.gfcmsu.edu*", "country": "United States"}
+{"entity": "Helena College University of Montana", "url": "*.umhelena.edu*", "country": "United States"}
+{"entity": "Little Big Horn College", "url": "*.lbhc.edu/*", "country": "United States"}
+{"entity": "Miles Community College", "url": "*.milescc.edu/*", "country": "United States"}
+{"entity": "Stone Child College", "url": "*.stonechild.edu*", "country": "United States"}
+{"entity": "Central Community College", "url": "*.cccneb.edu*", "country": "United States"}
+{"entity": "Little Priest Tribal College", "url": "*.littlepriest.edu*", "country": "United States"}
+{"entity": "Nebraska College of Technical Agriculture", "url": "*.NCTA.UNL.EDU*", "country": "United States"}
+{"entity": "Nebraska Indian Community College", "url": "*.thenicc.edu*", "country": "United States"}
+{"entity": "Northeast Community College", "url": "*.northeast.edu*", "country": "United States"}
+{"entity": "Southeast Community College Area", "url": "*.southeast.edu*", "country": "United States"}
+{"entity": "Western Nebraska Community College", "url": "*.wncc.edu*", "country": "United States"}
+{"entity": "Truckee Meadows Community College", "url": "*.tmcc.edu*", "country": "United States"}
+{"entity": "Great Bay Community College", "url": "*.greatbay.edu*", "country": "United States"}
+{"entity": "Lakes Region Community College", "url": "*.lrcc.edu*", "country": "United States"}
+{"entity": "Nashua Community College", "url": "*.nashuacc.edu*", "country": "United States"}
+{"entity": "River Valley Community College", "url": "*.rivervalley.edu*", "country": "United States"}
+{"entity": "White Mountains Community College", "url": "*.wmcc.edu*", "country": "United States"}
+{"entity": "Assumption College for Sisters", "url": "*.acs350.org*", "country": "United States"}
+{"entity": "Atlantic Cape Community College", "url": "*.atlantic.edu*", "country": "United States"}
+{"entity": "Bergen Community College", "url": "*.bergen.edu*", "country": "United States"}
+{"entity": "Brookdale Community College", "url": "*.brookdalecc.edu*", "country": "United States"}
+{"entity": "Burlington County College", "url": "*.bcc.edu*", "country": "United States"}
+{"entity": "Camden County College", "url": "*.camdencc.edu*", "country": "United States"}
+{"entity": "County College of Morris", "url": "*.WWW.CCM.EDU*", "country": "United States"}
+{"entity": "Cumberland County College", "url": "*.cccnj.edu*", "country": "United States"}
+{"entity": "Essex County College", "url": "*.essex.edu*", "country": "United States"}
+{"entity": "Gloucester County College", "url": "*.gccnj.edu*", "country": "United States"}
+{"entity": "Hudson County Community College", "url": "*.hccc.edu*", "country": "United States"}

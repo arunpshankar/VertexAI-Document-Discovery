@@ -1,50 +1,50 @@
-{"name": "Northwest Iowa Community College", "root_url": "*.nwicc.edu*", "country": "United States"}
-{"name": "Southeastern Community College", "root_url": "*.scciowa.edu*", "country": "United States"}
-{"name": "Southwestern Community College", "root_url": "*.swcciowa.edu*", "country": "United States"}
-{"name": "Western Iowa Tech Community College", "root_url": "*.witcc.edu*", "country": "United States"}
-{"name": "Allen County Community College", "root_url": "*.allencc.edu*", "country": "United States"}
-{"name": "Barton County Community College", "root_url": "*.bartonccc.edu*", "country": "United States"}
-{"name": "Butler Community College", "root_url": "*.butlercc.edu/*", "country": "United States"}
-{"name": "Cloud County Community College", "root_url": "*.cloud.edu*", "country": "United States"}
-{"name": "Coffeyville Community College", "root_url": "*.coffeyville.edu*", "country": "United States"}
-{"name": "Colby Community College", "root_url": "*.colbycc.edu*", "country": "United States"}
-{"name": "Cowley County Community College", "root_url": "*.cowley.edu*", "country": "United States"}
-{"name": "Dodge City Community College", "root_url": "*.dc3.edu*", "country": "United States"}
-{"name": "Flint Hills Technical College", "root_url": "*.fhtc.edu*", "country": "United States"}
-{"name": "Fort Scott Community College", "root_url": "*.fortscott.edu*", "country": "United States"}
-{"name": "Garden City Community College", "root_url": "*.gcccks.edu*", "country": "United States"}
-{"name": "Hutchinson Community College", "root_url": "*.hutchcc.edu*", "country": "United States"}
-{"name": "Independence Community College", "root_url": "*.indycc.edu*", "country": "United States"}
-{"name": "Johnson County Community College", "root_url": "*.jccc.edu*", "country": "United States"}
-{"name": "Kansas City Kansas Community College", "root_url": "*.kckcc.edu*", "country": "United States"}
-{"name": "Labette Community College", "root_url": "*.labette.edu*", "country": "United States"}
-{"name": "Manhattan Area Technical College", "root_url": "*.manhattantech.edu*", "country": "United States"}
-{"name": "Neosho County Community College", "root_url": "*.neosho.edu*", "country": "United States"}
-{"name": "North Central Kansas Technical College", "root_url": "*.ncktc.edu*", "country": "United States"}
-{"name": "Northwest Kansas Technical College", "root_url": "*.nwktc.edu*", "country": "United States"}
-{"name": "Pratt Community College", "root_url": "*.prattcc.edu*", "country": "United States"}
-{"name": "Seward County Community College and Area Technical School", "root_url": "*.sccc.edu*", "country": "United States"}
-{"name": "Wichita Area Technical College", "root_url": "*.watc.edu*", "country": "United States"}
-{"name": "Ashland Community and Technical College", "root_url": "*.ashland.kctcs.edu/*", "country": "United States"}
-{"name": "Big Sandy Community and Technical College", "root_url": "*.bigsandy.kctcs.edu*", "country": "United States"}
-{"name": "Bluegrass Community and Technical College", "root_url": "*.bluegrass.kctcs.edu/*", "country": "United States"}
-{"name": "Elizabethtown Community and Technical College", "root_url": "*.elizabethtown.kctcs.edu*", "country": "United States"}
-{"name": "Gateway Community and Technical College", "root_url": "*.gateway.kctcs.edu*", "country": "United States"}
-{"name": "Hazard Community and Technical College", "root_url": "*.hazard.kctcs.edu*", "country": "United States"}
-{"name": "Henderson Community College", "root_url": "*.hencc.kctcs.edu*", "country": "United States"}
-{"name": "Hopkinsville Community College", "root_url": "*.hopkinsville.kctcs.edu/*", "country": "United States"}
-{"name": "Jefferson Community and Technical College", "root_url": "*.jefferson.kctcs.edu*", "country": "United States"}
-{"name": "Madisonville Community College", "root_url": "*.madisonville.kctcs.edu/*", "country": "United States"}
-{"name": "Maysville Community and Technical College", "root_url": "*.maysville.kctcs.edu*", "country": "United States"}
-{"name": "Owensboro Community and Technical College", "root_url": "*.owensboro.kctcs.edu*", "country": "United States"}
-{"name": "Somerset Community College", "root_url": "*.somerset.kctcs.edu/*", "country": "United States"}
-{"name": "Southcentral Kentucky Community and Technical College", "root_url": "*.bowlinggreen.kctcs.edu*", "country": "United States"}
-{"name": "Southeast Kentucky Community and Technical College", "root_url": "*.southeast.kctcs.edu*", "country": "United States"}
-{"name": "West Kentucky Community and Technical College", "root_url": "*.westkentucky.kctcs.edu*", "country": "United States"}
-{"name": "Baton Rouge Community College", "root_url": "*.mybrcc.edu*", "country": "United States"}
-{"name": "Bossier Parish Community College", "root_url": "*.bpcc.edu*", "country": "United States"}
-{"name": "Delgado Community College", "root_url": "*.WWW.DCC.EDU*", "country": "United States"}
-{"name": "L E Fletcher Technical Community College", "root_url": "*.fletcher.edu/*", "country": "United States"}
-{"name": "Louisiana Delta Community College", "root_url": "*.ladelta.edu*", "country": "United States"}
-{"name": "Nunez Community College", "root_url": "*.nunez.edu*", "country": "United States"}
-{"name": "River Parishes Community College", "root_url": "*.rpcc.edu*", "country": "United States"}
+{"entity": "Northwest Iowa Community College", "url": "*.nwicc.edu*", "country": "United States"}
+{"entity": "Southeastern Community College", "url": "*.scciowa.edu*", "country": "United States"}
+{"entity": "Southwestern Community College", "url": "*.swcciowa.edu*", "country": "United States"}
+{"entity": "Western Iowa Tech Community College", "url": "*.witcc.edu*", "country": "United States"}
+{"entity": "Allen County Community College", "url": "*.allencc.edu*", "country": "United States"}
+{"entity": "Barton County Community College", "url": "*.bartonccc.edu*", "country": "United States"}
+{"entity": "Butler Community College", "url": "*.butlercc.edu/*", "country": "United States"}
+{"entity": "Cloud County Community College", "url": "*.cloud.edu*", "country": "United States"}
+{"entity": "Coffeyville Community College", "url": "*.coffeyville.edu*", "country": "United States"}
+{"entity": "Colby Community College", "url": "*.colbycc.edu*", "country": "United States"}
+{"entity": "Cowley County Community College", "url": "*.cowley.edu*", "country": "United States"}
+{"entity": "Dodge City Community College", "url": "*.dc3.edu*", "country": "United States"}
+{"entity": "Flint Hills Technical College", "url": "*.fhtc.edu*", "country": "United States"}
+{"entity": "Fort Scott Community College", "url": "*.fortscott.edu*", "country": "United States"}
+{"entity": "Garden City Community College", "url": "*.gcccks.edu*", "country": "United States"}
+{"entity": "Hutchinson Community College", "url": "*.hutchcc.edu*", "country": "United States"}
+{"entity": "Independence Community College", "url": "*.indycc.edu*", "country": "United States"}
+{"entity": "Johnson County Community College", "url": "*.jccc.edu*", "country": "United States"}
+{"entity": "Kansas City Kansas Community College", "url": "*.kckcc.edu*", "country": "United States"}
+{"entity": "Labette Community College", "url": "*.labette.edu*", "country": "United States"}
+{"entity": "Manhattan Area Technical College", "url": "*.manhattantech.edu*", "country": "United States"}
+{"entity": "Neosho County Community College", "url": "*.neosho.edu*", "country": "United States"}
+{"entity": "North Central Kansas Technical College", "url": "*.ncktc.edu*", "country": "United States"}
+{"entity": "Northwest Kansas Technical College", "url": "*.nwktc.edu*", "country": "United States"}
+{"entity": "Pratt Community College", "url": "*.prattcc.edu*", "country": "United States"}
+{"entity": "Seward County Community College and Area Technical School", "url": "*.sccc.edu*", "country": "United States"}
+{"entity": "Wichita Area Technical College", "url": "*.watc.edu*", "country": "United States"}
+{"entity": "Ashland Community and Technical College", "url": "*.ashland.kctcs.edu/*", "country": "United States"}
+{"entity": "Big Sandy Community and Technical College", "url": "*.bigsandy.kctcs.edu*", "country": "United States"}
+{"entity": "Bluegrass Community and Technical College", "url": "*.bluegrass.kctcs.edu/*", "country": "United States"}
+{"entity": "Elizabethtown Community and Technical College", "url": "*.elizabethtown.kctcs.edu*", "country": "United States"}
+{"entity": "Gateway Community and Technical College", "url": "*.gateway.kctcs.edu*", "country": "United States"}
+{"entity": "Hazard Community and Technical College", "url": "*.hazard.kctcs.edu*", "country": "United States"}
+{"entity": "Henderson Community College", "url": "*.hencc.kctcs.edu*", "country": "United States"}
+{"entity": "Hopkinsville Community College", "url": "*.hopkinsville.kctcs.edu/*", "country": "United States"}
+{"entity": "Jefferson Community and Technical College", "url": "*.jefferson.kctcs.edu*", "country": "United States"}
+{"entity": "Madisonville Community College", "url": "*.madisonville.kctcs.edu/*", "country": "United States"}
+{"entity": "Maysville Community and Technical College", "url": "*.maysville.kctcs.edu*", "country": "United States"}
+{"entity": "Owensboro Community and Technical College", "url": "*.owensboro.kctcs.edu*", "country": "United States"}
+{"entity": "Somerset Community College", "url": "*.somerset.kctcs.edu/*", "country": "United States"}
+{"entity": "Southcentral Kentucky Community and Technical College", "url": "*.bowlinggreen.kctcs.edu*", "country": "United States"}
+{"entity": "Southeast Kentucky Community and Technical College", "url": "*.southeast.kctcs.edu*", "country": "United States"}
+{"entity": "West Kentucky Community and Technical College", "url": "*.westkentucky.kctcs.edu*", "country": "United States"}
+{"entity": "Baton Rouge Community College", "url": "*.mybrcc.edu*", "country": "United States"}
+{"entity": "Bossier Parish Community College", "url": "*.bpcc.edu*", "country": "United States"}
+{"entity": "Delgado Community College", "url": "*.WWW.DCC.EDU*", "country": "United States"}
+{"entity": "L E Fletcher Technical Community College", "url": "*.fletcher.edu/*", "country": "United States"}
+{"entity": "Louisiana Delta Community College", "url": "*.ladelta.edu*", "country": "United States"}
+{"entity": "Nunez Community College", "url": "*.nunez.edu*", "country": "United States"}
+{"entity": "River Parishes Community College", "url": "*.rpcc.edu*", "country": "United States"}

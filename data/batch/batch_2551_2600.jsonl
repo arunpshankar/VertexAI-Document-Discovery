@@ -1,50 +1,50 @@
-{"name": "Escuela Agricola Panamericana Zamorano", "root_url": "*.zamorano.edu/*", "country": "Honduras"}
-{"name": "Chu Hai College", "root_url": "*.chuhai.edu.hk/*", "country": "Hong Kong"}
-{"name": "City University of Hong Kong", "root_url": "*.cityu.edu.hk/*", "country": "Hong Kong"}
-{"name": "Chinese University of Hong Kong", "root_url": "*.cuhk.hk/*", "country": "Hong Kong"}
-{"name": "Hong Kong Academy for Performing Arts", "root_url": "*.hkapa.edu/*", "country": "Hong Kong"}
-{"name": "Hong Kong Baptist University", "root_url": "*.hkbu.edu.hk/*", "country": "Hong Kong"}
-{"name": "Hong Kong Shue Yan College", "root_url": "*.hksyc.edu/*", "country": "Hong Kong"}
-{"name": "University of Hong Kong", "root_url": "*.hku.hk/*", "country": "Hong Kong"}
-{"name": "Hong Kong Institute of Education", "root_url": "*.ied.edu.hk/*", "country": "Hong Kong"}
-{"name": "Lingnan University", "root_url": "*.ln.edu.hk/*", "country": "Hong Kong"}
-{"name": "Open University of Hong Kong", "root_url": "*.ouhk.edu.hk/*", "country": "Hong Kong"}
-{"name": "Hong Kong Polytechnic University", "root_url": "*.polyu.edu.hk/*", "country": "Hong Kong"}
-{"name": "Hong Kong University of Science and Technology", "root_url": "*.ust.hk/*", "country": "Hong Kong"}
-{"name": "Debrecen University of Agricultural Sciences", "root_url": "*.agr.unideb.hu/*", "country": "Hungary"}
-{"name": "Andrassy Gyula German Speaking University Budapest", "root_url": "*.andrassyuni.hu/*", "country": "Hungary"}
-{"name": "Hungarian Academy of Fine Arts Budapest", "root_url": "*.arts7.hu/*", "country": "Hungary"}
-{"name": "Avicenna International College", "root_url": "*.avicenna.hu/*", "country": "Hungary"}
-{"name": "Budapest University of Economic Sciences and Public Administration", "root_url": "*.bke.hu/*", "country": "Hungary"}
-{"name": "Technical University of Budapest", "root_url": "*.bme.hu/*", "country": "Hungary"}
-{"name": "Central European University", "root_url": "*.ceu.hu/*", "country": "Hungary"}
-{"name": "University Medical School of Debrecen", "root_url": "*.dote.hu/*", "country": "Hungary"}
-{"name": "Reformed Theological Academy of Debrecen", "root_url": "*.drk.hu/*", "country": "Hungary"}
-{"name": "College of Dunaujvaros", "root_url": "*.duf.hu/*", "country": "Hungary"}
-{"name": "University of Sopron", "root_url": "*.efe.hu/*", "country": "Hungary"}
-{"name": "Esztergom Theological College", "root_url": "*.ehf.hu/*", "country": "Hungary"}
-{"name": "Academy of Drama and Film", "root_url": "*.filmacademy.hu/*", "country": "Hungary"}
-{"name": "Haynal Imre University of Health Sciences Budapest", "root_url": "*.hiete.hu/*", "country": "Hungary"}
-{"name": "Hungarian University of Physical Education", "root_url": "*.hupe.hu/*", "country": "Hungary"}
-{"name": "Janus Pannonius University", "root_url": "*.jpte.hu/*", "country": "Hungary"}
-{"name": "University of Horticulture and Food Industry", "root_url": "*.kee.hu/*", "country": "Hungary"}
-{"name": "Kodolanyi Janos University College", "root_url": "*.kodolanyi.hu/*", "country": "Hungary"}
-{"name": "Liszt Ferenc Academy of Music Budapest", "root_url": "*.lfze.hu/*", "country": "Hungary"}
-{"name": "Kossuth Lajos University", "root_url": "*.lib.klte.hu/*", "country": "Hungary"}
-{"name": "Hungarian Academy of Craft and Design", "root_url": "*.mif.hu/*", "country": "Hungary"}
-{"name": "University of West Hungary", "root_url": "*.nyme.hu/*", "country": "Hungary"}
-{"name": "University of Pecs", "root_url": "*.pte.hu/*", "country": "Hungary"}
-{"name": "Semmelweis University of Medical Sciences", "root_url": "*.sote.hu/*", "country": "Hungary"}
-{"name": "Budapest Buddhist University", "root_url": "*.tkbf.hu/*", "country": "Hungary"}
-{"name": "University of Debrecen", "root_url": "*.unideb.hu/*", "country": "Hungary"}
-{"name": "University of Miskolc", "root_url": "*.uni-miskolc.hu/*", "country": "Hungary"}
-{"name": "University of Pannonia", "root_url": "*.uni-pannon.hu/*", "country": "Hungary"}
-{"name": "University of Veterinary Science", "root_url": "*.univet.hu/*", "country": "Hungary"}
-{"name": "University of Szeged", "root_url": "*.u-szeged.hu/*", "country": "Hungary"}
-{"name": "Bifrost School of Business", "root_url": "*.bifrost.is/*", "country": "Iceland"}
-{"name": "University of Iceland", "root_url": "*.hi.is/*", "country": "Iceland"}
-{"name": "Holar University College", "root_url": "*.holar.is/*", "country": "Iceland"}
-{"name": "University Centre of the Westfjords", "root_url": "*.hsvest.is/*", "country": "Iceland"}
-{"name": "Hvanneyri Agricultural University", "root_url": "*.hvanneyri.is/*", "country": "Iceland"}
-{"name": "Technological University of Iceland", "root_url": "*.iti.is/*", "country": "Iceland"}
-{"name": "Iceland University of Education", "root_url": "*.khi.is/*", "country": "Iceland"}
+{"entity": "Escuela Agricola Panamericana Zamorano", "url": "*.zamorano.edu/*", "country": "Honduras"}
+{"entity": "Chu Hai College", "url": "*.chuhai.edu.hk/*", "country": "Hong Kong"}
+{"entity": "City University of Hong Kong", "url": "*.cityu.edu.hk/*", "country": "Hong Kong"}
+{"entity": "Chinese University of Hong Kong", "url": "*.cuhk.hk/*", "country": "Hong Kong"}
+{"entity": "Hong Kong Academy for Performing Arts", "url": "*.hkapa.edu/*", "country": "Hong Kong"}
+{"entity": "Hong Kong Baptist University", "url": "*.hkbu.edu.hk/*", "country": "Hong Kong"}
+{"entity": "Hong Kong Shue Yan College", "url": "*.hksyc.edu/*", "country": "Hong Kong"}
+{"entity": "University of Hong Kong", "url": "*.hku.hk/*", "country": "Hong Kong"}
+{"entity": "Hong Kong Institute of Education", "url": "*.ied.edu.hk/*", "country": "Hong Kong"}
+{"entity": "Lingnan University", "url": "*.ln.edu.hk/*", "country": "Hong Kong"}
+{"entity": "Open University of Hong Kong", "url": "*.ouhk.edu.hk/*", "country": "Hong Kong"}
+{"entity": "Hong Kong Polytechnic University", "url": "*.polyu.edu.hk/*", "country": "Hong Kong"}
+{"entity": "Hong Kong University of Science and Technology", "url": "*.ust.hk/*", "country": "Hong Kong"}
+{"entity": "Debrecen University of Agricultural Sciences", "url": "*.agr.unideb.hu/*", "country": "Hungary"}
+{"entity": "Andrassy Gyula German Speaking University Budapest", "url": "*.andrassyuni.hu/*", "country": "Hungary"}
+{"entity": "Hungarian Academy of Fine Arts Budapest", "url": "*.arts7.hu/*", "country": "Hungary"}
+{"entity": "Avicenna International College", "url": "*.avicenna.hu/*", "country": "Hungary"}
+{"entity": "Budapest University of Economic Sciences and Public Administration", "url": "*.bke.hu/*", "country": "Hungary"}
+{"entity": "Technical University of Budapest", "url": "*.bme.hu/*", "country": "Hungary"}
+{"entity": "Central European University", "url": "*.ceu.hu/*", "country": "Hungary"}
+{"entity": "University Medical School of Debrecen", "url": "*.dote.hu/*", "country": "Hungary"}
+{"entity": "Reformed Theological Academy of Debrecen", "url": "*.drk.hu/*", "country": "Hungary"}
+{"entity": "College of Dunaujvaros", "url": "*.duf.hu/*", "country": "Hungary"}
+{"entity": "University of Sopron", "url": "*.efe.hu/*", "country": "Hungary"}
+{"entity": "Esztergom Theological College", "url": "*.ehf.hu/*", "country": "Hungary"}
+{"entity": "Academy of Drama and Film", "url": "*.filmacademy.hu/*", "country": "Hungary"}
+{"entity": "Haynal Imre University of Health Sciences Budapest", "url": "*.hiete.hu/*", "country": "Hungary"}
+{"entity": "Hungarian University of Physical Education", "url": "*.hupe.hu/*", "country": "Hungary"}
+{"entity": "Janus Pannonius University", "url": "*.jpte.hu/*", "country": "Hungary"}
+{"entity": "University of Horticulture and Food Industry", "url": "*.kee.hu/*", "country": "Hungary"}
+{"entity": "Kodolanyi Janos University College", "url": "*.kodolanyi.hu/*", "country": "Hungary"}
+{"entity": "Liszt Ferenc Academy of Music Budapest", "url": "*.lfze.hu/*", "country": "Hungary"}
+{"entity": "Kossuth Lajos University", "url": "*.lib.klte.hu/*", "country": "Hungary"}
+{"entity": "Hungarian Academy of Craft and Design", "url": "*.mif.hu/*", "country": "Hungary"}
+{"entity": "University of West Hungary", "url": "*.nyme.hu/*", "country": "Hungary"}
+{"entity": "University of Pecs", "url": "*.pte.hu/*", "country": "Hungary"}
+{"entity": "Semmelweis University of Medical Sciences", "url": "*.sote.hu/*", "country": "Hungary"}
+{"entity": "Budapest Buddhist University", "url": "*.tkbf.hu/*", "country": "Hungary"}
+{"entity": "University of Debrecen", "url": "*.unideb.hu/*", "country": "Hungary"}
+{"entity": "University of Miskolc", "url": "*.uni-miskolc.hu/*", "country": "Hungary"}
+{"entity": "University of Pannonia", "url": "*.uni-pannon.hu/*", "country": "Hungary"}
+{"entity": "University of Veterinary Science", "url": "*.univet.hu/*", "country": "Hungary"}
+{"entity": "University of Szeged", "url": "*.u-szeged.hu/*", "country": "Hungary"}
+{"entity": "Bifrost School of Business", "url": "*.bifrost.is/*", "country": "Iceland"}
+{"entity": "University of Iceland", "url": "*.hi.is/*", "country": "Iceland"}
+{"entity": "Holar University College", "url": "*.holar.is/*", "country": "Iceland"}
+{"entity": "University Centre of the Westfjords", "url": "*.hsvest.is/*", "country": "Iceland"}
+{"entity": "Hvanneyri Agricultural University", "url": "*.hvanneyri.is/*", "country": "Iceland"}
+{"entity": "Technological University of Iceland", "url": "*.iti.is/*", "country": "Iceland"}
+{"entity": "Iceland University of Education", "url": "*.khi.is/*", "country": "Iceland"}

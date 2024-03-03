@@ -1,50 +1,50 @@
-{"name": "Universidad Empresarial", "root_url": "*.unem.edu/internacional/*", "country": "Costa Rica"}
-{"name": "Universidad Braulio Carrillo", "root_url": "*.universidadbrauliocarrillo.com/*", "country": "Costa Rica"}
-{"name": "Universidad Central", "root_url": "*.universidadcentral.com/*", "country": "Costa Rica"}
-{"name": "University for Peace", "root_url": "*.upeace.org/*", "country": "Costa Rica"}
-{"name": "Universidad San Marcos", "root_url": "*.usam.ac.cr/*", "country": "Costa Rica"}
-{"name": "Universidad Santa Paula", "root_url": "*.uspsantapaula.com/*", "country": "Costa Rica"}
-{"name": "Universidad del Turismo", "root_url": "*.utur.ac.cr/*", "country": "Costa Rica"}
-{"name": "Universidad Veritas", "root_url": "*.uveritas.ac.cr/*", "country": "Costa Rica"}
-{"name": "Tabari Institute of Higher Education", "root_url": "*.tabari.ac.ir/ *", "country": "Iran, Islamic Republic of"}
-{"name": "Zachodniopomorska School of Science and Engineering", "root_url": " http://www.zut.edu.pl/*", "country": "Poland"}
-{"name": "University of Dubrovnik", "root_url": "*.unidu.hr/*", "country": "Croatia"}
-{"name": "University of Osijek", "root_url": "*.unios.hr/*", "country": "Croatia"}
-{"name": "University of Pula", "root_url": "*.unipu.hr/*", "country": "Croatia"}
-{"name": "University of Rijeka", "root_url": "*.uniri.hr/*", "country": "Croatia"}
-{"name": "University of Split", "root_url": "*.unist.hr/*", "country": "Croatia"}
-{"name": "University of Zadar", "root_url": "*.unizd.hr/*", "country": "Croatia"}
-{"name": "University of Zagreb", "root_url": "*.unizg.hr/*", "country": "Croatia"}
-{"name": "Zagreb School of Economics and Management", "root_url": "*.zsem.hr/*", "country": "Croatia"}
-{"name": "Universidad de Cienfuegos", "root_url": "*.ucf.edu.cu/*", "country": "Cuba"}
-{"name": "Universidad Central de Las Villas", "root_url": "*.uclv.edu.cu/*", "country": "Cuba"}
-{"name": "Universidad de Granma", "root_url": "*.udg.co.cu/*", "country": "Cuba"}
-{"name": "Universidad de La Habana", "root_url": "*.uh.cu/*", "country": "Cuba"}
-{"name": "Universidad de Matanzas Camilo Cienfuegos", "root_url": "*.umcc.cu/*", "country": "Cuba"}
-{"name": "Universidad de Ciego de Avila", "root_url": "*.unica.cu/*", "country": "Cuba"}
-{"name": "Universidad de Oriente", "root_url": "*.uo.edu.cu/*", "country": "Cuba"}
-{"name": "Americanos College", "root_url": "*.ac.ac.cy/*", "country": "Cyprus"}
-{"name": "Cyprus International University", "root_url": "*.ciu.edu.tr/*", "country": "Cyprus"}
-{"name": "The CTL Eurocollege", "root_url": "*.ctleuro.ac.cy/*", "country": "Cyprus"}
-{"name": "Cyprus University of Technology", "root_url": "*.cut.ac.cy/*", "country": "Cyprus"}
-{"name": "Cyprus College", "root_url": "*.cycollege.ac.cy/*", "country": "Cyprus"}
-{"name": "Eastern Mediterranean University", "root_url": "*.emu.edu.tr/*", "country": "Cyprus"}
-{"name": "European University Cyprus", "root_url": "*.euc.ac.cy/*", "country": "Cyprus"}
-{"name": "Frederick University", "root_url": "*.frederick.ac.cy/*", "country": "Cyprus"}
-{"name": "Girne American University", "root_url": "*.gau.edu.tr/*", "country": "Cyprus"}
-{"name": "Intercollege", "root_url": "*.intercollege.ac.cy/*", "country": "Cyprus"}
-{"name": "European University of Lefke", "root_url": "*.lefke.edu.tr/*", "country": "Cyprus"}
-{"name": "Near East University", "root_url": "*.neu.edu.tr/*", "country": "Cyprus"}
-{"name": "Open University of Cyprus", "root_url": "*.ouc.ac.cy/*", "country": "Cyprus"}
-{"name": "University of Cyprus", "root_url": "*.ucy.ac.cy/*", "country": "Cyprus"}
-{"name": "University of Nicosia", "root_url": "*.unic.ac.cy/*", "country": "Cyprus"}
-{"name": "Charles University Prague", "root_url": "*.cuni.cz/*", "country": "Czech Republic"}
-{"name": "Czech Technical University of Prague", "root_url": "*.cvut.cz/*", "country": "Czech Republic"}
-{"name": "Czech University of Agriculture Prague", "root_url": "*.czu.cz/*", "country": "Czech Republic"}
-{"name": "University of South Bohemia", "root_url": "*.jcu.cz/*", "country": "Czech Republic"}
-{"name": "Mendel University of Agriculture and Forestry", "root_url": "*.mendelu.cz/*", "country": "Czech Republic"}
-{"name": "Prague International University", "root_url": "*.mpu-prague.cz/*", "country": "Czech Republic"}
-{"name": "Masaryk University", "root_url": "*.muni.cz/*", "country": "Czech Republic"}
-{"name": "University of Ostrava", "root_url": "*.osu.cz/*", "country": "Czech Republic"}
-{"name": "Prague College", "root_url": "*.praguecollege.cz/*", "country": "Czech Republic"}
-{"name": "Silesian University", "root_url": "*.slu.cz/*", "country": "Czech Republic"}
+{"entity": "Universidad Empresarial", "url": "*.unem.edu/internacional/*", "country": "Costa Rica"}
+{"entity": "Universidad Braulio Carrillo", "url": "*.universidadbrauliocarrillo.com/*", "country": "Costa Rica"}
+{"entity": "Universidad Central", "url": "*.universidadcentral.com/*", "country": "Costa Rica"}
+{"entity": "University for Peace", "url": "*.upeace.org/*", "country": "Costa Rica"}
+{"entity": "Universidad San Marcos", "url": "*.usam.ac.cr/*", "country": "Costa Rica"}
+{"entity": "Universidad Santa Paula", "url": "*.uspsantapaula.com/*", "country": "Costa Rica"}
+{"entity": "Universidad del Turismo", "url": "*.utur.ac.cr/*", "country": "Costa Rica"}
+{"entity": "Universidad Veritas", "url": "*.uveritas.ac.cr/*", "country": "Costa Rica"}
+{"entity": "Tabari Institute of Higher Education", "url": "*.tabari.ac.ir/ *", "country": "Iran, Islamic Republic of"}
+{"entity": "Zachodniopomorska School of Science and Engineering", "url": " http://www.zut.edu.pl/*", "country": "Poland"}
+{"entity": "University of Dubrovnik", "url": "*.unidu.hr/*", "country": "Croatia"}
+{"entity": "University of Osijek", "url": "*.unios.hr/*", "country": "Croatia"}
+{"entity": "University of Pula", "url": "*.unipu.hr/*", "country": "Croatia"}
+{"entity": "University of Rijeka", "url": "*.uniri.hr/*", "country": "Croatia"}
+{"entity": "University of Split", "url": "*.unist.hr/*", "country": "Croatia"}
+{"entity": "University of Zadar", "url": "*.unizd.hr/*", "country": "Croatia"}
+{"entity": "University of Zagreb", "url": "*.unizg.hr/*", "country": "Croatia"}
+{"entity": "Zagreb School of Economics and Management", "url": "*.zsem.hr/*", "country": "Croatia"}
+{"entity": "Universidad de Cienfuegos", "url": "*.ucf.edu.cu/*", "country": "Cuba"}
+{"entity": "Universidad Central de Las Villas", "url": "*.uclv.edu.cu/*", "country": "Cuba"}
+{"entity": "Universidad de Granma", "url": "*.udg.co.cu/*", "country": "Cuba"}
+{"entity": "Universidad de La Habana", "url": "*.uh.cu/*", "country": "Cuba"}
+{"entity": "Universidad de Matanzas Camilo Cienfuegos", "url": "*.umcc.cu/*", "country": "Cuba"}
+{"entity": "Universidad de Ciego de Avila", "url": "*.unica.cu/*", "country": "Cuba"}
+{"entity": "Universidad de Oriente", "url": "*.uo.edu.cu/*", "country": "Cuba"}
+{"entity": "Americanos College", "url": "*.ac.ac.cy/*", "country": "Cyprus"}
+{"entity": "Cyprus International University", "url": "*.ciu.edu.tr/*", "country": "Cyprus"}
+{"entity": "The CTL Eurocollege", "url": "*.ctleuro.ac.cy/*", "country": "Cyprus"}
+{"entity": "Cyprus University of Technology", "url": "*.cut.ac.cy/*", "country": "Cyprus"}
+{"entity": "Cyprus College", "url": "*.cycollege.ac.cy/*", "country": "Cyprus"}
+{"entity": "Eastern Mediterranean University", "url": "*.emu.edu.tr/*", "country": "Cyprus"}
+{"entity": "European University Cyprus", "url": "*.euc.ac.cy/*", "country": "Cyprus"}
+{"entity": "Frederick University", "url": "*.frederick.ac.cy/*", "country": "Cyprus"}
+{"entity": "Girne American University", "url": "*.gau.edu.tr/*", "country": "Cyprus"}
+{"entity": "Intercollege", "url": "*.intercollege.ac.cy/*", "country": "Cyprus"}
+{"entity": "European University of Lefke", "url": "*.lefke.edu.tr/*", "country": "Cyprus"}
+{"entity": "Near East University", "url": "*.neu.edu.tr/*", "country": "Cyprus"}
+{"entity": "Open University of Cyprus", "url": "*.ouc.ac.cy/*", "country": "Cyprus"}
+{"entity": "University of Cyprus", "url": "*.ucy.ac.cy/*", "country": "Cyprus"}
+{"entity": "University of Nicosia", "url": "*.unic.ac.cy/*", "country": "Cyprus"}
+{"entity": "Charles University Prague", "url": "*.cuni.cz/*", "country": "Czech Republic"}
+{"entity": "Czech Technical University of Prague", "url": "*.cvut.cz/*", "country": "Czech Republic"}
+{"entity": "Czech University of Agriculture Prague", "url": "*.czu.cz/*", "country": "Czech Republic"}
+{"entity": "University of South Bohemia", "url": "*.jcu.cz/*", "country": "Czech Republic"}
+{"entity": "Mendel University of Agriculture and Forestry", "url": "*.mendelu.cz/*", "country": "Czech Republic"}
+{"entity": "Prague International University", "url": "*.mpu-prague.cz/*", "country": "Czech Republic"}
+{"entity": "Masaryk University", "url": "*.muni.cz/*", "country": "Czech Republic"}
+{"entity": "University of Ostrava", "url": "*.osu.cz/*", "country": "Czech Republic"}
+{"entity": "Prague College", "url": "*.praguecollege.cz/*", "country": "Czech Republic"}
+{"entity": "Silesian University", "url": "*.slu.cz/*", "country": "Czech Republic"}

@@ -1,50 +1,50 @@
-{"name": "Kano State University of Technology Wudil", "root_url": "*.kustwudil.edu.ng/*", "country": "Nigeria"}
-{"name": "Kwara State Polytecnic", "root_url": "*.kwarapoly.edu.ng/*", "country": "Nigeria"}
-{"name": "Kwararafa University", "root_url": "*.kwararafauniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Kwara State University", "root_url": "*.kwasu.edu.ng/*", "country": "Nigeria"}
-{"name": "Lagos State Polytechnic", "root_url": "*.laspotech.net/*", "country": "Nigeria"}
-{"name": "Lagos State University", "root_url": "*.lasunigeria.org/*", "country": "Nigeria"}
-{"name": "Ladoke Akintola University of Technology", "root_url": "*.lautech.edu.ng/*", "country": "Nigeria"}
-{"name": "Lead City University of Ibadan", "root_url": "*.lcu.edu.ng/*", "country": "Nigeria"}
-{"name": "Landmark University", "root_url": "*.lmu.edu.ng/*", "country": "Nigeria"}
-{"name": "Madonna University", "root_url": "*.madonnauniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Michael Okpara University of Agriculture", "root_url": "*.mouau.edu.ng/*", "country": "Nigeria"}
-{"name": "Lagos City Polytechnic", "root_url": "*.mylcp.net/*", "country": "Nigeria"}
-{"name": "Nigerian Defence Academy", "root_url": "*.nda.edu.ng/*", "country": "Nigeria"}
-{"name": "Niger Delta University", "root_url": "*.ndu.edu.ng/*", "country": "Nigeria"}
-{"name": "National Open University of Nigeria", "root_url": "*.nou.edu.ng/*", "country": "Nigeria"}
-{"name": "Novena University", "root_url": "*.novenauniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Nasarawa State University Keffi", "root_url": "*.nsuk.edu.ng/*", "country": "Nigeria"}
-{"name": "Nigerian Turkish Nile University", "root_url": "*.ntnu.edu.ng/*", "country": "Nigeria"}
-{"name": "Obong University", "root_url": "*.obonguniversity.net/*", "country": "Nigeria"}
-{"name": "Oduduwa University", "root_url": "*.oduduwauniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Olabisi Onabanjo University", "root_url": "*.oouagoiwoye.edu.ng/*", "country": "Nigeria"}
-{"name": "Ondo State University of Science and Technology", "root_url": "*.osustech.edu.ng/*", "country": "Nigeria"}
-{"name": "Paul University", "root_url": "*.pauluniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Polytechnic Ibadan", "root_url": "*.polyibadan.edu.ng/*", "country": "Nigeria"}
-{"name": "Renaissance University", "root_url": "*.rnu.edu.ng/*", "country": "Nigeria"}
-{"name": "Redeemers University", "root_url": "*.run.edu.ng/*", "country": "Nigeria"}
-{"name": "Salem University", "root_url": "*.salemuniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Sokoto State University", "root_url": "*.ssu.edu.ng/*", "country": "Nigeria"}
-{"name": "Tansian University", "root_url": "*.tansianuniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Tai Solarin University of Education", "root_url": "*.tasued.edu.ng/*", "country": "Nigeria"}
-{"name": "Taraba State University", "root_url": "*.tsuniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Agriculture Makurdi", "root_url": "*.uam.edu.ng/*", "country": "Nigeria"}
-{"name": "Usmanu Danfodiyo University Sokoto", "root_url": "*.udusok.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Ibadan", "root_url": "*.ui.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Agriculture Abeokuta", "root_url": "*.unaab.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Benin", "root_url": "*.uniben.edu/*", "country": "Nigeria"}
-{"name": "University of Abuja", "root_url": "*.unibuja.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Calabar", "root_url": "*.unical.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Jos", "root_url": "*.unijos.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Lagos", "root_url": "*.unilag.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Ilorin", "root_url": "*.unilorin.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Maiduguri", "root_url": "*.unimaid.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Mkar", "root_url": "*.unimkar.edu.ng/*", "country": "Nigeria"}
-{"name": "Osun State University", "root_url": "*.uniosun.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Portharcourt", "root_url": "*.uniport.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Uyo", "root_url": "*.uniuyo.edu.ng/*", "country": "Nigeria"}
-{"name": "Nnamdi Azikiwe University", "root_url": "*.unizik.edu.ng/*", "country": "Nigeria"}
-{"name": "University of Nigeria", "root_url": "*.unn.edu.ng/*", "country": "Nigeria"}
-{"name": "Rivers State University of Science and Technology", "root_url": "*.ust.edu.ng/*", "country": "Nigeria"}
-{"name": "Veritas University", "root_url": "*.veritas.edu.ng/*", "country": "Nigeria"}
+{"entity": "Kano State University of Technology Wudil", "url": "*.kustwudil.edu.ng/*", "country": "Nigeria"}
+{"entity": "Kwara State Polytecnic", "url": "*.kwarapoly.edu.ng/*", "country": "Nigeria"}
+{"entity": "Kwararafa University", "url": "*.kwararafauniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Kwara State University", "url": "*.kwasu.edu.ng/*", "country": "Nigeria"}
+{"entity": "Lagos State Polytechnic", "url": "*.laspotech.net/*", "country": "Nigeria"}
+{"entity": "Lagos State University", "url": "*.lasunigeria.org/*", "country": "Nigeria"}
+{"entity": "Ladoke Akintola University of Technology", "url": "*.lautech.edu.ng/*", "country": "Nigeria"}
+{"entity": "Lead City University of Ibadan", "url": "*.lcu.edu.ng/*", "country": "Nigeria"}
+{"entity": "Landmark University", "url": "*.lmu.edu.ng/*", "country": "Nigeria"}
+{"entity": "Madonna University", "url": "*.madonnauniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Michael Okpara University of Agriculture", "url": "*.mouau.edu.ng/*", "country": "Nigeria"}
+{"entity": "Lagos City Polytechnic", "url": "*.mylcp.net/*", "country": "Nigeria"}
+{"entity": "Nigerian Defence Academy", "url": "*.nda.edu.ng/*", "country": "Nigeria"}
+{"entity": "Niger Delta University", "url": "*.ndu.edu.ng/*", "country": "Nigeria"}
+{"entity": "National Open University of Nigeria", "url": "*.nou.edu.ng/*", "country": "Nigeria"}
+{"entity": "Novena University", "url": "*.novenauniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Nasarawa State University Keffi", "url": "*.nsuk.edu.ng/*", "country": "Nigeria"}
+{"entity": "Nigerian Turkish Nile University", "url": "*.ntnu.edu.ng/*", "country": "Nigeria"}
+{"entity": "Obong University", "url": "*.obonguniversity.net/*", "country": "Nigeria"}
+{"entity": "Oduduwa University", "url": "*.oduduwauniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Olabisi Onabanjo University", "url": "*.oouagoiwoye.edu.ng/*", "country": "Nigeria"}
+{"entity": "Ondo State University of Science and Technology", "url": "*.osustech.edu.ng/*", "country": "Nigeria"}
+{"entity": "Paul University", "url": "*.pauluniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Polytechnic Ibadan", "url": "*.polyibadan.edu.ng/*", "country": "Nigeria"}
+{"entity": "Renaissance University", "url": "*.rnu.edu.ng/*", "country": "Nigeria"}
+{"entity": "Redeemers University", "url": "*.run.edu.ng/*", "country": "Nigeria"}
+{"entity": "Salem University", "url": "*.salemuniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Sokoto State University", "url": "*.ssu.edu.ng/*", "country": "Nigeria"}
+{"entity": "Tansian University", "url": "*.tansianuniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Tai Solarin University of Education", "url": "*.tasued.edu.ng/*", "country": "Nigeria"}
+{"entity": "Taraba State University", "url": "*.tsuniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Agriculture Makurdi", "url": "*.uam.edu.ng/*", "country": "Nigeria"}
+{"entity": "Usmanu Danfodiyo University Sokoto", "url": "*.udusok.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Ibadan", "url": "*.ui.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Agriculture Abeokuta", "url": "*.unaab.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Benin", "url": "*.uniben.edu/*", "country": "Nigeria"}
+{"entity": "University of Abuja", "url": "*.unibuja.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Calabar", "url": "*.unical.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Jos", "url": "*.unijos.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Lagos", "url": "*.unilag.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Ilorin", "url": "*.unilorin.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Maiduguri", "url": "*.unimaid.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Mkar", "url": "*.unimkar.edu.ng/*", "country": "Nigeria"}
+{"entity": "Osun State University", "url": "*.uniosun.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Portharcourt", "url": "*.uniport.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Uyo", "url": "*.uniuyo.edu.ng/*", "country": "Nigeria"}
+{"entity": "Nnamdi Azikiwe University", "url": "*.unizik.edu.ng/*", "country": "Nigeria"}
+{"entity": "University of Nigeria", "url": "*.unn.edu.ng/*", "country": "Nigeria"}
+{"entity": "Rivers State University of Science and Technology", "url": "*.ust.edu.ng/*", "country": "Nigeria"}
+{"entity": "Veritas University", "url": "*.veritas.edu.ng/*", "country": "Nigeria"}

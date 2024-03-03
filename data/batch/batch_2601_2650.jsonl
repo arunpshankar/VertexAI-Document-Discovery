@@ -1,50 +1,50 @@
-{"name": "Iceland Academy of the Arts", "root_url": "*.lhi.is/*", "country": "Iceland"}
-{"name": "University of Akureyri", "root_url": "*.unak.is/*", "country": "Iceland"}
-{"name": "University of Health Sciences Andhra Pradesh", "root_url": "*.59.163.116.210/*", "country": "India"}
-{"name": "Assam Agricultural University", "root_url": "*.aau.ac.in/*", "country": "India"}
-{"name": "Ahmedabad University", "root_url": "*.ahduni.edu.in/*", "country": "India"}
-{"name": "All India Institute of Medical Sciences", "root_url": "*.aiims.ac.in/*", "country": "India"}
-{"name": "AISECT University", "root_url": "*.aisectuniversity.ac.in/*", "country": "India"}
-{"name": "Alagappa University", "root_url": "*.alagappauniversity.ac.in/*", "country": "India"}
-{"name": "Allahabad University", "root_url": "*.alldunivpio.org/*", "country": "India"}
-{"name": "Open International University for Alternative Medicines", "root_url": "*.altmeduniversity.com/*", "country": "India"}
-{"name": "Indian Board of Alternative Medicine", "root_url": "*.altmedworld.net/*", "country": "India"}
-{"name": "Amity University", "root_url": "*.amity.edu/*", "country": "India"}
-{"name": "Amravati University", "root_url": "*.amtuni.com/*", "country": "India"}
-{"name": "Aligarh Muslim University", "root_url": "*.amu.ac.in/*", "country": "India"}
-{"name": "Andhra University", "root_url": "*.andhrauniversity.info/*", "country": "India"}
-{"name": "Acharya Ranga Agricultural University", "root_url": "*.angrau.net/*", "country": "India"}
-{"name": "Annamalai University", "root_url": "*.annamalaiuniversity.ac.in/*", "country": "India"}
-{"name": "Anna University", "root_url": "*.annauniv.edu/*", "country": "India"}
-{"name": "Awadhesh Pratap Singh University", "root_url": "*.apsurewa.nic.in/*", "country": "India"}
-{"name": "Assam University", "root_url": "*.assamuniversity.nic.in/*", "country": "India"}
-{"name": "Gujarat Ayurved University", "root_url": "*.ayurveduniversity.com/*", "country": "India"}
-{"name": "Berhampur University", "root_url": "*.bamu.nic.in/*", "country": "India"}
-{"name": "Banasthali University", "root_url": "*.banasthali.org/*", "country": "India"}
-{"name": "Bankura University", "root_url": "*.bankurauniv.com/*", "country": "India"}
-{"name": "Birsa Agricultural University", "root_url": "*.bau.nic.in/*", "country": "India"}
-{"name": "Babasaheb Bhimrao Ambedkar University", "root_url": "*.bbauindia.org/*", "country": "India"}
-{"name": "Bidhan Chandra Agricultural University", "root_url": "*.bckv.edu.in/*", "country": "India"}
-{"name": "Bharathidasan University", "root_url": "*.bdu.ernet.in/*", "country": "India"}
-{"name": "Bengal Engineering College", "root_url": "*.becs.ac.in/*", "country": "India"}
-{"name": "Bangalore University", "root_url": "*.bengaluruuniversity.com/*", "country": "India"}
-{"name": "Bhagwant University", "root_url": "*.bhagwantuniversity.com/*", "country": "India"}
-{"name": "Bharathiar University", "root_url": "*.bharathi.ernet.in/*", "country": "India"}
-{"name": "Bharati Vidyapeeth University", "root_url": "*.bharatividyapeeth.edu/*", "country": "India"}
-{"name": "Bhavnagar University", "root_url": "*.bhavuni.edu/*", "country": "India"}
-{"name": "Banaras Hindu University", "root_url": "*.bhu.ac.in/*", "country": "India"}
-{"name": "Orissa University of Agriculture and Technology", "root_url": "*.bhub.ori.nic.in/ouat/*", "country": "India"}
-{"name": "Birla Institute of Technology and Science", "root_url": "*.bits-pilani.ac.in/*", "country": "India"}
-{"name": "Bhupendra Narayan Mandal University", "root_url": "*.bnmu.in/*", "country": "India"}
-{"name": "Biju Pattnaik University of Technology", "root_url": "*.bput.org/*", "country": "India"}
-{"name": "Barkatullah University", "root_url": "*.bubhopal.nic.in/*", "country": "India"}
-{"name": "Bundelkhand University", "root_url": "*.bundelkhanduniversity.org/*", "country": "India"}
-{"name": "University of Burdwan", "root_url": "*.burdwanuniversity.ac.in/*", "country": "India"}
-{"name": "University of Calcutta", "root_url": "*.caluniv.ac.in/*", "country": "India"}
-{"name": "Central Agricultural University", "root_url": "*.cau.org.in/*", "country": "India"}
-{"name": "Chaudhary Charan Singh University", "root_url": "*.ccsuniversity.ac.in/*", "country": "India"}
-{"name": "Center for Entrepreneurship and Small Business Management", "root_url": "*.cesbm.ac.in/*", "country": "India"}
-{"name": "Christ University", "root_url": "*.christuniversity.in/*", "country": "India"}
-{"name": "Central Institute of English and Foreign Languages", "root_url": "*.ciefl.org/*", "country": "India"}
-{"name": "Central Institute of Fisheries Education", "root_url": "*.cife.edu.in/*", "country": "India"}
-{"name": "Central Institute of Higher Tibetan Studies", "root_url": "*.cihts.ac.in/*", "country": "India"}
+{"entity": "Iceland Academy of the Arts", "url": "*.lhi.is/*", "country": "Iceland"}
+{"entity": "University of Akureyri", "url": "*.unak.is/*", "country": "Iceland"}
+{"entity": "University of Health Sciences Andhra Pradesh", "url": "*.59.163.116.210/*", "country": "India"}
+{"entity": "Assam Agricultural University", "url": "*.aau.ac.in/*", "country": "India"}
+{"entity": "Ahmedabad University", "url": "*.ahduni.edu.in/*", "country": "India"}
+{"entity": "All India Institute of Medical Sciences", "url": "*.aiims.ac.in/*", "country": "India"}
+{"entity": "AISECT University", "url": "*.aisectuniversity.ac.in/*", "country": "India"}
+{"entity": "Alagappa University", "url": "*.alagappauniversity.ac.in/*", "country": "India"}
+{"entity": "Allahabad University", "url": "*.alldunivpio.org/*", "country": "India"}
+{"entity": "Open International University for Alternative Medicines", "url": "*.altmeduniversity.com/*", "country": "India"}
+{"entity": "Indian Board of Alternative Medicine", "url": "*.altmedworld.net/*", "country": "India"}
+{"entity": "Amity University", "url": "*.amity.edu/*", "country": "India"}
+{"entity": "Amravati University", "url": "*.amtuni.com/*", "country": "India"}
+{"entity": "Aligarh Muslim University", "url": "*.amu.ac.in/*", "country": "India"}
+{"entity": "Andhra University", "url": "*.andhrauniversity.info/*", "country": "India"}
+{"entity": "Acharya Ranga Agricultural University", "url": "*.angrau.net/*", "country": "India"}
+{"entity": "Annamalai University", "url": "*.annamalaiuniversity.ac.in/*", "country": "India"}
+{"entity": "Anna University", "url": "*.annauniv.edu/*", "country": "India"}
+{"entity": "Awadhesh Pratap Singh University", "url": "*.apsurewa.nic.in/*", "country": "India"}
+{"entity": "Assam University", "url": "*.assamuniversity.nic.in/*", "country": "India"}
+{"entity": "Gujarat Ayurved University", "url": "*.ayurveduniversity.com/*", "country": "India"}
+{"entity": "Berhampur University", "url": "*.bamu.nic.in/*", "country": "India"}
+{"entity": "Banasthali University", "url": "*.banasthali.org/*", "country": "India"}
+{"entity": "Bankura University", "url": "*.bankurauniv.com/*", "country": "India"}
+{"entity": "Birsa Agricultural University", "url": "*.bau.nic.in/*", "country": "India"}
+{"entity": "Babasaheb Bhimrao Ambedkar University", "url": "*.bbauindia.org/*", "country": "India"}
+{"entity": "Bidhan Chandra Agricultural University", "url": "*.bckv.edu.in/*", "country": "India"}
+{"entity": "Bharathidasan University", "url": "*.bdu.ernet.in/*", "country": "India"}
+{"entity": "Bengal Engineering College", "url": "*.becs.ac.in/*", "country": "India"}
+{"entity": "Bangalore University", "url": "*.bengaluruuniversity.com/*", "country": "India"}
+{"entity": "Bhagwant University", "url": "*.bhagwantuniversity.com/*", "country": "India"}
+{"entity": "Bharathiar University", "url": "*.bharathi.ernet.in/*", "country": "India"}
+{"entity": "Bharati Vidyapeeth University", "url": "*.bharatividyapeeth.edu/*", "country": "India"}
+{"entity": "Bhavnagar University", "url": "*.bhavuni.edu/*", "country": "India"}
+{"entity": "Banaras Hindu University", "url": "*.bhu.ac.in/*", "country": "India"}
+{"entity": "Orissa University of Agriculture and Technology", "url": "*.bhub.ori.nic.in/ouat/*", "country": "India"}
+{"entity": "Birla Institute of Technology and Science", "url": "*.bits-pilani.ac.in/*", "country": "India"}
+{"entity": "Bhupendra Narayan Mandal University", "url": "*.bnmu.in/*", "country": "India"}
+{"entity": "Biju Pattnaik University of Technology", "url": "*.bput.org/*", "country": "India"}
+{"entity": "Barkatullah University", "url": "*.bubhopal.nic.in/*", "country": "India"}
+{"entity": "Bundelkhand University", "url": "*.bundelkhanduniversity.org/*", "country": "India"}
+{"entity": "University of Burdwan", "url": "*.burdwanuniversity.ac.in/*", "country": "India"}
+{"entity": "University of Calcutta", "url": "*.caluniv.ac.in/*", "country": "India"}
+{"entity": "Central Agricultural University", "url": "*.cau.org.in/*", "country": "India"}
+{"entity": "Chaudhary Charan Singh University", "url": "*.ccsuniversity.ac.in/*", "country": "India"}
+{"entity": "Center for Entrepreneurship and Small Business Management", "url": "*.cesbm.ac.in/*", "country": "India"}
+{"entity": "Christ University", "url": "*.christuniversity.in/*", "country": "India"}
+{"entity": "Central Institute of English and Foreign Languages", "url": "*.ciefl.org/*", "country": "India"}
+{"entity": "Central Institute of Fisheries Education", "url": "*.cife.edu.in/*", "country": "India"}
+{"entity": "Central Institute of Higher Tibetan Studies", "url": "*.cihts.ac.in/*", "country": "India"}

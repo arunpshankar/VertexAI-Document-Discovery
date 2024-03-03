@@ -1,50 +1,50 @@
-{"name": "International Hellenic University", "root_url": "*.ihu.edu.gr/*", "country": "Greece"}
-{"name": "University of LaVerne in Athens", "root_url": "*.laverne.edu.gr/*", "country": "Greece"}
-{"name": "National Technical University of Athens", "root_url": "*.ntua.gr/*", "country": "Greece"}
-{"name": "Panteios University of Economics and Political Sciences Athens", "root_url": "*.panteion.gr/*", "country": "Greece"}
-{"name": "Hellenic Army Academy", "root_url": "*.sse.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Athens", "root_url": "*.teiath.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Epiros", "root_url": "*.teiep.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Heraklion", "root_url": "*.teiher.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Kalamata", "root_url": "*.teikal.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Kavala", "root_url": "*.teikav.edu.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Kozani", "root_url": "*.teikoz.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Lamia", "root_url": "*.teilam.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Larissa", "root_url": "*.teilar.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Mesologgi", "root_url": "*.teimes.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Patras", "root_url": "*.teipat.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Piraeus", "root_url": "*.teipir.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Serres", "root_url": "*.teiser.gr/*", "country": "Greece"}
-{"name": "Technological Education Institute of Thessaloniki", "root_url": "*.teithe.gr/*", "country": "Greece"}
-{"name": "Technical University of Crete", "root_url": "*.tuc.gr/*", "country": "Greece"}
-{"name": "University of Central Greece", "root_url": "*.ucg.gr/*", "country": "Greece"}
-{"name": "University of Indianapolis in Athens", "root_url": "*.uindy.edu.gr/*", "country": "Greece"}
-{"name": "Ionian University Corfu", "root_url": "*.uion.edu.gr/*", "country": "Greece"}
-{"name": "University of Piraeus", "root_url": "*.unipi.gr/*", "country": "Greece"}
-{"name": "University of Athens", "root_url": "*.uoa.gr/*", "country": "Greece"}
-{"name": "University of Crete", "root_url": "*.uoc.gr/*", "country": "Greece"}
-{"name": "University of Ioannina", "root_url": "*.uoi.gr/*", "country": "Greece"}
-{"name": "University of Macedonia", "root_url": "*.uom.gr/*", "country": "Greece"}
-{"name": "University of Peloponnese", "root_url": "*.uop.gr/*", "country": "Greece"}
-{"name": "University of Western Macedonia", "root_url": "*.uowm.gr/*", "country": "Greece"}
-{"name": "University of Patras", "root_url": "*.upatras.gr/*", "country": "Greece"}
-{"name": "University of Thessaly", "root_url": "*.uth.gr/*", "country": "Greece"}
-{"name": "University of Greenland", "root_url": "*.ilisimatusarfik.gl/*", "country": "Greenland"}
-{"name": "University of Guam", "root_url": "*.uog.edu/*", "country": "Guam"}
-{"name": "Centro Universitario Ciudad Vieja", "root_url": "*.cucv.edu.gt/*", "country": "Guatemala"}
-{"name": "Centro Universitario de Occidente", "root_url": "*.cunoc.edu.gt/*", "country": "Guatemala"}
-{"name": "Universidad Galileo", "root_url": "*.galileo.edu/*", "country": "Guatemala"}
-{"name": "Universidad del Istmo", "root_url": "*.unis.edu.gt/*", "country": "Guatemala"}
-{"name": "Universidad Panamericana", "root_url": "*.upana.edu.gt/*", "country": "Guatemala"}
-{"name": "Universidad Rural de Guatemala", "root_url": "*.urural.edu.gt/*", "country": "Guatemala"}
-{"name": "Universidad de San Carlos de Guatemala", "root_url": "*.usac.edu.gt/*", "country": "Guatemala"}
-{"name": "Universidad del Valle de Guatemala", "root_url": "*.uvg.edu.gt/*", "country": "Guatemala"}
-{"name": "Gemsville Technical University", "root_url": "*.gemsvilleuniversity.com/*", "country": "Guyana"}
-{"name": "Greenheart Medical School", "root_url": "*.greenheartmed.org/*", "country": "Guyana"}
-{"name": "Texila American University", "root_url": "*.tauedu.org/*", "country": "Guyana"}
-{"name": "University of Guyana", "root_url": "*.uog.edu.gy/*", "country": "Guyana"}
-{"name": "American University of the Caribbean", "root_url": "*.auchaiti.org/*", "country": "Haiti"}
-{"name": "Pontifcia Universitas Lateranensis", "root_url": "*.pul.it/*", "country": "Holy See (Vatican City State)"}
-{"name": "Athenaeum Pontificium Regina Apostolorum", "root_url": "*.upra.org/*", "country": "Holy See (Vatican City State)"}
-{"name": "Universidad Metropolitana de Honduras", "root_url": "*.unimetro.edu.hn/*", "country": "Honduras"}
-{"name": "Universidad de San Pedro Sula", "root_url": "*.usps.edu.hn/*", "country": "Honduras"}
+{"entity": "International Hellenic University", "url": "*.ihu.edu.gr/*", "country": "Greece"}
+{"entity": "University of LaVerne in Athens", "url": "*.laverne.edu.gr/*", "country": "Greece"}
+{"entity": "National Technical University of Athens", "url": "*.ntua.gr/*", "country": "Greece"}
+{"entity": "Panteios University of Economics and Political Sciences Athens", "url": "*.panteion.gr/*", "country": "Greece"}
+{"entity": "Hellenic Army Academy", "url": "*.sse.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Athens", "url": "*.teiath.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Epiros", "url": "*.teiep.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Heraklion", "url": "*.teiher.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Kalamata", "url": "*.teikal.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Kavala", "url": "*.teikav.edu.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Kozani", "url": "*.teikoz.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Lamia", "url": "*.teilam.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Larissa", "url": "*.teilar.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Mesologgi", "url": "*.teimes.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Patras", "url": "*.teipat.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Piraeus", "url": "*.teipir.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Serres", "url": "*.teiser.gr/*", "country": "Greece"}
+{"entity": "Technological Education Institute of Thessaloniki", "url": "*.teithe.gr/*", "country": "Greece"}
+{"entity": "Technical University of Crete", "url": "*.tuc.gr/*", "country": "Greece"}
+{"entity": "University of Central Greece", "url": "*.ucg.gr/*", "country": "Greece"}
+{"entity": "University of Indianapolis in Athens", "url": "*.uindy.edu.gr/*", "country": "Greece"}
+{"entity": "Ionian University Corfu", "url": "*.uion.edu.gr/*", "country": "Greece"}
+{"entity": "University of Piraeus", "url": "*.unipi.gr/*", "country": "Greece"}
+{"entity": "University of Athens", "url": "*.uoa.gr/*", "country": "Greece"}
+{"entity": "University of Crete", "url": "*.uoc.gr/*", "country": "Greece"}
+{"entity": "University of Ioannina", "url": "*.uoi.gr/*", "country": "Greece"}
+{"entity": "University of Macedonia", "url": "*.uom.gr/*", "country": "Greece"}
+{"entity": "University of Peloponnese", "url": "*.uop.gr/*", "country": "Greece"}
+{"entity": "University of Western Macedonia", "url": "*.uowm.gr/*", "country": "Greece"}
+{"entity": "University of Patras", "url": "*.upatras.gr/*", "country": "Greece"}
+{"entity": "University of Thessaly", "url": "*.uth.gr/*", "country": "Greece"}
+{"entity": "University of Greenland", "url": "*.ilisimatusarfik.gl/*", "country": "Greenland"}
+{"entity": "University of Guam", "url": "*.uog.edu/*", "country": "Guam"}
+{"entity": "Centro Universitario Ciudad Vieja", "url": "*.cucv.edu.gt/*", "country": "Guatemala"}
+{"entity": "Centro Universitario de Occidente", "url": "*.cunoc.edu.gt/*", "country": "Guatemala"}
+{"entity": "Universidad Galileo", "url": "*.galileo.edu/*", "country": "Guatemala"}
+{"entity": "Universidad del Istmo", "url": "*.unis.edu.gt/*", "country": "Guatemala"}
+{"entity": "Universidad Panamericana", "url": "*.upana.edu.gt/*", "country": "Guatemala"}
+{"entity": "Universidad Rural de Guatemala", "url": "*.urural.edu.gt/*", "country": "Guatemala"}
+{"entity": "Universidad de San Carlos de Guatemala", "url": "*.usac.edu.gt/*", "country": "Guatemala"}
+{"entity": "Universidad del Valle de Guatemala", "url": "*.uvg.edu.gt/*", "country": "Guatemala"}
+{"entity": "Gemsville Technical University", "url": "*.gemsvilleuniversity.com/*", "country": "Guyana"}
+{"entity": "Greenheart Medical School", "url": "*.greenheartmed.org/*", "country": "Guyana"}
+{"entity": "Texila American University", "url": "*.tauedu.org/*", "country": "Guyana"}
+{"entity": "University of Guyana", "url": "*.uog.edu.gy/*", "country": "Guyana"}
+{"entity": "American University of the Caribbean", "url": "*.auchaiti.org/*", "country": "Haiti"}
+{"entity": "Pontifcia Universitas Lateranensis", "url": "*.pul.it/*", "country": "Holy See (Vatican City State)"}
+{"entity": "Athenaeum Pontificium Regina Apostolorum", "url": "*.upra.org/*", "country": "Holy See (Vatican City State)"}
+{"entity": "Universidad Metropolitana de Honduras", "url": "*.unimetro.edu.hn/*", "country": "Honduras"}
+{"entity": "Universidad de San Pedro Sula", "url": "*.usps.edu.hn/*", "country": "Honduras"}

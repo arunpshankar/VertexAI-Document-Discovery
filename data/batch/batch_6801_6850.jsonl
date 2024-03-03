@@ -1,50 +1,50 @@
-{"name": "Ulster County Community College", "root_url": "*.WWW.SUNYULSTER.EDU*", "country": "United States"}
-{"name": "Alamance Community College", "root_url": "*.alamancecc.edu*", "country": "United States"}
-{"name": "Beaufort County Community College", "root_url": "*.beaufortccc.edu*", "country": "United States"}
-{"name": "Bladen Community College", "root_url": "*.bladencc.edu*", "country": "United States"}
-{"name": "Blue Ridge Community College", "root_url": "*.blueridge.edu*", "country": "United States"}
-{"name": "Brunswick Community College", "root_url": "*.brunswickcc.edu*", "country": "United States"}
-{"name": "Caldwell Community College and Technical Institute", "root_url": "*.cccti.edu*", "country": "United States"}
-{"name": "Cape Fear Community College", "root_url": "*.cfcc.edu*", "country": "United States"}
-{"name": "Carolinas College of Health Sciences", "root_url": "*.carolinascollege.edu*", "country": "United States"}
-{"name": "Carteret Community College", "root_url": "*.carteret.edu*", "country": "United States"}
-{"name": "Catawba Valley Community College", "root_url": "*.cvcc.edu*", "country": "United States"}
-{"name": "Central Carolina Community College", "root_url": "*.cccc.edu*", "country": "United States"}
-{"name": "Central Piedmont Community College", "root_url": "*.cpcc.edu*", "country": "United States"}
-{"name": "Cleveland Community College", "root_url": "*.clevelandcc.edu*", "country": "United States"}
-{"name": "Coastal Carolina Community College", "root_url": "*.coastalcarolina.edu/*", "country": "United States"}
-{"name": "College of the Albemarle", "root_url": "*.albemarle.edu*", "country": "United States"}
-{"name": "Craven Community College", "root_url": "*.cravencc.edu*", "country": "United States"}
-{"name": "Davidson County Community College", "root_url": "*.davidsonccc.edu*", "country": "United States"}
-{"name": "Durham Technical Community College", "root_url": "*.durhamtech.edu*", "country": "United States"}
-{"name": "Edgecombe Community College", "root_url": "*.edgecombe.edu*", "country": "United States"}
-{"name": "Fayetteville Technical Community College", "root_url": "*.faytechcc.edu*", "country": "United States"}
-{"name": "Forsyth Technical Community College", "root_url": "*.forsythtech.edu/*", "country": "United States"}
-{"name": "Gaston College", "root_url": "*.gaston.edu*", "country": "United States"}
-{"name": "Guilford Technical Community College", "root_url": "*.gtcc.edu*", "country": "United States"}
-{"name": "Halifax Community College", "root_url": "*.halifaxcc.edu*", "country": "United States"}
-{"name": "Haywood Community College", "root_url": "*.haywood.edu*", "country": "United States"}
-{"name": "Isothermal Community College", "root_url": "*.isothermal.edu*", "country": "United States"}
-{"name": "James Sprunt Community College", "root_url": "*.jamessprunt.edu*", "country": "United States"}
-{"name": "Johnston Community College", "root_url": "*.johnstoncc.edu*", "country": "United States"}
-{"name": "Louisburg College", "root_url": "*.louisburg.edu*", "country": "United States"}
-{"name": "Martin Community College", "root_url": "*.martincc.edu*", "country": "United States"}
-{"name": "Mayland Community College", "root_url": "*.mayland.edu*", "country": "United States"}
-{"name": "McDowell Technical Community College", "root_url": "*.mcdowelltech.edu*", "country": "United States"}
-{"name": "Mitchell Community College", "root_url": "*.mitchellcc.edu*", "country": "United States"}
-{"name": "Montgomery Community College", "root_url": "*.montgomery.edu*", "country": "United States"}
-{"name": "Nash Community College", "root_url": "*.nashcc.edu*", "country": "United States"}
-{"name": "Pamlico Community College", "root_url": "*.pamlicocc.edu*", "country": "United States"}
-{"name": "Piedmont Community College", "root_url": "*.piedmontcc.edu*", "country": "United States"}
-{"name": "Pitt Community College", "root_url": "*.pittcc.edu*", "country": "United States"}
-{"name": "Randolph Community College", "root_url": "*.randolph.edu*", "country": "United States"}
-{"name": "Richmond Community College", "root_url": "*.richmondcc.edu*", "country": "United States"}
-{"name": "Robeson Community College", "root_url": "*.robeson.edu*", "country": "United States"}
-{"name": "Rockingham Community College", "root_url": "*.rockinghamcc.edu*", "country": "United States"}
-{"name": "Sampson Community College", "root_url": "*.sampsoncc.edu*", "country": "United States"}
-{"name": "Sandhills Community College", "root_url": "*.sandhills.edu*", "country": "United States"}
-{"name": "South Piedmont Community College", "root_url": "*.spcc.edu*", "country": "United States"}
-{"name": "Stanly Community College", "root_url": "*.stanly.edu*", "country": "United States"}
-{"name": "Surry Community College", "root_url": "*.surry.edu*", "country": "United States"}
-{"name": "Wake Technical Community College", "root_url": "*.waketech.edu/*", "country": "United States"}
-{"name": "Wayne Community College", "root_url": "*.waynecc.edu*", "country": "United States"}
+{"entity": "Ulster County Community College", "url": "*.WWW.SUNYULSTER.EDU*", "country": "United States"}
+{"entity": "Alamance Community College", "url": "*.alamancecc.edu*", "country": "United States"}
+{"entity": "Beaufort County Community College", "url": "*.beaufortccc.edu*", "country": "United States"}
+{"entity": "Bladen Community College", "url": "*.bladencc.edu*", "country": "United States"}
+{"entity": "Blue Ridge Community College", "url": "*.blueridge.edu*", "country": "United States"}
+{"entity": "Brunswick Community College", "url": "*.brunswickcc.edu*", "country": "United States"}
+{"entity": "Caldwell Community College and Technical Institute", "url": "*.cccti.edu*", "country": "United States"}
+{"entity": "Cape Fear Community College", "url": "*.cfcc.edu*", "country": "United States"}
+{"entity": "Carolinas College of Health Sciences", "url": "*.carolinascollege.edu*", "country": "United States"}
+{"entity": "Carteret Community College", "url": "*.carteret.edu*", "country": "United States"}
+{"entity": "Catawba Valley Community College", "url": "*.cvcc.edu*", "country": "United States"}
+{"entity": "Central Carolina Community College", "url": "*.cccc.edu*", "country": "United States"}
+{"entity": "Central Piedmont Community College", "url": "*.cpcc.edu*", "country": "United States"}
+{"entity": "Cleveland Community College", "url": "*.clevelandcc.edu*", "country": "United States"}
+{"entity": "Coastal Carolina Community College", "url": "*.coastalcarolina.edu/*", "country": "United States"}
+{"entity": "College of the Albemarle", "url": "*.albemarle.edu*", "country": "United States"}
+{"entity": "Craven Community College", "url": "*.cravencc.edu*", "country": "United States"}
+{"entity": "Davidson County Community College", "url": "*.davidsonccc.edu*", "country": "United States"}
+{"entity": "Durham Technical Community College", "url": "*.durhamtech.edu*", "country": "United States"}
+{"entity": "Edgecombe Community College", "url": "*.edgecombe.edu*", "country": "United States"}
+{"entity": "Fayetteville Technical Community College", "url": "*.faytechcc.edu*", "country": "United States"}
+{"entity": "Forsyth Technical Community College", "url": "*.forsythtech.edu/*", "country": "United States"}
+{"entity": "Gaston College", "url": "*.gaston.edu*", "country": "United States"}
+{"entity": "Guilford Technical Community College", "url": "*.gtcc.edu*", "country": "United States"}
+{"entity": "Halifax Community College", "url": "*.halifaxcc.edu*", "country": "United States"}
+{"entity": "Haywood Community College", "url": "*.haywood.edu*", "country": "United States"}
+{"entity": "Isothermal Community College", "url": "*.isothermal.edu*", "country": "United States"}
+{"entity": "James Sprunt Community College", "url": "*.jamessprunt.edu*", "country": "United States"}
+{"entity": "Johnston Community College", "url": "*.johnstoncc.edu*", "country": "United States"}
+{"entity": "Louisburg College", "url": "*.louisburg.edu*", "country": "United States"}
+{"entity": "Martin Community College", "url": "*.martincc.edu*", "country": "United States"}
+{"entity": "Mayland Community College", "url": "*.mayland.edu*", "country": "United States"}
+{"entity": "McDowell Technical Community College", "url": "*.mcdowelltech.edu*", "country": "United States"}
+{"entity": "Mitchell Community College", "url": "*.mitchellcc.edu*", "country": "United States"}
+{"entity": "Montgomery Community College", "url": "*.montgomery.edu*", "country": "United States"}
+{"entity": "Nash Community College", "url": "*.nashcc.edu*", "country": "United States"}
+{"entity": "Pamlico Community College", "url": "*.pamlicocc.edu*", "country": "United States"}
+{"entity": "Piedmont Community College", "url": "*.piedmontcc.edu*", "country": "United States"}
+{"entity": "Pitt Community College", "url": "*.pittcc.edu*", "country": "United States"}
+{"entity": "Randolph Community College", "url": "*.randolph.edu*", "country": "United States"}
+{"entity": "Richmond Community College", "url": "*.richmondcc.edu*", "country": "United States"}
+{"entity": "Robeson Community College", "url": "*.robeson.edu*", "country": "United States"}
+{"entity": "Rockingham Community College", "url": "*.rockinghamcc.edu*", "country": "United States"}
+{"entity": "Sampson Community College", "url": "*.sampsoncc.edu*", "country": "United States"}
+{"entity": "Sandhills Community College", "url": "*.sandhills.edu*", "country": "United States"}
+{"entity": "South Piedmont Community College", "url": "*.spcc.edu*", "country": "United States"}
+{"entity": "Stanly Community College", "url": "*.stanly.edu*", "country": "United States"}
+{"entity": "Surry Community College", "url": "*.surry.edu*", "country": "United States"}
+{"entity": "Wake Technical Community College", "url": "*.waketech.edu/*", "country": "United States"}
+{"entity": "Wayne Community College", "url": "*.waynecc.edu*", "country": "United States"}

@@ -1,50 +1,50 @@
-{"name": "Universidad Valle del Grijalva", "root_url": "*.uvg1.net/*", "country": "Mexico"}
-{"name": "Universidad Veracruzana", "root_url": "*.uv.mx/*", "country": "Mexico"}
-{"name": "Universidad del Valle de Toluca", "root_url": "*.uvt.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Xicotepetl", "root_url": "*.uxac.edu.mx/*", "country": "Mexico"}
-{"name": "Westhill University", "root_url": "*.westhill.edu.mx/*", "country": "Mexico"}
-{"name": "Academy of Economic Studies of Moldova", "root_url": "*.ase.md/*", "country": "Moldova, Republic of"}
-{"name": "Comrat State University", "root_url": "*.kdu.md/*", "country": "Moldova, Republic of"}
-{"name": "Moldova State Agricultural University", "root_url": "*.uasm.md/*", "country": "Moldova, Republic of"}
-{"name": "Moldova Cooperative Trade University", "root_url": "*.uccm.md/*", "country": "Moldova, Republic of"}
-{"name": "Free International University of Moldova", "root_url": "*.ulim.md/*", "country": "Moldova, Republic of"}
-{"name": "University of Applied Sciences of Moldova", "root_url": "*.usam.md/*", "country": "Moldova, Republic of"}
-{"name": "Moldova State University", "root_url": "*.usm.md/*", "country": "Moldova, Republic of"}
-{"name": "Tiraspol State University", "root_url": "*.ust.md/*", "country": "Moldova, Republic of"}
-{"name": "Moldova Technical University", "root_url": "*.utm.md/*", "country": "Moldova, Republic of"}
-{"name": "Health sciences University of Mongolia", "root_url": "*.hsum-ac.mn/*", "country": "Mongolia"}
-{"name": "University of the Humanities", "root_url": "*.humanities.mn/*", "country": "Mongolia"}
-{"name": "Institute of Commerce and Business", "root_url": "*.icb.edu.mn/*", "country": "Mongolia"}
-{"name": "Mongolian State University of Arts and Culture", "root_url": "*.msuac.edu.mn/*", "country": "Mongolia"}
-{"name": "Mongolian State University of Agriculture", "root_url": "*.msua.edu.mn/*", "country": "Mongolia"}
-{"name": "Mongolian State University of Education", "root_url": "*.msue.edu.mn/*", "country": "Mongolia"}
-{"name": "Mongolian University of Science and Technology", "root_url": "*.must.edu.mn/*", "country": "Mongolia"}
-{"name": "Mongolian National University", "root_url": "*.num.edu.mn/*", "country": "Mongolia"}
-{"name": "Orkhon University", "root_url": "*.orkhon.edu.mn/*", "country": "Mongolia"}
-{"name": "Ulaanbaatar University", "root_url": "*.ulaanbaatar.edu.mn/*", "country": "Mongolia"}
-{"name": "University of Montenegro", "root_url": "*.ucg.cg.ac.yu/*", "country": "Montenegro"}
-{"name": "Al Akhawayn University", "root_url": "*.aui.ma/*", "country": "Morocco"}
-{"name": "Ecole des Hautes Etudes en Gestion Informatique et Communication", "root_url": "*.edhec.ac.ma/*", "country": "Morocco"}
-{"name": "Ecole des Hautes Etudes Commerciales MAROC", "root_url": "*.hec.ac.ma/*", "country": "Morocco"}
-{"name": "Institut des Hautes Etudes de Management", "root_url": "*.hem.ac.ma/*", "country": "Morocco"}
-{"name": "International Institute for Higher Education", "root_url": "*.iihem.ac.ma/*", "country": "Morocco"}
-{"name": "Institute of Management and Business Technology", "root_url": "*.imbt.ma/*", "country": "Morocco"}
-{"name": "Universidade Eduardo Mondlane", "root_url": "*.uem.mz/*", "country": "Mozambique"}
-{"name": "Institute of Information Technology", "root_url": "*.iit.com.na/*", "country": "Namibia"}
-{"name": "Ilsa Independent College", "root_url": "*.ilsacollege.edu.na/*", "country": "Namibia"}
-{"name": "International University of Management", "root_url": "*.ium.edu.na/*", "country": "Namibia"}
-{"name": "Polytechnic of Namibia", "root_url": "*.polytechnic.edu.na/*", "country": "Namibia"}
-{"name": "University of Namibia", "root_url": "*.unam.na/*", "country": "Namibia"}
-{"name": "Agriculture and Forestry University", "root_url": "*.afu.edu.np/*", "country": "Nepal"}
-{"name": "Kathmandu University", "root_url": "*.ku.edu.np/*", "country": "Nepal"}
-{"name": "Lumbini Buddhist University", "root_url": "*.lbu.edu.np/*", "country": "Nepal"}
-{"name": "Nepal Sanskrit University", "root_url": "*.nsu.edu.np/*", "country": "Nepal"}
-{"name": "Pokhara University", "root_url": "*.pu.edu.np/*", "country": "Nepal"}
-{"name": "Purbanchal University", "root_url": "*.purbuniv.edu.np/*", "country": "Nepal"}
-{"name": "Tribhuvan University Kathmandu", "root_url": "*.tribhuvan-university.edu.np/*", "country": "Nepal"}
-{"name": "University of Sint Eustatius School of Medicine", "root_url": "*.eustatiusmed.edu/*", "country": "Netherlands"}
-{"name": "Dutch Delta University", "root_url": "*.ddu.nl/*", "country": "Netherlands"}
-{"name": "De Haagse Hogeschool", "root_url": "*.dehaagsehogeschool.nl/*", "country": "Netherlands"}
-{"name": "Erasmus University Rotterdam", "root_url": "*.eur.nl/*", "country": "Netherlands"}
-{"name": "European Open University", "root_url": "*.europeanopenuniversity.com/*", "country": "Netherlands"}
-{"name": "Fontys University of Applied Sciences", "root_url": "*.fontys.edu/*", "country": "Netherlands"}
+{"entity": "Universidad Valle del Grijalva", "url": "*.uvg1.net/*", "country": "Mexico"}
+{"entity": "Universidad Veracruzana", "url": "*.uv.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Valle de Toluca", "url": "*.uvt.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Xicotepetl", "url": "*.uxac.edu.mx/*", "country": "Mexico"}
+{"entity": "Westhill University", "url": "*.westhill.edu.mx/*", "country": "Mexico"}
+{"entity": "Academy of Economic Studies of Moldova", "url": "*.ase.md/*", "country": "Moldova, Republic of"}
+{"entity": "Comrat State University", "url": "*.kdu.md/*", "country": "Moldova, Republic of"}
+{"entity": "Moldova State Agricultural University", "url": "*.uasm.md/*", "country": "Moldova, Republic of"}
+{"entity": "Moldova Cooperative Trade University", "url": "*.uccm.md/*", "country": "Moldova, Republic of"}
+{"entity": "Free International University of Moldova", "url": "*.ulim.md/*", "country": "Moldova, Republic of"}
+{"entity": "University of Applied Sciences of Moldova", "url": "*.usam.md/*", "country": "Moldova, Republic of"}
+{"entity": "Moldova State University", "url": "*.usm.md/*", "country": "Moldova, Republic of"}
+{"entity": "Tiraspol State University", "url": "*.ust.md/*", "country": "Moldova, Republic of"}
+{"entity": "Moldova Technical University", "url": "*.utm.md/*", "country": "Moldova, Republic of"}
+{"entity": "Health sciences University of Mongolia", "url": "*.hsum-ac.mn/*", "country": "Mongolia"}
+{"entity": "University of the Humanities", "url": "*.humanities.mn/*", "country": "Mongolia"}
+{"entity": "Institute of Commerce and Business", "url": "*.icb.edu.mn/*", "country": "Mongolia"}
+{"entity": "Mongolian State University of Arts and Culture", "url": "*.msuac.edu.mn/*", "country": "Mongolia"}
+{"entity": "Mongolian State University of Agriculture", "url": "*.msua.edu.mn/*", "country": "Mongolia"}
+{"entity": "Mongolian State University of Education", "url": "*.msue.edu.mn/*", "country": "Mongolia"}
+{"entity": "Mongolian University of Science and Technology", "url": "*.must.edu.mn/*", "country": "Mongolia"}
+{"entity": "Mongolian National University", "url": "*.num.edu.mn/*", "country": "Mongolia"}
+{"entity": "Orkhon University", "url": "*.orkhon.edu.mn/*", "country": "Mongolia"}
+{"entity": "Ulaanbaatar University", "url": "*.ulaanbaatar.edu.mn/*", "country": "Mongolia"}
+{"entity": "University of Montenegro", "url": "*.ucg.cg.ac.yu/*", "country": "Montenegro"}
+{"entity": "Al Akhawayn University", "url": "*.aui.ma/*", "country": "Morocco"}
+{"entity": "Ecole des Hautes Etudes en Gestion Informatique et Communication", "url": "*.edhec.ac.ma/*", "country": "Morocco"}
+{"entity": "Ecole des Hautes Etudes Commerciales MAROC", "url": "*.hec.ac.ma/*", "country": "Morocco"}
+{"entity": "Institut des Hautes Etudes de Management", "url": "*.hem.ac.ma/*", "country": "Morocco"}
+{"entity": "International Institute for Higher Education", "url": "*.iihem.ac.ma/*", "country": "Morocco"}
+{"entity": "Institute of Management and Business Technology", "url": "*.imbt.ma/*", "country": "Morocco"}
+{"entity": "Universidade Eduardo Mondlane", "url": "*.uem.mz/*", "country": "Mozambique"}
+{"entity": "Institute of Information Technology", "url": "*.iit.com.na/*", "country": "Namibia"}
+{"entity": "Ilsa Independent College", "url": "*.ilsacollege.edu.na/*", "country": "Namibia"}
+{"entity": "International University of Management", "url": "*.ium.edu.na/*", "country": "Namibia"}
+{"entity": "Polytechnic of Namibia", "url": "*.polytechnic.edu.na/*", "country": "Namibia"}
+{"entity": "University of Namibia", "url": "*.unam.na/*", "country": "Namibia"}
+{"entity": "Agriculture and Forestry University", "url": "*.afu.edu.np/*", "country": "Nepal"}
+{"entity": "Kathmandu University", "url": "*.ku.edu.np/*", "country": "Nepal"}
+{"entity": "Lumbini Buddhist University", "url": "*.lbu.edu.np/*", "country": "Nepal"}
+{"entity": "Nepal Sanskrit University", "url": "*.nsu.edu.np/*", "country": "Nepal"}
+{"entity": "Pokhara University", "url": "*.pu.edu.np/*", "country": "Nepal"}
+{"entity": "Purbanchal University", "url": "*.purbuniv.edu.np/*", "country": "Nepal"}
+{"entity": "Tribhuvan University Kathmandu", "url": "*.tribhuvan-university.edu.np/*", "country": "Nepal"}
+{"entity": "University of Sint Eustatius School of Medicine", "url": "*.eustatiusmed.edu/*", "country": "Netherlands"}
+{"entity": "Dutch Delta University", "url": "*.ddu.nl/*", "country": "Netherlands"}
+{"entity": "De Haagse Hogeschool", "url": "*.dehaagsehogeschool.nl/*", "country": "Netherlands"}
+{"entity": "Erasmus University Rotterdam", "url": "*.eur.nl/*", "country": "Netherlands"}
+{"entity": "European Open University", "url": "*.europeanopenuniversity.com/*", "country": "Netherlands"}
+{"entity": "Fontys University of Applied Sciences", "url": "*.fontys.edu/*", "country": "Netherlands"}

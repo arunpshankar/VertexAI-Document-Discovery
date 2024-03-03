@@ -1,50 +1,50 @@
-{"name": "Monroe County Community College", "root_url": "*.monroeccc.edu*", "country": "United States"}
-{"name": "Montcalm Community College", "root_url": "*.montcalm.edu*", "country": "United States"}
-{"name": "Muskegon Community College", "root_url": "*.muskegoncc.edu*", "country": "United States"}
-{"name": "North Central Michigan College", "root_url": "*.ncmich.edu*", "country": "United States"}
-{"name": "Oakland Community College", "root_url": "*.oaklandcc.edu*", "country": "United States"}
-{"name": "Saginaw Chippewa Tribal College", "root_url": "*.sagchip.edu*", "country": "United States"}
-{"name": "Schoolcraft College", "root_url": "*.schoolcraft.edu*", "country": "United States"}
-{"name": "Southwestern Michigan College", "root_url": "*.swmich.edu*", "country": "United States"}
-{"name": "St Clair County Community College", "root_url": "*.sc4.edu*", "country": "United States"}
-{"name": "Washtenaw Community College", "root_url": "*.wccnet.edu*", "country": "United States"}
-{"name": "Wayne County Community College District", "root_url": "*.wcccd.edu*", "country": "United States"}
-{"name": "West Shore Community College", "root_url": "*.westshore.edu*", "country": "United States"}
-{"name": "Anoka Technical College", "root_url": "*.anokatech.edu*", "country": "United States"}
-{"name": "Century College", "root_url": "*.century.edu*", "country": "United States"}
-{"name": "Dakota County Technical College", "root_url": "*.dctc.edu/*", "country": "United States"}
-{"name": "Fond du Lac Tribal and Community College", "root_url": "*.fdltcc.edu*", "country": "United States"}
-{"name": "Hennepin Technical College", "root_url": "*.hennepintech.edu*", "country": "United States"}
-{"name": "Hibbing Community College", "root_url": "*.hibbing.edu*", "country": "United States"}
-{"name": "Inver Hills Community College", "root_url": "*.inverhills.edu*", "country": "United States"}
-{"name": "Itasca Community College", "root_url": "*.itascacc.edu/*", "country": "United States"}
-{"name": "Leech Lake Tribal College", "root_url": "*.lltc.edu*", "country": "United States"}
-{"name": "Mesabi Range Community and Technical College", "root_url": "*.mesabirange.edu*", "country": "United States"}
-{"name": "Minneapolis Community and Technical College", "root_url": "*.minneapolis.edu*", "country": "United States"}
-{"name": "Minnesota State Community and Technical College", "root_url": "*.minnesota.edu*", "country": "United States"}
-{"name": "Minnesota West Community and Technical College", "root_url": "*.mnwest.edu*", "country": "United States"}
-{"name": "Normandale Community College", "root_url": "*.normandale.edu*", "country": "United States"}
-{"name": "North Hennepin Community College", "root_url": "*.nhcc.edu*", "country": "United States"}
-{"name": "Northland Community and Technical College", "root_url": "*.northlandcollege.edu*", "country": "United States"}
-{"name": "Northwest Technical College", "root_url": "*.ntcmn.edu*", "country": "United States"}
-{"name": "Pine Technical College", "root_url": "*.pinetech.edu*", "country": "United States"}
-{"name": "Rainy River Community College", "root_url": "*.rrcc.mnscu.edu*", "country": "United States"}
-{"name": "Ridgewater College", "root_url": "*.ridgewater.edu/Pages/default.aspx*", "country": "United States"}
-{"name": "Riverland Community College", "root_url": "*.riverland.edu*", "country": "United States"}
-{"name": "Rochester Community and Technical College", "root_url": "*.rctc.edu/*", "country": "United States"}
-{"name": "Saint Paul College", "root_url": "*.saintpaul.edu*", "country": "United States"}
-{"name": "South Central College", "root_url": "*.southcentral.edu*", "country": "United States"}
-{"name": "St Cloud Technical and Community College", "root_url": "*.sctcc.edu*", "country": "United States"}
-{"name": "Vermilion Community College", "root_url": "*.vcc.edu*", "country": "United States"}
-{"name": "White Earth Tribal and Community College", "root_url": "*.wetcc.edu*", "country": "United States"}
-{"name": "Coahoma Community College", "root_url": "*.coahomacc.edu/*", "country": "United States"}
-{"name": "East Central Community College", "root_url": "*.eccc.edu*", "country": "United States"}
-{"name": "East Mississippi Community College", "root_url": "*.eastms.edu/*", "country": "United States"}
-{"name": "Hinds Community College", "root_url": "*.hindscc.edu*", "country": "United States"}
-{"name": "Holmes Community College", "root_url": "*.holmescc.edu*", "country": "United States"}
-{"name": "Itawamba Community College", "root_url": "*.iccms.edu/Default.aspx?tabid=55*", "country": "United States"}
-{"name": "Jones County Junior College", "root_url": "*.jcjc.edu*", "country": "United States"}
-{"name": "Meridian Community College", "root_url": "*.meridiancc.edu*", "country": "United States"}
-{"name": "Mississippi Delta Community College", "root_url": "*.msdelta.edu*", "country": "United States"}
-{"name": "Mississippi Gulf Coast Community College", "root_url": "*.mgccc.edu*", "country": "United States"}
-{"name": "Northeast Mississippi Community College", "root_url": "*.nemcc.edu*", "country": "United States"}
+{"entity": "Monroe County Community College", "url": "*.monroeccc.edu*", "country": "United States"}
+{"entity": "Montcalm Community College", "url": "*.montcalm.edu*", "country": "United States"}
+{"entity": "Muskegon Community College", "url": "*.muskegoncc.edu*", "country": "United States"}
+{"entity": "North Central Michigan College", "url": "*.ncmich.edu*", "country": "United States"}
+{"entity": "Oakland Community College", "url": "*.oaklandcc.edu*", "country": "United States"}
+{"entity": "Saginaw Chippewa Tribal College", "url": "*.sagchip.edu*", "country": "United States"}
+{"entity": "Schoolcraft College", "url": "*.schoolcraft.edu*", "country": "United States"}
+{"entity": "Southwestern Michigan College", "url": "*.swmich.edu*", "country": "United States"}
+{"entity": "St Clair County Community College", "url": "*.sc4.edu*", "country": "United States"}
+{"entity": "Washtenaw Community College", "url": "*.wccnet.edu*", "country": "United States"}
+{"entity": "Wayne County Community College District", "url": "*.wcccd.edu*", "country": "United States"}
+{"entity": "West Shore Community College", "url": "*.westshore.edu*", "country": "United States"}
+{"entity": "Anoka Technical College", "url": "*.anokatech.edu*", "country": "United States"}
+{"entity": "Century College", "url": "*.century.edu*", "country": "United States"}
+{"entity": "Dakota County Technical College", "url": "*.dctc.edu/*", "country": "United States"}
+{"entity": "Fond du Lac Tribal and Community College", "url": "*.fdltcc.edu*", "country": "United States"}
+{"entity": "Hennepin Technical College", "url": "*.hennepintech.edu*", "country": "United States"}
+{"entity": "Hibbing Community College", "url": "*.hibbing.edu*", "country": "United States"}
+{"entity": "Inver Hills Community College", "url": "*.inverhills.edu*", "country": "United States"}
+{"entity": "Itasca Community College", "url": "*.itascacc.edu/*", "country": "United States"}
+{"entity": "Leech Lake Tribal College", "url": "*.lltc.edu*", "country": "United States"}
+{"entity": "Mesabi Range Community and Technical College", "url": "*.mesabirange.edu*", "country": "United States"}
+{"entity": "Minneapolis Community and Technical College", "url": "*.minneapolis.edu*", "country": "United States"}
+{"entity": "Minnesota State Community and Technical College", "url": "*.minnesota.edu*", "country": "United States"}
+{"entity": "Minnesota West Community and Technical College", "url": "*.mnwest.edu*", "country": "United States"}
+{"entity": "Normandale Community College", "url": "*.normandale.edu*", "country": "United States"}
+{"entity": "North Hennepin Community College", "url": "*.nhcc.edu*", "country": "United States"}
+{"entity": "Northland Community and Technical College", "url": "*.northlandcollege.edu*", "country": "United States"}
+{"entity": "Northwest Technical College", "url": "*.ntcmn.edu*", "country": "United States"}
+{"entity": "Pine Technical College", "url": "*.pinetech.edu*", "country": "United States"}
+{"entity": "Rainy River Community College", "url": "*.rrcc.mnscu.edu*", "country": "United States"}
+{"entity": "Ridgewater College", "url": "*.ridgewater.edu/Pages/default.aspx*", "country": "United States"}
+{"entity": "Riverland Community College", "url": "*.riverland.edu*", "country": "United States"}
+{"entity": "Rochester Community and Technical College", "url": "*.rctc.edu/*", "country": "United States"}
+{"entity": "Saint Paul College", "url": "*.saintpaul.edu*", "country": "United States"}
+{"entity": "South Central College", "url": "*.southcentral.edu*", "country": "United States"}
+{"entity": "St Cloud Technical and Community College", "url": "*.sctcc.edu*", "country": "United States"}
+{"entity": "Vermilion Community College", "url": "*.vcc.edu*", "country": "United States"}
+{"entity": "White Earth Tribal and Community College", "url": "*.wetcc.edu*", "country": "United States"}
+{"entity": "Coahoma Community College", "url": "*.coahomacc.edu/*", "country": "United States"}
+{"entity": "East Central Community College", "url": "*.eccc.edu*", "country": "United States"}
+{"entity": "East Mississippi Community College", "url": "*.eastms.edu/*", "country": "United States"}
+{"entity": "Hinds Community College", "url": "*.hindscc.edu*", "country": "United States"}
+{"entity": "Holmes Community College", "url": "*.holmescc.edu*", "country": "United States"}
+{"entity": "Itawamba Community College", "url": "*.iccms.edu/Default.aspx?tabid=55*", "country": "United States"}
+{"entity": "Jones County Junior College", "url": "*.jcjc.edu*", "country": "United States"}
+{"entity": "Meridian Community College", "url": "*.meridiancc.edu*", "country": "United States"}
+{"entity": "Mississippi Delta Community College", "url": "*.msdelta.edu*", "country": "United States"}
+{"entity": "Mississippi Gulf Coast Community College", "url": "*.mgccc.edu*", "country": "United States"}
+{"entity": "Northeast Mississippi Community College", "url": "*.nemcc.edu*", "country": "United States"}

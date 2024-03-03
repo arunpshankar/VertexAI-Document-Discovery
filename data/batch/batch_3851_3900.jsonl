@@ -1,50 +1,50 @@
-{"name": "Yokohama City University", "root_url": "*.yokohama-cu.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo University of Art and Design", "root_url": "*.zokei.ac.jp/*", "country": "Japan"}
-{"name": "Arab Academy for Banking and Financial Sciences", "root_url": "*.aabfs.org/*", "country": "Jordan"}
-{"name": "Amman Arab University for Higher Studies", "root_url": "*.aau.edu.jo/*", "country": "Jordan"}
-{"name": "Al Hussein Bin Talal University", "root_url": "*.ahu.edu.jo/*", "country": "Jordan"}
-{"name": "Amman University", "root_url": "*.amman.edu/*", "country": "Jordan"}
-{"name": "Arab Open University", "root_url": "*.aou.edu.jo/*", "country": "Jordan"}
-{"name": "Applied Science University", "root_url": "*.asu.edu.jo/*", "country": "Jordan"}
-{"name": "German Jordanian University", "root_url": "*.gju.edu.jo/*", "country": "Jordan"}
-{"name": "Hashemite University", "root_url": "*.hu.edu.jo/*", "country": "Jordan"}
-{"name": "Irbid National University", "root_url": "*.inu.edu.jo/*", "country": "Jordan"}
-{"name": "Jadara University", "root_url": "*.jadara.edu.jo/*", "country": "Jordan"}
-{"name": "Jerash Private University", "root_url": "*.jerashun.edu.jo/*", "country": "Jordan"}
-{"name": "University of Jordan", "root_url": "*.ju.edu.jo/*", "country": "Jordan"}
-{"name": "Jordan University of Science and Technology", "root_url": "*.just.edu.jo/*", "country": "Jordan"}
-{"name": "Middle East University", "root_url": "*.meu.edu.jo/*", "country": "Jordan"}
-{"name": "New York Institute of Technology", "root_url": "*.nyit.edu.jo/*", "country": "Jordan"}
-{"name": "Philadelphia University", "root_url": "*.philadelphia.edu.jo/*", "country": "Jordan"}
-{"name": "Princess Sumaya University for Technology", "root_url": "*.psut.edu.jo/*", "country": "Jordan"}
-{"name": "Tafila Technical University", "root_url": "*.ttu.edu.jo/*", "country": "Jordan"}
-{"name": "University of Petra", "root_url": "*.uop.edu.jo/*", "country": "Jordan"}
-{"name": "Yarmouk University", "root_url": "*.yu.edu.jo/*", "country": "Jordan"}
-{"name": "Zarka Private University", "root_url": "*.zpu.edu.jo/*", "country": "Jordan"}
-{"name": "Abylai Khan University", "root_url": "*.ablaikhan.kz/*", "country": "Kazakhstan"}
-{"name": "Kazak State University of Agriculture", "root_url": "*.agriun.almaty.kz/*", "country": "Kazakhstan"}
-{"name": "Aktau State University", "root_url": "*.aktsu.kz/*", "country": "Kazakhstan"}
-{"name": "Atyrau State University", "root_url": "*.atgu.kz/*", "country": "Kazakhstan"}
-{"name": "East Kazakstan State Technical University", "root_url": "*.ektu.kz/*", "country": "Kazakhstan"}
-{"name": "Eurasian Institute of market", "root_url": "*.eurazir.kz/*", "country": "Kazakhstan"}
-{"name": "Kazak American University", "root_url": "*.kau.kz/*", "country": "Kazakhstan"}
-{"name": "Turar Ryskulov Kazakh Economic University", "root_url": "*.kazeu.kz/*", "country": "Kazakhstan"}
-{"name": "Abai State University", "root_url": "*.kaznpu.kz/*", "country": "Kazakhstan"}
-{"name": "Kazak National Technical University", "root_url": "*.kazntu.kz/*", "country": "Kazakhstan"}
-{"name": "Kazakh British Technical University", "root_url": "*.kbtu.kz/*", "country": "Kazakhstan"}
-{"name": "Karaganda State Technical University", "root_url": "*.kstu.kz/*", "country": "Kazakhstan"}
-{"name": "Kostanai State University", "root_url": "*.ksu.kst.kz/*", "country": "Kazakhstan"}
-{"name": "Karaganda State Buketov University", "root_url": "*.ksu.kz/*", "country": "Kazakhstan"}
-{"name": "North Kazakhstan State University", "root_url": "*.nkzu.kz/*", "country": "Kazakhstan"}
-{"name": "Pavlodar University", "root_url": "*.psu.kz/*", "country": "Kazakhstan"}
-{"name": "Suleyman Demirel University", "root_url": "*.sdu.edu.kz/*", "country": "Kazakhstan"}
-{"name": "Semey State University", "root_url": "*.semgu.kz/*", "country": "Kazakhstan"}
-{"name": "Semey State Medical University", "root_url": "*.sgma.kz/*", "country": "Kazakhstan"}
-{"name": "University of International Business", "root_url": "*.uib.kz/*", "country": "Kazakhstan"}
-{"name": "East Kazakhstan State University", "root_url": "*.vkgu.kz/*", "country": "Kazakhstan"}
-{"name": "Western Kazakhstan Agricultural University", "root_url": "*.wkau.kz/*", "country": "Kazakhstan"}
-{"name": "Zhezkazgan Baikonurov University", "root_url": "*.zhezu.kz/*", "country": "Kazakhstan"}
-{"name": "Zhetysu State University", "root_url": "*.zhgu.kz/*", "country": "Kazakhstan"}
-{"name": "Africa International University", "root_url": "*.aiu.ac.ke/*", "country": "Kenya"}
-{"name": "Aga Khan University", "root_url": "*.aku.edu/*", "country": "Kenya"}
-{"name": "Africa Nazarene University", "root_url": "*.anu.ac.ke/*", "country": "Kenya"}
+{"entity": "Yokohama City University", "url": "*.yokohama-cu.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University of Art and Design", "url": "*.zokei.ac.jp/*", "country": "Japan"}
+{"entity": "Arab Academy for Banking and Financial Sciences", "url": "*.aabfs.org/*", "country": "Jordan"}
+{"entity": "Amman Arab University for Higher Studies", "url": "*.aau.edu.jo/*", "country": "Jordan"}
+{"entity": "Al Hussein Bin Talal University", "url": "*.ahu.edu.jo/*", "country": "Jordan"}
+{"entity": "Amman University", "url": "*.amman.edu/*", "country": "Jordan"}
+{"entity": "Arab Open University", "url": "*.aou.edu.jo/*", "country": "Jordan"}
+{"entity": "Applied Science University", "url": "*.asu.edu.jo/*", "country": "Jordan"}
+{"entity": "German Jordanian University", "url": "*.gju.edu.jo/*", "country": "Jordan"}
+{"entity": "Hashemite University", "url": "*.hu.edu.jo/*", "country": "Jordan"}
+{"entity": "Irbid National University", "url": "*.inu.edu.jo/*", "country": "Jordan"}
+{"entity": "Jadara University", "url": "*.jadara.edu.jo/*", "country": "Jordan"}
+{"entity": "Jerash Private University", "url": "*.jerashun.edu.jo/*", "country": "Jordan"}
+{"entity": "University of Jordan", "url": "*.ju.edu.jo/*", "country": "Jordan"}
+{"entity": "Jordan University of Science and Technology", "url": "*.just.edu.jo/*", "country": "Jordan"}
+{"entity": "Middle East University", "url": "*.meu.edu.jo/*", "country": "Jordan"}
+{"entity": "New York Institute of Technology", "url": "*.nyit.edu.jo/*", "country": "Jordan"}
+{"entity": "Philadelphia University", "url": "*.philadelphia.edu.jo/*", "country": "Jordan"}
+{"entity": "Princess Sumaya University for Technology", "url": "*.psut.edu.jo/*", "country": "Jordan"}
+{"entity": "Tafila Technical University", "url": "*.ttu.edu.jo/*", "country": "Jordan"}
+{"entity": "University of Petra", "url": "*.uop.edu.jo/*", "country": "Jordan"}
+{"entity": "Yarmouk University", "url": "*.yu.edu.jo/*", "country": "Jordan"}
+{"entity": "Zarka Private University", "url": "*.zpu.edu.jo/*", "country": "Jordan"}
+{"entity": "Abylai Khan University", "url": "*.ablaikhan.kz/*", "country": "Kazakhstan"}
+{"entity": "Kazak State University of Agriculture", "url": "*.agriun.almaty.kz/*", "country": "Kazakhstan"}
+{"entity": "Aktau State University", "url": "*.aktsu.kz/*", "country": "Kazakhstan"}
+{"entity": "Atyrau State University", "url": "*.atgu.kz/*", "country": "Kazakhstan"}
+{"entity": "East Kazakstan State Technical University", "url": "*.ektu.kz/*", "country": "Kazakhstan"}
+{"entity": "Eurasian Institute of market", "url": "*.eurazir.kz/*", "country": "Kazakhstan"}
+{"entity": "Kazak American University", "url": "*.kau.kz/*", "country": "Kazakhstan"}
+{"entity": "Turar Ryskulov Kazakh Economic University", "url": "*.kazeu.kz/*", "country": "Kazakhstan"}
+{"entity": "Abai State University", "url": "*.kaznpu.kz/*", "country": "Kazakhstan"}
+{"entity": "Kazak National Technical University", "url": "*.kazntu.kz/*", "country": "Kazakhstan"}
+{"entity": "Kazakh British Technical University", "url": "*.kbtu.kz/*", "country": "Kazakhstan"}
+{"entity": "Karaganda State Technical University", "url": "*.kstu.kz/*", "country": "Kazakhstan"}
+{"entity": "Kostanai State University", "url": "*.ksu.kst.kz/*", "country": "Kazakhstan"}
+{"entity": "Karaganda State Buketov University", "url": "*.ksu.kz/*", "country": "Kazakhstan"}
+{"entity": "North Kazakhstan State University", "url": "*.nkzu.kz/*", "country": "Kazakhstan"}
+{"entity": "Pavlodar University", "url": "*.psu.kz/*", "country": "Kazakhstan"}
+{"entity": "Suleyman Demirel University", "url": "*.sdu.edu.kz/*", "country": "Kazakhstan"}
+{"entity": "Semey State University", "url": "*.semgu.kz/*", "country": "Kazakhstan"}
+{"entity": "Semey State Medical University", "url": "*.sgma.kz/*", "country": "Kazakhstan"}
+{"entity": "University of International Business", "url": "*.uib.kz/*", "country": "Kazakhstan"}
+{"entity": "East Kazakhstan State University", "url": "*.vkgu.kz/*", "country": "Kazakhstan"}
+{"entity": "Western Kazakhstan Agricultural University", "url": "*.wkau.kz/*", "country": "Kazakhstan"}
+{"entity": "Zhezkazgan Baikonurov University", "url": "*.zhezu.kz/*", "country": "Kazakhstan"}
+{"entity": "Zhetysu State University", "url": "*.zhgu.kz/*", "country": "Kazakhstan"}
+{"entity": "Africa International University", "url": "*.aiu.ac.ke/*", "country": "Kenya"}
+{"entity": "Aga Khan University", "url": "*.aku.edu/*", "country": "Kenya"}
+{"entity": "Africa Nazarene University", "url": "*.anu.ac.ke/*", "country": "Kenya"}

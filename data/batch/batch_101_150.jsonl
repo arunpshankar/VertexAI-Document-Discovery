@@ -1,50 +1,50 @@
-{"name": "Ball State University", "root_url": "*.bsu.edu/*", "country": "United States"}
-{"name": "Baptist Bible College", "root_url": "*.bbc.edu/*", "country": "United States"}
-{"name": "Bard College", "root_url": "*.bard.edu/*", "country": "United States"}
-{"name": "Barry University", "root_url": "*.barry.edu/*", "country": "United States"}
-{"name": "Bastyr University", "root_url": "*.bastyr.edu/*", "country": "United States"}
-{"name": "Bates College", "root_url": "*.bates.edu/*", "country": "United States"}
-{"name": "Baylor College of Medicine", "root_url": "*.bcm.edu/*", "country": "United States"}
-{"name": "Baylor University", "root_url": "*.baylor.edu/*", "country": "United States"}
-{"name": "Bellevue University", "root_url": "*.bellevue.edu/*", "country": "United States"}
-{"name": "Belmont University", "root_url": "*.belmont.edu/*", "country": "United States"}
-{"name": "Beloit College", "root_url": "*.beloit.edu/*", "country": "United States"}
-{"name": "Bemidji State University", "root_url": "*.bemidjistate.edu/*", "country": "United States"}
-{"name": "Benedictine College", "root_url": "*.benedictine.edu/*", "country": "United States"}
-{"name": "Bennington College", "root_url": "*.bennington.edu/*", "country": "United States"}
-{"name": "Bentley College", "root_url": "*.bentley.edu/*", "country": "United States"}
-{"name": "Berea College", "root_url": "*.berea.edu/*", "country": "United States"}
-{"name": "Berklee College of Music", "root_url": "*.berklee.edu/*", "country": "United States"}
-{"name": "Bethany College", "root_url": "*.bethanywv.edu/*", "country": "United States"}
-{"name": "Bethel University", "root_url": "*.bethel.edu/*", "country": "United States"}
-{"name": "Biola University", "root_url": "*.biola.edu/*", "country": "United States"}
-{"name": "Black Hills State University", "root_url": "*.bhsu.edu/*", "country": "United States"}
-{"name": "Bloomsburg University of Pennsylvania", "root_url": "*.bloomu.edu/*", "country": "United States"}
-{"name": "Bluffton College", "root_url": "*.bluffton.edu/*", "country": "United States"}
-{"name": "Bob Jones University", "root_url": "*.bju.edu/*", "country": "United States"}
-{"name": "Boise State University", "root_url": "*.boisestate.edu/*", "country": "United States"}
-{"name": "Boston College", "root_url": "*.bc.edu/*", "country": "United States"}
-{"name": "Boston Graduate School of Psychoanalysis", "root_url": "*.bgsp.edu/*", "country": "United States"}
-{"name": "Boston University", "root_url": "*.bu.edu/*", "country": "United States"}
-{"name": "Bowdoin College", "root_url": "*.bowdoin.edu/*", "country": "United States"}
-{"name": "Bowie State University", "root_url": "*.bowiestate.edu/*", "country": "United States"}
-{"name": "Bowling Green State University", "root_url": "*.bgsu.edu/*", "country": "United States"}
-{"name": "Bradley University", "root_url": "*.bradley.edu/*", "country": "United States"}
-{"name": "Brandeis University", "root_url": "*.brandeis.edu/*", "country": "United States"}
-{"name": "Brenau University", "root_url": "*.brenau.edu/*", "country": "United States"}
-{"name": "Briar Cliff College", "root_url": "*.briar-cliff.edu/*", "country": "United States"}
-{"name": "Bridgewater College", "root_url": "*.bridgewater.edu/*", "country": "United States"}
-{"name": "Brigham Young University", "root_url": "*.byu.edu/*", "country": "United States"}
-{"name": "Brigham Young University Hawaii", "root_url": "*.byuh.edu/*", "country": "United States"}
-{"name": "Broward College", "root_url": "*.broward.edu/*", "country": "United States"}
-{"name": "Brown University", "root_url": "*.brown.edu/*", "country": "United States"}
-{"name": "Bryant College", "root_url": "*.bryant.edu/*", "country": "United States"}
-{"name": "Bryn Mawr College", "root_url": "*.brynmawr.edu/college*", "country": "United States"}
-{"name": "Bucknell University", "root_url": "*.bucknell.edu/*", "country": "United States"}
-{"name": "Buena Vista University", "root_url": "*.bvu.edu/*", "country": "United States"}
-{"name": "Butler University", "root_url": "*.butler.edu/*", "country": "United States"}
-{"name": "California Coast University", "root_url": "*.calcoast.edu/*", "country": "United States"}
-{"name": "California Institute of Technology", "root_url": "*.caltech.edu/*", "country": "United States"}
-{"name": "California Lutheran University", "root_url": "*.callutheran.edu/*", "country": "United States"}
-{"name": "California Maritime Academy", "root_url": "*.csum.edu/*", "country": "United States"}
-{"name": "California National University", "root_url": "*.cnuas.edu/*", "country": "United States"}
+{"entity": "Ball State University", "url": "*.bsu.edu/*", "country": "United States"}
+{"entity": "Baptist Bible College", "url": "*.bbc.edu/*", "country": "United States"}
+{"entity": "Bard College", "url": "*.bard.edu/*", "country": "United States"}
+{"entity": "Barry University", "url": "*.barry.edu/*", "country": "United States"}
+{"entity": "Bastyr University", "url": "*.bastyr.edu/*", "country": "United States"}
+{"entity": "Bates College", "url": "*.bates.edu/*", "country": "United States"}
+{"entity": "Baylor College of Medicine", "url": "*.bcm.edu/*", "country": "United States"}
+{"entity": "Baylor University", "url": "*.baylor.edu/*", "country": "United States"}
+{"entity": "Bellevue University", "url": "*.bellevue.edu/*", "country": "United States"}
+{"entity": "Belmont University", "url": "*.belmont.edu/*", "country": "United States"}
+{"entity": "Beloit College", "url": "*.beloit.edu/*", "country": "United States"}
+{"entity": "Bemidji State University", "url": "*.bemidjistate.edu/*", "country": "United States"}
+{"entity": "Benedictine College", "url": "*.benedictine.edu/*", "country": "United States"}
+{"entity": "Bennington College", "url": "*.bennington.edu/*", "country": "United States"}
+{"entity": "Bentley College", "url": "*.bentley.edu/*", "country": "United States"}
+{"entity": "Berea College", "url": "*.berea.edu/*", "country": "United States"}
+{"entity": "Berklee College of Music", "url": "*.berklee.edu/*", "country": "United States"}
+{"entity": "Bethany College", "url": "*.bethanywv.edu/*", "country": "United States"}
+{"entity": "Bethel University", "url": "*.bethel.edu/*", "country": "United States"}
+{"entity": "Biola University", "url": "*.biola.edu/*", "country": "United States"}
+{"entity": "Black Hills State University", "url": "*.bhsu.edu/*", "country": "United States"}
+{"entity": "Bloomsburg University of Pennsylvania", "url": "*.bloomu.edu/*", "country": "United States"}
+{"entity": "Bluffton College", "url": "*.bluffton.edu/*", "country": "United States"}
+{"entity": "Bob Jones University", "url": "*.bju.edu/*", "country": "United States"}
+{"entity": "Boise State University", "url": "*.boisestate.edu/*", "country": "United States"}
+{"entity": "Boston College", "url": "*.bc.edu/*", "country": "United States"}
+{"entity": "Boston Graduate School of Psychoanalysis", "url": "*.bgsp.edu/*", "country": "United States"}
+{"entity": "Boston University", "url": "*.bu.edu/*", "country": "United States"}
+{"entity": "Bowdoin College", "url": "*.bowdoin.edu/*", "country": "United States"}
+{"entity": "Bowie State University", "url": "*.bowiestate.edu/*", "country": "United States"}
+{"entity": "Bowling Green State University", "url": "*.bgsu.edu/*", "country": "United States"}
+{"entity": "Bradley University", "url": "*.bradley.edu/*", "country": "United States"}
+{"entity": "Brandeis University", "url": "*.brandeis.edu/*", "country": "United States"}
+{"entity": "Brenau University", "url": "*.brenau.edu/*", "country": "United States"}
+{"entity": "Briar Cliff College", "url": "*.briar-cliff.edu/*", "country": "United States"}
+{"entity": "Bridgewater College", "url": "*.bridgewater.edu/*", "country": "United States"}
+{"entity": "Brigham Young University", "url": "*.byu.edu/*", "country": "United States"}
+{"entity": "Brigham Young University Hawaii", "url": "*.byuh.edu/*", "country": "United States"}
+{"entity": "Broward College", "url": "*.broward.edu/*", "country": "United States"}
+{"entity": "Brown University", "url": "*.brown.edu/*", "country": "United States"}
+{"entity": "Bryant College", "url": "*.bryant.edu/*", "country": "United States"}
+{"entity": "Bryn Mawr College", "url": "*.brynmawr.edu/college*", "country": "United States"}
+{"entity": "Bucknell University", "url": "*.bucknell.edu/*", "country": "United States"}
+{"entity": "Buena Vista University", "url": "*.bvu.edu/*", "country": "United States"}
+{"entity": "Butler University", "url": "*.butler.edu/*", "country": "United States"}
+{"entity": "California Coast University", "url": "*.calcoast.edu/*", "country": "United States"}
+{"entity": "California Institute of Technology", "url": "*.caltech.edu/*", "country": "United States"}
+{"entity": "California Lutheran University", "url": "*.callutheran.edu/*", "country": "United States"}
+{"entity": "California Maritime Academy", "url": "*.csum.edu/*", "country": "United States"}
+{"entity": "California National University", "url": "*.cnuas.edu/*", "country": "United States"}

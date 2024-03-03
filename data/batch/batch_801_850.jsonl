@@ -1,50 +1,50 @@
-{"name": "University of Detroit Mercy", "root_url": "*.udmercy.edu/*", "country": "United States"}
-{"name": "University of Dubuque", "root_url": "*.dbq.edu/*", "country": "United States"}
-{"name": "University of Evansville", "root_url": "*.evansville.edu/*", "country": "United States"}
-{"name": "University of Florida", "root_url": "*.ufl.edu/*", "country": "United States"}
-{"name": "University of Georgia", "root_url": "*.uga.edu/*", "country": "United States"}
-{"name": "University of Great Falls", "root_url": "*.ugf.edu/*", "country": "United States"}
-{"name": "University of Guam", "root_url": "*.uog.edu/*", "country": "United States"}
-{"name": "University of Hartford", "root_url": "*.hartford.edu/*", "country": "United States"}
-{"name": "University of Hawaii at Hilo", "root_url": "*.hilo.hawaii.edu/*", "country": "United States"}
-{"name": "University of Hawaii at Manoa", "root_url": "*.manoa.hawaii.edu/*", "country": "United States"}
-{"name": "University of Hawaii System", "root_url": "*.hawaii.edu/*", "country": "United States"}
-{"name": "University of Houston", "root_url": "*.uh.edu/*", "country": "United States"}
-{"name": "University of Idaho", "root_url": "*.uidaho.edu/*", "country": "United States"}
-{"name": "University of Illinois at Chicago", "root_url": "*.uic.edu/*", "country": "United States"}
-{"name": "University of Illinois at Springfield", "root_url": "*.uis.edu/*", "country": "United States"}
-{"name": "University of Indianapolis", "root_url": "*.uindy.edu/*", "country": "United States"}
-{"name": "University of Iowa", "root_url": "*.uiowa.edu/*", "country": "United States"}
-{"name": "University of Jamestown", "root_url": "*.uj.edu/*", "country": "United States"}
-{"name": "University of Kansas", "root_url": "*.ku.edu*", "country": "United States"}
-{"name": "University of Kansas School of Medicine", "root_url": "*.kumc.edu/*", "country": "United States"}
-{"name": "University of Kentucky", "root_url": "*.uky.edu/*", "country": "United States"}
-{"name": "University of Louisiana at Lafeyette", "root_url": "*.louisiana.edu/*", "country": "United States"}
-{"name": "University of Louisiana at Monroe", "root_url": "*.ulm.edu/*", "country": "United States"}
-{"name": "University of Louisville", "root_url": "*.louisville.edu/*", "country": "United States"}
-{"name": "University of Maine", "root_url": "*.umaine.edu/*", "country": "United States"}
-{"name": "University of Maine at Farmington", "root_url": "*.umf.maine.edu/*", "country": "United States"}
-{"name": "University of Maine at Fort Kent", "root_url": "*.umfk.maine.edu/*", "country": "United States"}
-{"name": "University of Maine at Machias", "root_url": "*.umm.maine.edu/*", "country": "United States"}
-{"name": "University of Maine at Presque Island", "root_url": "*.umpi.maine.edu/*", "country": "United States"}
-{"name": "University of Maine System", "root_url": "*.maine.edu/*", "country": "United States"}
-{"name": "University of Maryland Eastern Shore", "root_url": "*.umes.edu/*", "country": "United States"}
-{"name": "University of Massachusetts at Amherst", "root_url": "*.umass.edu/*", "country": "United States"}
-{"name": "University of Massachusetts at Dartmouth", "root_url": "*.umassd.edu/*", "country": "United States"}
-{"name": "University of Massachusetts at Lowell", "root_url": "*.uml.edu/*", "country": "United States"}
-{"name": "University of Memphis", "root_url": "*.memphis.edu/*", "country": "United States"}
-{"name": "University of Miami", "root_url": "*.welcome.miami.edu/*", "country": "United States"}
-{"name": "University of Minnesota", "root_url": "*.umn.edu/*", "country": "United States"}
-{"name": "University of Mississippi", "root_url": "*.olemiss.edu/*", "country": "United States"}
-{"name": "University of Montana", "root_url": "*.umt.edu/*", "country": "United States"}
-{"name": "University of New England", "root_url": "*.une.edu/*", "country": "United States"}
-{"name": "University of New Haven", "root_url": "*.newhaven.edu/*", "country": "United States"}
-{"name": "University of New Mexico", "root_url": "*.unm.edu/*", "country": "United States"}
-{"name": "University of New Orleans", "root_url": "*.uno.edu/*", "country": "United States"}
-{"name": "University of North Carolina at Asheville", "root_url": "*.unca.edu/*", "country": "United States"}
-{"name": "University of North Carolina at Chapel Hill", "root_url": "*.unc.edu/*", "country": "United States"}
-{"name": "University of North Carolina at Charlotte", "root_url": "*.uncc.edu/*", "country": "United States"}
-{"name": "University of North Carolina at Greensboro", "root_url": "*.uncg.edu/*", "country": "United States"}
-{"name": "University of North Carolina at Wilmington", "root_url": "*.uncw.edu/*", "country": "United States"}
-{"name": "University of North Dakota", "root_url": "*.und.edu/*", "country": "United States"}
-{"name": "University of Northern Colorado", "root_url": "*.unco.edu/*", "country": "United States"}
+{"entity": "University of Detroit Mercy", "url": "*.udmercy.edu/*", "country": "United States"}
+{"entity": "University of Dubuque", "url": "*.dbq.edu/*", "country": "United States"}
+{"entity": "University of Evansville", "url": "*.evansville.edu/*", "country": "United States"}
+{"entity": "University of Florida", "url": "*.ufl.edu/*", "country": "United States"}
+{"entity": "University of Georgia", "url": "*.uga.edu/*", "country": "United States"}
+{"entity": "University of Great Falls", "url": "*.ugf.edu/*", "country": "United States"}
+{"entity": "University of Guam", "url": "*.uog.edu/*", "country": "United States"}
+{"entity": "University of Hartford", "url": "*.hartford.edu/*", "country": "United States"}
+{"entity": "University of Hawaii at Hilo", "url": "*.hilo.hawaii.edu/*", "country": "United States"}
+{"entity": "University of Hawaii at Manoa", "url": "*.manoa.hawaii.edu/*", "country": "United States"}
+{"entity": "University of Hawaii System", "url": "*.hawaii.edu/*", "country": "United States"}
+{"entity": "University of Houston", "url": "*.uh.edu/*", "country": "United States"}
+{"entity": "University of Idaho", "url": "*.uidaho.edu/*", "country": "United States"}
+{"entity": "University of Illinois at Chicago", "url": "*.uic.edu/*", "country": "United States"}
+{"entity": "University of Illinois at Springfield", "url": "*.uis.edu/*", "country": "United States"}
+{"entity": "University of Indianapolis", "url": "*.uindy.edu/*", "country": "United States"}
+{"entity": "University of Iowa", "url": "*.uiowa.edu/*", "country": "United States"}
+{"entity": "University of Jamestown", "url": "*.uj.edu/*", "country": "United States"}
+{"entity": "University of Kansas", "url": "*.ku.edu*", "country": "United States"}
+{"entity": "University of Kansas School of Medicine", "url": "*.kumc.edu/*", "country": "United States"}
+{"entity": "University of Kentucky", "url": "*.uky.edu/*", "country": "United States"}
+{"entity": "University of Louisiana at Lafeyette", "url": "*.louisiana.edu/*", "country": "United States"}
+{"entity": "University of Louisiana at Monroe", "url": "*.ulm.edu/*", "country": "United States"}
+{"entity": "University of Louisville", "url": "*.louisville.edu/*", "country": "United States"}
+{"entity": "University of Maine", "url": "*.umaine.edu/*", "country": "United States"}
+{"entity": "University of Maine at Farmington", "url": "*.umf.maine.edu/*", "country": "United States"}
+{"entity": "University of Maine at Fort Kent", "url": "*.umfk.maine.edu/*", "country": "United States"}
+{"entity": "University of Maine at Machias", "url": "*.umm.maine.edu/*", "country": "United States"}
+{"entity": "University of Maine at Presque Island", "url": "*.umpi.maine.edu/*", "country": "United States"}
+{"entity": "University of Maine System", "url": "*.maine.edu/*", "country": "United States"}
+{"entity": "University of Maryland Eastern Shore", "url": "*.umes.edu/*", "country": "United States"}
+{"entity": "University of Massachusetts at Amherst", "url": "*.umass.edu/*", "country": "United States"}
+{"entity": "University of Massachusetts at Dartmouth", "url": "*.umassd.edu/*", "country": "United States"}
+{"entity": "University of Massachusetts at Lowell", "url": "*.uml.edu/*", "country": "United States"}
+{"entity": "University of Memphis", "url": "*.memphis.edu/*", "country": "United States"}
+{"entity": "University of Miami", "url": "*.welcome.miami.edu/*", "country": "United States"}
+{"entity": "University of Minnesota", "url": "*.umn.edu/*", "country": "United States"}
+{"entity": "University of Mississippi", "url": "*.olemiss.edu/*", "country": "United States"}
+{"entity": "University of Montana", "url": "*.umt.edu/*", "country": "United States"}
+{"entity": "University of New England", "url": "*.une.edu/*", "country": "United States"}
+{"entity": "University of New Haven", "url": "*.newhaven.edu/*", "country": "United States"}
+{"entity": "University of New Mexico", "url": "*.unm.edu/*", "country": "United States"}
+{"entity": "University of New Orleans", "url": "*.uno.edu/*", "country": "United States"}
+{"entity": "University of North Carolina at Asheville", "url": "*.unca.edu/*", "country": "United States"}
+{"entity": "University of North Carolina at Chapel Hill", "url": "*.unc.edu/*", "country": "United States"}
+{"entity": "University of North Carolina at Charlotte", "url": "*.uncc.edu/*", "country": "United States"}
+{"entity": "University of North Carolina at Greensboro", "url": "*.uncg.edu/*", "country": "United States"}
+{"entity": "University of North Carolina at Wilmington", "url": "*.uncw.edu/*", "country": "United States"}
+{"entity": "University of North Dakota", "url": "*.und.edu/*", "country": "United States"}
+{"entity": "University of Northern Colorado", "url": "*.unco.edu/*", "country": "United States"}

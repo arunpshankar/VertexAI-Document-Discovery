@@ -1,50 +1,50 @@
-{"name": "Universidad Columbia del Paraguay", "root_url": "*.columbia.edu.py/*", "country": "Paraguay"}
-{"name": "Universidad Americana", "root_url": "*.uamericana.edu.py/*", "country": "Paraguay"}
-{"name": "Universidad Comunera", "root_url": "*.ucom.edu.py/*", "country": "Paraguay"}
-{"name": "Universidad Nacional del Este", "root_url": "*.une.edu.py/*", "country": "Paraguay"}
-{"name": "Universidad del Norte", "root_url": "*.uninorte.edu.py/*", "country": "Paraguay"}
-{"name": "Universidad Privada del Este", "root_url": "*.upe.edu.py/*", "country": "Paraguay"}
-{"name": "Universidad Marcelino Champagnat", "root_url": "*.champagnat.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional Agraria La Molina", "root_url": "*.lamolina.edu.pe/*", "country": "Peru"}
-{"name": "Universidad San Ignacio de Loyola", "root_url": "*.sil.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Andina Nestor Caceares Velasquez", "root_url": "*.uancv.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Andina del Cusco", "root_url": "*.uandina.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Alas Peruanas", "root_url": "*.uap.edu.pe/*", "country": "Peru"}
-{"name": "Universidad de Ciencias y Humanidades", "root_url": "*.uch.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Cientifica del Sur", "root_url": "*.ucsur.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Particular de Chiclayo", "root_url": "*.udch.edu.pe/*", "country": "Peru"}
-{"name": "Universidad de Piura", "root_url": "*.udep.edu.pe/*", "country": "Peru"}
-{"name": "Universidad de Lambayeque", "root_url": "*.udl.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Particular Inca Garcilaso de la Vega", "root_url": "*.uigv.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Los Angeles de Chimbote", "root_url": "*.uladech.edu.pe/*", "country": "Peru"}
-{"name": "Universidad de Lima", "root_url": "*.ulima.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional del Callao", "root_url": "*.unac.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional del Altiplano", "root_url": "*.unap.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional Agraria de la Selva", "root_url": "*.unas.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional de Cajamarca", "root_url": "*.unc.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional Daniel Alcides Carrion", "root_url": "*.undac.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional Federico Villarreal", "root_url": "*.unfv.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional Hermilio Valdizan", "root_url": "*.unheval.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional San Luis Gonzaga", "root_url": "*.unica.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional Jorge Basadre Grohmann", "root_url": "*.unjbg.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional Mayor de San Marcos", "root_url": "*.unmsm.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional de Piura", "root_url": "*.unp.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional de San Antonio Abad", "root_url": "*.unsaac.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional de San Agustin", "root_url": "*.unsa.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional de Tumbes", "root_url": "*.untumbes.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Nacional de Ucayali", "root_url": "*.unu.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Privada Antenor Orrego", "root_url": "*.upao.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Peruana de Ciencias Aplicadas", "root_url": "*.upc.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Peruana Cayetano Heredia", "root_url": "*.upch.edu.pe/*", "country": "Peru"}
-{"name": "Universidad del Pacifico", "root_url": "*.up.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Peruana Union", "root_url": "*.upeu.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Privada Los Andes", "root_url": "*.upla.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Privada del Norte", "root_url": "*.upnorte.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Privada Sergio Bernales", "root_url": "*.upsb.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Privada San Juan Bautista", "root_url": "*.upsjb.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Privada de Tacna", "root_url": "*.upt.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Ricardo Palma", "root_url": "*.urp.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Privada San Pedro", "root_url": "*.usanpedro.edu.pe/*", "country": "Peru"}
-{"name": "Universidad San Martin de Porres", "root_url": "*.usmp.edu.pe/*", "country": "Peru"}
-{"name": "Universidad San Pablo", "root_url": "*.usp.edu.pe/*", "country": "Peru"}
-{"name": "Universidad Norbert Wiener", "root_url": "*.uwiener.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Columbia del Paraguay", "url": "*.columbia.edu.py/*", "country": "Paraguay"}
+{"entity": "Universidad Americana", "url": "*.uamericana.edu.py/*", "country": "Paraguay"}
+{"entity": "Universidad Comunera", "url": "*.ucom.edu.py/*", "country": "Paraguay"}
+{"entity": "Universidad Nacional del Este", "url": "*.une.edu.py/*", "country": "Paraguay"}
+{"entity": "Universidad del Norte", "url": "*.uninorte.edu.py/*", "country": "Paraguay"}
+{"entity": "Universidad Privada del Este", "url": "*.upe.edu.py/*", "country": "Paraguay"}
+{"entity": "Universidad Marcelino Champagnat", "url": "*.champagnat.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional Agraria La Molina", "url": "*.lamolina.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad San Ignacio de Loyola", "url": "*.sil.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Andina Nestor Caceares Velasquez", "url": "*.uancv.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Andina del Cusco", "url": "*.uandina.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Alas Peruanas", "url": "*.uap.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad de Ciencias y Humanidades", "url": "*.uch.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Cientifica del Sur", "url": "*.ucsur.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Particular de Chiclayo", "url": "*.udch.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad de Piura", "url": "*.udep.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad de Lambayeque", "url": "*.udl.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Particular Inca Garcilaso de la Vega", "url": "*.uigv.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Los Angeles de Chimbote", "url": "*.uladech.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad de Lima", "url": "*.ulima.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional del Callao", "url": "*.unac.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional del Altiplano", "url": "*.unap.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional Agraria de la Selva", "url": "*.unas.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional de Cajamarca", "url": "*.unc.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional Daniel Alcides Carrion", "url": "*.undac.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional Federico Villarreal", "url": "*.unfv.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional Hermilio Valdizan", "url": "*.unheval.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional San Luis Gonzaga", "url": "*.unica.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional Jorge Basadre Grohmann", "url": "*.unjbg.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional Mayor de San Marcos", "url": "*.unmsm.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional de Piura", "url": "*.unp.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional de San Antonio Abad", "url": "*.unsaac.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional de San Agustin", "url": "*.unsa.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional de Tumbes", "url": "*.untumbes.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Nacional de Ucayali", "url": "*.unu.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Privada Antenor Orrego", "url": "*.upao.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Peruana de Ciencias Aplicadas", "url": "*.upc.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Peruana Cayetano Heredia", "url": "*.upch.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad del Pacifico", "url": "*.up.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Peruana Union", "url": "*.upeu.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Privada Los Andes", "url": "*.upla.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Privada del Norte", "url": "*.upnorte.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Privada Sergio Bernales", "url": "*.upsb.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Privada San Juan Bautista", "url": "*.upsjb.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Privada de Tacna", "url": "*.upt.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Ricardo Palma", "url": "*.urp.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Privada San Pedro", "url": "*.usanpedro.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad San Martin de Porres", "url": "*.usmp.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad San Pablo", "url": "*.usp.edu.pe/*", "country": "Peru"}
+{"entity": "Universidad Norbert Wiener", "url": "*.uwiener.edu.pe/*", "country": "Peru"}

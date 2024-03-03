@@ -1,50 +1,50 @@
-{"name": "Veer Kunwar Singh University", "root_url": "*.vksu-ara.org/*", "country": "India"}
-{"name": "Vardhaman Mahaveer Open University", "root_url": "*.vmou.ac.in/*", "country": "India"}
-{"name": "Visvesvaraya National Institute of Technology", "root_url": "*.vnitnagpur.ac.in/*", "country": "India"}
-{"name": "Veer Surendra Sai University of Technology", "root_url": "*.vssut.ac.in/*", "country": "India"}
-{"name": "Visvesvaraya Technological University", "root_url": "*.vtu.ac.in/*", "country": "India"}
-{"name": "West Bengal University of Animal and Fishery Sciences", "root_url": "*.wbuafs.nic.in/*", "country": "India"}
-{"name": "West Bengal University of Technology", "root_url": "*.wbut.net/*", "country": "India"}
-{"name": "Yashawantrao Chavan Maharashtra Open University", "root_url": "*.ycmou.com/*", "country": "India"}
-{"name": "STMIK AMIKOM Yogyakarta", "root_url": "*.amikom.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Katolik Indonesia Atma Jaya", "root_url": "*.atmajaya.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Bakrie", "root_url": "*.bakrie.ac.id/*", "country": "Indonesia"}
-{"name": "Binus University", "root_url": "*.binus.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Bung Hatta", "root_url": "*.bunghatta.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Dian Nuswantoro", "root_url": "*.dinus.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Gunadarma", "root_url": "*.gunadarma.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Ibn Chaldun Jakarta", "root_url": "*.ibnuchaldun.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Indonusa Esa Unggul", "root_url": "*.indonusa.ac.id/*", "country": "Indonesia"}
-{"name": "Bogor Agricultural University", "root_url": "*.ipb.ac.id/*", "country": "Indonesia"}
-{"name": "Institut Sains dan Teknologi Al Kamal", "root_url": "*.ista.ac.id/*", "country": "Indonesia"}
-{"name": "Institut Teknologi Adhi Tama Surabaya", "root_url": "*.itats.ac.id/*", "country": "Indonesia"}
-{"name": "Institut Teknologi Bandung", "root_url": "*.itb.ac.id/*", "country": "Indonesia"}
-{"name": "Institut Teknologi Sepuluh Nopember", "root_url": "*.its.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Janabadra", "root_url": "*.janabadra.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Jayabaya", "root_url": "*.jayabaya.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Ma Chung", "root_url": "*.machung.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Mahendradatta", "root_url": "*.mahendradatta.org/*", "country": "Indonesia"}
-{"name": "Universitas Negeri Malang", "root_url": "*.um.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Kristen Maranatha", "root_url": "*.maranatha.edu/*", "country": "Indonesia"}
-{"name": "Universitas Mercu Buana", "root_url": "*.mercubuana.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Narotama", "root_url": "*.narotama.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas HKBP Nommensen", "root_url": "*.nommensen.org/*", "country": "Indonesia"}
-{"name": "Universitas Pembangunan Panca Budi", "root_url": "*.pancabudi.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Paramadina Mulya", "root_url": "*.paramadina.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Nasional Pasim", "root_url": "*.pasim.ac.id/*", "country": "Indonesia"}
-{"name": "STIE Perbanas", "root_url": "*.perbanas.ac.id/*", "country": "Indonesia"}
-{"name": "Perbanas Institute", "root_url": "*.perbanas.id/*", "country": "Indonesia"}
-{"name": "Universitas Kristen Petra", "root_url": "*.petra.ac.id/*", "country": "Indonesia"}
-{"name": "Prasetiya Mulya Business School", "root_url": "*.pmbs.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Jakarta", "root_url": "*.pnj.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Lhokseumawe", "root_url": "*.pnl.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Bandung", "root_url": "*.polban.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Semarang", "root_url": "*.polines.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Padang", "root_url": "*.polinpdg.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Pontianak", "root_url": "*.polnep.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Malang", "root_url": "*.poltek-malang.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Pos Indonesia", "root_url": "*.poltekpos.ac.id/*", "country": "Indonesia"}
-{"name": "Politeknik Negeri Sambas", "root_url": "*.poltesa.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Putera Batam", "root_url": "*.puterabatam.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Sarjanawiyata Tamansiswa", "root_url": "*.sarjanawiyata.ac.id/*", "country": "Indonesia"}
-{"name": "Swiss German University", "root_url": "*.sgu.ac.id/*", "country": "Indonesia"}
+{"entity": "Veer Kunwar Singh University", "url": "*.vksu-ara.org/*", "country": "India"}
+{"entity": "Vardhaman Mahaveer Open University", "url": "*.vmou.ac.in/*", "country": "India"}
+{"entity": "Visvesvaraya National Institute of Technology", "url": "*.vnitnagpur.ac.in/*", "country": "India"}
+{"entity": "Veer Surendra Sai University of Technology", "url": "*.vssut.ac.in/*", "country": "India"}
+{"entity": "Visvesvaraya Technological University", "url": "*.vtu.ac.in/*", "country": "India"}
+{"entity": "West Bengal University of Animal and Fishery Sciences", "url": "*.wbuafs.nic.in/*", "country": "India"}
+{"entity": "West Bengal University of Technology", "url": "*.wbut.net/*", "country": "India"}
+{"entity": "Yashawantrao Chavan Maharashtra Open University", "url": "*.ycmou.com/*", "country": "India"}
+{"entity": "STMIK AMIKOM Yogyakarta", "url": "*.amikom.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Katolik Indonesia Atma Jaya", "url": "*.atmajaya.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Bakrie", "url": "*.bakrie.ac.id/*", "country": "Indonesia"}
+{"entity": "Binus University", "url": "*.binus.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Bung Hatta", "url": "*.bunghatta.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Dian Nuswantoro", "url": "*.dinus.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Gunadarma", "url": "*.gunadarma.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Ibn Chaldun Jakarta", "url": "*.ibnuchaldun.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Indonusa Esa Unggul", "url": "*.indonusa.ac.id/*", "country": "Indonesia"}
+{"entity": "Bogor Agricultural University", "url": "*.ipb.ac.id/*", "country": "Indonesia"}
+{"entity": "Institut Sains dan Teknologi Al Kamal", "url": "*.ista.ac.id/*", "country": "Indonesia"}
+{"entity": "Institut Teknologi Adhi Tama Surabaya", "url": "*.itats.ac.id/*", "country": "Indonesia"}
+{"entity": "Institut Teknologi Bandung", "url": "*.itb.ac.id/*", "country": "Indonesia"}
+{"entity": "Institut Teknologi Sepuluh Nopember", "url": "*.its.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Janabadra", "url": "*.janabadra.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Jayabaya", "url": "*.jayabaya.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Ma Chung", "url": "*.machung.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Mahendradatta", "url": "*.mahendradatta.org/*", "country": "Indonesia"}
+{"entity": "Universitas Negeri Malang", "url": "*.um.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Kristen Maranatha", "url": "*.maranatha.edu/*", "country": "Indonesia"}
+{"entity": "Universitas Mercu Buana", "url": "*.mercubuana.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Narotama", "url": "*.narotama.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas HKBP Nommensen", "url": "*.nommensen.org/*", "country": "Indonesia"}
+{"entity": "Universitas Pembangunan Panca Budi", "url": "*.pancabudi.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Paramadina Mulya", "url": "*.paramadina.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Nasional Pasim", "url": "*.pasim.ac.id/*", "country": "Indonesia"}
+{"entity": "STIE Perbanas", "url": "*.perbanas.ac.id/*", "country": "Indonesia"}
+{"entity": "Perbanas Institute", "url": "*.perbanas.id/*", "country": "Indonesia"}
+{"entity": "Universitas Kristen Petra", "url": "*.petra.ac.id/*", "country": "Indonesia"}
+{"entity": "Prasetiya Mulya Business School", "url": "*.pmbs.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Jakarta", "url": "*.pnj.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Lhokseumawe", "url": "*.pnl.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Bandung", "url": "*.polban.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Semarang", "url": "*.polines.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Padang", "url": "*.polinpdg.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Pontianak", "url": "*.polnep.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Malang", "url": "*.poltek-malang.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Pos Indonesia", "url": "*.poltekpos.ac.id/*", "country": "Indonesia"}
+{"entity": "Politeknik Negeri Sambas", "url": "*.poltesa.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Putera Batam", "url": "*.puterabatam.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Sarjanawiyata Tamansiswa", "url": "*.sarjanawiyata.ac.id/*", "country": "Indonesia"}
+{"entity": "Swiss German University", "url": "*.sgu.ac.id/*", "country": "Indonesia"}

@@ -1,50 +1,50 @@
-{"name": "Univesidade Agostinho Neto", "root_url": "*.uan.ao/*", "country": "Angola"}
-{"name": "Universidade Gregorio Semedo", "root_url": "*.ugs.ed.ao/*", "country": "Angola"}
-{"name": "Universidade Metodista de Angola", "root_url": "*.uma.co.ao/*", "country": "Angola"}
-{"name": "Universidade Independente de Angola", "root_url": "*.unia.ao/*", "country": "Angola"}
-{"name": "Universidade Metropolitana de Angola", "root_url": "*.unimetroangola.com/*", "country": "Angola"}
-{"name": "Universidade Tecnica de Angola", "root_url": "*.utanga.co.ao/*", "country": "Angola"}
-{"name": "American University of Antigua", "root_url": "*.auamed.org/*", "country": "Antigua and Barbuda"}
-{"name": "University of Health Sciences Antigua", "root_url": "*.uhsa.ag/*", "country": "Antigua and Barbuda"}
-{"name": "Universidad Atlantida Argentina", "root_url": "*.atlantida.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Austral Buenos Aires", "root_url": "*.austral.edu.ar/*", "country": "Argentina"}
-{"name": "Instituto Universitario CEMA", "root_url": "*.cema.edu.ar/*", "country": "Argentina"}
-{"name": "Instituto Universitario Nacional del Arte", "root_url": "*.iuna.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Mar del Plata", "root_url": "*.mdp.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad de Palermo", "root_url": "*.palermo.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad del Salvador", "root_url": "*.salvador.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Argentina de la Empresa", "root_url": "*.uade.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Adventista del Plata", "root_url": "*.uapar.edu/*", "country": "Argentina"}
-{"name": "Universidad de Buenos Aires", "root_url": "*.uba.ar/*", "country": "Argentina"}
-{"name": "Universidad de Belgrano", "root_url": "*.ub.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Blas Pascal", "root_url": "*.ubp.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad del Centro Educativo Latinoamericano Rosario", "root_url": "*.ucel.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad de Ciencias Empresariales y Sociales", "root_url": "*.uces.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Champagnat", "root_url": "*.uch.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad de Congreso", "root_url": "*.ucongres.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad de la Cuenca del Plata", "root_url": "*.ucp.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad del Aconcagua", "root_url": "*.uda.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad de la Marina Mercante", "root_url": "*.udemm.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad de San Andres", "root_url": "*.udesa.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad de Mendoza", "root_url": "*.um.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad del Museo Social Argentino", "root_url": "*.umsa.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Misiones", "root_url": "*.unam.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Catamarca", "root_url": "*.unca.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional del Comahue", "root_url": "*.uncoma.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Cuyo", "root_url": "*.uncu.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Formosa", "root_url": "*.unf.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de General Sarmiento", "root_url": "*.ungs.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional del Centro de la Provincia de Buenos Aires", "root_url": "*.unicen.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Notarial Argentina", "root_url": "*.universidadnotarial.edu.ar/*", "country": "Argentina"}
-{"name": "Instituto Universitario de la Policia Federal", "root_url": "*.universidad-policial.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Jujuy", "root_url": "*.unju.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Lanus", "root_url": "*.unla.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de La Matanza", "root_url": "*.unlam.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de La Rioja", "root_url": "*.unlar.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional del Littoral", "root_url": "*.unl.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de La Pampa", "root_url": "*.unlpam.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de La Plata", "root_url": "*.unlp.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de Lomas de Zamora", "root_url": "*.unlz.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional del Nordeste", "root_url": "*.unne.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires", "root_url": "*.unnoba.edu.ar/*", "country": "Argentina"}
-{"name": "Universidad Nacional de la Patagonia Austral", "root_url": "*.unpa.edu.ar/*", "country": "Argentina"}
+{"entity": "Univesidade Agostinho Neto", "url": "*.uan.ao/*", "country": "Angola"}
+{"entity": "Universidade Gregorio Semedo", "url": "*.ugs.ed.ao/*", "country": "Angola"}
+{"entity": "Universidade Metodista de Angola", "url": "*.uma.co.ao/*", "country": "Angola"}
+{"entity": "Universidade Independente de Angola", "url": "*.unia.ao/*", "country": "Angola"}
+{"entity": "Universidade Metropolitana de Angola", "url": "*.unimetroangola.com/*", "country": "Angola"}
+{"entity": "Universidade Tecnica de Angola", "url": "*.utanga.co.ao/*", "country": "Angola"}
+{"entity": "American University of Antigua", "url": "*.auamed.org/*", "country": "Antigua and Barbuda"}
+{"entity": "University of Health Sciences Antigua", "url": "*.uhsa.ag/*", "country": "Antigua and Barbuda"}
+{"entity": "Universidad Atlantida Argentina", "url": "*.atlantida.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Austral Buenos Aires", "url": "*.austral.edu.ar/*", "country": "Argentina"}
+{"entity": "Instituto Universitario CEMA", "url": "*.cema.edu.ar/*", "country": "Argentina"}
+{"entity": "Instituto Universitario Nacional del Arte", "url": "*.iuna.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Mar del Plata", "url": "*.mdp.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad de Palermo", "url": "*.palermo.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad del Salvador", "url": "*.salvador.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Argentina de la Empresa", "url": "*.uade.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Adventista del Plata", "url": "*.uapar.edu/*", "country": "Argentina"}
+{"entity": "Universidad de Buenos Aires", "url": "*.uba.ar/*", "country": "Argentina"}
+{"entity": "Universidad de Belgrano", "url": "*.ub.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Blas Pascal", "url": "*.ubp.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad del Centro Educativo Latinoamericano Rosario", "url": "*.ucel.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad de Ciencias Empresariales y Sociales", "url": "*.uces.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Champagnat", "url": "*.uch.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad de Congreso", "url": "*.ucongres.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad de la Cuenca del Plata", "url": "*.ucp.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad del Aconcagua", "url": "*.uda.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad de la Marina Mercante", "url": "*.udemm.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad de San Andres", "url": "*.udesa.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad de Mendoza", "url": "*.um.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad del Museo Social Argentino", "url": "*.umsa.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Misiones", "url": "*.unam.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Catamarca", "url": "*.unca.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional del Comahue", "url": "*.uncoma.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Cuyo", "url": "*.uncu.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Formosa", "url": "*.unf.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de General Sarmiento", "url": "*.ungs.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional del Centro de la Provincia de Buenos Aires", "url": "*.unicen.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Notarial Argentina", "url": "*.universidadnotarial.edu.ar/*", "country": "Argentina"}
+{"entity": "Instituto Universitario de la Policia Federal", "url": "*.universidad-policial.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Jujuy", "url": "*.unju.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Lanus", "url": "*.unla.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de La Matanza", "url": "*.unlam.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de La Rioja", "url": "*.unlar.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional del Littoral", "url": "*.unl.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de La Pampa", "url": "*.unlpam.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de La Plata", "url": "*.unlp.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de Lomas de Zamora", "url": "*.unlz.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional del Nordeste", "url": "*.unne.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires", "url": "*.unnoba.edu.ar/*", "country": "Argentina"}
+{"entity": "Universidad Nacional de la Patagonia Austral", "url": "*.unpa.edu.ar/*", "country": "Argentina"}

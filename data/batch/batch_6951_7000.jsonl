@@ -1,50 +1,50 @@
-{"name": "Jackson State Community College", "root_url": "*.jscc.edu*", "country": "United States"}
-{"name": "John A Gupton College", "root_url": "*.guptoncollege.edu*", "country": "United States"}
-{"name": "Motlow State Community College", "root_url": "*.mscc.edu*", "country": "United States"}
-{"name": "Northeast State Community College", "root_url": "*.NortheastState.edu*", "country": "United States"}
-{"name": "Pellissippi State Community College", "root_url": "*.pstcc.edu/*", "country": "United States"}
-{"name": "Roane State Community College", "root_url": "*.roanestate.edu*", "country": "United States"}
-{"name": "Southwest Tennessee Community College", "root_url": "*.southwest.tn.edu*", "country": "United States"}
-{"name": "Volunteer State Community College", "root_url": "*.volstate.edu*", "country": "United States"}
-{"name": "Walters State Community College", "root_url": "*.ws.edu*", "country": "United States"}
-{"name": "Alvin Community College", "root_url": "*.alvincollege.edu*", "country": "United States"}
-{"name": "Amarillo College", "root_url": "*.actx.edu*", "country": "United States"}
-{"name": "Angelina College", "root_url": "*.angelina.edu*", "country": "United States"}
-{"name": "Blinn College", "root_url": "*.blinn.edu*", "country": "United States"}
-{"name": "Brookhaven College", "root_url": "*.brookhavencollege.edu/*", "country": "United States"}
-{"name": "Cedar Valley College", "root_url": "*.cedarvalleycollege.edu*", "country": "United States"}
-{"name": "Central Texas College", "root_url": "*.ctcd.edu*", "country": "United States"}
-{"name": "Cisco College", "root_url": "*.cisco.edu*", "country": "United States"}
-{"name": "Clarendon College", "root_url": "*.clarendoncollege.edu*", "country": "United States"}
-{"name": "Coastal Bend College", "root_url": "*.coastalbend.edu*", "country": "United States"}
-{"name": "College of the Mainland", "root_url": "*.com.edu*", "country": "United States"}
-{"name": "Collin County Community College District", "root_url": "*.collin.edu*", "country": "United States"}
-{"name": "Del Mar College", "root_url": "*.delmar.edu*", "country": "United States"}
-{"name": "Eastfield College", "root_url": "*.eastfieldcollege.edu/*", "country": "United States"}
-{"name": "El Centro College", "root_url": "*.elcentrocollege.edu/*", "country": "United States"}
-{"name": "El Paso Community College", "root_url": "*.epcc.edu*", "country": "United States"}
-{"name": "Frank Phillips College", "root_url": "*.fpctx.edu*", "country": "United States"}
-{"name": "Galveston College", "root_url": "*.gc.edu*", "country": "United States"}
-{"name": "Grayson College", "root_url": "*.grayson.edu*", "country": "United States"}
-{"name": "Hill College", "root_url": "*.hillcollege.edu*", "country": "United States"}
-{"name": "Houston Community College", "root_url": "*.hccs.edu*", "country": "United States"}
-{"name": "Howard College", "root_url": "*.howardcollege.edu*", "country": "United States"}
-{"name": "Kilgore College", "root_url": "*.kilgore.edu*", "country": "United States"}
-{"name": "Lamar Institute of Technology", "root_url": "*.lit.edu*", "country": "United States"}
-{"name": "Laredo Community College", "root_url": "*.laredo.edu*", "country": "United States"}
-{"name": "Lee College", "root_url": "*.lee.edu*", "country": "United States"}
-{"name": "Lone Star College System", "root_url": "*.lonestar.edu*", "country": "United States"}
-{"name": "McLennan Community College", "root_url": "*.mclennan.edu*", "country": "United States"}
-{"name": "Navarro College", "root_url": "*.navarrocollege.edu*", "country": "United States"}
-{"name": "North Central Texas College", "root_url": "*.nctc.edu*", "country": "United States"}
-{"name": "Northeast Texas Community College", "root_url": "*.ntcc.edu*", "country": "United States"}
-{"name": "North Lake College", "root_url": "*.northlakecollege.edu/Pages/default.aspx*", "country": "United States"}
-{"name": "Northwest Vista College", "root_url": "*.alamo.edu/nvc/*", "country": "United States"}
-{"name": "Odessa College", "root_url": "*.odessa.edu*", "country": "United States"}
-{"name": "Palo Alto College", "root_url": "*.alamo.edu/pac/*", "country": "United States"}
-{"name": "Panola College", "root_url": "*.panola.edu*", "country": "United States"}
-{"name": "Paris Junior College", "root_url": "*.parisjc.edu/*", "country": "United States"}
-{"name": "Ranger College", "root_url": "*.rangercollege.edu*", "country": "United States"}
-{"name": "Richland College", "root_url": "*.richlandcollege.edu/*", "country": "United States"}
-{"name": "San Antonio College", "root_url": "*.alamo.edu/sac*", "country": "United States"}
-{"name": "South Plains College", "root_url": "*.southplainscollege.edu/*", "country": "United States"}
+{"entity": "Jackson State Community College", "url": "*.jscc.edu*", "country": "United States"}
+{"entity": "John A Gupton College", "url": "*.guptoncollege.edu*", "country": "United States"}
+{"entity": "Motlow State Community College", "url": "*.mscc.edu*", "country": "United States"}
+{"entity": "Northeast State Community College", "url": "*.NortheastState.edu*", "country": "United States"}
+{"entity": "Pellissippi State Community College", "url": "*.pstcc.edu/*", "country": "United States"}
+{"entity": "Roane State Community College", "url": "*.roanestate.edu*", "country": "United States"}
+{"entity": "Southwest Tennessee Community College", "url": "*.southwest.tn.edu*", "country": "United States"}
+{"entity": "Volunteer State Community College", "url": "*.volstate.edu*", "country": "United States"}
+{"entity": "Walters State Community College", "url": "*.ws.edu*", "country": "United States"}
+{"entity": "Alvin Community College", "url": "*.alvincollege.edu*", "country": "United States"}
+{"entity": "Amarillo College", "url": "*.actx.edu*", "country": "United States"}
+{"entity": "Angelina College", "url": "*.angelina.edu*", "country": "United States"}
+{"entity": "Blinn College", "url": "*.blinn.edu*", "country": "United States"}
+{"entity": "Brookhaven College", "url": "*.brookhavencollege.edu/*", "country": "United States"}
+{"entity": "Cedar Valley College", "url": "*.cedarvalleycollege.edu*", "country": "United States"}
+{"entity": "Central Texas College", "url": "*.ctcd.edu*", "country": "United States"}
+{"entity": "Cisco College", "url": "*.cisco.edu*", "country": "United States"}
+{"entity": "Clarendon College", "url": "*.clarendoncollege.edu*", "country": "United States"}
+{"entity": "Coastal Bend College", "url": "*.coastalbend.edu*", "country": "United States"}
+{"entity": "College of the Mainland", "url": "*.com.edu*", "country": "United States"}
+{"entity": "Collin County Community College District", "url": "*.collin.edu*", "country": "United States"}
+{"entity": "Del Mar College", "url": "*.delmar.edu*", "country": "United States"}
+{"entity": "Eastfield College", "url": "*.eastfieldcollege.edu/*", "country": "United States"}
+{"entity": "El Centro College", "url": "*.elcentrocollege.edu/*", "country": "United States"}
+{"entity": "El Paso Community College", "url": "*.epcc.edu*", "country": "United States"}
+{"entity": "Frank Phillips College", "url": "*.fpctx.edu*", "country": "United States"}
+{"entity": "Galveston College", "url": "*.gc.edu*", "country": "United States"}
+{"entity": "Grayson College", "url": "*.grayson.edu*", "country": "United States"}
+{"entity": "Hill College", "url": "*.hillcollege.edu*", "country": "United States"}
+{"entity": "Houston Community College", "url": "*.hccs.edu*", "country": "United States"}
+{"entity": "Howard College", "url": "*.howardcollege.edu*", "country": "United States"}
+{"entity": "Kilgore College", "url": "*.kilgore.edu*", "country": "United States"}
+{"entity": "Lamar Institute of Technology", "url": "*.lit.edu*", "country": "United States"}
+{"entity": "Laredo Community College", "url": "*.laredo.edu*", "country": "United States"}
+{"entity": "Lee College", "url": "*.lee.edu*", "country": "United States"}
+{"entity": "Lone Star College System", "url": "*.lonestar.edu*", "country": "United States"}
+{"entity": "McLennan Community College", "url": "*.mclennan.edu*", "country": "United States"}
+{"entity": "Navarro College", "url": "*.navarrocollege.edu*", "country": "United States"}
+{"entity": "North Central Texas College", "url": "*.nctc.edu*", "country": "United States"}
+{"entity": "Northeast Texas Community College", "url": "*.ntcc.edu*", "country": "United States"}
+{"entity": "North Lake College", "url": "*.northlakecollege.edu/Pages/default.aspx*", "country": "United States"}
+{"entity": "Northwest Vista College", "url": "*.alamo.edu/nvc/*", "country": "United States"}
+{"entity": "Odessa College", "url": "*.odessa.edu*", "country": "United States"}
+{"entity": "Palo Alto College", "url": "*.alamo.edu/pac/*", "country": "United States"}
+{"entity": "Panola College", "url": "*.panola.edu*", "country": "United States"}
+{"entity": "Paris Junior College", "url": "*.parisjc.edu/*", "country": "United States"}
+{"entity": "Ranger College", "url": "*.rangercollege.edu*", "country": "United States"}
+{"entity": "Richland College", "url": "*.richlandcollege.edu/*", "country": "United States"}
+{"entity": "San Antonio College", "url": "*.alamo.edu/sac*", "country": "United States"}
+{"entity": "South Plains College", "url": "*.southplainscollege.edu/*", "country": "United States"}

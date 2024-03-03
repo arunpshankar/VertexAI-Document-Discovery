@@ -1,50 +1,50 @@
-{"name": "University of Northern Iowa", "root_url": "*.uni.edu/*", "country": "United States"}
-{"name": "University of North Florida", "root_url": "*.unf.edu/*", "country": "United States"}
-{"name": "University of North Texas", "root_url": "*.unt.edu/*", "country": "United States"}
-{"name": "University of North Texas Health Science Center", "root_url": "*.hsc.unt.edu/*", "country": "United States"}
-{"name": "University of Notre Dame", "root_url": "*.nd.edu/*", "country": "United States"}
-{"name": "University of Oklahoma", "root_url": "*.ou.edu/*", "country": "United States"}
-{"name": "University of Oregon", "root_url": "*.uoregon.edu/*", "country": "United States"}
-{"name": "University of Pennsylvania", "root_url": "*.upenn.edu/*", "country": "United States"}
-{"name": "University of Phoenix", "root_url": "*.phoenix.edu/*", "country": "United States"}
-{"name": "University of Pittsburgh", "root_url": "*.pitt.edu/*", "country": "United States"}
-{"name": "University of Pittsburgh at Johnstown", "root_url": "*.upj.pitt.edu/*", "country": "United States"}
-{"name": "University of Portland", "root_url": "*.up.edu/*", "country": "United States"}
-{"name": "University of Puerto Rico", "root_url": "*.upr.edu/*", "country": "United States"}
-{"name": "University of Puget Sound", "root_url": "*.ups.edu/*", "country": "United States"}
-{"name": "University of Redlands", "root_url": "*.uor.edu/*", "country": "United States"}
-{"name": "University of Rhode Island", "root_url": "*.uri.edu/*", "country": "United States"}
-{"name": "University of Richmond", "root_url": "*.urich.edu/*", "country": "United States"}
-{"name": "University of Rochester", "root_url": "*.rochester.edu/*", "country": "United States"}
-{"name": "University of San Diego", "root_url": "*.sandiego.edu/*", "country": "United States"}
-{"name": "University of San Francisco", "root_url": "*.usfca.edu/*", "country": "United States"}
-{"name": "University of Scranton", "root_url": "*.scranton.edu/*", "country": "United States"}
-{"name": "University of Sioux Falls", "root_url": "*.usouixfalls.edu/*", "country": "United States"}
-{"name": "University of South Alabama", "root_url": "*.southalabama.edu/*", "country": "United States"}
-{"name": "University of South Carolina", "root_url": "*.sc.edu/*", "country": "United States"}
-{"name": "University of South Dakota", "root_url": "*.usd.edu/*", "country": "United States"}
-{"name": "University of Southern California", "root_url": "*.usc.edu/*", "country": "United States"}
-{"name": "University of Southern Indiana", "root_url": "*.usi.edu/*", "country": "United States"}
-{"name": "University of Southern Maine", "root_url": "*.usm.maine.edu/*", "country": "United States"}
-{"name": "University of Southern Mississippi", "root_url": "*.usm.edu/*", "country": "United States"}
-{"name": "University of South Florida", "root_url": "*.usf.edu/*", "country": "United States"}
-{"name": "University of Southwestern Louisiana", "root_url": "*.usl.edu/*", "country": "United States"}
-{"name": "University of Tampa", "root_url": "*.ut.edu/*", "country": "United States"}
-{"name": "University of Tennessee at Chattanooga", "root_url": "*.utc.edu/*", "country": "United States"}
-{"name": "University of Texas at Arlington", "root_url": "*.uta.edu/*", "country": "United States"}
-{"name": "University of Texas at Austin", "root_url": "*.utexas.edu/*", "country": "United States"}
-{"name": "University of Texas at Brownsville", "root_url": "*.utb.edu/*", "country": "United States"}
-{"name": "University of Texas at Dallas", "root_url": "*.utdallas.edu/*", "country": "United States"}
-{"name": "University of Texas at El Paso", "root_url": "*.utep.edu/*", "country": "United States"}
-{"name": "University of Texas at San Antonio", "root_url": "*.utsa.edu/*", "country": "United States"}
-{"name": "University of Texas at Tyler", "root_url": "*.uttyler.edu/*", "country": "United States"}
-{"name": "University of Texas Medical Branch", "root_url": "*.utmb.edu/*", "country": "United States"}
-{"name": "University of Texas Southwestern Medical Center at Dallas", "root_url": "*.swmed.edu/*", "country": "United States"}
-{"name": "University of the District of Columbia", "root_url": "*.udc.edu/*", "country": "United States"}
-{"name": "University of the Incarnate Word", "root_url": "*.uiw.edu/*", "country": "United States"}
-{"name": "University of the Ozarks", "root_url": "*.ozarks.edu/*", "country": "United States"}
-{"name": "University of the Pacific", "root_url": "*.uop.edu/*", "country": "United States"}
-{"name": "University of the Virgin Islands", "root_url": "*.uvi.edu/*", "country": "United States"}
-{"name": "University of Toledo", "root_url": "*.utoledo.edu/*", "country": "United States"}
-{"name": "University of Tulsa", "root_url": "*.utulsa.edu/*", "country": "United States"}
-{"name": "University of Utah", "root_url": "*.utah.edu/*", "country": "United States"}
+{"entity": "University of Northern Iowa", "url": "*.uni.edu/*", "country": "United States"}
+{"entity": "University of North Florida", "url": "*.unf.edu/*", "country": "United States"}
+{"entity": "University of North Texas", "url": "*.unt.edu/*", "country": "United States"}
+{"entity": "University of North Texas Health Science Center", "url": "*.hsc.unt.edu/*", "country": "United States"}
+{"entity": "University of Notre Dame", "url": "*.nd.edu/*", "country": "United States"}
+{"entity": "University of Oklahoma", "url": "*.ou.edu/*", "country": "United States"}
+{"entity": "University of Oregon", "url": "*.uoregon.edu/*", "country": "United States"}
+{"entity": "University of Pennsylvania", "url": "*.upenn.edu/*", "country": "United States"}
+{"entity": "University of Phoenix", "url": "*.phoenix.edu/*", "country": "United States"}
+{"entity": "University of Pittsburgh", "url": "*.pitt.edu/*", "country": "United States"}
+{"entity": "University of Pittsburgh at Johnstown", "url": "*.upj.pitt.edu/*", "country": "United States"}
+{"entity": "University of Portland", "url": "*.up.edu/*", "country": "United States"}
+{"entity": "University of Puerto Rico", "url": "*.upr.edu/*", "country": "United States"}
+{"entity": "University of Puget Sound", "url": "*.ups.edu/*", "country": "United States"}
+{"entity": "University of Redlands", "url": "*.uor.edu/*", "country": "United States"}
+{"entity": "University of Rhode Island", "url": "*.uri.edu/*", "country": "United States"}
+{"entity": "University of Richmond", "url": "*.urich.edu/*", "country": "United States"}
+{"entity": "University of Rochester", "url": "*.rochester.edu/*", "country": "United States"}
+{"entity": "University of San Diego", "url": "*.sandiego.edu/*", "country": "United States"}
+{"entity": "University of San Francisco", "url": "*.usfca.edu/*", "country": "United States"}
+{"entity": "University of Scranton", "url": "*.scranton.edu/*", "country": "United States"}
+{"entity": "University of Sioux Falls", "url": "*.usouixfalls.edu/*", "country": "United States"}
+{"entity": "University of South Alabama", "url": "*.southalabama.edu/*", "country": "United States"}
+{"entity": "University of South Carolina", "url": "*.sc.edu/*", "country": "United States"}
+{"entity": "University of South Dakota", "url": "*.usd.edu/*", "country": "United States"}
+{"entity": "University of Southern California", "url": "*.usc.edu/*", "country": "United States"}
+{"entity": "University of Southern Indiana", "url": "*.usi.edu/*", "country": "United States"}
+{"entity": "University of Southern Maine", "url": "*.usm.maine.edu/*", "country": "United States"}
+{"entity": "University of Southern Mississippi", "url": "*.usm.edu/*", "country": "United States"}
+{"entity": "University of South Florida", "url": "*.usf.edu/*", "country": "United States"}
+{"entity": "University of Southwestern Louisiana", "url": "*.usl.edu/*", "country": "United States"}
+{"entity": "University of Tampa", "url": "*.ut.edu/*", "country": "United States"}
+{"entity": "University of Tennessee at Chattanooga", "url": "*.utc.edu/*", "country": "United States"}
+{"entity": "University of Texas at Arlington", "url": "*.uta.edu/*", "country": "United States"}
+{"entity": "University of Texas at Austin", "url": "*.utexas.edu/*", "country": "United States"}
+{"entity": "University of Texas at Brownsville", "url": "*.utb.edu/*", "country": "United States"}
+{"entity": "University of Texas at Dallas", "url": "*.utdallas.edu/*", "country": "United States"}
+{"entity": "University of Texas at El Paso", "url": "*.utep.edu/*", "country": "United States"}
+{"entity": "University of Texas at San Antonio", "url": "*.utsa.edu/*", "country": "United States"}
+{"entity": "University of Texas at Tyler", "url": "*.uttyler.edu/*", "country": "United States"}
+{"entity": "University of Texas Medical Branch", "url": "*.utmb.edu/*", "country": "United States"}
+{"entity": "University of Texas Southwestern Medical Center at Dallas", "url": "*.swmed.edu/*", "country": "United States"}
+{"entity": "University of the District of Columbia", "url": "*.udc.edu/*", "country": "United States"}
+{"entity": "University of the Incarnate Word", "url": "*.uiw.edu/*", "country": "United States"}
+{"entity": "University of the Ozarks", "url": "*.ozarks.edu/*", "country": "United States"}
+{"entity": "University of the Pacific", "url": "*.uop.edu/*", "country": "United States"}
+{"entity": "University of the Virgin Islands", "url": "*.uvi.edu/*", "country": "United States"}
+{"entity": "University of Toledo", "url": "*.utoledo.edu/*", "country": "United States"}
+{"entity": "University of Tulsa", "url": "*.utulsa.edu/*", "country": "United States"}
+{"entity": "University of Utah", "url": "*.utah.edu/*", "country": "United States"}

@@ -1,50 +1,50 @@
-{"name": "Poltava National Technical University", "root_url": "*.pntu.edu.ua/*", "country": "Ukraine"}
-{"name": "Precarpathian University", "root_url": "*.pu.if.ua/*", "country": "Ukraine"}
-{"name": "Poltava University of Consumer Cooperatives in Ukraine", "root_url": "*.pusku.edu.ua/*", "country": "Ukraine"}
-{"name": "Sumy National Agrarian University", "root_url": "*.sau.sumy.ua/*", "country": "Ukraine"}
-{"name": "Sevastopol National Technical University", "root_url": "*.sevntu.com.ua/*", "country": "Ukraine"}
-{"name": "East Ukrainian National University", "root_url": "*.snu.edu.ua/*", "country": "Ukraine"}
-{"name": "Sumy State University", "root_url": "*.sumdu.edu.ua/*", "country": "Ukraine"}
-{"name": "Ternopil Academy of National Economy", "root_url": "*.tane.edu.ua/*", "country": "Ukraine"}
-{"name": "Khmelnitsky National University", "root_url": "*.tup.km.ua/*", "country": "Ukraine"}
-{"name": "Technological University of Podillya", "root_url": "*.tup.km.ua/*", "country": "Ukraine"}
-{"name": "Ukrainian Medical Stomatological Academy", "root_url": "*.uamsa.net/*", "country": "Ukraine"}
-{"name": "Ukrainian Academy of Pharmacy", "root_url": "*.ukrfa.kharkov.ua/*", "country": "Ukraine"}
-{"name": "National University of Internal Affairs", "root_url": "*.univd.edu.ua/*", "country": "Ukraine"}
-{"name": "Kharkiv National University", "root_url": "*.univer.kharkov.ua/*", "country": "Ukraine"}
-{"name": "Kherson State University", "root_url": "*.university.kherson.ua/*", "country": "Ukraine"}
-{"name": "National Taras Shevchenko University of Kiev", "root_url": "*.univ.kiev.ua/*", "country": "Ukraine"}
-{"name": "Uzhgorod National University", "root_url": "*.univ.uzhgorod.ua/*", "country": "Ukraine"}
-{"name": "National University of Ostroh Academy", "root_url": "*.uosa.uar.net/*", "country": "Ukraine"}
-{"name": "National University of Shipbuilding", "root_url": "*.usmtu.edu.ua/*", "country": "Ukraine"}
-{"name": "National University of Food Technologies", "root_url": "*.usuft.kiev.ua/*", "country": "Ukraine"}
-{"name": "Volyn National University Lesja Ukrainka", "root_url": "*.vdu.edu.ua/*", "country": "Ukraine"}
-{"name": "National Pirogov Memorial Medical University", "root_url": "*.vnmu.vn.ua/*", "country": "Ukraine"}
-{"name": "Vinnica National Technical University", "root_url": "*.vstu.vinnica.ua/*", "country": "Ukraine"}
-{"name": "Zaporizhzhe National Technical University", "root_url": "*.zntu.edu.ua/*", "country": "Ukraine"}
-{"name": "Zaporizhzhe National University", "root_url": "*.znu.edu.ua/*", "country": "Ukraine"}
-{"name": "American College Of Dubai", "root_url": "*.acd.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Abu Dhabi University", "root_url": "*.adu.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Al Ghurair University", "root_url": "*.agu.ae/*", "country": "United Arab Emirates"}
-{"name": "Alain University of Science and Technology", "root_url": "*.alainuniversity.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Alhosn University", "root_url": "*.alhosnu.ae/*", "country": "United Arab Emirates"}
-{"name": "American University in Dubai", "root_url": "*.aud.edu/*", "country": "United Arab Emirates"}
-{"name": "American University in the Emirates", "root_url": "*.aue.ae/*", "country": "United Arab Emirates"}
-{"name": "American University of Sharjah", "root_url": "*.aus.edu/*", "country": "United Arab Emirates"}
-{"name": "British University in Dubai", "root_url": "*.buid.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Dubai Medical College for Girls", "root_url": "*.dmcg.edu/*", "country": "United Arab Emirates"}
-{"name": "Dubai Pharmacy College", "root_url": "*.dpc.edu/*", "country": "United Arab Emirates"}
-{"name": "Etisalat University College", "root_url": "*.ece.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "The Emirates Academy of Hotel Managment", "root_url": "*.emiratesacademy.edu/*", "country": "United Arab Emirates"}
-{"name": "Gulf Medical University", "root_url": "*.gmu.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Higher Colleges of Technology", "root_url": "*.hct.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Ittihad University", "root_url": "*.ittihad.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Jumeira University", "root_url": "*.ju.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Al Khawarizmi International College", "root_url": "*.khawarizmi.com/*", "country": "United Arab Emirates"}
-{"name": "Khalifa University", "root_url": "*.kustar.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "Masdar University Of Science And Technology", "root_url": "*.masdar.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "The Petroleum Institute", "root_url": "*.pi.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "University of Sharjah", "root_url": "*.sharjah.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "United Arab Emirates University", "root_url": "*.uaeu.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "University Of Dubai", "root_url": "*.ud.ac.ae/*", "country": "United Arab Emirates"}
-{"name": "University of Jazeera", "root_url": "*.uojazeera.com/*", "country": "United Arab Emirates"}
+{"entity": "Poltava National Technical University", "url": "*.pntu.edu.ua/*", "country": "Ukraine"}
+{"entity": "Precarpathian University", "url": "*.pu.if.ua/*", "country": "Ukraine"}
+{"entity": "Poltava University of Consumer Cooperatives in Ukraine", "url": "*.pusku.edu.ua/*", "country": "Ukraine"}
+{"entity": "Sumy National Agrarian University", "url": "*.sau.sumy.ua/*", "country": "Ukraine"}
+{"entity": "Sevastopol National Technical University", "url": "*.sevntu.com.ua/*", "country": "Ukraine"}
+{"entity": "East Ukrainian National University", "url": "*.snu.edu.ua/*", "country": "Ukraine"}
+{"entity": "Sumy State University", "url": "*.sumdu.edu.ua/*", "country": "Ukraine"}
+{"entity": "Ternopil Academy of National Economy", "url": "*.tane.edu.ua/*", "country": "Ukraine"}
+{"entity": "Khmelnitsky National University", "url": "*.tup.km.ua/*", "country": "Ukraine"}
+{"entity": "Technological University of Podillya", "url": "*.tup.km.ua/*", "country": "Ukraine"}
+{"entity": "Ukrainian Medical Stomatological Academy", "url": "*.uamsa.net/*", "country": "Ukraine"}
+{"entity": "Ukrainian Academy of Pharmacy", "url": "*.ukrfa.kharkov.ua/*", "country": "Ukraine"}
+{"entity": "National University of Internal Affairs", "url": "*.univd.edu.ua/*", "country": "Ukraine"}
+{"entity": "Kharkiv National University", "url": "*.univer.kharkov.ua/*", "country": "Ukraine"}
+{"entity": "Kherson State University", "url": "*.university.kherson.ua/*", "country": "Ukraine"}
+{"entity": "National Taras Shevchenko University of Kiev", "url": "*.univ.kiev.ua/*", "country": "Ukraine"}
+{"entity": "Uzhgorod National University", "url": "*.univ.uzhgorod.ua/*", "country": "Ukraine"}
+{"entity": "National University of Ostroh Academy", "url": "*.uosa.uar.net/*", "country": "Ukraine"}
+{"entity": "National University of Shipbuilding", "url": "*.usmtu.edu.ua/*", "country": "Ukraine"}
+{"entity": "National University of Food Technologies", "url": "*.usuft.kiev.ua/*", "country": "Ukraine"}
+{"entity": "Volyn National University Lesja Ukrainka", "url": "*.vdu.edu.ua/*", "country": "Ukraine"}
+{"entity": "National Pirogov Memorial Medical University", "url": "*.vnmu.vn.ua/*", "country": "Ukraine"}
+{"entity": "Vinnica National Technical University", "url": "*.vstu.vinnica.ua/*", "country": "Ukraine"}
+{"entity": "Zaporizhzhe National Technical University", "url": "*.zntu.edu.ua/*", "country": "Ukraine"}
+{"entity": "Zaporizhzhe National University", "url": "*.znu.edu.ua/*", "country": "Ukraine"}
+{"entity": "American College Of Dubai", "url": "*.acd.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Abu Dhabi University", "url": "*.adu.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Al Ghurair University", "url": "*.agu.ae/*", "country": "United Arab Emirates"}
+{"entity": "Alain University of Science and Technology", "url": "*.alainuniversity.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Alhosn University", "url": "*.alhosnu.ae/*", "country": "United Arab Emirates"}
+{"entity": "American University in Dubai", "url": "*.aud.edu/*", "country": "United Arab Emirates"}
+{"entity": "American University in the Emirates", "url": "*.aue.ae/*", "country": "United Arab Emirates"}
+{"entity": "American University of Sharjah", "url": "*.aus.edu/*", "country": "United Arab Emirates"}
+{"entity": "British University in Dubai", "url": "*.buid.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Dubai Medical College for Girls", "url": "*.dmcg.edu/*", "country": "United Arab Emirates"}
+{"entity": "Dubai Pharmacy College", "url": "*.dpc.edu/*", "country": "United Arab Emirates"}
+{"entity": "Etisalat University College", "url": "*.ece.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "The Emirates Academy of Hotel Managment", "url": "*.emiratesacademy.edu/*", "country": "United Arab Emirates"}
+{"entity": "Gulf Medical University", "url": "*.gmu.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Higher Colleges of Technology", "url": "*.hct.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Ittihad University", "url": "*.ittihad.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Jumeira University", "url": "*.ju.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Al Khawarizmi International College", "url": "*.khawarizmi.com/*", "country": "United Arab Emirates"}
+{"entity": "Khalifa University", "url": "*.kustar.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "Masdar University Of Science And Technology", "url": "*.masdar.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "The Petroleum Institute", "url": "*.pi.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "University of Sharjah", "url": "*.sharjah.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "United Arab Emirates University", "url": "*.uaeu.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "University Of Dubai", "url": "*.ud.ac.ae/*", "country": "United Arab Emirates"}
+{"entity": "University of Jazeera", "url": "*.uojazeera.com/*", "country": "United Arab Emirates"}

@@ -1,50 +1,50 @@
-{"name": "Technical University of Opole", "root_url": "*.po.opole.pl/*", "country": "Poland"}
-{"name": "Technical University of Rzeszow", "root_url": "*.prz.rzeszow.pl/*", "country": "Poland"}
-{"name": "Pedagogical University of Kielce", "root_url": "*.pu.kielce.pl/*", "country": "Poland"}
-{"name": "Poznan University of Life Sciences", "root_url": "*.puls.edu.pl/*", "country": "Poland"}
-{"name": "Technical University of Poznan", "root_url": "*.put.poznan.pl/*", "country": "Poland"}
-{"name": "Warsaw University of Technology", "root_url": "*.pw.edu.pl/*", "country": "Poland"}
-{"name": "Technical University of Wroclaw", "root_url": "*.pwr.wroc.pl/*", "country": "Poland"}
-{"name": "Ludwik Solski State Academy of Theatre in Cracow", "root_url": "*.pwst.krakow.pl/*", "country": "Poland"}
-{"name": "Walcz College", "root_url": "*.pwsz.eu/*", "country": "Poland"}
-{"name": "Staszic Pila College", "root_url": "*.pwsz.pila.pl/*", "country": "Poland"}
-{"name": "Technical University of Zielona Gora", "root_url": "*.pz.zgora.pl/*", "country": "Poland"}
-{"name": "Christian Theological Academy in Warszaw", "root_url": "*.qdnet.pl/ChAT/*", "country": "Poland"}
-{"name": "Agricultural University of Warsaw", "root_url": "*.sggw.waw.pl/*", "country": "Poland"}
-{"name": "Warsaw School of Economics", "root_url": "*.sgh.waw.pl/*", "country": "Poland"}
-{"name": "Silesian Academy of Medicine in Katowice", "root_url": "*.slam.katowice.pl/*", "country": "Poland"}
-{"name": "Warsaw School of Social Psychology", "root_url": "*.swps.edu.pl/*", "country": "Poland"}
-{"name": "Technical University of Kielce", "root_url": "*.tu.kielce.pl/*", "country": "Poland"}
-{"name": "Technical University of Koszalin", "root_url": "*.tu.koszalin.pl/*", "country": "Poland"}
-{"name": "Technical University of Szczecin", "root_url": "*.tuniv.szczecin.pl/*", "country": "Poland"}
-{"name": "University of Bialystok", "root_url": "*.ub.edu.pl/*", "country": "Poland"}
-{"name": "Jagiellonian University Cracow", "root_url": "*.uj.edu.pl/*", "country": "Poland"}
-{"name": "Cardinal Stefan Wyszynski University in Warsaw", "root_url": "*.uksw.edu.pl/*", "country": "Poland"}
-{"name": "University of Lodz", "root_url": "*.uni.lodz.pl/*", "country": "Poland"}
-{"name": "University of Opole", "root_url": "*.uni.opole.pl/*", "country": "Poland"}
-{"name": "Nicolaus Copernicus University of Torun", "root_url": "*.uni.torun.pl/*", "country": "Poland"}
-{"name": "University of Gdansk", "root_url": "*.univ.gda.pl/*", "country": "Poland"}
-{"name": "Pedagogical University of Rzeszow", "root_url": "*.univ.rzeszow.pl/*", "country": "Poland"}
-{"name": "University of Szczecin", "root_url": "*.univ.szczecin.pl/*", "country": "Poland"}
-{"name": "University of Wroclaw", "root_url": "*.uni.wroc.pl/*", "country": "Poland"}
-{"name": "University of Silesia", "root_url": "*.us.edu.pl/*", "country": "Poland"}
-{"name": "University of Technology and Life Sciences", "root_url": "*.utp.edu.pl/*", "country": "Poland"}
-{"name": "University of Warsaw", "root_url": "*.uw.edu.pl/*", "country": "Poland"}
-{"name": "University of Wamia and Masuria in Olsztyn", "root_url": "*.uwm.edu.pl/*", "country": "Poland"}
-{"name": "Pawel Wlodkowic University College in Plock", "root_url": "*.wlodkowic.pl/*", "country": "Poland"}
-{"name": "Poznan School of Banking", "root_url": "*.wsb.poznan.pl/*", "country": "Poland"}
-{"name": "Higher School o Business in Tarnow", "root_url": "*.wsb.toi.tarnow.pl/*", "country": "Poland"}
-{"name": "University of Finance and Management in Bialystok", "root_url": "*.wsfiz.edu.pl/*", "country": "Poland"}
-{"name": "Aleksander Gieysztor School of Humanities in Pultusk", "root_url": "*.wsh.edu.pl/*", "country": "Poland"}
-{"name": "Ryszard Lazarski University of Commerce and Law in Warsaw", "root_url": "*.wship.edu.pl/*", "country": "Poland"}
-{"name": "College of Computer Science in Lodz", "root_url": "*.wsinf.edu.pl/*", "country": "Poland"}
-{"name": "Warsaw School of Information Technology", "root_url": "*.wsisiz.edu.pl/*", "country": "Poland"}
-{"name": "University of Information Technology and Management in Rzeszow", "root_url": "*.wsiz.rzeszow.pl/*", "country": "Poland"}
-{"name": "Gdynia Maritime Academy", "root_url": "*.wsm.gdynia.pl/*", "country": "Poland"}
-{"name": "Maritime University in Szczecin", "root_url": "*.wsm.szczecin.pl/*", "country": "Poland"}
-{"name": "Pedagogical University of Bydgoszcz", "root_url": "*.wsp.bydgoszcz.pl/*", "country": "Poland"}
-{"name": "Pedagogical University of Czestochowa", "root_url": "*.wsp.czest.pl/*", "country": "Poland"}
-{"name": "Leon Kozminski Academy of Entrepreneurship and Mangement in Warsaw", "root_url": "*.wspiz.edu.pl/*", "country": "Poland"}
-{"name": "Pedagogical University of Krakow", "root_url": "*.wsp.krakow.pl/*", "country": "Poland"}
-{"name": "Pedagogical University of Slupsk", "root_url": "*.wsp.slupsk.pl/*", "country": "Poland"}
-{"name": "Maria Grzegorzewska College for Special Education", "root_url": "*.wsps.waw.pl/*", "country": "Poland"}
+{"entity": "Technical University of Opole", "url": "*.po.opole.pl/*", "country": "Poland"}
+{"entity": "Technical University of Rzeszow", "url": "*.prz.rzeszow.pl/*", "country": "Poland"}
+{"entity": "Pedagogical University of Kielce", "url": "*.pu.kielce.pl/*", "country": "Poland"}
+{"entity": "Poznan University of Life Sciences", "url": "*.puls.edu.pl/*", "country": "Poland"}
+{"entity": "Technical University of Poznan", "url": "*.put.poznan.pl/*", "country": "Poland"}
+{"entity": "Warsaw University of Technology", "url": "*.pw.edu.pl/*", "country": "Poland"}
+{"entity": "Technical University of Wroclaw", "url": "*.pwr.wroc.pl/*", "country": "Poland"}
+{"entity": "Ludwik Solski State Academy of Theatre in Cracow", "url": "*.pwst.krakow.pl/*", "country": "Poland"}
+{"entity": "Walcz College", "url": "*.pwsz.eu/*", "country": "Poland"}
+{"entity": "Staszic Pila College", "url": "*.pwsz.pila.pl/*", "country": "Poland"}
+{"entity": "Technical University of Zielona Gora", "url": "*.pz.zgora.pl/*", "country": "Poland"}
+{"entity": "Christian Theological Academy in Warszaw", "url": "*.qdnet.pl/ChAT/*", "country": "Poland"}
+{"entity": "Agricultural University of Warsaw", "url": "*.sggw.waw.pl/*", "country": "Poland"}
+{"entity": "Warsaw School of Economics", "url": "*.sgh.waw.pl/*", "country": "Poland"}
+{"entity": "Silesian Academy of Medicine in Katowice", "url": "*.slam.katowice.pl/*", "country": "Poland"}
+{"entity": "Warsaw School of Social Psychology", "url": "*.swps.edu.pl/*", "country": "Poland"}
+{"entity": "Technical University of Kielce", "url": "*.tu.kielce.pl/*", "country": "Poland"}
+{"entity": "Technical University of Koszalin", "url": "*.tu.koszalin.pl/*", "country": "Poland"}
+{"entity": "Technical University of Szczecin", "url": "*.tuniv.szczecin.pl/*", "country": "Poland"}
+{"entity": "University of Bialystok", "url": "*.ub.edu.pl/*", "country": "Poland"}
+{"entity": "Jagiellonian University Cracow", "url": "*.uj.edu.pl/*", "country": "Poland"}
+{"entity": "Cardinal Stefan Wyszynski University in Warsaw", "url": "*.uksw.edu.pl/*", "country": "Poland"}
+{"entity": "University of Lodz", "url": "*.uni.lodz.pl/*", "country": "Poland"}
+{"entity": "University of Opole", "url": "*.uni.opole.pl/*", "country": "Poland"}
+{"entity": "Nicolaus Copernicus University of Torun", "url": "*.uni.torun.pl/*", "country": "Poland"}
+{"entity": "University of Gdansk", "url": "*.univ.gda.pl/*", "country": "Poland"}
+{"entity": "Pedagogical University of Rzeszow", "url": "*.univ.rzeszow.pl/*", "country": "Poland"}
+{"entity": "University of Szczecin", "url": "*.univ.szczecin.pl/*", "country": "Poland"}
+{"entity": "University of Wroclaw", "url": "*.uni.wroc.pl/*", "country": "Poland"}
+{"entity": "University of Silesia", "url": "*.us.edu.pl/*", "country": "Poland"}
+{"entity": "University of Technology and Life Sciences", "url": "*.utp.edu.pl/*", "country": "Poland"}
+{"entity": "University of Warsaw", "url": "*.uw.edu.pl/*", "country": "Poland"}
+{"entity": "University of Wamia and Masuria in Olsztyn", "url": "*.uwm.edu.pl/*", "country": "Poland"}
+{"entity": "Pawel Wlodkowic University College in Plock", "url": "*.wlodkowic.pl/*", "country": "Poland"}
+{"entity": "Poznan School of Banking", "url": "*.wsb.poznan.pl/*", "country": "Poland"}
+{"entity": "Higher School o Business in Tarnow", "url": "*.wsb.toi.tarnow.pl/*", "country": "Poland"}
+{"entity": "University of Finance and Management in Bialystok", "url": "*.wsfiz.edu.pl/*", "country": "Poland"}
+{"entity": "Aleksander Gieysztor School of Humanities in Pultusk", "url": "*.wsh.edu.pl/*", "country": "Poland"}
+{"entity": "Ryszard Lazarski University of Commerce and Law in Warsaw", "url": "*.wship.edu.pl/*", "country": "Poland"}
+{"entity": "College of Computer Science in Lodz", "url": "*.wsinf.edu.pl/*", "country": "Poland"}
+{"entity": "Warsaw School of Information Technology", "url": "*.wsisiz.edu.pl/*", "country": "Poland"}
+{"entity": "University of Information Technology and Management in Rzeszow", "url": "*.wsiz.rzeszow.pl/*", "country": "Poland"}
+{"entity": "Gdynia Maritime Academy", "url": "*.wsm.gdynia.pl/*", "country": "Poland"}
+{"entity": "Maritime University in Szczecin", "url": "*.wsm.szczecin.pl/*", "country": "Poland"}
+{"entity": "Pedagogical University of Bydgoszcz", "url": "*.wsp.bydgoszcz.pl/*", "country": "Poland"}
+{"entity": "Pedagogical University of Czestochowa", "url": "*.wsp.czest.pl/*", "country": "Poland"}
+{"entity": "Leon Kozminski Academy of Entrepreneurship and Mangement in Warsaw", "url": "*.wspiz.edu.pl/*", "country": "Poland"}
+{"entity": "Pedagogical University of Krakow", "url": "*.wsp.krakow.pl/*", "country": "Poland"}
+{"entity": "Pedagogical University of Slupsk", "url": "*.wsp.slupsk.pl/*", "country": "Poland"}
+{"entity": "Maria Grzegorzewska College for Special Education", "url": "*.wsps.waw.pl/*", "country": "Poland"}

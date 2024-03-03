@@ -1,50 +1,50 @@
-{"name": "Florida State University", "root_url": "*.fsu.edu/*", "country": "United States"}
-{"name": "Fontbonne College", "root_url": "*.fontbonne.edu/*", "country": "United States"}
-{"name": "Fordham University", "root_url": "*.fordham.edu/*", "country": "United States"}
-{"name": "Fort Hays State University", "root_url": "*.fhsu.edu/*", "country": "United States"}
-{"name": "Fort Lewis College", "root_url": "*.fortlewis.edu/*", "country": "United States"}
-{"name": "Fountainhead College of Technology", "root_url": "*.fountainheadcollege.edu/*", "country": "United States"}
-{"name": "Franklin and Marshall College", "root_url": "*.fandm.edu/*", "country": "United States"}
-{"name": "Franklin Pierce Law Center", "root_url": "*.fplc.edu/*", "country": "United States"}
-{"name": "Franklin University", "root_url": "*.franklin.edu/*", "country": "United States"}
-{"name": "Frederick Community College", "root_url": "*.frederick.edu/*", "country": "United States"}
-{"name": "Fresno Pacific University", "root_url": "*.fresno.edu/*", "country": "United States"}
-{"name": "Friends University", "root_url": "*.friends.edu/*", "country": "United States"}
-{"name": "Frostburg State University", "root_url": "*.frostburg.edu/*", "country": "United States"}
-{"name": "Fuller Theological Seminary", "root_url": "*.fuller.edu/*", "country": "United States"}
-{"name": "Furman University", "root_url": "*.furman.edu/*", "country": "United States"}
-{"name": "Gallaudet University", "root_url": "*.gallaudet.edu/*", "country": "United States"}
-{"name": "Gannon University", "root_url": "*.gannon.edu/*", "country": "United States"}
-{"name": "Geneva College", "root_url": "*.geneva.edu/*", "country": "United States"}
-{"name": "George Fox College", "root_url": "*.gfc.edu/*", "country": "United States"}
-{"name": "George Mason University", "root_url": "*.gmu.edu/*", "country": "United States"}
-{"name": "Georgetown University", "root_url": "*.georgetown.edu/*", "country": "United States"}
-{"name": "George Washington University", "root_url": "*.gwu.edu/*", "country": "United States"}
-{"name": "Georgia College", "root_url": "*.gcsu.edu/*", "country": "United States"}
-{"name": "Georgia Institute of Technology", "root_url": "*.gatech.edu/*", "country": "United States"}
-{"name": "Georgian Court College", "root_url": "*.georgian.edu/*", "country": "United States"}
-{"name": "Georgia Southern University", "root_url": "*.georgiasouthern.edu/*", "country": "United States"}
-{"name": "Georgia Southwestern State University", "root_url": "*.gsw.edu/*", "country": "United States"}
-{"name": "Georgia State University", "root_url": "*.gsu.edu/*", "country": "United States"}
-{"name": "Gettysburg College", "root_url": "*.gettysburg.edu/*", "country": "United States"}
-{"name": "GMI Engineering and Management Institute", "root_url": "*.gmi.edu/*", "country": "United States"}
-{"name": "Golden Gate University", "root_url": "*.ggu.edu/*", "country": "United States"}
-{"name": "Gonzaga University", "root_url": "*.gonzaga.edu/*", "country": "United States"}
-{"name": "Goshen College", "root_url": "*.goshen.edu/*", "country": "United States"}
-{"name": "Goucher College", "root_url": "*.goucher.edu/*", "country": "United States"}
-{"name": "Governors State University", "root_url": "*.govst.edu/*", "country": "United States"}
-{"name": "Grace College", "root_url": "*.grace.edu/*", "country": "United States"}
-{"name": "Graceland College", "root_url": "*.graceland.edu/*", "country": "United States"}
-{"name": "Grand Valley State University", "root_url": "*.gvsu.edu/*", "country": "United States"}
-{"name": "Greenleaf University", "root_url": "*.greenleaf.edu/*", "country": "United States"}
-{"name": "Grinnell College", "root_url": "*.grinnell.edu/*", "country": "United States"}
-{"name": "Guilford College", "root_url": "*.guilford.edu/*", "country": "United States"}
-{"name": "Gustavus Adolphus College", "root_url": "*.gac.edu/*", "country": "United States"}
-{"name": "Hagerstown Community College", "root_url": "*.hagerstowncc.edu/*", "country": "United States"}
-{"name": "Hamilton College", "root_url": "*.hamilton.edu/*", "country": "United States"}
-{"name": "Hamline University", "root_url": "*.hamline.edu/*", "country": "United States"}
-{"name": "Hampshire College", "root_url": "*.hampshire.edu/*", "country": "United States"}
-{"name": "Hampton University", "root_url": "*.hamptonu.edu/*", "country": "United States"}
-{"name": "Hanover College", "root_url": "*.hanover.edu/*", "country": "United States"}
-{"name": "Harding University", "root_url": "*.harding.edu/*", "country": "United States"}
-{"name": "Harford Community College", "root_url": "*.harford.edu/*", "country": "United States"}
+{"entity": "Florida State University", "url": "*.fsu.edu/*", "country": "United States"}
+{"entity": "Fontbonne College", "url": "*.fontbonne.edu/*", "country": "United States"}
+{"entity": "Fordham University", "url": "*.fordham.edu/*", "country": "United States"}
+{"entity": "Fort Hays State University", "url": "*.fhsu.edu/*", "country": "United States"}
+{"entity": "Fort Lewis College", "url": "*.fortlewis.edu/*", "country": "United States"}
+{"entity": "Fountainhead College of Technology", "url": "*.fountainheadcollege.edu/*", "country": "United States"}
+{"entity": "Franklin and Marshall College", "url": "*.fandm.edu/*", "country": "United States"}
+{"entity": "Franklin Pierce Law Center", "url": "*.fplc.edu/*", "country": "United States"}
+{"entity": "Franklin University", "url": "*.franklin.edu/*", "country": "United States"}
+{"entity": "Frederick Community College", "url": "*.frederick.edu/*", "country": "United States"}
+{"entity": "Fresno Pacific University", "url": "*.fresno.edu/*", "country": "United States"}
+{"entity": "Friends University", "url": "*.friends.edu/*", "country": "United States"}
+{"entity": "Frostburg State University", "url": "*.frostburg.edu/*", "country": "United States"}
+{"entity": "Fuller Theological Seminary", "url": "*.fuller.edu/*", "country": "United States"}
+{"entity": "Furman University", "url": "*.furman.edu/*", "country": "United States"}
+{"entity": "Gallaudet University", "url": "*.gallaudet.edu/*", "country": "United States"}
+{"entity": "Gannon University", "url": "*.gannon.edu/*", "country": "United States"}
+{"entity": "Geneva College", "url": "*.geneva.edu/*", "country": "United States"}
+{"entity": "George Fox College", "url": "*.gfc.edu/*", "country": "United States"}
+{"entity": "George Mason University", "url": "*.gmu.edu/*", "country": "United States"}
+{"entity": "Georgetown University", "url": "*.georgetown.edu/*", "country": "United States"}
+{"entity": "George Washington University", "url": "*.gwu.edu/*", "country": "United States"}
+{"entity": "Georgia College", "url": "*.gcsu.edu/*", "country": "United States"}
+{"entity": "Georgia Institute of Technology", "url": "*.gatech.edu/*", "country": "United States"}
+{"entity": "Georgian Court College", "url": "*.georgian.edu/*", "country": "United States"}
+{"entity": "Georgia Southern University", "url": "*.georgiasouthern.edu/*", "country": "United States"}
+{"entity": "Georgia Southwestern State University", "url": "*.gsw.edu/*", "country": "United States"}
+{"entity": "Georgia State University", "url": "*.gsu.edu/*", "country": "United States"}
+{"entity": "Gettysburg College", "url": "*.gettysburg.edu/*", "country": "United States"}
+{"entity": "GMI Engineering and Management Institute", "url": "*.gmi.edu/*", "country": "United States"}
+{"entity": "Golden Gate University", "url": "*.ggu.edu/*", "country": "United States"}
+{"entity": "Gonzaga University", "url": "*.gonzaga.edu/*", "country": "United States"}
+{"entity": "Goshen College", "url": "*.goshen.edu/*", "country": "United States"}
+{"entity": "Goucher College", "url": "*.goucher.edu/*", "country": "United States"}
+{"entity": "Governors State University", "url": "*.govst.edu/*", "country": "United States"}
+{"entity": "Grace College", "url": "*.grace.edu/*", "country": "United States"}
+{"entity": "Graceland College", "url": "*.graceland.edu/*", "country": "United States"}
+{"entity": "Grand Valley State University", "url": "*.gvsu.edu/*", "country": "United States"}
+{"entity": "Greenleaf University", "url": "*.greenleaf.edu/*", "country": "United States"}
+{"entity": "Grinnell College", "url": "*.grinnell.edu/*", "country": "United States"}
+{"entity": "Guilford College", "url": "*.guilford.edu/*", "country": "United States"}
+{"entity": "Gustavus Adolphus College", "url": "*.gac.edu/*", "country": "United States"}
+{"entity": "Hagerstown Community College", "url": "*.hagerstowncc.edu/*", "country": "United States"}
+{"entity": "Hamilton College", "url": "*.hamilton.edu/*", "country": "United States"}
+{"entity": "Hamline University", "url": "*.hamline.edu/*", "country": "United States"}
+{"entity": "Hampshire College", "url": "*.hampshire.edu/*", "country": "United States"}
+{"entity": "Hampton University", "url": "*.hamptonu.edu/*", "country": "United States"}
+{"entity": "Hanover College", "url": "*.hanover.edu/*", "country": "United States"}
+{"entity": "Harding University", "url": "*.harding.edu/*", "country": "United States"}
+{"entity": "Harford Community College", "url": "*.harford.edu/*", "country": "United States"}

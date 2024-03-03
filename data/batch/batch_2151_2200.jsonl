@@ -1,50 +1,50 @@
-{"name": "Tiffin University Prague", "root_url": "*.tiffinprague.cz/*", "country": "Czech Republic"}
-{"name": "University of Jan Evangelista Purkyne", "root_url": "*.ujep.cz/*", "country": "Czech Republic"}
-{"name": "University of New York in Prague", "root_url": "*.unyp.cz/*", "country": "Czech Republic"}
-{"name": "University of Pardubice", "root_url": "*.upce.cz/*", "country": "Czech Republic"}
-{"name": "Palacky University", "root_url": "*.upol.cz/*", "country": "Czech Republic"}
-{"name": "Tomas Bata University in Zlin", "root_url": "*.utb.cz/*", "country": "Czech Republic"}
-{"name": "University of Veterinary and Pharmaceutical Science", "root_url": "*.vfu.cz/*", "country": "Czech Republic"}
-{"name": "Technical University of Mining and Metallurgy Ostrava", "root_url": "*.vsb.cz/*", "country": "Czech Republic"}
-{"name": "Prague Institute of Chemical Technology", "root_url": "*.vscht.cz/*", "country": "Czech Republic"}
-{"name": "Cevro Institut College", "root_url": "*.vsci.cz/*", "country": "Czech Republic"}
-{"name": "University of Economics Prague", "root_url": "*.vse.cz/*", "country": "Czech Republic"}
-{"name": "Technical University of Liberec", "root_url": "*.vslib.cz/*", "country": "Czech Republic"}
-{"name": "University of Education Hradec Kralove", "root_url": "*.vsp.cz/*", "country": "Czech Republic"}
-{"name": "Brno University of Technology", "root_url": "*.vutbr.cz/*", "country": "Czech Republic"}
-{"name": "University of West Bohemia", "root_url": "*.zcu.cz/*", "country": "Czech Republic"}
-{"name": "Aarhus School of Architecture", "root_url": "*.a-aarhus.dk/*", "country": "Denmark"}
-{"name": "Aalborg Business College", "root_url": "*.ah.dk/*", "country": "Denmark"}
-{"name": "Aarhus Technical College", "root_url": "*.ats.dk/*", "country": "Denmark"}
-{"name": "Aalborg University", "root_url": "*.auc.dk/*", "country": "Denmark"}
-{"name": "Aarhus University", "root_url": "*.au.dk/*", "country": "Denmark"}
-{"name": "Copenhagen Business School", "root_url": "*.cbs.dk/*", "country": "Denmark"}
-{"name": "Royal School of Library and Information Science", "root_url": "*.db.dk/*", "country": "Denmark"}
-{"name": "Danish Business Academy", "root_url": "*.ddea.dk/*", "country": "Denmark"}
-{"name": "Royal Danish School of Pharmacy", "root_url": "*.dfh.dk/*", "country": "Denmark"}
-{"name": "Royal Danish Academy of Music", "root_url": "*.dkdm.dk/*", "country": "Denmark"}
-{"name": "Royal Danish School of Educational Sciences", "root_url": "*.dlh.dk/*", "country": "Denmark"}
-{"name": "Danish University of Education", "root_url": "*.dpu.dk/*", "country": "Denmark"}
-{"name": "Technical University of Denmark", "root_url": "*.dtu.dk/*", "country": "Denmark"}
-{"name": "Aarhus School of Business", "root_url": "*.hha.dk/*", "country": "Denmark"}
-{"name": "Southern Denmark Business School", "root_url": "*.hhs.dk/*", "country": "Denmark"}
-{"name": "International Business School of Scandinavia", "root_url": "*.ibss.eu/*", "country": "Denmark"}
-{"name": "Engineering College of Aarhus", "root_url": "*.iha.dk/*", "country": "Denmark"}
-{"name": "Engineering College of Copenhagen", "root_url": "*.ihk.dk/*", "country": "Denmark"}
-{"name": "IT University of Copenhagen", "root_url": "*.itu.dk/*", "country": "Denmark"}
-{"name": "Knightsbridge University", "root_url": "*.knightsbridgeuniversity.com/*", "country": "Denmark"}
-{"name": "Copenhagen University", "root_url": "*.ku.dk/*", "country": "Denmark"}
-{"name": "Royal Veterinary and Agricultural University", "root_url": "*.kvl.dk/*", "country": "Denmark"}
-{"name": "Royal Academy of Music", "root_url": "*.musik-kons.dk/*", "country": "Denmark"}
-{"name": "Odense University", "root_url": "*.ou.dk/*", "country": "Denmark"}
-{"name": "Roskilde University", "root_url": "*.ruc.dk/*", "country": "Denmark"}
-{"name": "University of Southern Denmark", "root_url": "*.sdu.dk/*", "country": "Denmark"}
-{"name": "Lutheran School Of Theology In Aarhus", "root_url": "*.teologi.dk/*", "country": "Denmark"}
-{"name": "Tietgen Business College", "root_url": "*.tietgen.dk/*", "country": "Denmark"}
-{"name": "Dominica State College", "root_url": "*.dsc.dm/*", "country": "Dominica"}
-{"name": "New World University", "root_url": "*.newworld.ac/*", "country": "Dominica"}
-{"name": "Ross University Caribbean School of Medicine", "root_url": "*.rossu.edu/medical-school/*", "country": "Dominica"}
-{"name": "Universidad Central Dominicana de Estudio Profesionales", "root_url": "*.66.98.64.31/*", "country": "Dominican Republic"}
-{"name": "Universidad Abierta Para Adultos", "root_url": "*.uapa.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad Central del Este", "root_url": "*.uce.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad Ulises Francisco Espaillat", "root_url": "*.ufhec.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Tiffin University Prague", "url": "*.tiffinprague.cz/*", "country": "Czech Republic"}
+{"entity": "University of Jan Evangelista Purkyne", "url": "*.ujep.cz/*", "country": "Czech Republic"}
+{"entity": "University of New York in Prague", "url": "*.unyp.cz/*", "country": "Czech Republic"}
+{"entity": "University of Pardubice", "url": "*.upce.cz/*", "country": "Czech Republic"}
+{"entity": "Palacky University", "url": "*.upol.cz/*", "country": "Czech Republic"}
+{"entity": "Tomas Bata University in Zlin", "url": "*.utb.cz/*", "country": "Czech Republic"}
+{"entity": "University of Veterinary and Pharmaceutical Science", "url": "*.vfu.cz/*", "country": "Czech Republic"}
+{"entity": "Technical University of Mining and Metallurgy Ostrava", "url": "*.vsb.cz/*", "country": "Czech Republic"}
+{"entity": "Prague Institute of Chemical Technology", "url": "*.vscht.cz/*", "country": "Czech Republic"}
+{"entity": "Cevro Institut College", "url": "*.vsci.cz/*", "country": "Czech Republic"}
+{"entity": "University of Economics Prague", "url": "*.vse.cz/*", "country": "Czech Republic"}
+{"entity": "Technical University of Liberec", "url": "*.vslib.cz/*", "country": "Czech Republic"}
+{"entity": "University of Education Hradec Kralove", "url": "*.vsp.cz/*", "country": "Czech Republic"}
+{"entity": "Brno University of Technology", "url": "*.vutbr.cz/*", "country": "Czech Republic"}
+{"entity": "University of West Bohemia", "url": "*.zcu.cz/*", "country": "Czech Republic"}
+{"entity": "Aarhus School of Architecture", "url": "*.a-aarhus.dk/*", "country": "Denmark"}
+{"entity": "Aalborg Business College", "url": "*.ah.dk/*", "country": "Denmark"}
+{"entity": "Aarhus Technical College", "url": "*.ats.dk/*", "country": "Denmark"}
+{"entity": "Aalborg University", "url": "*.auc.dk/*", "country": "Denmark"}
+{"entity": "Aarhus University", "url": "*.au.dk/*", "country": "Denmark"}
+{"entity": "Copenhagen Business School", "url": "*.cbs.dk/*", "country": "Denmark"}
+{"entity": "Royal School of Library and Information Science", "url": "*.db.dk/*", "country": "Denmark"}
+{"entity": "Danish Business Academy", "url": "*.ddea.dk/*", "country": "Denmark"}
+{"entity": "Royal Danish School of Pharmacy", "url": "*.dfh.dk/*", "country": "Denmark"}
+{"entity": "Royal Danish Academy of Music", "url": "*.dkdm.dk/*", "country": "Denmark"}
+{"entity": "Royal Danish School of Educational Sciences", "url": "*.dlh.dk/*", "country": "Denmark"}
+{"entity": "Danish University of Education", "url": "*.dpu.dk/*", "country": "Denmark"}
+{"entity": "Technical University of Denmark", "url": "*.dtu.dk/*", "country": "Denmark"}
+{"entity": "Aarhus School of Business", "url": "*.hha.dk/*", "country": "Denmark"}
+{"entity": "Southern Denmark Business School", "url": "*.hhs.dk/*", "country": "Denmark"}
+{"entity": "International Business School of Scandinavia", "url": "*.ibss.eu/*", "country": "Denmark"}
+{"entity": "Engineering College of Aarhus", "url": "*.iha.dk/*", "country": "Denmark"}
+{"entity": "Engineering College of Copenhagen", "url": "*.ihk.dk/*", "country": "Denmark"}
+{"entity": "IT University of Copenhagen", "url": "*.itu.dk/*", "country": "Denmark"}
+{"entity": "Knightsbridge University", "url": "*.knightsbridgeuniversity.com/*", "country": "Denmark"}
+{"entity": "Copenhagen University", "url": "*.ku.dk/*", "country": "Denmark"}
+{"entity": "Royal Veterinary and Agricultural University", "url": "*.kvl.dk/*", "country": "Denmark"}
+{"entity": "Royal Academy of Music", "url": "*.musik-kons.dk/*", "country": "Denmark"}
+{"entity": "Odense University", "url": "*.ou.dk/*", "country": "Denmark"}
+{"entity": "Roskilde University", "url": "*.ruc.dk/*", "country": "Denmark"}
+{"entity": "University of Southern Denmark", "url": "*.sdu.dk/*", "country": "Denmark"}
+{"entity": "Lutheran School Of Theology In Aarhus", "url": "*.teologi.dk/*", "country": "Denmark"}
+{"entity": "Tietgen Business College", "url": "*.tietgen.dk/*", "country": "Denmark"}
+{"entity": "Dominica State College", "url": "*.dsc.dm/*", "country": "Dominica"}
+{"entity": "New World University", "url": "*.newworld.ac/*", "country": "Dominica"}
+{"entity": "Ross University Caribbean School of Medicine", "url": "*.rossu.edu/medical-school/*", "country": "Dominica"}
+{"entity": "Universidad Central Dominicana de Estudio Profesionales", "url": "*.66.98.64.31/*", "country": "Dominican Republic"}
+{"entity": "Universidad Abierta Para Adultos", "url": "*.uapa.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad Central del Este", "url": "*.uce.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad Ulises Francisco Espaillat", "url": "*.ufhec.edu.do/*", "country": "Dominican Republic"}

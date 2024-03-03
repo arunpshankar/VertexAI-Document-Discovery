@@ -1,50 +1,50 @@
-{"name": "International Theravada Buddhist Missionary University", "root_url": "*.itbmu.org.mm/*", "country": "Myanmar"}
-{"name": "Mandalay Technological University", "root_url": "*.most.gov.mm/mtu/*", "country": "Myanmar"}
-{"name": "Myanmar Aerospace Engineering University", "root_url": "*.most.gov.mm/maeu/*", "country": "Myanmar"}
-{"name": "University of Medicine Magway", "root_url": "*.ummg.edu.mm/*", "country": "Myanmar"}
-{"name": "Hope Africa University", "root_url": "*.hopeafricauniversity.org/*", "country": "Burundi"}
-{"name": "Asia Europe University", "root_url": "*.aeu.edu.kh/*", "country": "Cambodia"}
-{"name": "Angkor University", "root_url": "*.angkor.edu.kh/*", "country": "Cambodia"}
-{"name": "Build Bright University", "root_url": "*.bbu.edu.kh/*", "country": "Cambodia"}
-{"name": "Chamreun University of Poly Technology", "root_url": "*.cup.edu.kh/*", "country": "Cambodia"}
-{"name": "Cambodia University of Specialties", "root_url": "*.cus.edu.kh/*", "country": "Cambodia"}
-{"name": "National Institute of Education", "root_url": "*.ine.edu.kh/*", "country": "Cambodia"}
-{"name": "International University", "root_url": "*.iu.edu.kh/*", "country": "Cambodia"}
-{"name": "Cambodian Mekong University", "root_url": "*.mekong.edu.kh/*", "country": "Cambodia"}
-{"name": "Norton University", "root_url": "*.norton.edu.kh/*", "country": "Cambodia"}
-{"name": "National University of Management", "root_url": "*.num.edu.kh/*", "country": "Cambodia"}
-{"name": "Pannnasatra University of Cambodia", "root_url": "*.puc.edu.kh/*", "country": "Cambodia"}
-{"name": "Royal University of Agriculture", "root_url": "*.rua.edu.kh/*", "country": "Cambodia"}
-{"name": "Royal University of Fine Arts", "root_url": "*.rufa.edu.kh/*", "country": "Cambodia"}
-{"name": "Royal University of Law and Economics", "root_url": "*.rule.edu.kh/*", "country": "Cambodia"}
-{"name": "Royal University of Phnom Penh", "root_url": "*.rupp.edu.kh/*", "country": "Cambodia"}
-{"name": "Svey Reong University", "root_url": "*.sru.edu.kh/*", "country": "Cambodia"}
-{"name": "University of Cambodia", "root_url": "*.uc.edu.kh/*", "country": "Cambodia"}
-{"name": "University of Health and Science", "root_url": "*.univ-sante.edu.kh/*", "country": "Cambodia"}
-{"name": "University of Technology Phnom Penh", "root_url": "*.utpp.edu.kh/*", "country": "Cambodia"}
-{"name": "Western University", "root_url": "*.western.edu.kh/*", "country": "Cambodia"}
-{"name": "Zaman University", "root_url": "*.zamanuniversity.edu.kh/*", "country": "Cambodia"}
-{"name": "Fomic Polytechnic", "root_url": "*.fomicgroup.cm/*", "country": "Cameroon"}
-{"name": "Acadia University", "root_url": "*.acadiau.ca/*", "country": "Canada"}
-{"name": "Algonquin College", "root_url": "*.algonquincollege.com/*", "country": "Canada"}
-{"name": "Ashton College", "root_url": "*.ashtoncollege.com/*", "country": "Canada"}
-{"name": "Assumption University", "root_url": "*.assumptionu.ca/*", "country": "Canada"}
-{"name": "Athabasca University", "root_url": "*.athabascau.ca/*", "country": "Canada"}
-{"name": "Augustana University College", "root_url": "*.augustana.ab.ca/*", "country": "Canada"}
-{"name": "British Columbia Institute of Technology", "root_url": "*.bcit.ca/*", "country": "Canada"}
-{"name": "British Columbia Open University", "root_url": "*.bcou.ca/*", "country": "Canada"}
-{"name": "William and Catherine Booth College", "root_url": "*.boothcollege.ca/*", "country": "Canada"}
-{"name": "Bow Valley College", "root_url": "*.bowvalleycollege.ca/*", "country": "Canada"}
-{"name": "Brandon University", "root_url": "*.brandonu.ca/*", "country": "Canada"}
-{"name": "Brock University", "root_url": "*.brocku.ca/*", "country": "Canada"}
-{"name": "DeVry Institute of Technology", "root_url": "*.cal.devry.ca/*", "country": "Canada"}
-{"name": "Camosun College", "root_url": "*.camosun.bc.ca/*", "country": "Canada"}
-{"name": "Capilano College", "root_url": "*.capcollege.bc.ca/*", "country": "Canada"}
-{"name": "University College of the Cariboo", "root_url": "*.cariboo.bc.ca/*", "country": "Canada"}
-{"name": "Carleton University", "root_url": "*.carleton.ca/*", "country": "Canada"}
-{"name": "Centennial College", "root_url": "*.centennialcollege.ca/*", "country": "Canada"}
-{"name": "Canadian Mennonite University", "root_url": "*.cmu.ca/*", "country": "Canada"}
-{"name": "College of New Caledonia", "root_url": "*.cnc.bc.ca/*", "country": "Canada"}
-{"name": "Columbia College", "root_url": "*.columbiacollege.ca/*", "country": "Canada"}
-{"name": "Concordia University College of Alberta", "root_url": "*.concordia.ab.ca/*", "country": "Canada"}
-{"name": "Concordia University", "root_url": "*.concordia.ca/*", "country": "Canada"}
+{"entity": "International Theravada Buddhist Missionary University", "url": "*.itbmu.org.mm/*", "country": "Myanmar"}
+{"entity": "Mandalay Technological University", "url": "*.most.gov.mm/mtu/*", "country": "Myanmar"}
+{"entity": "Myanmar Aerospace Engineering University", "url": "*.most.gov.mm/maeu/*", "country": "Myanmar"}
+{"entity": "University of Medicine Magway", "url": "*.ummg.edu.mm/*", "country": "Myanmar"}
+{"entity": "Hope Africa University", "url": "*.hopeafricauniversity.org/*", "country": "Burundi"}
+{"entity": "Asia Europe University", "url": "*.aeu.edu.kh/*", "country": "Cambodia"}
+{"entity": "Angkor University", "url": "*.angkor.edu.kh/*", "country": "Cambodia"}
+{"entity": "Build Bright University", "url": "*.bbu.edu.kh/*", "country": "Cambodia"}
+{"entity": "Chamreun University of Poly Technology", "url": "*.cup.edu.kh/*", "country": "Cambodia"}
+{"entity": "Cambodia University of Specialties", "url": "*.cus.edu.kh/*", "country": "Cambodia"}
+{"entity": "National Institute of Education", "url": "*.ine.edu.kh/*", "country": "Cambodia"}
+{"entity": "International University", "url": "*.iu.edu.kh/*", "country": "Cambodia"}
+{"entity": "Cambodian Mekong University", "url": "*.mekong.edu.kh/*", "country": "Cambodia"}
+{"entity": "Norton University", "url": "*.norton.edu.kh/*", "country": "Cambodia"}
+{"entity": "National University of Management", "url": "*.num.edu.kh/*", "country": "Cambodia"}
+{"entity": "Pannnasatra University of Cambodia", "url": "*.puc.edu.kh/*", "country": "Cambodia"}
+{"entity": "Royal University of Agriculture", "url": "*.rua.edu.kh/*", "country": "Cambodia"}
+{"entity": "Royal University of Fine Arts", "url": "*.rufa.edu.kh/*", "country": "Cambodia"}
+{"entity": "Royal University of Law and Economics", "url": "*.rule.edu.kh/*", "country": "Cambodia"}
+{"entity": "Royal University of Phnom Penh", "url": "*.rupp.edu.kh/*", "country": "Cambodia"}
+{"entity": "Svey Reong University", "url": "*.sru.edu.kh/*", "country": "Cambodia"}
+{"entity": "University of Cambodia", "url": "*.uc.edu.kh/*", "country": "Cambodia"}
+{"entity": "University of Health and Science", "url": "*.univ-sante.edu.kh/*", "country": "Cambodia"}
+{"entity": "University of Technology Phnom Penh", "url": "*.utpp.edu.kh/*", "country": "Cambodia"}
+{"entity": "Western University", "url": "*.western.edu.kh/*", "country": "Cambodia"}
+{"entity": "Zaman University", "url": "*.zamanuniversity.edu.kh/*", "country": "Cambodia"}
+{"entity": "Fomic Polytechnic", "url": "*.fomicgroup.cm/*", "country": "Cameroon"}
+{"entity": "Acadia University", "url": "*.acadiau.ca/*", "country": "Canada"}
+{"entity": "Algonquin College", "url": "*.algonquincollege.com/*", "country": "Canada"}
+{"entity": "Ashton College", "url": "*.ashtoncollege.com/*", "country": "Canada"}
+{"entity": "Assumption University", "url": "*.assumptionu.ca/*", "country": "Canada"}
+{"entity": "Athabasca University", "url": "*.athabascau.ca/*", "country": "Canada"}
+{"entity": "Augustana University College", "url": "*.augustana.ab.ca/*", "country": "Canada"}
+{"entity": "British Columbia Institute of Technology", "url": "*.bcit.ca/*", "country": "Canada"}
+{"entity": "British Columbia Open University", "url": "*.bcou.ca/*", "country": "Canada"}
+{"entity": "William and Catherine Booth College", "url": "*.boothcollege.ca/*", "country": "Canada"}
+{"entity": "Bow Valley College", "url": "*.bowvalleycollege.ca/*", "country": "Canada"}
+{"entity": "Brandon University", "url": "*.brandonu.ca/*", "country": "Canada"}
+{"entity": "Brock University", "url": "*.brocku.ca/*", "country": "Canada"}
+{"entity": "DeVry Institute of Technology", "url": "*.cal.devry.ca/*", "country": "Canada"}
+{"entity": "Camosun College", "url": "*.camosun.bc.ca/*", "country": "Canada"}
+{"entity": "Capilano College", "url": "*.capcollege.bc.ca/*", "country": "Canada"}
+{"entity": "University College of the Cariboo", "url": "*.cariboo.bc.ca/*", "country": "Canada"}
+{"entity": "Carleton University", "url": "*.carleton.ca/*", "country": "Canada"}
+{"entity": "Centennial College", "url": "*.centennialcollege.ca/*", "country": "Canada"}
+{"entity": "Canadian Mennonite University", "url": "*.cmu.ca/*", "country": "Canada"}
+{"entity": "College of New Caledonia", "url": "*.cnc.bc.ca/*", "country": "Canada"}
+{"entity": "Columbia College", "url": "*.columbiacollege.ca/*", "country": "Canada"}
+{"entity": "Concordia University College of Alberta", "url": "*.concordia.ab.ca/*", "country": "Canada"}
+{"entity": "Concordia University", "url": "*.concordia.ca/*", "country": "Canada"}

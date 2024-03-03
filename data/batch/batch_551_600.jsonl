@@ -1,50 +1,50 @@
-{"name": "Northern Arizona University", "root_url": "*.nau.edu/*", "country": "United States"}
-{"name": "Northern Illinois University", "root_url": "*.niu.edu/*", "country": "United States"}
-{"name": "Northern Kentucky University", "root_url": "*.nku.edu/*", "country": "United States"}
-{"name": "Northern Michigan University", "root_url": "*.nmu.edu/*", "country": "United States"}
-{"name": "Northern State University", "root_url": "*.northern.edu/*", "country": "United States"}
-{"name": "Northland College", "root_url": "*.northland.edu/*", "country": "United States"}
-{"name": "North Park College and Theological Seminary", "root_url": "*.npcts.edu/*", "country": "United States"}
-{"name": "Northwestern College of Iowa", "root_url": "*.nwciowa.edu/*", "country": "United States"}
-{"name": "Northwestern State University", "root_url": "*.nsula.edu/*", "country": "United States"}
-{"name": "Northwestern University", "root_url": "*.northwestern.edu/*", "country": "United States"}
-{"name": "Northwest Missouri State University", "root_url": "*.nwmissouri.edu/*", "country": "United States"}
-{"name": "Northwest Nazarene College", "root_url": "*.nnc.edu/*", "country": "United States"}
-{"name": "Norwich University", "root_url": "*.norwich.edu/*", "country": "United States"}
-{"name": "Nova Southeastern University", "root_url": "*.nova.edu/*", "country": "United States"}
-{"name": "Oakland University", "root_url": "*.oakland.edu/*", "country": "United States"}
-{"name": "Oakwood University", "root_url": "*.oakwood.edu/*", "country": "United States"}
-{"name": "Oberlin College", "root_url": "*.oberlin.edu/*", "country": "United States"}
-{"name": "Occidental College", "root_url": "*.oxy.edu/*", "country": "United States"}
-{"name": "Ohio Dominican College", "root_url": "*.odc.edu/*", "country": "United States"}
-{"name": "Ohio Northern University", "root_url": "*.onu.edu/*", "country": "United States"}
-{"name": "Ohio University", "root_url": "*.ohio.edu/*", "country": "United States"}
-{"name": "Ohio Wesleyan University", "root_url": "*.owu.edu/*", "country": "United States"}
-{"name": "Oklahoma Baptist University", "root_url": "*.okbu.edu/*", "country": "United States"}
-{"name": "Oklahoma City University", "root_url": "*.okcu.edu/*", "country": "United States"}
-{"name": "Oklahoma State University", "root_url": "*.okstate.edu/*", "country": "United States"}
-{"name": "Old Dominion University", "root_url": "*.odu.edu/*", "country": "United States"}
-{"name": "Olivet Nazarene University", "root_url": "*.olivet.edu/*", "country": "United States"}
-{"name": "Oral Roberts University", "root_url": "*.oru.edu/*", "country": "United States"}
-{"name": "Oregon Graduate Institute of Science and Technology", "root_url": "*.ogi.edu/*", "country": "United States"}
-{"name": "Oregon Health Sciences University", "root_url": "*.ohsu.edu/*", "country": "United States"}
-{"name": "Oregon Institute of Technology", "root_url": "*.oit.edu/*", "country": "United States"}
-{"name": "Oregon State University", "root_url": "*.oregonstate.edu/*", "country": "United States"}
-{"name": "Otterbein College", "root_url": "*.otterbein.edu/*", "country": "United States"}
-{"name": "Our Lady of the Lake University", "root_url": "*.ollusa.edu/*", "country": "United States"}
-{"name": "Pace University", "root_url": "*.pace.edu/*", "country": "United States"}
-{"name": "Pacific Lutheran University", "root_url": "*.plu.edu/*", "country": "United States"}
-{"name": "Pacific Union College", "root_url": "*.puc.edu/*", "country": "United States"}
-{"name": "Pacific University", "root_url": "*.pacificu.edu/*", "country": "United States"}
-{"name": "Pacific Western University", "root_url": "*.pwu.com/*", "country": "United States"}
-{"name": "Palm Beach Atlantic College", "root_url": "*.pbac.edu/*", "country": "United States"}
-{"name": "Palm Beach State College", "root_url": "*.palmbeachstate.edu/*", "country": "United States"}
-{"name": "Peace College", "root_url": "*.peace.edu/*", "country": "United States"}
-{"name": "Pembroke State University", "root_url": "*.pembroke.edu/*", "country": "United States"}
-{"name": "Pennsylvania College of Technology", "root_url": "*.pct.edu/*", "country": "United States"}
-{"name": "Pennsylvania State University", "root_url": "*.psu.edu/*", "country": "United States"}
-{"name": "Pensacola Christian College", "root_url": "*.pcci.edu/*", "country": "United States"}
-{"name": "Pensacola State College", "root_url": "*.pensacolastate.edu/*", "country": "United States"}
-{"name": "Pepperdine University", "root_url": "*.pepperdine.edu/*", "country": "United States"}
-{"name": "Peru State College", "root_url": "*.peru.edu/*", "country": "United States"}
-{"name": "Philadelphia University", "root_url": "*.philau.edu/*", "country": "United States"}
+{"entity": "Northern Arizona University", "url": "*.nau.edu/*", "country": "United States"}
+{"entity": "Northern Illinois University", "url": "*.niu.edu/*", "country": "United States"}
+{"entity": "Northern Kentucky University", "url": "*.nku.edu/*", "country": "United States"}
+{"entity": "Northern Michigan University", "url": "*.nmu.edu/*", "country": "United States"}
+{"entity": "Northern State University", "url": "*.northern.edu/*", "country": "United States"}
+{"entity": "Northland College", "url": "*.northland.edu/*", "country": "United States"}
+{"entity": "North Park College and Theological Seminary", "url": "*.npcts.edu/*", "country": "United States"}
+{"entity": "Northwestern College of Iowa", "url": "*.nwciowa.edu/*", "country": "United States"}
+{"entity": "Northwestern State University", "url": "*.nsula.edu/*", "country": "United States"}
+{"entity": "Northwestern University", "url": "*.northwestern.edu/*", "country": "United States"}
+{"entity": "Northwest Missouri State University", "url": "*.nwmissouri.edu/*", "country": "United States"}
+{"entity": "Northwest Nazarene College", "url": "*.nnc.edu/*", "country": "United States"}
+{"entity": "Norwich University", "url": "*.norwich.edu/*", "country": "United States"}
+{"entity": "Nova Southeastern University", "url": "*.nova.edu/*", "country": "United States"}
+{"entity": "Oakland University", "url": "*.oakland.edu/*", "country": "United States"}
+{"entity": "Oakwood University", "url": "*.oakwood.edu/*", "country": "United States"}
+{"entity": "Oberlin College", "url": "*.oberlin.edu/*", "country": "United States"}
+{"entity": "Occidental College", "url": "*.oxy.edu/*", "country": "United States"}
+{"entity": "Ohio Dominican College", "url": "*.odc.edu/*", "country": "United States"}
+{"entity": "Ohio Northern University", "url": "*.onu.edu/*", "country": "United States"}
+{"entity": "Ohio University", "url": "*.ohio.edu/*", "country": "United States"}
+{"entity": "Ohio Wesleyan University", "url": "*.owu.edu/*", "country": "United States"}
+{"entity": "Oklahoma Baptist University", "url": "*.okbu.edu/*", "country": "United States"}
+{"entity": "Oklahoma City University", "url": "*.okcu.edu/*", "country": "United States"}
+{"entity": "Oklahoma State University", "url": "*.okstate.edu/*", "country": "United States"}
+{"entity": "Old Dominion University", "url": "*.odu.edu/*", "country": "United States"}
+{"entity": "Olivet Nazarene University", "url": "*.olivet.edu/*", "country": "United States"}
+{"entity": "Oral Roberts University", "url": "*.oru.edu/*", "country": "United States"}
+{"entity": "Oregon Graduate Institute of Science and Technology", "url": "*.ogi.edu/*", "country": "United States"}
+{"entity": "Oregon Health Sciences University", "url": "*.ohsu.edu/*", "country": "United States"}
+{"entity": "Oregon Institute of Technology", "url": "*.oit.edu/*", "country": "United States"}
+{"entity": "Oregon State University", "url": "*.oregonstate.edu/*", "country": "United States"}
+{"entity": "Otterbein College", "url": "*.otterbein.edu/*", "country": "United States"}
+{"entity": "Our Lady of the Lake University", "url": "*.ollusa.edu/*", "country": "United States"}
+{"entity": "Pace University", "url": "*.pace.edu/*", "country": "United States"}
+{"entity": "Pacific Lutheran University", "url": "*.plu.edu/*", "country": "United States"}
+{"entity": "Pacific Union College", "url": "*.puc.edu/*", "country": "United States"}
+{"entity": "Pacific University", "url": "*.pacificu.edu/*", "country": "United States"}
+{"entity": "Pacific Western University", "url": "*.pwu.com/*", "country": "United States"}
+{"entity": "Palm Beach Atlantic College", "url": "*.pbac.edu/*", "country": "United States"}
+{"entity": "Palm Beach State College", "url": "*.palmbeachstate.edu/*", "country": "United States"}
+{"entity": "Peace College", "url": "*.peace.edu/*", "country": "United States"}
+{"entity": "Pembroke State University", "url": "*.pembroke.edu/*", "country": "United States"}
+{"entity": "Pennsylvania College of Technology", "url": "*.pct.edu/*", "country": "United States"}
+{"entity": "Pennsylvania State University", "url": "*.psu.edu/*", "country": "United States"}
+{"entity": "Pensacola Christian College", "url": "*.pcci.edu/*", "country": "United States"}
+{"entity": "Pensacola State College", "url": "*.pensacolastate.edu/*", "country": "United States"}
+{"entity": "Pepperdine University", "url": "*.pepperdine.edu/*", "country": "United States"}
+{"entity": "Peru State College", "url": "*.peru.edu/*", "country": "United States"}
+{"entity": "Philadelphia University", "url": "*.philau.edu/*", "country": "United States"}

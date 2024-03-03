@@ -1,50 +1,50 @@
-{"name": "Palawan State University", "root_url": "*.psu-online.edu.ph/*", "country": "Philippines"}
-{"name": "Polytechnic University of the Philippines", "root_url": "*.pup.edu.ph/*", "country": "Philippines"}
-{"name": "Rizal Technological University", "root_url": "*.rtu.edu.ph/*", "country": "Philippines"}
-{"name": "San Beda College", "root_url": "*.sanbeda.edu.ph/*", "country": "Philippines"}
-{"name": "Saint Louis College", "root_url": "*.slc-sflu.edu.ph/*", "country": "Philippines"}
-{"name": "Saint Louis University", "root_url": "*.slu.edu.ph/*", "country": "Philippines"}
-{"name": "Saint Paul University", "root_url": "*.spu.edu.ph/*", "country": "Philippines"}
-{"name": "Samar State University", "root_url": "*.ssu.edu.ph/*", "country": "Philippines"}
-{"name": "Silliman University", "root_url": "*.su.edu.ph/*", "country": "Philippines"}
-{"name": "Southwestern University", "root_url": "*.swu.edu.ph/*", "country": "Philippines"}
-{"name": "Technological University of the Philippines", "root_url": "*.tup.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Assumption", "root_url": "*.ua.edu.ph/*", "country": "Philippines"}
-{"name": "University of Asia and the Pacific", "root_url": "*.uap.edu.ph/*", "country": "Philippines"}
-{"name": "University of Baguio", "root_url": "*.ubaguio.edu/*", "country": "Philippines"}
-{"name": "University of Batangas", "root_url": "*.ub.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Cordilleras", "root_url": "*.uc-bcf.edu.ph/*", "country": "Philippines"}
-{"name": "University of Cagayan Valley", "root_url": "*.ucv.edu.ph/*", "country": "Philippines"}
-{"name": "University of Eastern Philippines", "root_url": "*.uep.educ.ph/*", "country": "Philippines"}
-{"name": "University of the Immaculate Conception", "root_url": "*.uic.globe.com.ph/*", "country": "Philippines"}
-{"name": "University of lloilo", "root_url": "*.ui.phinma.edu.ph/*", "country": "Philippines"}
-{"name": "University of Mindanao", "root_url": "*.umindanao.edu.ph/*", "country": "Philippines"}
-{"name": "University of Nueva Caceres", "root_url": "*.unc.edu.ph/*", "country": "Philippines"}
-{"name": "University of Northeastern Philippines", "root_url": "*.unep.edu.ph/*", "country": "Philippines"}
-{"name": "University of Bohol", "root_url": "*.universityofbohol.com/*", "country": "Philippines"}
-{"name": "University of Cebu", "root_url": "*.universityofcebu.edu.ph/*", "country": "Philippines"}
-{"name": "University of Manila", "root_url": "*.univman.edu.ph/*", "country": "Philippines"}
-{"name": "University of Northern Philippines", "root_url": "*.unp.edu.ph/*", "country": "Philippines"}
-{"name": "University of Pangasinan", "root_url": "*.upang.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Philippines Baguio", "root_url": "*.upb.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Philippines Diliman", "root_url": "*.upd.edu.ph/*", "country": "Philippines"}
-{"name": "University of Perpetual Help", "root_url": "*.uphr.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Philippines Los Banos", "root_url": "*.uplb.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Philippines Manila", "root_url": "*.upm.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Philippines Mindanao", "root_url": "*.upmin.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Philippines Open University", "root_url": "*.upou.org/*", "country": "Philippines"}
-{"name": "University of the Philippines Visayas", "root_url": "*.upv.edu.ph/*", "country": "Philippines"}
-{"name": "University of Regina Carmeli", "root_url": "*.urc.edu.ph/*", "country": "Philippines"}
-{"name": "University of San Agustin", "root_url": "*.usa.edu.ph/*", "country": "Philippines"}
-{"name": "University of San Carlos", "root_url": "*.usc.edu.ph/*", "country": "Philippines"}
-{"name": "University of Southeastern Philippines", "root_url": "*.usep.edu.ph/*", "country": "Philippines"}
-{"name": "University of San Jose Recoletos", "root_url": "*.usjr.edu.ph/*", "country": "Philippines"}
-{"name": "University of Saint La Salle", "root_url": "*.usls.edu/*", "country": "Philippines"}
-{"name": "University of Southern Mindanao", "root_url": "*.usm.edu.ph/*", "country": "Philippines"}
-{"name": "University of Southern Philippines Foundation", "root_url": "*.usp.ph/*", "country": "Philippines"}
-{"name": "University of Santo Tomas", "root_url": "*.ust.edu.ph/*", "country": "Philippines"}
-{"name": "University of the Visayas", "root_url": "*.uv.edu.ph/*", "country": "Philippines"}
-{"name": "Virgen Milagrosa University Foundation", "root_url": "*.vmuf.edu.ph/*", "country": "Philippines"}
-{"name": "Wesleyan University Philippines", "root_url": "*.wesleyan.edu.ph/*", "country": "Philippines"}
-{"name": "Western Mindanao State University", "root_url": "*.wmsu.edu.ph/*", "country": "Philippines"}
-{"name": "West Visayas State University", "root_url": "*.wvsu.edu.ph/*", "country": "Philippines"}
+{"entity": "Palawan State University", "url": "*.psu-online.edu.ph/*", "country": "Philippines"}
+{"entity": "Polytechnic University of the Philippines", "url": "*.pup.edu.ph/*", "country": "Philippines"}
+{"entity": "Rizal Technological University", "url": "*.rtu.edu.ph/*", "country": "Philippines"}
+{"entity": "San Beda College", "url": "*.sanbeda.edu.ph/*", "country": "Philippines"}
+{"entity": "Saint Louis College", "url": "*.slc-sflu.edu.ph/*", "country": "Philippines"}
+{"entity": "Saint Louis University", "url": "*.slu.edu.ph/*", "country": "Philippines"}
+{"entity": "Saint Paul University", "url": "*.spu.edu.ph/*", "country": "Philippines"}
+{"entity": "Samar State University", "url": "*.ssu.edu.ph/*", "country": "Philippines"}
+{"entity": "Silliman University", "url": "*.su.edu.ph/*", "country": "Philippines"}
+{"entity": "Southwestern University", "url": "*.swu.edu.ph/*", "country": "Philippines"}
+{"entity": "Technological University of the Philippines", "url": "*.tup.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Assumption", "url": "*.ua.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Asia and the Pacific", "url": "*.uap.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Baguio", "url": "*.ubaguio.edu/*", "country": "Philippines"}
+{"entity": "University of Batangas", "url": "*.ub.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Cordilleras", "url": "*.uc-bcf.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Cagayan Valley", "url": "*.ucv.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Eastern Philippines", "url": "*.uep.educ.ph/*", "country": "Philippines"}
+{"entity": "University of the Immaculate Conception", "url": "*.uic.globe.com.ph/*", "country": "Philippines"}
+{"entity": "University of lloilo", "url": "*.ui.phinma.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Mindanao", "url": "*.umindanao.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Nueva Caceres", "url": "*.unc.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Northeastern Philippines", "url": "*.unep.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Bohol", "url": "*.universityofbohol.com/*", "country": "Philippines"}
+{"entity": "University of Cebu", "url": "*.universityofcebu.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Manila", "url": "*.univman.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Northern Philippines", "url": "*.unp.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Pangasinan", "url": "*.upang.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Philippines Baguio", "url": "*.upb.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Philippines Diliman", "url": "*.upd.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Perpetual Help", "url": "*.uphr.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Philippines Los Banos", "url": "*.uplb.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Philippines Manila", "url": "*.upm.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Philippines Mindanao", "url": "*.upmin.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Philippines Open University", "url": "*.upou.org/*", "country": "Philippines"}
+{"entity": "University of the Philippines Visayas", "url": "*.upv.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Regina Carmeli", "url": "*.urc.edu.ph/*", "country": "Philippines"}
+{"entity": "University of San Agustin", "url": "*.usa.edu.ph/*", "country": "Philippines"}
+{"entity": "University of San Carlos", "url": "*.usc.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Southeastern Philippines", "url": "*.usep.edu.ph/*", "country": "Philippines"}
+{"entity": "University of San Jose Recoletos", "url": "*.usjr.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Saint La Salle", "url": "*.usls.edu/*", "country": "Philippines"}
+{"entity": "University of Southern Mindanao", "url": "*.usm.edu.ph/*", "country": "Philippines"}
+{"entity": "University of Southern Philippines Foundation", "url": "*.usp.ph/*", "country": "Philippines"}
+{"entity": "University of Santo Tomas", "url": "*.ust.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the Visayas", "url": "*.uv.edu.ph/*", "country": "Philippines"}
+{"entity": "Virgen Milagrosa University Foundation", "url": "*.vmuf.edu.ph/*", "country": "Philippines"}
+{"entity": "Wesleyan University Philippines", "url": "*.wesleyan.edu.ph/*", "country": "Philippines"}
+{"entity": "Western Mindanao State University", "url": "*.wmsu.edu.ph/*", "country": "Philippines"}
+{"entity": "West Visayas State University", "url": "*.wvsu.edu.ph/*", "country": "Philippines"}

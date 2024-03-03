@@ -1,50 +1,50 @@
-{"name": "DeVry Institute of Technology", "root_url": "*.devry.edu/*", "country": "United States"}
-{"name": "Dickinson College", "root_url": "*.dickinson.edu/*", "country": "United States"}
-{"name": "Dickinson State University", "root_url": "*.dickinsonstate.edu/*", "country": "United States"}
-{"name": "Dillard University", "root_url": "*.dillard.edu/*", "country": "United States"}
-{"name": "Dominican College", "root_url": "*.dominican.edu/*", "country": "United States"}
-{"name": "Dordt College", "root_url": "*.dordt.edu/*", "country": "United States"}
-{"name": "Dowling College", "root_url": "*.dowling.edu/*", "country": "United States"}
-{"name": "Drake University", "root_url": "*.drake.edu/*", "country": "United States"}
-{"name": "Drew University", "root_url": "*.drew.edu/*", "country": "United States"}
-{"name": "Drexel University", "root_url": "*.drexel.edu/*", "country": "United States"}
-{"name": "Drury College", "root_url": "*.drury.edu/*", "country": "United States"}
-{"name": "Duke University", "root_url": "*.duke.edu/*", "country": "United States"}
-{"name": "Duquesne University", "root_url": "*.duq.edu/*", "country": "United States"}
-{"name": "Earlham College", "root_url": "*.earlham.edu/*", "country": "United States"}
-{"name": "East Carolina University", "root_url": "*.ecu.edu/*", "country": "United States"}
-{"name": "East Central University", "root_url": "*.ecok.edu/*", "country": "United States"}
-{"name": "Eastern Connecticut State University", "root_url": "*.easternct.edu/*", "country": "United States"}
-{"name": "Eastern Illinois University", "root_url": "*.eiu.edu/*", "country": "United States"}
-{"name": "Eastern Kentucky University", "root_url": "*.eku.edu/*", "country": "United States"}
-{"name": "Eastern Mennonite University", "root_url": "*.emu.edu/*", "country": "United States"}
-{"name": "Eastern Michigan University", "root_url": "*.emich.edu/*", "country": "United States"}
-{"name": "Eastern New Mexico University", "root_url": "*.enmu.edu/*", "country": "United States"}
-{"name": "Eastern Oregon State College", "root_url": "*.eou.edu/*", "country": "United States"}
-{"name": "Eastern Washington University", "root_url": "*.ewu.edu/*", "country": "United States"}
-{"name": "East Stroudsburg State University of Pennsylvania", "root_url": "*.esu.edu/*", "country": "United States"}
-{"name": "East Tennessee State University", "root_url": "*.etsu.edu/*", "country": "United States"}
-{"name": "Edgewood College", "root_url": "*.edgewood.edu/*", "country": "United States"}
-{"name": "Edinboro University of Pennsylvania", "root_url": "*.edinboro.edu/*", "country": "United States"}
-{"name": "Elizabeth City State University", "root_url": "*.ecsu.edu/*", "country": "United States"}
-{"name": "Elizabethtown College", "root_url": "*.etown.edu/*", "country": "United States"}
-{"name": "Elmhurst College", "root_url": "*.elmhurst.edu/*", "country": "United States"}
-{"name": "Elon College", "root_url": "*.elon.edu/*", "country": "United States"}
-{"name": "Emerson College", "root_url": "*.emerson.edu/*", "country": "United States"}
-{"name": "Emmanuel College", "root_url": "*.emmanuel.edu/*", "country": "United States"}
-{"name": "Emory University", "root_url": "*.emory.edu/*", "country": "United States"}
-{"name": "Emporia State University", "root_url": "*.emporia.edu/*", "country": "United States"}
-{"name": "Erie Community College", "root_url": "*.ecc.edu/*", "country": "United States"}
-{"name": "Evergreen State College", "root_url": "*.evergreen.edu/*", "country": "United States"}
-{"name": "Fairleigh Dickinson University", "root_url": "*.fdu.edu/*", "country": "United States"}
-{"name": "Fairmont State College", "root_url": "*.fairmontstate.edu/*", "country": "United States"}
-{"name": "Fayetteville State University", "root_url": "*.uncfsu.edu/*", "country": "United States"}
-{"name": "Ferris State University", "root_url": "*.ferris.edu/*", "country": "United States"}
-{"name": "Fielding Institute", "root_url": "*.fielding.edu/*", "country": "United States"}
-{"name": "Fisk University", "root_url": "*.fisk.edu/*", "country": "United States"}
-{"name": "Fitchburg State College", "root_url": "*.fsc.edu/*", "country": "United States"}
-{"name": "Florida Agricultural and Mechanical University", "root_url": "*.famu.edu/*", "country": "United States"}
-{"name": "Florida Atlantic University", "root_url": "*.fau.edu/*", "country": "United States"}
-{"name": "Florida Gulf Coast University", "root_url": "*.fgcu.edu/*", "country": "United States"}
-{"name": "Florida Institute of Technology", "root_url": "*.fit.edu/*", "country": "United States"}
-{"name": "Florida International University", "root_url": "*.fiu.edu/*", "country": "United States"}
+{"entity": "DeVry Institute of Technology", "url": "*.devry.edu/*", "country": "United States"}
+{"entity": "Dickinson College", "url": "*.dickinson.edu/*", "country": "United States"}
+{"entity": "Dickinson State University", "url": "*.dickinsonstate.edu/*", "country": "United States"}
+{"entity": "Dillard University", "url": "*.dillard.edu/*", "country": "United States"}
+{"entity": "Dominican College", "url": "*.dominican.edu/*", "country": "United States"}
+{"entity": "Dordt College", "url": "*.dordt.edu/*", "country": "United States"}
+{"entity": "Dowling College", "url": "*.dowling.edu/*", "country": "United States"}
+{"entity": "Drake University", "url": "*.drake.edu/*", "country": "United States"}
+{"entity": "Drew University", "url": "*.drew.edu/*", "country": "United States"}
+{"entity": "Drexel University", "url": "*.drexel.edu/*", "country": "United States"}
+{"entity": "Drury College", "url": "*.drury.edu/*", "country": "United States"}
+{"entity": "Duke University", "url": "*.duke.edu/*", "country": "United States"}
+{"entity": "Duquesne University", "url": "*.duq.edu/*", "country": "United States"}
+{"entity": "Earlham College", "url": "*.earlham.edu/*", "country": "United States"}
+{"entity": "East Carolina University", "url": "*.ecu.edu/*", "country": "United States"}
+{"entity": "East Central University", "url": "*.ecok.edu/*", "country": "United States"}
+{"entity": "Eastern Connecticut State University", "url": "*.easternct.edu/*", "country": "United States"}
+{"entity": "Eastern Illinois University", "url": "*.eiu.edu/*", "country": "United States"}
+{"entity": "Eastern Kentucky University", "url": "*.eku.edu/*", "country": "United States"}
+{"entity": "Eastern Mennonite University", "url": "*.emu.edu/*", "country": "United States"}
+{"entity": "Eastern Michigan University", "url": "*.emich.edu/*", "country": "United States"}
+{"entity": "Eastern New Mexico University", "url": "*.enmu.edu/*", "country": "United States"}
+{"entity": "Eastern Oregon State College", "url": "*.eou.edu/*", "country": "United States"}
+{"entity": "Eastern Washington University", "url": "*.ewu.edu/*", "country": "United States"}
+{"entity": "East Stroudsburg State University of Pennsylvania", "url": "*.esu.edu/*", "country": "United States"}
+{"entity": "East Tennessee State University", "url": "*.etsu.edu/*", "country": "United States"}
+{"entity": "Edgewood College", "url": "*.edgewood.edu/*", "country": "United States"}
+{"entity": "Edinboro University of Pennsylvania", "url": "*.edinboro.edu/*", "country": "United States"}
+{"entity": "Elizabeth City State University", "url": "*.ecsu.edu/*", "country": "United States"}
+{"entity": "Elizabethtown College", "url": "*.etown.edu/*", "country": "United States"}
+{"entity": "Elmhurst College", "url": "*.elmhurst.edu/*", "country": "United States"}
+{"entity": "Elon College", "url": "*.elon.edu/*", "country": "United States"}
+{"entity": "Emerson College", "url": "*.emerson.edu/*", "country": "United States"}
+{"entity": "Emmanuel College", "url": "*.emmanuel.edu/*", "country": "United States"}
+{"entity": "Emory University", "url": "*.emory.edu/*", "country": "United States"}
+{"entity": "Emporia State University", "url": "*.emporia.edu/*", "country": "United States"}
+{"entity": "Erie Community College", "url": "*.ecc.edu/*", "country": "United States"}
+{"entity": "Evergreen State College", "url": "*.evergreen.edu/*", "country": "United States"}
+{"entity": "Fairleigh Dickinson University", "url": "*.fdu.edu/*", "country": "United States"}
+{"entity": "Fairmont State College", "url": "*.fairmontstate.edu/*", "country": "United States"}
+{"entity": "Fayetteville State University", "url": "*.uncfsu.edu/*", "country": "United States"}
+{"entity": "Ferris State University", "url": "*.ferris.edu/*", "country": "United States"}
+{"entity": "Fielding Institute", "url": "*.fielding.edu/*", "country": "United States"}
+{"entity": "Fisk University", "url": "*.fisk.edu/*", "country": "United States"}
+{"entity": "Fitchburg State College", "url": "*.fsc.edu/*", "country": "United States"}
+{"entity": "Florida Agricultural and Mechanical University", "url": "*.famu.edu/*", "country": "United States"}
+{"entity": "Florida Atlantic University", "url": "*.fau.edu/*", "country": "United States"}
+{"entity": "Florida Gulf Coast University", "url": "*.fgcu.edu/*", "country": "United States"}
+{"entity": "Florida Institute of Technology", "url": "*.fit.edu/*", "country": "United States"}
+{"entity": "Florida International University", "url": "*.fiu.edu/*", "country": "United States"}

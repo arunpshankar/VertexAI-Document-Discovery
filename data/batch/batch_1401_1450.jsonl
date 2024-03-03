@@ -1,50 +1,50 @@
-{"name": "Universidade do Estado de Santa Catarina", "root_url": "*.udesc.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual de Feira de Santana", "root_url": "*.uefs.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual de Londrina", "root_url": "*.uel.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual do Norte Fluminense", "root_url": "*.uenf.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual de Ponta Grossa", "root_url": "*.uepg.br/*", "country": "Brazil"}
-{"name": "Universidade do Estado do Rio de Janeiro", "root_url": "*.uerj.br/*", "country": "Brazil"}
-{"name": "Universidade do Estado do Rio Grande do Norte", "root_url": "*.uern.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual Sudoeste da Bahia", "root_url": "*.uesb.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual de Santa Cruz", "root_url": "*.uesc.br/*", "country": "Brazil"}
-{"name": "Universidade Federal do ABC", "root_url": "*.ufabc.edu.br/*", "country": "Brazil"}
-{"name": "Universidade Federal do Acre", "root_url": "*.ufac.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Alagoas", "root_url": "*.ufal.br/*", "country": "Brazil"}
-{"name": "Universidade Federal da Bahia", "root_url": "*.ufba.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Campina Grande", "root_url": "*.ufcg.edu.br/*", "country": "Brazil"}
-{"name": "Universidade Federal Fluminense", "root_url": "*.uff.br/*", "country": "Brazil"}
-{"name": "Universidade Federal da Grande Dourados", "root_url": "*.ufgd.edu.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Juiz de Fora", "root_url": "*.ufjf.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Lavras", "root_url": "*.ufla.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Minas Gerais", "root_url": "*.ufmg.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Mato Grosso do Sul", "root_url": "*.ufms.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Mato Grosso", "root_url": "*.ufmt.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Ouro Preto", "root_url": "*.ufop.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Pernambuco", "root_url": "*.ufpe.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Pelotas", "root_url": "*.ufpel.tche.br/*", "country": "Brazil"}
-{"name": "Universidade Federal do Rio Grande do Sul", "root_url": "*.ufrgs.br/*", "country": "Brazil"}
-{"name": "Universidade Federal do Rio de Janeiro", "root_url": "*.ufrj.br/*", "country": "Brazil"}
-{"name": "Universidade Federal do Rio Grande do Norte", "root_url": "*.ufrn.br/*", "country": "Brazil"}
-{"name": "Universidade Federal Rural de Pernambuco", "root_url": "*.ufrpe.br/*", "country": "Brazil"}
-{"name": "Universidade Federal Rural do Rio de Janeiro", "root_url": "*.ufrrj.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Sergipe", "root_url": "*.ufs.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Santa Catarina", "root_url": "*.ufsc.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Santa Maria", "root_url": "*.ufsm.br/*", "country": "Brazil"}
-{"name": "Universidade Gama Filho", "root_url": "*.ugf.br/*", "country": "Brazil"}
-{"name": "Universidade Luterana do Brasil", "root_url": "*.ulbra.br/*", "country": "Brazil"}
-{"name": "Universidade de Mogi das Cruzes", "root_url": "*.umc.br/*", "country": "Brazil"}
-{"name": "Universidade do Estado da Bahia", "root_url": "*.uneb.br/*", "country": "Brazil"}
-{"name": "Universidade do Extremo Sul Catarinense", "root_url": "*.unesc.rct-sc.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual Paulista", "root_url": "*.unesp.br/*", "country": "Brazil"}
-{"name": "Universidade de Guarulhos", "root_url": "*.ung.br/*", "country": "Brazil"}
-{"name": "Universidade Ibirapuera", "root_url": "*.unib.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual de Campinas", "root_url": "*.unicamp.br/*", "country": "Brazil"}
-{"name": "Universidade Camilo Castelo Branco", "root_url": "*.unicastelo.br/*", "country": "Brazil"}
-{"name": "Universidade de Cruz Alta", "root_url": "*.unicruz.tche.br/*", "country": "Brazil"}
-{"name": "Universidade Cruzeiro do Sul", "root_url": "*.unicsul.br/*", "country": "Brazil"}
-{"name": "Universidade Salvador", "root_url": "*.unifacs.br/*", "country": "Brazil"}
-{"name": "Universidade de Alfenas", "root_url": "*.unifenas.br/*", "country": "Brazil"}
-{"name": "Universidade de Fortaleza", "root_url": "*.unifor.br/*", "country": "Brazil"}
-{"name": "Universidade de Franca", "root_url": "*.unifran.br/*", "country": "Brazil"}
-{"name": "Universidade do Grande Rio", "root_url": "*.unigranrio.br/*", "country": "Brazil"}
-{"name": "Universidade Regional do Noroeste do Estado do Rio Grande do Sul", "root_url": "*.unijui.tche.br/*", "country": "Brazil"}
+{"entity": "Universidade do Estado de Santa Catarina", "url": "*.udesc.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual de Feira de Santana", "url": "*.uefs.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual de Londrina", "url": "*.uel.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual do Norte Fluminense", "url": "*.uenf.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual de Ponta Grossa", "url": "*.uepg.br/*", "country": "Brazil"}
+{"entity": "Universidade do Estado do Rio de Janeiro", "url": "*.uerj.br/*", "country": "Brazil"}
+{"entity": "Universidade do Estado do Rio Grande do Norte", "url": "*.uern.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual Sudoeste da Bahia", "url": "*.uesb.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual de Santa Cruz", "url": "*.uesc.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal do ABC", "url": "*.ufabc.edu.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal do Acre", "url": "*.ufac.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Alagoas", "url": "*.ufal.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal da Bahia", "url": "*.ufba.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Campina Grande", "url": "*.ufcg.edu.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal Fluminense", "url": "*.uff.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal da Grande Dourados", "url": "*.ufgd.edu.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Juiz de Fora", "url": "*.ufjf.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Lavras", "url": "*.ufla.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Minas Gerais", "url": "*.ufmg.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Mato Grosso do Sul", "url": "*.ufms.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Mato Grosso", "url": "*.ufmt.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Ouro Preto", "url": "*.ufop.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Pernambuco", "url": "*.ufpe.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Pelotas", "url": "*.ufpel.tche.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal do Rio Grande do Sul", "url": "*.ufrgs.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal do Rio de Janeiro", "url": "*.ufrj.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal do Rio Grande do Norte", "url": "*.ufrn.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal Rural de Pernambuco", "url": "*.ufrpe.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal Rural do Rio de Janeiro", "url": "*.ufrrj.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Sergipe", "url": "*.ufs.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Santa Catarina", "url": "*.ufsc.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Santa Maria", "url": "*.ufsm.br/*", "country": "Brazil"}
+{"entity": "Universidade Gama Filho", "url": "*.ugf.br/*", "country": "Brazil"}
+{"entity": "Universidade Luterana do Brasil", "url": "*.ulbra.br/*", "country": "Brazil"}
+{"entity": "Universidade de Mogi das Cruzes", "url": "*.umc.br/*", "country": "Brazil"}
+{"entity": "Universidade do Estado da Bahia", "url": "*.uneb.br/*", "country": "Brazil"}
+{"entity": "Universidade do Extremo Sul Catarinense", "url": "*.unesc.rct-sc.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual Paulista", "url": "*.unesp.br/*", "country": "Brazil"}
+{"entity": "Universidade de Guarulhos", "url": "*.ung.br/*", "country": "Brazil"}
+{"entity": "Universidade Ibirapuera", "url": "*.unib.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual de Campinas", "url": "*.unicamp.br/*", "country": "Brazil"}
+{"entity": "Universidade Camilo Castelo Branco", "url": "*.unicastelo.br/*", "country": "Brazil"}
+{"entity": "Universidade de Cruz Alta", "url": "*.unicruz.tche.br/*", "country": "Brazil"}
+{"entity": "Universidade Cruzeiro do Sul", "url": "*.unicsul.br/*", "country": "Brazil"}
+{"entity": "Universidade Salvador", "url": "*.unifacs.br/*", "country": "Brazil"}
+{"entity": "Universidade de Alfenas", "url": "*.unifenas.br/*", "country": "Brazil"}
+{"entity": "Universidade de Fortaleza", "url": "*.unifor.br/*", "country": "Brazil"}
+{"entity": "Universidade de Franca", "url": "*.unifran.br/*", "country": "Brazil"}
+{"entity": "Universidade do Grande Rio", "url": "*.unigranrio.br/*", "country": "Brazil"}
+{"entity": "Universidade Regional do Noroeste do Estado do Rio Grande do Sul", "url": "*.unijui.tche.br/*", "country": "Brazil"}

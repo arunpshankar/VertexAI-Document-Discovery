@@ -1,50 +1,50 @@
-{"name": "Stratford University", "root_url": "*.stratford.edu/*", "country": "United States"}
-{"name": "Baker College", "root_url": "*.baker.edu/*", "country": "United States"}
-{"name": "The College of New Jersey", "root_url": "*.tcnj.edu/*", "country": "United States"}
-{"name": "Abilene Christian University", "root_url": "*.acu.edu/*", "country": "United States"}
-{"name": "Adelphi University", "root_url": "*.adelphi.edu/*", "country": "United States"}
-{"name": "Agnes Scott College", "root_url": "*.agnesscott.edu/*", "country": "United States"}
-{"name": "Aiken Technical College", "root_url": "*.atc.edu/*", "country": "United States"}
-{"name": "Air Force Institute of Technology", "root_url": "*.afit.af.mil/*", "country": "United States"}
-{"name": "Alabama State University", "root_url": "*.alasu.edu/*", "country": "United States"}
-{"name": "Alamo Colleges", "root_url": "*.alamo.edu/*", "country": "United States"}
-{"name": "Albertson College of Idaho", "root_url": "*.acofi.edu/*", "country": "United States"}
-{"name": "Albion College", "root_url": "*.albion.edu/*", "country": "United States"}
-{"name": "Alfred University", "root_url": "*.alfred.edu/*", "country": "United States"}
-{"name": "Allegheny College", "root_url": "*.alleg.edu/*", "country": "United States"}
-{"name": "Allentown College of Saint Francis de Sales", "root_url": "*.allencol.edu/*", "country": "United States"}
-{"name": "Alma College", "root_url": "*.alma.edu/*", "country": "United States"}
-{"name": "Alverno College", "root_url": "*.alverno.edu/*", "country": "United States"}
-{"name": "Ambassador University", "root_url": "*.ambassador.edu/*", "country": "United States"}
-{"name": "American Coastline University", "root_url": "*.amercoastuniv.edu/*", "country": "United States"}
-{"name": "American International College", "root_url": "*.aic.edu/*", "country": "United States"}
-{"name": "American University", "root_url": "*.american.edu/*", "country": "United States"}
-{"name": "Amherst College", "root_url": "*.amherst.edu/*", "country": "United States"}
-{"name": "Andrews University", "root_url": "*.andrews.edu/*", "country": "United States"}
-{"name": "Angelo State University", "root_url": "*.angelo.edu/*", "country": "United States"}
-{"name": "Anne Arundel Community College", "root_url": "*.aacc.edu/*", "country": "United States"}
-{"name": "Antioch New England", "root_url": "*.antiochne.edu/*", "country": "United States"}
-{"name": "Antioch University", "root_url": "*.antioch.edu/*", "country": "United States"}
-{"name": "Appalachian State University", "root_url": "*.appstate.edu/*", "country": "United States"}
-{"name": "Aquinas College", "root_url": "*.aquinas.edu/*", "country": "United States"}
-{"name": "Arcadia College", "root_url": "*.arcadia.edu/*", "country": "United States"}
-{"name": "Arizona State University", "root_url": "*.asu.edu/*", "country": "United States"}
-{"name": "Arizona Western College", "root_url": "*.azwestern.edu/*", "country": "United States"}
-{"name": "Arkansas State University", "root_url": "*.astate.edu/*", "country": "United States"}
-{"name": "Arkansas Tech University", "root_url": "*.atu.edu/*", "country": "United States"}
-{"name": "Armstrong State College", "root_url": "*.armstrong.edu/*", "country": "United States"}
-{"name": "Ashland University", "root_url": "*.ashland.edu/*", "country": "United States"}
-{"name": "Assumption College", "root_url": "*.assumption.edu/*", "country": "United States"}
-{"name": "Auburn University", "root_url": "*.auburn.edu/*", "country": "United States"}
-{"name": "Auburn University at Montgomery", "root_url": "*.aum.edu/*", "country": "United States"}
-{"name": "Augsburg College", "root_url": "*.augsburg.edu/*", "country": "United States"}
-{"name": "Augusta University", "root_url": "*.augusta.edu/*", "country": "United States"}
-{"name": "Aurora University", "root_url": "*.aurora.edu/*", "country": "United States"}
-{"name": "Austin College", "root_url": "*.austincollege.edu/*", "country": "United States"}
-{"name": "Austin Community College", "root_url": "*.austincc.edu/*", "country": "United States"}
-{"name": "Austin Peay State University", "root_url": "*.apsu.edu/*", "country": "United States"}
-{"name": "Averett College", "root_url": "*.averett.edu/*", "country": "United States"}
-{"name": "Avila College", "root_url": "*.avila.edu/*", "country": "United States"}
-{"name": "Azusa Pacific University", "root_url": "*.apu.edu/*", "country": "United States"}
-{"name": "Babson College", "root_url": "*.babson.edu/*", "country": "United States"}
-{"name": "Baker University", "root_url": "*.bakeru.edu/*", "country": "United States"}
+{"entity": "Stratford University", "url": "*.stratford.edu/*", "country": "United States"}
+{"entity": "Baker College", "url": "*.baker.edu/*", "country": "United States"}
+{"entity": "The College of New Jersey", "url": "*.tcnj.edu/*", "country": "United States"}
+{"entity": "Abilene Christian University", "url": "*.acu.edu/*", "country": "United States"}
+{"entity": "Adelphi University", "url": "*.adelphi.edu/*", "country": "United States"}
+{"entity": "Agnes Scott College", "url": "*.agnesscott.edu/*", "country": "United States"}
+{"entity": "Aiken Technical College", "url": "*.atc.edu/*", "country": "United States"}
+{"entity": "Air Force Institute of Technology", "url": "*.afit.af.mil/*", "country": "United States"}
+{"entity": "Alabama State University", "url": "*.alasu.edu/*", "country": "United States"}
+{"entity": "Alamo Colleges", "url": "*.alamo.edu/*", "country": "United States"}
+{"entity": "Albertson College of Idaho", "url": "*.acofi.edu/*", "country": "United States"}
+{"entity": "Albion College", "url": "*.albion.edu/*", "country": "United States"}
+{"entity": "Alfred University", "url": "*.alfred.edu/*", "country": "United States"}
+{"entity": "Allegheny College", "url": "*.alleg.edu/*", "country": "United States"}
+{"entity": "Allentown College of Saint Francis de Sales", "url": "*.allencol.edu/*", "country": "United States"}
+{"entity": "Alma College", "url": "*.alma.edu/*", "country": "United States"}
+{"entity": "Alverno College", "url": "*.alverno.edu/*", "country": "United States"}
+{"entity": "Ambassador University", "url": "*.ambassador.edu/*", "country": "United States"}
+{"entity": "American Coastline University", "url": "*.amercoastuniv.edu/*", "country": "United States"}
+{"entity": "American International College", "url": "*.aic.edu/*", "country": "United States"}
+{"entity": "American University", "url": "*.american.edu/*", "country": "United States"}
+{"entity": "Amherst College", "url": "*.amherst.edu/*", "country": "United States"}
+{"entity": "Andrews University", "url": "*.andrews.edu/*", "country": "United States"}
+{"entity": "Angelo State University", "url": "*.angelo.edu/*", "country": "United States"}
+{"entity": "Anne Arundel Community College", "url": "*.aacc.edu/*", "country": "United States"}
+{"entity": "Antioch New England", "url": "*.antiochne.edu/*", "country": "United States"}
+{"entity": "Antioch University", "url": "*.antioch.edu/*", "country": "United States"}
+{"entity": "Appalachian State University", "url": "*.appstate.edu/*", "country": "United States"}
+{"entity": "Aquinas College", "url": "*.aquinas.edu/*", "country": "United States"}
+{"entity": "Arcadia College", "url": "*.arcadia.edu/*", "country": "United States"}
+{"entity": "Arizona State University", "url": "*.asu.edu/*", "country": "United States"}
+{"entity": "Arizona Western College", "url": "*.azwestern.edu/*", "country": "United States"}
+{"entity": "Arkansas State University", "url": "*.astate.edu/*", "country": "United States"}
+{"entity": "Arkansas Tech University", "url": "*.atu.edu/*", "country": "United States"}
+{"entity": "Armstrong State College", "url": "*.armstrong.edu/*", "country": "United States"}
+{"entity": "Ashland University", "url": "*.ashland.edu/*", "country": "United States"}
+{"entity": "Assumption College", "url": "*.assumption.edu/*", "country": "United States"}
+{"entity": "Auburn University", "url": "*.auburn.edu/*", "country": "United States"}
+{"entity": "Auburn University at Montgomery", "url": "*.aum.edu/*", "country": "United States"}
+{"entity": "Augsburg College", "url": "*.augsburg.edu/*", "country": "United States"}
+{"entity": "Augusta University", "url": "*.augusta.edu/*", "country": "United States"}
+{"entity": "Aurora University", "url": "*.aurora.edu/*", "country": "United States"}
+{"entity": "Austin College", "url": "*.austincollege.edu/*", "country": "United States"}
+{"entity": "Austin Community College", "url": "*.austincc.edu/*", "country": "United States"}
+{"entity": "Austin Peay State University", "url": "*.apsu.edu/*", "country": "United States"}
+{"entity": "Averett College", "url": "*.averett.edu/*", "country": "United States"}
+{"entity": "Avila College", "url": "*.avila.edu/*", "country": "United States"}
+{"entity": "Azusa Pacific University", "url": "*.apu.edu/*", "country": "United States"}
+{"entity": "Babson College", "url": "*.babson.edu/*", "country": "United States"}
+{"entity": "Baker University", "url": "*.bakeru.edu/*", "country": "United States"}

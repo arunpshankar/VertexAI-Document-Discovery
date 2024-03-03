@@ -1,50 +1,50 @@
-{"name": "Universidad Adventista Dominicana", "root_url": "*.unad.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad APEC", "root_url": "*.unapec.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad Experimental Felix Adam", "root_url": "*.unefa.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad Iberoamericana", "root_url": "*.unibe.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad Interamericana", "root_url": "*.unica.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad del Caribe", "root_url": "*.unicaribe.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad Eugenio Maria de Hostos", "root_url": "*.uniremhos.edu.do/*", "country": "Dominican Republic"}
-{"name": "Universidad de la Tercera Edad", "root_url": "*.ute.edu.do/*", "country": "Dominican Republic"}
-{"name": "Brookdale Community College", "root_url": "*.brookdale.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad Casa Grande", "root_url": "*.casagrande.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad Internacional del Ecuador", "root_url": "*.internacional.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad Agraria del Ecuador", "root_url": "*.uagraria.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad del Azuay", "root_url": "*.uazuay.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad Catolica de Azogues", "root_url": "*.ucaazo.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad Central del Ecuador", "root_url": "*.ucentral.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad de Cuenca", "root_url": "*.ucuenca.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad de Guayaquil", "root_url": "*.ug.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad Tecnologica Israel", "root_url": "*.uisrael.ec/*", "country": "Ecuador"}
-{"name": "Universidad Nacional de Chimborazo", "root_url": "*.unach.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad Nacional de Loja", "root_url": "*.unl.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad del Pacifico", "root_url": "*.upacifico.edu.ec/*", "country": "Ecuador"}
-{"name": "Universidad San Francisco de Quito", "root_url": "*.usfq.edu.ec/*", "country": "Ecuador"}
-{"name": "Akhbar El Yom Academy", "root_url": "*.akhbaracademy.edu.eg/*", "country": "Egypt"}
-{"name": "Alexandria University", "root_url": "*.alex.edu.eg/*", "country": "Egypt"}
-{"name": "Arab Open University", "root_url": "*.aou.edu.eg/*", "country": "Egypt"}
-{"name": "American University in Cairo", "root_url": "*.aucegypt.edu/*", "country": "Egypt"}
-{"name": "Assiut University", "root_url": "*.aun.edu.eg/*", "country": "Egypt"}
-{"name": "Al Azhar University", "root_url": "*.azhar.edu.eg/*", "country": "Egypt"}
-{"name": "Beni Suef University", "root_url": "*.bsu.edu.eg/*", "country": "Egypt"}
-{"name": "Benha University", "root_url": "*.bu.edu.eg/*", "country": "Egypt"}
-{"name": "Cairo University", "root_url": "*.cu.edu.eg/*", "country": "Egypt"}
-{"name": "Damanhour University", "root_url": "*.damanhour.edu.eg/*", "country": "Egypt"}
-{"name": "Damietta University", "root_url": "*.du.edu.eg/*", "country": "Egypt"}
-{"name": "El Shorouk Academy", "root_url": "*.elshoroukacademy.edu.eg/*", "country": "Egypt"}
-{"name": "Fayoum University", "root_url": "*.fayoum.edu.eg/*", "country": "Egypt"}
-{"name": "Future University", "root_url": "*.futureuniversity.edu.eg/*", "country": "Egypt"}
-{"name": "German University in Cairo", "root_url": "*.guc.edu.eg/*", "country": "Egypt"}
-{"name": "Helwan University", "root_url": "*.helwan.edu.eg/*", "country": "Egypt"}
-{"name": "Higher Technological Institute", "root_url": "*.hti.edu.eg/*", "country": "Egypt"}
-{"name": "Mansoura University", "root_url": "*.mans.edu.eg/*", "country": "Egypt"}
-{"name": "Menoufia University", "root_url": "*.menofia.edu.eg/*", "country": "Egypt"}
-{"name": "Minia University", "root_url": "*.minia.edu.eg/*", "country": "Egypt"}
-{"name": "Misr International University", "root_url": "*.miuegypt.edu.eg/*", "country": "Egypt"}
-{"name": "Modern Acadmy", "root_url": "*.modern-academy.edu.eg/*", "country": "Egypt"}
-{"name": "Military Technical College", "root_url": "*.mtc.edu.eg/*", "country": "Egypt"}
-{"name": "Modern University For Technology and Information", "root_url": "*.mti.edu.eg/*", "country": "Egypt"}
-{"name": "Misr University for Sience and Technology", "root_url": "*.must.edu.eg/*", "country": "Egypt"}
-{"name": "Nile University", "root_url": "*.nileu.edu.eg/*", "country": "Egypt"}
-{"name": "Pharos International University", "root_url": "*.pua.edu.eg/*", "country": "Egypt"}
-{"name": "Sadat Academy for Management Sciences", "root_url": "*.sadatacademy.edu.eg/*", "country": "Egypt"}
+{"entity": "Universidad Adventista Dominicana", "url": "*.unad.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad APEC", "url": "*.unapec.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad Experimental Felix Adam", "url": "*.unefa.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad Iberoamericana", "url": "*.unibe.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad Interamericana", "url": "*.unica.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad del Caribe", "url": "*.unicaribe.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad Eugenio Maria de Hostos", "url": "*.uniremhos.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Universidad de la Tercera Edad", "url": "*.ute.edu.do/*", "country": "Dominican Republic"}
+{"entity": "Brookdale Community College", "url": "*.brookdale.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Casa Grande", "url": "*.casagrande.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Internacional del Ecuador", "url": "*.internacional.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Agraria del Ecuador", "url": "*.uagraria.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad del Azuay", "url": "*.uazuay.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Catolica de Azogues", "url": "*.ucaazo.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Central del Ecuador", "url": "*.ucentral.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad de Cuenca", "url": "*.ucuenca.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad de Guayaquil", "url": "*.ug.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Tecnologica Israel", "url": "*.uisrael.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Nacional de Chimborazo", "url": "*.unach.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad Nacional de Loja", "url": "*.unl.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad del Pacifico", "url": "*.upacifico.edu.ec/*", "country": "Ecuador"}
+{"entity": "Universidad San Francisco de Quito", "url": "*.usfq.edu.ec/*", "country": "Ecuador"}
+{"entity": "Akhbar El Yom Academy", "url": "*.akhbaracademy.edu.eg/*", "country": "Egypt"}
+{"entity": "Alexandria University", "url": "*.alex.edu.eg/*", "country": "Egypt"}
+{"entity": "Arab Open University", "url": "*.aou.edu.eg/*", "country": "Egypt"}
+{"entity": "American University in Cairo", "url": "*.aucegypt.edu/*", "country": "Egypt"}
+{"entity": "Assiut University", "url": "*.aun.edu.eg/*", "country": "Egypt"}
+{"entity": "Al Azhar University", "url": "*.azhar.edu.eg/*", "country": "Egypt"}
+{"entity": "Beni Suef University", "url": "*.bsu.edu.eg/*", "country": "Egypt"}
+{"entity": "Benha University", "url": "*.bu.edu.eg/*", "country": "Egypt"}
+{"entity": "Cairo University", "url": "*.cu.edu.eg/*", "country": "Egypt"}
+{"entity": "Damanhour University", "url": "*.damanhour.edu.eg/*", "country": "Egypt"}
+{"entity": "Damietta University", "url": "*.du.edu.eg/*", "country": "Egypt"}
+{"entity": "El Shorouk Academy", "url": "*.elshoroukacademy.edu.eg/*", "country": "Egypt"}
+{"entity": "Fayoum University", "url": "*.fayoum.edu.eg/*", "country": "Egypt"}
+{"entity": "Future University", "url": "*.futureuniversity.edu.eg/*", "country": "Egypt"}
+{"entity": "German University in Cairo", "url": "*.guc.edu.eg/*", "country": "Egypt"}
+{"entity": "Helwan University", "url": "*.helwan.edu.eg/*", "country": "Egypt"}
+{"entity": "Higher Technological Institute", "url": "*.hti.edu.eg/*", "country": "Egypt"}
+{"entity": "Mansoura University", "url": "*.mans.edu.eg/*", "country": "Egypt"}
+{"entity": "Menoufia University", "url": "*.menofia.edu.eg/*", "country": "Egypt"}
+{"entity": "Minia University", "url": "*.minia.edu.eg/*", "country": "Egypt"}
+{"entity": "Misr International University", "url": "*.miuegypt.edu.eg/*", "country": "Egypt"}
+{"entity": "Modern Acadmy", "url": "*.modern-academy.edu.eg/*", "country": "Egypt"}
+{"entity": "Military Technical College", "url": "*.mtc.edu.eg/*", "country": "Egypt"}
+{"entity": "Modern University For Technology and Information", "url": "*.mti.edu.eg/*", "country": "Egypt"}
+{"entity": "Misr University for Sience and Technology", "url": "*.must.edu.eg/*", "country": "Egypt"}
+{"entity": "Nile University", "url": "*.nileu.edu.eg/*", "country": "Egypt"}
+{"entity": "Pharos International University", "url": "*.pua.edu.eg/*", "country": "Egypt"}
+{"entity": "Sadat Academy for Management Sciences", "url": "*.sadatacademy.edu.eg/*", "country": "Egypt"}

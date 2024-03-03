@@ -1,50 +1,50 @@
-{"name": "Comenius University in Bratislava", "root_url": "*.uniba.sk/*", "country": "Slovakia"}
-{"name": "Law University of Bratislava", "root_url": "*.uninova.sk/*", "country": "Slovakia"}
-{"name": "University of Presov", "root_url": "*.unipo.sk/*", "country": "Slovakia"}
-{"name": "University of Zilinska", "root_url": "*.uniza.sk/*", "country": "Slovakia"}
-{"name": "Pavol Jozef Safarik University in Kosice", "root_url": "*.upjs.sk/*", "country": "Slovakia"}
-{"name": "University of Veterinary Medicine in Kosice", "root_url": "*.uvm.sk/*", "country": "Slovakia"}
-{"name": "School of Management", "root_url": "*.vsm.sk/*", "country": "Slovakia"}
-{"name": "University of Performing Arts in Bratislava", "root_url": "*.vsmu.sk/*", "country": "Slovakia"}
-{"name": "Academy of Fine Arts and Design in Bratislava", "root_url": "*.vsvu.sk/*", "country": "Slovakia"}
-{"name": "University of Nova Gorica", "root_url": "*.ung.si/*", "country": "Slovenia"}
-{"name": "University of Ljubljana", "root_url": "*.uni-lj.si/*", "country": "Slovenia"}
-{"name": "University of Maribor", "root_url": "*.um.si/*", "country": "Slovenia"}
-{"name": "University of Primorska", "root_url": "*.upr.si/*", "country": "Slovenia"}
-{"name": "University of the South Pacific", "root_url": "*.usp.ac.fj/*", "country": "Solomon Islands"}
-{"name": "Amoud University", "root_url": "*.amouduniversity.org/*", "country": "Somalia"}
-{"name": "Benadir University", "root_url": "*.benadiruniversity.net/*", "country": "Somalia"}
-{"name": "Bosaso College", "root_url": "*.bosasocollege.com/*", "country": "Somalia"}
-{"name": "University of Burao", "root_url": "*.buraouniversity.com/*", "country": "Somalia"}
-{"name": "East Africa University Bosaso", "root_url": "*.eastafricauniversity.net/*", "country": "Somalia"}
-{"name": "East Somalia University", "root_url": "*.eastsomaliauniversity.com/*", "country": "Somalia"}
-{"name": "Eelo American University", "root_url": "*.eelouniversity.org/*", "country": "Somalia"}
-{"name": "Gollis University", "root_url": "*.gollisuniversity.com/*", "country": "Somalia"}
-{"name": "University of Hargeisa", "root_url": "*.hargeisauniversity.net/*", "country": "Somalia"}
-{"name": "Hiiraan University", "root_url": "*.hiiraanuniversity.info/*", "country": "Somalia"}
-{"name": "Maakhir University", "root_url": "*.maakhiruniversity.net/*", "country": "Somalia"}
-{"name": "Mogadishu University", "root_url": "*.mogadishuuniversity.com/*", "country": "Somalia"}
-{"name": "Nugaal University", "root_url": "*.nugaaluniversity.com/*", "country": "Somalia"}
-{"name": "Puntland State University", "root_url": "*.puntlandstateuniversity.com/*", "country": "Somalia"}
-{"name": "Sanaag University of Science and Technology", "root_url": "*.sanaaguniversity.com/*", "country": "Somalia"}
-{"name": "Somaliland University of Technology", "root_url": "*.somtech.org/*", "country": "Somalia"}
-{"name": "University of Somalia", "root_url": "*.universityofsomalia.net/*", "country": "Somalia"}
-{"name": "Cape Peninsula University of Technology", "root_url": "*.cput.ac.za/*", "country": "South Africa"}
-{"name": "Durban Institute of Technology", "root_url": "*.dit.ac.za/*", "country": "South Africa"}
-{"name": "Nelson Mandela Metropolitan University", "root_url": "*.nmmu.ac.za/*", "country": "South Africa"}
-{"name": "Rhodes University", "root_url": "*.ru.ac.za/*", "country": "South Africa"}
-{"name": "University of Stellenbosch", "root_url": "*.sun.ac.za/*", "country": "South Africa"}
-{"name": "Tshwane University of Technology", "root_url": "*.tut.ac.za/*", "country": "South Africa"}
-{"name": "University of Cape Town", "root_url": "*.uct.ac.za/*", "country": "South Africa"}
-{"name": "University of Fort Hare", "root_url": "*.ufh.ac.za/*", "country": "South Africa"}
-{"name": "University of Johannesburg", "root_url": "*.uj.ac.za/*", "country": "South Africa"}
-{"name": "University of Limpopo", "root_url": "*.ul.ac.za/*", "country": "South Africa"}
-{"name": "University of South Africa", "root_url": "*.unisa.ac.za/*", "country": "South Africa"}
-{"name": "University of Venda", "root_url": "*.univen.ac.za/*", "country": "South Africa"}
-{"name": "University of North West", "root_url": "*.uniwest.ac.za/*", "country": "South Africa"}
-{"name": "University of the Free State", "root_url": "*.uovs.ac.za/*", "country": "South Africa"}
-{"name": "University of Pretoria", "root_url": "*.up.ac.za/*", "country": "South Africa"}
-{"name": "University of the Western Cape", "root_url": "*.uwc.ac.za/*", "country": "South Africa"}
-{"name": "University of Zululand", "root_url": "*.uzulu.ac.za/*", "country": "South Africa"}
-{"name": "Vaal University of Technology", "root_url": "*.vut.ac.za/*", "country": "South Africa"}
-{"name": "University of Witwatersrand", "root_url": "*.wits.ac.za/*", "country": "South Africa"}
+{"entity": "Comenius University in Bratislava", "url": "*.uniba.sk/*", "country": "Slovakia"}
+{"entity": "Law University of Bratislava", "url": "*.uninova.sk/*", "country": "Slovakia"}
+{"entity": "University of Presov", "url": "*.unipo.sk/*", "country": "Slovakia"}
+{"entity": "University of Zilinska", "url": "*.uniza.sk/*", "country": "Slovakia"}
+{"entity": "Pavol Jozef Safarik University in Kosice", "url": "*.upjs.sk/*", "country": "Slovakia"}
+{"entity": "University of Veterinary Medicine in Kosice", "url": "*.uvm.sk/*", "country": "Slovakia"}
+{"entity": "School of Management", "url": "*.vsm.sk/*", "country": "Slovakia"}
+{"entity": "University of Performing Arts in Bratislava", "url": "*.vsmu.sk/*", "country": "Slovakia"}
+{"entity": "Academy of Fine Arts and Design in Bratislava", "url": "*.vsvu.sk/*", "country": "Slovakia"}
+{"entity": "University of Nova Gorica", "url": "*.ung.si/*", "country": "Slovenia"}
+{"entity": "University of Ljubljana", "url": "*.uni-lj.si/*", "country": "Slovenia"}
+{"entity": "University of Maribor", "url": "*.um.si/*", "country": "Slovenia"}
+{"entity": "University of Primorska", "url": "*.upr.si/*", "country": "Slovenia"}
+{"entity": "University of the South Pacific", "url": "*.usp.ac.fj/*", "country": "Solomon Islands"}
+{"entity": "Amoud University", "url": "*.amouduniversity.org/*", "country": "Somalia"}
+{"entity": "Benadir University", "url": "*.benadiruniversity.net/*", "country": "Somalia"}
+{"entity": "Bosaso College", "url": "*.bosasocollege.com/*", "country": "Somalia"}
+{"entity": "University of Burao", "url": "*.buraouniversity.com/*", "country": "Somalia"}
+{"entity": "East Africa University Bosaso", "url": "*.eastafricauniversity.net/*", "country": "Somalia"}
+{"entity": "East Somalia University", "url": "*.eastsomaliauniversity.com/*", "country": "Somalia"}
+{"entity": "Eelo American University", "url": "*.eelouniversity.org/*", "country": "Somalia"}
+{"entity": "Gollis University", "url": "*.gollisuniversity.com/*", "country": "Somalia"}
+{"entity": "University of Hargeisa", "url": "*.hargeisauniversity.net/*", "country": "Somalia"}
+{"entity": "Hiiraan University", "url": "*.hiiraanuniversity.info/*", "country": "Somalia"}
+{"entity": "Maakhir University", "url": "*.maakhiruniversity.net/*", "country": "Somalia"}
+{"entity": "Mogadishu University", "url": "*.mogadishuuniversity.com/*", "country": "Somalia"}
+{"entity": "Nugaal University", "url": "*.nugaaluniversity.com/*", "country": "Somalia"}
+{"entity": "Puntland State University", "url": "*.puntlandstateuniversity.com/*", "country": "Somalia"}
+{"entity": "Sanaag University of Science and Technology", "url": "*.sanaaguniversity.com/*", "country": "Somalia"}
+{"entity": "Somaliland University of Technology", "url": "*.somtech.org/*", "country": "Somalia"}
+{"entity": "University of Somalia", "url": "*.universityofsomalia.net/*", "country": "Somalia"}
+{"entity": "Cape Peninsula University of Technology", "url": "*.cput.ac.za/*", "country": "South Africa"}
+{"entity": "Durban Institute of Technology", "url": "*.dit.ac.za/*", "country": "South Africa"}
+{"entity": "Nelson Mandela Metropolitan University", "url": "*.nmmu.ac.za/*", "country": "South Africa"}
+{"entity": "Rhodes University", "url": "*.ru.ac.za/*", "country": "South Africa"}
+{"entity": "University of Stellenbosch", "url": "*.sun.ac.za/*", "country": "South Africa"}
+{"entity": "Tshwane University of Technology", "url": "*.tut.ac.za/*", "country": "South Africa"}
+{"entity": "University of Cape Town", "url": "*.uct.ac.za/*", "country": "South Africa"}
+{"entity": "University of Fort Hare", "url": "*.ufh.ac.za/*", "country": "South Africa"}
+{"entity": "University of Johannesburg", "url": "*.uj.ac.za/*", "country": "South Africa"}
+{"entity": "University of Limpopo", "url": "*.ul.ac.za/*", "country": "South Africa"}
+{"entity": "University of South Africa", "url": "*.unisa.ac.za/*", "country": "South Africa"}
+{"entity": "University of Venda", "url": "*.univen.ac.za/*", "country": "South Africa"}
+{"entity": "University of North West", "url": "*.uniwest.ac.za/*", "country": "South Africa"}
+{"entity": "University of the Free State", "url": "*.uovs.ac.za/*", "country": "South Africa"}
+{"entity": "University of Pretoria", "url": "*.up.ac.za/*", "country": "South Africa"}
+{"entity": "University of the Western Cape", "url": "*.uwc.ac.za/*", "country": "South Africa"}
+{"entity": "University of Zululand", "url": "*.uzulu.ac.za/*", "country": "South Africa"}
+{"entity": "Vaal University of Technology", "url": "*.vut.ac.za/*", "country": "South Africa"}
+{"entity": "University of Witwatersrand", "url": "*.wits.ac.za/*", "country": "South Africa"}

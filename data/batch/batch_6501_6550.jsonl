@@ -1,50 +1,50 @@
-{"name": "Black Hawk College", "root_url": "*.bhc.edu*", "country": "United States"}
-{"name": "Carl Sandburg College", "root_url": "*.sandburg.edu*", "country": "United States"}
-{"name": "College of DuPage", "root_url": "*.dupage.edu*", "country": "United States"}
-{"name": "College of Lake County", "root_url": "*.WWW.CLCILLINOIS.EDU*", "country": "United States"}
-{"name": "Danville Area Community College", "root_url": "*.dacc.edu*", "country": "United States"}
-{"name": "Elgin Community College", "root_url": "*.elgin.edu*", "country": "United States"}
-{"name": "Fox College", "root_url": "*.foxcollege.edu*", "country": "United States"}
-{"name": "Harper College", "root_url": "*.harpercollege.edu*", "country": "United States"}
-{"name": "Heartland Community College", "root_url": "*.heartland.edu*", "country": "United States"}
-{"name": "Highland Community College", "root_url": "*.highland.edu*", "country": "United States"}
-{"name": "Illinois Central College", "root_url": "*.icc.edu*", "country": "United States"}
-{"name": "Illinois Valley Community College", "root_url": "*.ivcc.edu*", "country": "United States"}
-{"name": "John A Logan College", "root_url": "*.jalc.edu*", "country": "United States"}
-{"name": "John Wood Community College", "root_url": "*.jwcc.edu*", "country": "United States"}
-{"name": "Joliet Junior College", "root_url": "*.jjc.edu*", "country": "United States"}
-{"name": "Kankakee Community College", "root_url": "*.kcc.edu*", "country": "United States"}
-{"name": "Kaskaskia College", "root_url": "*.kaskaskia.edu*", "country": "United States"}
-{"name": "Kishwaukee College", "root_url": "*.kishwaukeecollege.edu*", "country": "United States"}
-{"name": "Lake Land College", "root_url": "*.lakeland.cc.il.us*", "country": "United States"}
-{"name": "Lewis and Clark Community College", "root_url": "*.lc.edu*", "country": "United States"}
-{"name": "Lincoln Land Community College", "root_url": "*.llcc.edu*", "country": "United States"}
-{"name": "MacCormac College", "root_url": "*.maccormac.edu*", "country": "United States"}
-{"name": "McHenry County College", "root_url": "*.mchenry.edu*", "country": "United States"}
-{"name": "Moraine Valley Community College", "root_url": "*.morainevalley.edu*", "country": "United States"}
-{"name": "Morton College", "root_url": "*.morton.edu*", "country": "United States"}
-{"name": "Oakton Community College", "root_url": "*.oakton.edu*", "country": "United States"}
-{"name": "Parkland College", "root_url": "*.parkland.edu*", "country": "United States"}
-{"name": "Prairie State College", "root_url": "*.prairiestate.edu*", "country": "United States"}
-{"name": "Rend Lake College", "root_url": "*.rlc.edu*", "country": "United States"}
-{"name": "Richland Community College", "root_url": "*.richland.edu*", "country": "United States"}
-{"name": "Rock Valley College", "root_url": "*.rockvalleycollege.edu*", "country": "United States"}
-{"name": "Sauk Valley Community College", "root_url": "*.svcc.edu*", "country": "United States"}
-{"name": "Shawnee Community College", "root_url": "*.shawneecc.edu*", "country": "United States"}
-{"name": "Southeastern Illinois College", "root_url": "*.sic.edu*", "country": "United States"}
-{"name": "South Suburban College", "root_url": "*.ssc.edu/*", "country": "United States"}
-{"name": "Southwestern Illinois College", "root_url": "*.swic.edu*", "country": "United States"}
-{"name": "Spoon River College", "root_url": "*.src.edu*", "country": "United States"}
-{"name": "Triton College", "root_url": "*.triton.edu*", "country": "United States"}
-{"name": "Ancilla College", "root_url": "*.ancilla.edu*", "country": "United States"}
-{"name": "Ivy Tech Community College", "root_url": "*.ivytech.edu*", "country": "United States"}
-{"name": "Des Moines Area Community College", "root_url": "*.dmacc.edu*", "country": "United States"}
-{"name": "Eastern Iowa Community College District", "root_url": "*.eicc.edu*", "country": "United States"}
-{"name": "Hawkeye Community College", "root_url": "*.hawkeyecollege.edu*", "country": "United States"}
-{"name": "Indian Hills Community College", "root_url": "*.indianhills.edu*", "country": "United States"}
-{"name": "Iowa Central Community College", "root_url": "*.iowacentral.edu*", "country": "United States"}
-{"name": "Iowa Lakes Community College", "root_url": "*.iowalakes.edu*", "country": "United States"}
-{"name": "Iowa Western Community College", "root_url": "*.iwcc.edu/*", "country": "United States"}
-{"name": "Kirkwood Community College", "root_url": "*.kirkwood.edu*", "country": "United States"}
-{"name": "Marshalltown Community College", "root_url": "*.iavalley.edu/mcc/index.html*", "country": "United States"}
-{"name": "North Iowa Area Community College", "root_url": "*.niacc.edu*", "country": "United States"}
+{"entity": "Black Hawk College", "url": "*.bhc.edu*", "country": "United States"}
+{"entity": "Carl Sandburg College", "url": "*.sandburg.edu*", "country": "United States"}
+{"entity": "College of DuPage", "url": "*.dupage.edu*", "country": "United States"}
+{"entity": "College of Lake County", "url": "*.WWW.CLCILLINOIS.EDU*", "country": "United States"}
+{"entity": "Danville Area Community College", "url": "*.dacc.edu*", "country": "United States"}
+{"entity": "Elgin Community College", "url": "*.elgin.edu*", "country": "United States"}
+{"entity": "Fox College", "url": "*.foxcollege.edu*", "country": "United States"}
+{"entity": "Harper College", "url": "*.harpercollege.edu*", "country": "United States"}
+{"entity": "Heartland Community College", "url": "*.heartland.edu*", "country": "United States"}
+{"entity": "Highland Community College", "url": "*.highland.edu*", "country": "United States"}
+{"entity": "Illinois Central College", "url": "*.icc.edu*", "country": "United States"}
+{"entity": "Illinois Valley Community College", "url": "*.ivcc.edu*", "country": "United States"}
+{"entity": "John A Logan College", "url": "*.jalc.edu*", "country": "United States"}
+{"entity": "John Wood Community College", "url": "*.jwcc.edu*", "country": "United States"}
+{"entity": "Joliet Junior College", "url": "*.jjc.edu*", "country": "United States"}
+{"entity": "Kankakee Community College", "url": "*.kcc.edu*", "country": "United States"}
+{"entity": "Kaskaskia College", "url": "*.kaskaskia.edu*", "country": "United States"}
+{"entity": "Kishwaukee College", "url": "*.kishwaukeecollege.edu*", "country": "United States"}
+{"entity": "Lake Land College", "url": "*.lakeland.cc.il.us*", "country": "United States"}
+{"entity": "Lewis and Clark Community College", "url": "*.lc.edu*", "country": "United States"}
+{"entity": "Lincoln Land Community College", "url": "*.llcc.edu*", "country": "United States"}
+{"entity": "MacCormac College", "url": "*.maccormac.edu*", "country": "United States"}
+{"entity": "McHenry County College", "url": "*.mchenry.edu*", "country": "United States"}
+{"entity": "Moraine Valley Community College", "url": "*.morainevalley.edu*", "country": "United States"}
+{"entity": "Morton College", "url": "*.morton.edu*", "country": "United States"}
+{"entity": "Oakton Community College", "url": "*.oakton.edu*", "country": "United States"}
+{"entity": "Parkland College", "url": "*.parkland.edu*", "country": "United States"}
+{"entity": "Prairie State College", "url": "*.prairiestate.edu*", "country": "United States"}
+{"entity": "Rend Lake College", "url": "*.rlc.edu*", "country": "United States"}
+{"entity": "Richland Community College", "url": "*.richland.edu*", "country": "United States"}
+{"entity": "Rock Valley College", "url": "*.rockvalleycollege.edu*", "country": "United States"}
+{"entity": "Sauk Valley Community College", "url": "*.svcc.edu*", "country": "United States"}
+{"entity": "Shawnee Community College", "url": "*.shawneecc.edu*", "country": "United States"}
+{"entity": "Southeastern Illinois College", "url": "*.sic.edu*", "country": "United States"}
+{"entity": "South Suburban College", "url": "*.ssc.edu/*", "country": "United States"}
+{"entity": "Southwestern Illinois College", "url": "*.swic.edu*", "country": "United States"}
+{"entity": "Spoon River College", "url": "*.src.edu*", "country": "United States"}
+{"entity": "Triton College", "url": "*.triton.edu*", "country": "United States"}
+{"entity": "Ancilla College", "url": "*.ancilla.edu*", "country": "United States"}
+{"entity": "Ivy Tech Community College", "url": "*.ivytech.edu*", "country": "United States"}
+{"entity": "Des Moines Area Community College", "url": "*.dmacc.edu*", "country": "United States"}
+{"entity": "Eastern Iowa Community College District", "url": "*.eicc.edu*", "country": "United States"}
+{"entity": "Hawkeye Community College", "url": "*.hawkeyecollege.edu*", "country": "United States"}
+{"entity": "Indian Hills Community College", "url": "*.indianhills.edu*", "country": "United States"}
+{"entity": "Iowa Central Community College", "url": "*.iowacentral.edu*", "country": "United States"}
+{"entity": "Iowa Lakes Community College", "url": "*.iowalakes.edu*", "country": "United States"}
+{"entity": "Iowa Western Community College", "url": "*.iwcc.edu/*", "country": "United States"}
+{"entity": "Kirkwood Community College", "url": "*.kirkwood.edu*", "country": "United States"}
+{"entity": "Marshalltown Community College", "url": "*.iavalley.edu/mcc/index.html*", "country": "United States"}
+{"entity": "North Iowa Area Community College", "url": "*.niacc.edu*", "country": "United States"}

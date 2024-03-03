@@ -1,50 +1,50 @@
-{"name": "Shandong Medical University", "root_url": "*.sdmu.edu.cn/*", "country": "China"}
-{"name": "Shandong Normal University", "root_url": "*.sdnu.edu.cn/*", "country": "China"}
-{"name": "Shandong University", "root_url": "*.sdu.edu.cn/*", "country": "China"}
-{"name": "Shandong University of Science and Technology", "root_url": "*.sdust.edu.cn/*", "country": "China"}
-{"name": "Shandong University of Triaditional Chinese Medicine", "root_url": "*.sdutcm.edu.cn/*", "country": "China"}
-{"name": "Shandong University of Technology", "root_url": "*.sdut.edu.cn/*", "country": "China"}
-{"name": "Southeast University", "root_url": "*.seu.edu.cn/*", "country": "China"}
-{"name": "Shaoguan University", "root_url": "*.sgu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Customs College", "root_url": "*.shanghai_edu.customs.gov.cn/*", "country": "China"}
-{"name": "Shanghai Fisheries University", "root_url": "*.shfu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Institue of Foreign Trade", "root_url": "*.shift.edu.cn/*", "country": "China"}
-{"name": "Shanghai International Studies University", "root_url": "*.shisu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Maritime University", "root_url": "*.shmtu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Medical University", "root_url": "*.shmu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Ouhua Vocational Technical College", "root_url": "*.shouhua.net.cn/*", "country": "China"}
-{"name": "Shanghai Sipo Polytechnic", "root_url": "*.sh-sipopolytechnic.com/*", "country": "China"}
-{"name": "Shanghai Second Medical University", "root_url": "*.shsmu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Second Polytechnic University", "root_url": "*.shspu.edu.cn/*", "country": "China"}
-{"name": "Shanghai TieDao University", "root_url": "*.shtdu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Normal University", "root_url": "*.shtu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Television University", "root_url": "*.shtvu.edu.cn/*", "country": "China"}
-{"name": "Shanghai University", "root_url": "*.shu.edu.cn/*", "country": "China"}
-{"name": "Shanghai University of Finance and Economics", "root_url": "*.shufe.edu.cn/*", "country": "China"}
-{"name": "Shanghai University of Traditional Chinese Medicine and Pharmacology", "root_url": "*.shutcm.edu.cn/*", "country": "China"}
-{"name": "Shihezi University", "root_url": "*.shzu.edu.cn/*", "country": "China"}
-{"name": "Sichuan Agricultural University", "root_url": "*.sicau.edu.cn/*", "country": "China"}
-{"name": "Sichuan Normal University", "root_url": "*.sicnu.edu.cn/*", "country": "China"}
-{"name": "Sichuan International Studies University", "root_url": "*.sisu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Jiaotong University", "root_url": "*.sjtu.edu.cn/*", "country": "China"}
-{"name": "Shenyang Jianzhu University", "root_url": "*.sjzu.edu.cn/*", "country": "China"}
-{"name": "Shaanxi Normal University", "root_url": "*.snnu.edu.cn/*", "country": "China"}
-{"name": "Shanxi Normal University", "root_url": "*.snnu.edu.cn/*", "country": "China"}
-{"name": "Shantou University", "root_url": "*.stu.edu.cn/*", "country": "China"}
-{"name": "Suzhou University", "root_url": "*.suda.edu.cn/*", "country": "China"}
-{"name": "Shanghai University of Engineering Science", "root_url": "*.sues.edu.cn/*", "country": "China"}
-{"name": "South University of Science and Technology of China", "root_url": "*.sustc.edu.cn/*", "country": "China"}
-{"name": "Southwest Agricultural University", "root_url": "*.swau.edu.cn/*", "country": "China"}
-{"name": "Southwest Forestry University", "root_url": "*.swfc.edu.cn/*", "country": "China"}
-{"name": "Southwest Jiaotong University", "root_url": "*.swjtu.edu.cn/*", "country": "China"}
-{"name": "Southwest University", "root_url": "*.swnu.edu.cn/*", "country": "China"}
-{"name": "Southwest Petroleum University", "root_url": "*.swpu.edu.cn/*", "country": "China"}
-{"name": "Chongqing Normal University Foreign Trade and Business College", "root_url": "*.swsm.cn/*", "country": "China"}
-{"name": "Southwest University of Finance and Economics", "root_url": "*.swufe.edu.cn/*", "country": "China"}
-{"name": "Southwest University of Nationalities", "root_url": "*.swun.edu.cn/*", "country": "China"}
-{"name": "Southwest University of Political Science and Law", "root_url": "*.swupl.edu.cn/*", "country": "China"}
-{"name": "Southwest University of Science and Technology", "root_url": "*.swust.edu.cn/*", "country": "China"}
-{"name": "South West University Yucai College", "root_url": "*.swuyc.edu.cn/*", "country": "China"}
-{"name": "Shanxi Agricultural University", "root_url": "*.sxau.edu.cn/*", "country": "China"}
-{"name": "Shanxi University", "root_url": "*.sxu.edu.cn/*", "country": "China"}
-{"name": "Shenyang Institute of Chemical Technology", "root_url": "*.syict.edu.cn/*", "country": "China"}
+{"entity": "Shandong Medical University", "url": "*.sdmu.edu.cn/*", "country": "China"}
+{"entity": "Shandong Normal University", "url": "*.sdnu.edu.cn/*", "country": "China"}
+{"entity": "Shandong University", "url": "*.sdu.edu.cn/*", "country": "China"}
+{"entity": "Shandong University of Science and Technology", "url": "*.sdust.edu.cn/*", "country": "China"}
+{"entity": "Shandong University of Triaditional Chinese Medicine", "url": "*.sdutcm.edu.cn/*", "country": "China"}
+{"entity": "Shandong University of Technology", "url": "*.sdut.edu.cn/*", "country": "China"}
+{"entity": "Southeast University", "url": "*.seu.edu.cn/*", "country": "China"}
+{"entity": "Shaoguan University", "url": "*.sgu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Customs College", "url": "*.shanghai_edu.customs.gov.cn/*", "country": "China"}
+{"entity": "Shanghai Fisheries University", "url": "*.shfu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Institue of Foreign Trade", "url": "*.shift.edu.cn/*", "country": "China"}
+{"entity": "Shanghai International Studies University", "url": "*.shisu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Maritime University", "url": "*.shmtu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Medical University", "url": "*.shmu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Ouhua Vocational Technical College", "url": "*.shouhua.net.cn/*", "country": "China"}
+{"entity": "Shanghai Sipo Polytechnic", "url": "*.sh-sipopolytechnic.com/*", "country": "China"}
+{"entity": "Shanghai Second Medical University", "url": "*.shsmu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Second Polytechnic University", "url": "*.shspu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai TieDao University", "url": "*.shtdu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Normal University", "url": "*.shtu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Television University", "url": "*.shtvu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai University", "url": "*.shu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai University of Finance and Economics", "url": "*.shufe.edu.cn/*", "country": "China"}
+{"entity": "Shanghai University of Traditional Chinese Medicine and Pharmacology", "url": "*.shutcm.edu.cn/*", "country": "China"}
+{"entity": "Shihezi University", "url": "*.shzu.edu.cn/*", "country": "China"}
+{"entity": "Sichuan Agricultural University", "url": "*.sicau.edu.cn/*", "country": "China"}
+{"entity": "Sichuan Normal University", "url": "*.sicnu.edu.cn/*", "country": "China"}
+{"entity": "Sichuan International Studies University", "url": "*.sisu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Jiaotong University", "url": "*.sjtu.edu.cn/*", "country": "China"}
+{"entity": "Shenyang Jianzhu University", "url": "*.sjzu.edu.cn/*", "country": "China"}
+{"entity": "Shaanxi Normal University", "url": "*.snnu.edu.cn/*", "country": "China"}
+{"entity": "Shanxi Normal University", "url": "*.snnu.edu.cn/*", "country": "China"}
+{"entity": "Shantou University", "url": "*.stu.edu.cn/*", "country": "China"}
+{"entity": "Suzhou University", "url": "*.suda.edu.cn/*", "country": "China"}
+{"entity": "Shanghai University of Engineering Science", "url": "*.sues.edu.cn/*", "country": "China"}
+{"entity": "South University of Science and Technology of China", "url": "*.sustc.edu.cn/*", "country": "China"}
+{"entity": "Southwest Agricultural University", "url": "*.swau.edu.cn/*", "country": "China"}
+{"entity": "Southwest Forestry University", "url": "*.swfc.edu.cn/*", "country": "China"}
+{"entity": "Southwest Jiaotong University", "url": "*.swjtu.edu.cn/*", "country": "China"}
+{"entity": "Southwest University", "url": "*.swnu.edu.cn/*", "country": "China"}
+{"entity": "Southwest Petroleum University", "url": "*.swpu.edu.cn/*", "country": "China"}
+{"entity": "Chongqing Normal University Foreign Trade and Business College", "url": "*.swsm.cn/*", "country": "China"}
+{"entity": "Southwest University of Finance and Economics", "url": "*.swufe.edu.cn/*", "country": "China"}
+{"entity": "Southwest University of Nationalities", "url": "*.swun.edu.cn/*", "country": "China"}
+{"entity": "Southwest University of Political Science and Law", "url": "*.swupl.edu.cn/*", "country": "China"}
+{"entity": "Southwest University of Science and Technology", "url": "*.swust.edu.cn/*", "country": "China"}
+{"entity": "South West University Yucai College", "url": "*.swuyc.edu.cn/*", "country": "China"}
+{"entity": "Shanxi Agricultural University", "url": "*.sxau.edu.cn/*", "country": "China"}
+{"entity": "Shanxi University", "url": "*.sxu.edu.cn/*", "country": "China"}
+{"entity": "Shenyang Institute of Chemical Technology", "url": "*.syict.edu.cn/*", "country": "China"}

@@ -1,50 +1,50 @@
-{"name": "Southern University at Shreveport", "root_url": "*.susla.edu*", "country": "United States"}
-{"name": "South Louisiana Community College", "root_url": "*.solacc.edu/*", "country": "United States"}
-{"name": "SOWELA Technical Community College", "root_url": "*.sowela.edu*", "country": "United States"}
-{"name": "Central Maine Community College", "root_url": "*.cmcc.edu*", "country": "United States"}
-{"name": "Central Maine Medical Center College of Nursing and Health Professions", "root_url": "*.cmmccollege.edu*", "country": "United States"}
-{"name": "Eastern Maine Community College", "root_url": "*.emcc.edu*", "country": "United States"}
-{"name": "Kennebec Valley Community College", "root_url": "*.kvcc.me.edu*", "country": "United States"}
-{"name": "Northern Maine Community College", "root_url": "*.nmcc.edu*", "country": "United States"}
-{"name": "Southern Maine Community College", "root_url": "*.smccME.edu*", "country": "United States"}
-{"name": "Washington County Community College", "root_url": "*.wccc.me.edu*", "country": "United States"}
-{"name": "York County Community College", "root_url": "*.yccc.edu*", "country": "United States"}
-{"name": "Allegany College of Maryland", "root_url": "*.allegany.edu*", "country": "United States"}
-{"name": "Baltimore City Community College", "root_url": "*.bccc.edu*", "country": "United States"}
-{"name": "Carroll Community College", "root_url": "*.carrollcc.edu*", "country": "United States"}
-{"name": "Cecil College", "root_url": "*.cecil.edu*", "country": "United States"}
-{"name": "College of Southern Maryland", "root_url": "*.csmd.edu/*", "country": "United States"}
-{"name": "Garrett College", "root_url": "*.garrettcollege.edu*", "country": "United States"}
-{"name": "Berkshire Community College", "root_url": "*.berkshirecc.edu*", "country": "United States"}
-{"name": "Bristol Community College", "root_url": "*.bristolcc.edu/*", "country": "United States"}
-{"name": "Bunker Hill Community College", "root_url": "*.bhcc.mass.edu*", "country": "United States"}
-{"name": "Cape Cod Community College", "root_url": "*.capecod.edu*", "country": "United States"}
-{"name": "Greenfield Community College", "root_url": "*.gcc.mass.edu*", "country": "United States"}
-{"name": "Holyoke Community College", "root_url": "*.hcc.edu*", "country": "United States"}
-{"name": "Massachusetts Bay Community College", "root_url": "*.massbay.edu*", "country": "United States"}
-{"name": "Massasoit Community College", "root_url": "*.massasoit.mass.edu*", "country": "United States"}
-{"name": "Mount Wachusett Community College", "root_url": "*.MWCC.EDU*", "country": "United States"}
-{"name": "Northern Essex Community College", "root_url": "*.necc.mass.edu/*", "country": "United States"}
-{"name": "North Shore Community College", "root_url": "*.northshore.edu*", "country": "United States"}
-{"name": "Quincy College", "root_url": "*.quincycollege.edu*", "country": "United States"}
-{"name": "Quinsigamond Community College", "root_url": "*.qcc.edu*", "country": "United States"}
-{"name": "Roxbury Community College", "root_url": "*.rcc.mass.edu*", "country": "United States"}
-{"name": "Springfield Technical Community College", "root_url": "*.stcc.edu*", "country": "United States"}
-{"name": "Urban College of Boston", "root_url": "*.urbancollege.edu*", "country": "United States"}
-{"name": "Alpena Community College", "root_url": "*.alpenacc.edu*", "country": "United States"}
-{"name": "Bay de Noc Community College", "root_url": "*.baycollege.edu/*", "country": "United States"}
-{"name": "Bay Mills Community College", "root_url": "*.bmcc.edu*", "country": "United States"}
-{"name": "Delta College", "root_url": "*.delta.edu*", "country": "United States"}
-{"name": "Glen Oaks Community College", "root_url": "*.glenoaks.cc.mi.us/Pages/default.aspx*", "country": "United States"}
-{"name": "Gogebic Community College", "root_url": "*.gogebic.edu*", "country": "United States"}
-{"name": "Grand Rapids Community College", "root_url": "*.grcc.edu*", "country": "United States"}
-{"name": "Henry Ford Community College", "root_url": "*.hfcc.edu*", "country": "United States"}
-{"name": "Jackson College", "root_url": "*.jccmi.edu*", "country": "United States"}
-{"name": "Kalamazoo Valley Community College", "root_url": "*.kvcc.edu*", "country": "United States"}
-{"name": "Kellogg Community College", "root_url": "*.kellogg.edu*", "country": "United States"}
-{"name": "Keweenaw Bay Ojibwa Community College", "root_url": "*.kbocc.org*", "country": "United States"}
-{"name": "Kirtland Community College", "root_url": "*.kirtland.edu*", "country": "United States"}
-{"name": "Lake Michigan College", "root_url": "*.lakemichigancollege.edu*", "country": "United States"}
-{"name": "Lansing Community College", "root_url": "*.lcc.edu*", "country": "United States"}
-{"name": "Macomb Community College", "root_url": "*.macomb.edu*", "country": "United States"}
-{"name": "Mid Michigan Community College", "root_url": "*.midmich.edu*", "country": "United States"}
+{"entity": "Southern University at Shreveport", "url": "*.susla.edu*", "country": "United States"}
+{"entity": "South Louisiana Community College", "url": "*.solacc.edu/*", "country": "United States"}
+{"entity": "SOWELA Technical Community College", "url": "*.sowela.edu*", "country": "United States"}
+{"entity": "Central Maine Community College", "url": "*.cmcc.edu*", "country": "United States"}
+{"entity": "Central Maine Medical Center College of Nursing and Health Professions", "url": "*.cmmccollege.edu*", "country": "United States"}
+{"entity": "Eastern Maine Community College", "url": "*.emcc.edu*", "country": "United States"}
+{"entity": "Kennebec Valley Community College", "url": "*.kvcc.me.edu*", "country": "United States"}
+{"entity": "Northern Maine Community College", "url": "*.nmcc.edu*", "country": "United States"}
+{"entity": "Southern Maine Community College", "url": "*.smccME.edu*", "country": "United States"}
+{"entity": "Washington County Community College", "url": "*.wccc.me.edu*", "country": "United States"}
+{"entity": "York County Community College", "url": "*.yccc.edu*", "country": "United States"}
+{"entity": "Allegany College of Maryland", "url": "*.allegany.edu*", "country": "United States"}
+{"entity": "Baltimore City Community College", "url": "*.bccc.edu*", "country": "United States"}
+{"entity": "Carroll Community College", "url": "*.carrollcc.edu*", "country": "United States"}
+{"entity": "Cecil College", "url": "*.cecil.edu*", "country": "United States"}
+{"entity": "College of Southern Maryland", "url": "*.csmd.edu/*", "country": "United States"}
+{"entity": "Garrett College", "url": "*.garrettcollege.edu*", "country": "United States"}
+{"entity": "Berkshire Community College", "url": "*.berkshirecc.edu*", "country": "United States"}
+{"entity": "Bristol Community College", "url": "*.bristolcc.edu/*", "country": "United States"}
+{"entity": "Bunker Hill Community College", "url": "*.bhcc.mass.edu*", "country": "United States"}
+{"entity": "Cape Cod Community College", "url": "*.capecod.edu*", "country": "United States"}
+{"entity": "Greenfield Community College", "url": "*.gcc.mass.edu*", "country": "United States"}
+{"entity": "Holyoke Community College", "url": "*.hcc.edu*", "country": "United States"}
+{"entity": "Massachusetts Bay Community College", "url": "*.massbay.edu*", "country": "United States"}
+{"entity": "Massasoit Community College", "url": "*.massasoit.mass.edu*", "country": "United States"}
+{"entity": "Mount Wachusett Community College", "url": "*.MWCC.EDU*", "country": "United States"}
+{"entity": "Northern Essex Community College", "url": "*.necc.mass.edu/*", "country": "United States"}
+{"entity": "North Shore Community College", "url": "*.northshore.edu*", "country": "United States"}
+{"entity": "Quincy College", "url": "*.quincycollege.edu*", "country": "United States"}
+{"entity": "Quinsigamond Community College", "url": "*.qcc.edu*", "country": "United States"}
+{"entity": "Roxbury Community College", "url": "*.rcc.mass.edu*", "country": "United States"}
+{"entity": "Springfield Technical Community College", "url": "*.stcc.edu*", "country": "United States"}
+{"entity": "Urban College of Boston", "url": "*.urbancollege.edu*", "country": "United States"}
+{"entity": "Alpena Community College", "url": "*.alpenacc.edu*", "country": "United States"}
+{"entity": "Bay de Noc Community College", "url": "*.baycollege.edu/*", "country": "United States"}
+{"entity": "Bay Mills Community College", "url": "*.bmcc.edu*", "country": "United States"}
+{"entity": "Delta College", "url": "*.delta.edu*", "country": "United States"}
+{"entity": "Glen Oaks Community College", "url": "*.glenoaks.cc.mi.us/Pages/default.aspx*", "country": "United States"}
+{"entity": "Gogebic Community College", "url": "*.gogebic.edu*", "country": "United States"}
+{"entity": "Grand Rapids Community College", "url": "*.grcc.edu*", "country": "United States"}
+{"entity": "Henry Ford Community College", "url": "*.hfcc.edu*", "country": "United States"}
+{"entity": "Jackson College", "url": "*.jccmi.edu*", "country": "United States"}
+{"entity": "Kalamazoo Valley Community College", "url": "*.kvcc.edu*", "country": "United States"}
+{"entity": "Kellogg Community College", "url": "*.kellogg.edu*", "country": "United States"}
+{"entity": "Keweenaw Bay Ojibwa Community College", "url": "*.kbocc.org*", "country": "United States"}
+{"entity": "Kirtland Community College", "url": "*.kirtland.edu*", "country": "United States"}
+{"entity": "Lake Michigan College", "url": "*.lakemichigancollege.edu*", "country": "United States"}
+{"entity": "Lansing Community College", "url": "*.lcc.edu*", "country": "United States"}
+{"entity": "Macomb Community College", "url": "*.macomb.edu*", "country": "United States"}
+{"entity": "Mid Michigan Community College", "url": "*.midmich.edu*", "country": "United States"}

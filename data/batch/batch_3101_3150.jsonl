@@ -1,50 +1,50 @@
-{"name": "Guilan University of Medical Sciences", "root_url": "*.gums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "University of Hormozgan", "root_url": "*.hormozgan.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Hormozgan University of Medical Sciences", "root_url": "*.hums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Hyrcania Institute of Higher Education", "root_url": "*.hyrcania.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Zanjan Institute for Advanced Studies in Basic Sciences", "root_url": "*.iasbs.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Imam Khomeini International University", "root_url": "*.ikiu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Ilam University", "root_url": "*.ilam.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Imam Reza University", "root_url": "*.imamreza.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Imam Sadiq University", "root_url": "*.isu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Iran University of Medical Sciences", "root_url": "*.iums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Iran University of Science and Technology Tehran", "root_url": "*.iust.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Isfahan University of Technology", "root_url": "*.iut.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Jami Institute of Technology", "root_url": "*.jami.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Jahrom University of Medical Sciences", "root_url": "*.jums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Kar University", "root_url": "*.karuniversity.com/*", "country": "Iran, Islamic Republic of"}
-{"name": "Kashan University", "root_url": "*.kashanu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Kashan University of Medical Sciences", "root_url": "*.kaums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Kerman Graduate University of Technology", "root_url": "*.kgut.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Khomeinishahr Payame Noor University", "root_url": "*.km.isfpnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Kerman University of Medical Sciences", "root_url": "*.kmu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Kermanshah University of Medical Sciences", "root_url": "*.kums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "University of Lavasanat Pnu", "root_url": "*.lavasanpnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Lorestan University", "root_url": "*.lu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Lorestan University of Medical Sciences", "root_url": "*.lums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Malayer University", "root_url": "*.malayeru.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Malekan Payame Nour University", "root_url": "*.malekanpnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Mamasani University of Technology", "root_url": "*.mamasaniiau.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Mazandaran University of Medical Science", "root_url": "*.mazums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Ilam University of Medical Sciences", "root_url": "*.medilam.hbi.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Sabzevar School of Medical Sciences", "root_url": "*.medsab.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Mustafa International University", "root_url": "*.miu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Tarbiat Modares University", "root_url": "*.modares.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Mofid University", "root_url": "*.mofidu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Babol University of Medical Sciences", "root_url": "*.mubabol.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Isfahan University of Medical Sciences", "root_url": "*.mui.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Kurdistan University of Medical Sciences", "root_url": "*.muk.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Mashhad University of Medical Sciences", "root_url": "*.mums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Qom University of Medical Sciences", "root_url": "*.muq.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Najaf Abad University of Applied Science and Technology", "root_url": "*.najafabad-uast.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Babol Noshirvani University of Technology", "root_url": "*.nit.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Iranian Academy of Persian Language and Literature", "root_url": "*.persianacademy.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Persian Gulf University", "root_url": "*.pgu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Payame Noor University", "root_url": "*.pnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "University of Mashhad Pnu", "root_url": "*.pnum.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Petroleum University of Technology", "root_url": "*.put.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Power and Water Institute of Technology", "root_url": "*.pwit.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Qom University", "root_url": "*.qom.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Qazvin University of Medical Sciences", "root_url": "*.qums.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Qom University of Technology", "root_url": "*.qut.ac.ir/*", "country": "Iran, Islamic Republic of"}
-{"name": "Raghebe Esfahani University", "root_url": "*.raghebisf.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Guilan University of Medical Sciences", "url": "*.gums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "University of Hormozgan", "url": "*.hormozgan.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Hormozgan University of Medical Sciences", "url": "*.hums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Hyrcania Institute of Higher Education", "url": "*.hyrcania.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Zanjan Institute for Advanced Studies in Basic Sciences", "url": "*.iasbs.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Imam Khomeini International University", "url": "*.ikiu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Ilam University", "url": "*.ilam.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Imam Reza University", "url": "*.imamreza.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Imam Sadiq University", "url": "*.isu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Iran University of Medical Sciences", "url": "*.iums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Iran University of Science and Technology Tehran", "url": "*.iust.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Isfahan University of Technology", "url": "*.iut.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Jami Institute of Technology", "url": "*.jami.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Jahrom University of Medical Sciences", "url": "*.jums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Kar University", "url": "*.karuniversity.com/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Kashan University", "url": "*.kashanu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Kashan University of Medical Sciences", "url": "*.kaums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Kerman Graduate University of Technology", "url": "*.kgut.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Khomeinishahr Payame Noor University", "url": "*.km.isfpnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Kerman University of Medical Sciences", "url": "*.kmu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Kermanshah University of Medical Sciences", "url": "*.kums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "University of Lavasanat Pnu", "url": "*.lavasanpnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Lorestan University", "url": "*.lu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Lorestan University of Medical Sciences", "url": "*.lums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Malayer University", "url": "*.malayeru.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Malekan Payame Nour University", "url": "*.malekanpnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Mamasani University of Technology", "url": "*.mamasaniiau.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Mazandaran University of Medical Science", "url": "*.mazums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Ilam University of Medical Sciences", "url": "*.medilam.hbi.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Sabzevar School of Medical Sciences", "url": "*.medsab.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Mustafa International University", "url": "*.miu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Tarbiat Modares University", "url": "*.modares.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Mofid University", "url": "*.mofidu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Babol University of Medical Sciences", "url": "*.mubabol.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Isfahan University of Medical Sciences", "url": "*.mui.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Kurdistan University of Medical Sciences", "url": "*.muk.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Mashhad University of Medical Sciences", "url": "*.mums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Qom University of Medical Sciences", "url": "*.muq.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Najaf Abad University of Applied Science and Technology", "url": "*.najafabad-uast.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Babol Noshirvani University of Technology", "url": "*.nit.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Iranian Academy of Persian Language and Literature", "url": "*.persianacademy.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Persian Gulf University", "url": "*.pgu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Payame Noor University", "url": "*.pnu.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "University of Mashhad Pnu", "url": "*.pnum.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Petroleum University of Technology", "url": "*.put.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Power and Water Institute of Technology", "url": "*.pwit.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Qom University", "url": "*.qom.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Qazvin University of Medical Sciences", "url": "*.qums.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Qom University of Technology", "url": "*.qut.ac.ir/*", "country": "Iran, Islamic Republic of"}
+{"entity": "Raghebe Esfahani University", "url": "*.raghebisf.ac.ir/*", "country": "Iran, Islamic Republic of"}

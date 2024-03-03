@@ -1,50 +1,50 @@
-{"name": "Missouri Southern State College", "root_url": "*.mssc.edu/*", "country": "United States"}
-{"name": "Missouri University of Science and Technology", "root_url": "*.mst.edu/*", "country": "United States"}
-{"name": "Missouri Western State College", "root_url": "*.mwsc.edu/*", "country": "United States"}
-{"name": "Molloy College", "root_url": "*.molloy.edu/*", "country": "United States"}
-{"name": "Monmouth College", "root_url": "*.monmouthcollege.edu/*", "country": "United States"}
-{"name": "Monmouth University", "root_url": "*.monmouth.edu/*", "country": "United States"}
-{"name": "Montana Tech", "root_url": "*.mtech.edu/*", "country": "United States"}
-{"name": "Montclair State University", "root_url": "*.montclair.edu/*", "country": "United States"}
-{"name": "Montgomery College", "root_url": "*.montgomerycollege.edu/*", "country": "United States"}
-{"name": "Montreat College", "root_url": "*.montreat.edu/*", "country": "United States"}
-{"name": "Moravian College", "root_url": "*.moravian.edu/*", "country": "United States"}
-{"name": "Morgan State University", "root_url": "*.morgan.edu/*", "country": "United States"}
-{"name": "Mott Community College", "root_url": "*.mcc.edu/*", "country": "United States"}
-{"name": "Mount Holyoke College", "root_url": "*.mtholyoke.edu/*", "country": "United States"}
-{"name": "Mount Saint Joseph College", "root_url": "*.msj.edu/*", "country": "United States"}
-{"name": "Mount Saint Mary College", "root_url": "*.msmc.edu/*", "country": "United States"}
-{"name": "Mount Senario College", "root_url": "*.mscfs.edu/*", "country": "United States"}
-{"name": "Mount Union College", "root_url": "*.muc.edu/*", "country": "United States"}
-{"name": "Murray State University", "root_url": "*.mursuky.edu/*", "country": "United States"}
-{"name": "Muskingum College", "root_url": "*.muskingum.edu/*", "country": "United States"}
-{"name": "Nashville State Community College", "root_url": "*.nscc.edu/*", "country": "United States"}
-{"name": "National Defense University", "root_url": "*.ndu.edu/*", "country": "United States"}
-{"name": "National Radio Astronomy Observatory", "root_url": "*.nrao.edu/*", "country": "United States"}
-{"name": "National Technological University", "root_url": "*.ntu.edu/*", "country": "United States"}
-{"name": "National University", "root_url": "*.nu.edu/*", "country": "United States"}
-{"name": "Naval Postgraduate School", "root_url": "*.nps.edu/*", "country": "United States"}
-{"name": "Nazareth College", "root_url": "*.www2.naz.edu/*", "country": "United States"}
-{"name": "Nevada System of Higher Education", "root_url": "*.system.nevada.edu/*", "country": "United States"}
-{"name": "Newberry College", "root_url": "*.newberry.edu/*", "country": "United States"}
-{"name": "New College of California", "root_url": "*.newcollege.edu/*", "country": "United States"}
-{"name": "New England Institute of Technology", "root_url": "*.neit.edu/*", "country": "United States"}
-{"name": "New Hampshire College", "root_url": "*.nhc.edu/*", "country": "United States"}
-{"name": "New Jersey Institute of Technology", "root_url": "*.njit.edu/*", "country": "United States"}
-{"name": "New Mexico Highlands University", "root_url": "*.nmhu.edu/*", "country": "United States"}
-{"name": "New Mexico State University", "root_url": "*.nmsu.edu/*", "country": "United States"}
-{"name": "New York Institute of Technology", "root_url": "*.nyit.edu/*", "country": "United States"}
-{"name": "New York University", "root_url": "*.nyu.edu/*", "country": "United States"}
-{"name": "Niagara University", "root_url": "*.niagara.edu/*", "country": "United States"}
-{"name": "Nicholls State University", "root_url": "*.nicholls.edu/*", "country": "United States"}
-{"name": "Norfolk State University", "root_url": "*.nsu.edu/*", "country": "United States"}
-{"name": "North American University", "root_url": "*.na.edu/*", "country": "United States"}
-{"name": "Northampton Community College", "root_url": "*.northampton.edu/*", "country": "United States"}
-{"name": "North Carolina Central University", "root_url": "*.nccu.edu/*", "country": "United States"}
-{"name": "North Carolina State University", "root_url": "*.ncsu.edu/*", "country": "United States"}
-{"name": "North Carolina Wesleyan College", "root_url": "*.ncwc.edu/*", "country": "United States"}
-{"name": "North Central Bible College", "root_url": "*.ncbc.edu/*", "country": "United States"}
-{"name": "North Dakota State University", "root_url": "*.ndsu.edu/*", "country": "United States"}
-{"name": "Northeastern Louisiana University", "root_url": "*.nlu.edu/*", "country": "United States"}
-{"name": "Northeastern State University", "root_url": "*.nsuok.edu/*", "country": "United States"}
-{"name": "Northeastern University", "root_url": "*.northeastern.edu/*", "country": "United States"}
+{"entity": "Missouri Southern State College", "url": "*.mssc.edu/*", "country": "United States"}
+{"entity": "Missouri University of Science and Technology", "url": "*.mst.edu/*", "country": "United States"}
+{"entity": "Missouri Western State College", "url": "*.mwsc.edu/*", "country": "United States"}
+{"entity": "Molloy College", "url": "*.molloy.edu/*", "country": "United States"}
+{"entity": "Monmouth College", "url": "*.monmouthcollege.edu/*", "country": "United States"}
+{"entity": "Monmouth University", "url": "*.monmouth.edu/*", "country": "United States"}
+{"entity": "Montana Tech", "url": "*.mtech.edu/*", "country": "United States"}
+{"entity": "Montclair State University", "url": "*.montclair.edu/*", "country": "United States"}
+{"entity": "Montgomery College", "url": "*.montgomerycollege.edu/*", "country": "United States"}
+{"entity": "Montreat College", "url": "*.montreat.edu/*", "country": "United States"}
+{"entity": "Moravian College", "url": "*.moravian.edu/*", "country": "United States"}
+{"entity": "Morgan State University", "url": "*.morgan.edu/*", "country": "United States"}
+{"entity": "Mott Community College", "url": "*.mcc.edu/*", "country": "United States"}
+{"entity": "Mount Holyoke College", "url": "*.mtholyoke.edu/*", "country": "United States"}
+{"entity": "Mount Saint Joseph College", "url": "*.msj.edu/*", "country": "United States"}
+{"entity": "Mount Saint Mary College", "url": "*.msmc.edu/*", "country": "United States"}
+{"entity": "Mount Senario College", "url": "*.mscfs.edu/*", "country": "United States"}
+{"entity": "Mount Union College", "url": "*.muc.edu/*", "country": "United States"}
+{"entity": "Murray State University", "url": "*.mursuky.edu/*", "country": "United States"}
+{"entity": "Muskingum College", "url": "*.muskingum.edu/*", "country": "United States"}
+{"entity": "Nashville State Community College", "url": "*.nscc.edu/*", "country": "United States"}
+{"entity": "National Defense University", "url": "*.ndu.edu/*", "country": "United States"}
+{"entity": "National Radio Astronomy Observatory", "url": "*.nrao.edu/*", "country": "United States"}
+{"entity": "National Technological University", "url": "*.ntu.edu/*", "country": "United States"}
+{"entity": "National University", "url": "*.nu.edu/*", "country": "United States"}
+{"entity": "Naval Postgraduate School", "url": "*.nps.edu/*", "country": "United States"}
+{"entity": "Nazareth College", "url": "*.www2.naz.edu/*", "country": "United States"}
+{"entity": "Nevada System of Higher Education", "url": "*.system.nevada.edu/*", "country": "United States"}
+{"entity": "Newberry College", "url": "*.newberry.edu/*", "country": "United States"}
+{"entity": "New College of California", "url": "*.newcollege.edu/*", "country": "United States"}
+{"entity": "New England Institute of Technology", "url": "*.neit.edu/*", "country": "United States"}
+{"entity": "New Hampshire College", "url": "*.nhc.edu/*", "country": "United States"}
+{"entity": "New Jersey Institute of Technology", "url": "*.njit.edu/*", "country": "United States"}
+{"entity": "New Mexico Highlands University", "url": "*.nmhu.edu/*", "country": "United States"}
+{"entity": "New Mexico State University", "url": "*.nmsu.edu/*", "country": "United States"}
+{"entity": "New York Institute of Technology", "url": "*.nyit.edu/*", "country": "United States"}
+{"entity": "New York University", "url": "*.nyu.edu/*", "country": "United States"}
+{"entity": "Niagara University", "url": "*.niagara.edu/*", "country": "United States"}
+{"entity": "Nicholls State University", "url": "*.nicholls.edu/*", "country": "United States"}
+{"entity": "Norfolk State University", "url": "*.nsu.edu/*", "country": "United States"}
+{"entity": "North American University", "url": "*.na.edu/*", "country": "United States"}
+{"entity": "Northampton Community College", "url": "*.northampton.edu/*", "country": "United States"}
+{"entity": "North Carolina Central University", "url": "*.nccu.edu/*", "country": "United States"}
+{"entity": "North Carolina State University", "url": "*.ncsu.edu/*", "country": "United States"}
+{"entity": "North Carolina Wesleyan College", "url": "*.ncwc.edu/*", "country": "United States"}
+{"entity": "North Central Bible College", "url": "*.ncbc.edu/*", "country": "United States"}
+{"entity": "North Dakota State University", "url": "*.ndsu.edu/*", "country": "United States"}
+{"entity": "Northeastern Louisiana University", "url": "*.nlu.edu/*", "country": "United States"}
+{"entity": "Northeastern State University", "url": "*.nsuok.edu/*", "country": "United States"}
+{"entity": "Northeastern University", "url": "*.northeastern.edu/*", "country": "United States"}

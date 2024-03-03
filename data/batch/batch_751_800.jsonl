@@ -1,50 +1,50 @@
-{"name": "Thomas College", "root_url": "*.thomas.edu/*", "country": "United States"}
-{"name": "Thomas Edison State College", "root_url": "*.tesc.edu/*", "country": "United States"}
-{"name": "Thomas Jefferson University", "root_url": "*.tju.edu/*", "country": "United States"}
-{"name": "Thomas More College", "root_url": "*.thomasmore.edu/*", "country": "United States"}
-{"name": "Thunderbird School of Global Management", "root_url": "*.thunderbird.edu/*", "country": "United States"}
-{"name": "Towson State University", "root_url": "*.towson.edu/*", "country": "United States"}
-{"name": "Transylvania University", "root_url": "*.transy.edu/*", "country": "United States"}
-{"name": "Trenton State College", "root_url": "*.trenton.edu/*", "country": "United States"}
-{"name": "Trine University", "root_url": "*.trine.edu/*", "country": "United States"}
-{"name": "Trinity University", "root_url": "*.trinity.edu/*", "country": "United States"}
-{"name": "Troy State University", "root_url": "*.tsufl.edu/*", "country": "United States"}
-{"name": "Truman State University", "root_url": "*.truman.edu/*", "country": "United States"}
-{"name": "Tucson University", "root_url": "*.tucsonu.edu/*", "country": "United States"}
-{"name": "Tufts University", "root_url": "*.tufts.edu/*", "country": "United States"}
-{"name": "Tulane University", "root_url": "*.tulane.edu/*", "country": "United States"}
-{"name": "Tuskegee University", "root_url": "*.tuskegee.edu/*", "country": "United States"}
-{"name": "Uniformed Services University of the Health Sciences", "root_url": "*.usuhs.mil/*", "country": "United States"}
-{"name": "Union College", "root_url": "*.union.edu/*", "country": "United States"}
-{"name": "Union Institute", "root_url": "*.tui.edu/*", "country": "United States"}
-{"name": "Union University", "root_url": "*.uu.edu/*", "country": "United States"}
-{"name": "United States Air Force Academy", "root_url": "*.usafa.af.mil/*", "country": "United States"}
-{"name": "United States International University", "root_url": "*.usiu.edu/*", "country": "United States"}
-{"name": "United States Merchant Marine Academy", "root_url": "*.usmma.edu/*", "country": "United States"}
-{"name": "United States Military Academy", "root_url": "*.usma.edu/*", "country": "United States"}
-{"name": "United States Naval Academy", "root_url": "*.usna.edu/*", "country": "United States"}
-{"name": "University of Advancing Technology", "root_url": "*.uat.edu/*", "country": "United States"}
-{"name": "University of Akron", "root_url": "*.uakron.edu/*", "country": "United States"}
-{"name": "University of Alabama at Birmingham", "root_url": "*.uab.edu/*", "country": "United States"}
-{"name": "University of Alabama at Huntsville", "root_url": "*.uah.edu/*", "country": "United States"}
-{"name": "University of Alabama at Tuscaloosa", "root_url": "*.ua.edu/*", "country": "United States"}
-{"name": "University of Alaska", "root_url": "*.alaska.edu/*", "country": "United States"}
-{"name": "University of Arizona", "root_url": "*.arizona.edu/*", "country": "United States"}
-{"name": "University of Arkansas for Medical Sciences", "root_url": "*.uams.edu/*", "country": "United States"}
-{"name": "University of Baltimore", "root_url": "*.ubalt.edu/*", "country": "United States"}
-{"name": "University of Bridgeport", "root_url": "*.bridgeport.edu/*", "country": "United States"}
-{"name": "University of Central Arkansas", "root_url": "*.uca.edu/*", "country": "United States"}
-{"name": "University of Central Florida", "root_url": "*.ucf.edu/*", "country": "United States"}
-{"name": "University of Central Missouri", "root_url": "*.ucmo.edu/*", "country": "United States"}
-{"name": "University of Charleston", "root_url": "*.uchaswv.edu/*", "country": "United States"}
-{"name": "University of Chicago", "root_url": "*.uchicago.edu/*", "country": "United States"}
-{"name": "University of Cincinnati", "root_url": "*.uc.edu/*", "country": "United States"}
-{"name": "University of Colorado at Boulder", "root_url": "*.colorado.edu/*", "country": "United States"}
-{"name": "University of Colorado at Colorado Springs", "root_url": "*.uccs.edu/*", "country": "United States"}
-{"name": "University of Colorado at Denver", "root_url": "*.cudenver.edu/*", "country": "United States"}
-{"name": "University of Colorado Health Sciences Center", "root_url": "*.hsc.colorado.edu/*", "country": "United States"}
-{"name": "University of Connecticut", "root_url": "*.uconn.edu/*", "country": "United States"}
-{"name": "University of Dallas", "root_url": "*.udallas.edu/*", "country": "United States"}
-{"name": "University of Dayton", "root_url": "*.udayton.edu/*", "country": "United States"}
-{"name": "University of Delaware", "root_url": "*.udel.edu/*", "country": "United States"}
-{"name": "University of Denver", "root_url": "*.du.edu/*", "country": "United States"}
+{"entity": "Thomas College", "url": "*.thomas.edu/*", "country": "United States"}
+{"entity": "Thomas Edison State College", "url": "*.tesc.edu/*", "country": "United States"}
+{"entity": "Thomas Jefferson University", "url": "*.tju.edu/*", "country": "United States"}
+{"entity": "Thomas More College", "url": "*.thomasmore.edu/*", "country": "United States"}
+{"entity": "Thunderbird School of Global Management", "url": "*.thunderbird.edu/*", "country": "United States"}
+{"entity": "Towson State University", "url": "*.towson.edu/*", "country": "United States"}
+{"entity": "Transylvania University", "url": "*.transy.edu/*", "country": "United States"}
+{"entity": "Trenton State College", "url": "*.trenton.edu/*", "country": "United States"}
+{"entity": "Trine University", "url": "*.trine.edu/*", "country": "United States"}
+{"entity": "Trinity University", "url": "*.trinity.edu/*", "country": "United States"}
+{"entity": "Troy State University", "url": "*.tsufl.edu/*", "country": "United States"}
+{"entity": "Truman State University", "url": "*.truman.edu/*", "country": "United States"}
+{"entity": "Tucson University", "url": "*.tucsonu.edu/*", "country": "United States"}
+{"entity": "Tufts University", "url": "*.tufts.edu/*", "country": "United States"}
+{"entity": "Tulane University", "url": "*.tulane.edu/*", "country": "United States"}
+{"entity": "Tuskegee University", "url": "*.tuskegee.edu/*", "country": "United States"}
+{"entity": "Uniformed Services University of the Health Sciences", "url": "*.usuhs.mil/*", "country": "United States"}
+{"entity": "Union College", "url": "*.union.edu/*", "country": "United States"}
+{"entity": "Union Institute", "url": "*.tui.edu/*", "country": "United States"}
+{"entity": "Union University", "url": "*.uu.edu/*", "country": "United States"}
+{"entity": "United States Air Force Academy", "url": "*.usafa.af.mil/*", "country": "United States"}
+{"entity": "United States International University", "url": "*.usiu.edu/*", "country": "United States"}
+{"entity": "United States Merchant Marine Academy", "url": "*.usmma.edu/*", "country": "United States"}
+{"entity": "United States Military Academy", "url": "*.usma.edu/*", "country": "United States"}
+{"entity": "United States Naval Academy", "url": "*.usna.edu/*", "country": "United States"}
+{"entity": "University of Advancing Technology", "url": "*.uat.edu/*", "country": "United States"}
+{"entity": "University of Akron", "url": "*.uakron.edu/*", "country": "United States"}
+{"entity": "University of Alabama at Birmingham", "url": "*.uab.edu/*", "country": "United States"}
+{"entity": "University of Alabama at Huntsville", "url": "*.uah.edu/*", "country": "United States"}
+{"entity": "University of Alabama at Tuscaloosa", "url": "*.ua.edu/*", "country": "United States"}
+{"entity": "University of Alaska", "url": "*.alaska.edu/*", "country": "United States"}
+{"entity": "University of Arizona", "url": "*.arizona.edu/*", "country": "United States"}
+{"entity": "University of Arkansas for Medical Sciences", "url": "*.uams.edu/*", "country": "United States"}
+{"entity": "University of Baltimore", "url": "*.ubalt.edu/*", "country": "United States"}
+{"entity": "University of Bridgeport", "url": "*.bridgeport.edu/*", "country": "United States"}
+{"entity": "University of Central Arkansas", "url": "*.uca.edu/*", "country": "United States"}
+{"entity": "University of Central Florida", "url": "*.ucf.edu/*", "country": "United States"}
+{"entity": "University of Central Missouri", "url": "*.ucmo.edu/*", "country": "United States"}
+{"entity": "University of Charleston", "url": "*.uchaswv.edu/*", "country": "United States"}
+{"entity": "University of Chicago", "url": "*.uchicago.edu/*", "country": "United States"}
+{"entity": "University of Cincinnati", "url": "*.uc.edu/*", "country": "United States"}
+{"entity": "University of Colorado at Boulder", "url": "*.colorado.edu/*", "country": "United States"}
+{"entity": "University of Colorado at Colorado Springs", "url": "*.uccs.edu/*", "country": "United States"}
+{"entity": "University of Colorado at Denver", "url": "*.cudenver.edu/*", "country": "United States"}
+{"entity": "University of Colorado Health Sciences Center", "url": "*.hsc.colorado.edu/*", "country": "United States"}
+{"entity": "University of Connecticut", "url": "*.uconn.edu/*", "country": "United States"}
+{"entity": "University of Dallas", "url": "*.udallas.edu/*", "country": "United States"}
+{"entity": "University of Dayton", "url": "*.udayton.edu/*", "country": "United States"}
+{"entity": "University of Delaware", "url": "*.udel.edu/*", "country": "United States"}
+{"entity": "University of Denver", "url": "*.du.edu/*", "country": "United States"}

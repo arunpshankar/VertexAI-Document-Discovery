@@ -1,50 +1,50 @@
-{"name": "Western Governors University", "root_url": "*.wgu.edu/*", "country": "United States"}
-{"name": "Western Illinois University", "root_url": "*.wiu.edu/*", "country": "United States"}
-{"name": "Western Kentucky University", "root_url": "*.wku.edu/*", "country": "United States"}
-{"name": "Western Michigan University", "root_url": "*.wmich.edu/*", "country": "United States"}
-{"name": "Western Montana College", "root_url": "*.wmc.edu/*", "country": "United States"}
-{"name": "Western New England College", "root_url": "*.wnec.edu/*", "country": "United States"}
-{"name": "Western New Mexico University", "root_url": "*.wnmu.edu/*", "country": "United States"}
-{"name": "Western State Colorado University", "root_url": "*.western.edu/*", "country": "United States"}
-{"name": "Western Washington University", "root_url": "*.wwu.edu/*", "country": "United States"}
-{"name": "Westfield State College", "root_url": "*.westfield.mass.edu/*", "country": "United States"}
-{"name": "West Georgia College", "root_url": "*.westga.edu/*", "country": "United States"}
-{"name": "West Liberty State College", "root_url": "*.wlsc.wvnet.edu/*", "country": "United States"}
-{"name": "Westminster College", "root_url": "*.westminster.edu/*", "country": "United States"}
-{"name": "Westminster College of Salt Lake City", "root_url": "*.wcslc.edu/*", "country": "United States"}
-{"name": "Westminster Theological Seminary", "root_url": "*.wts.edu/*", "country": "United States"}
-{"name": "Westmont College", "root_url": "*.westmont.edu/*", "country": "United States"}
-{"name": "West Virginia University", "root_url": "*.wvu.edu/*", "country": "United States"}
-{"name": "West Virginia University at Parkersburg", "root_url": "*.westliberty.edu/*", "country": "United States"}
-{"name": "Wheaton College", "root_url": "*.wheaton.edu/*", "country": "United States"}
-{"name": "Wheeling Jesuit College", "root_url": "*.wjc.edu/*", "country": "United States"}
-{"name": "Whitman College", "root_url": "*.whitman.edu/*", "country": "United States"}
-{"name": "Whittier College", "root_url": "*.whittier.edu/*", "country": "United States"}
-{"name": "Whitworth College", "root_url": "*.whitworth.edu/*", "country": "United States"}
-{"name": "Wichita State University", "root_url": "*.wichita.edu/*", "country": "United States"}
-{"name": "Widener University", "root_url": "*.widener.edu/*", "country": "United States"}
-{"name": "Wilberforce University", "root_url": "*.wilberforce.edu/*", "country": "United States"}
-{"name": "Wilkes University", "root_url": "*.wilkes.edu/*", "country": "United States"}
-{"name": "Willamette University", "root_url": "*.willamette.edu/*", "country": "United States"}
-{"name": "William Howard Taft University", "root_url": "*.taftu.edu/*", "country": "United States"}
-{"name": "William Jewell College", "root_url": "*.jewell.edu/*", "country": "United States"}
-{"name": "William Mitchell College of Law", "root_url": "*.wmitchell.edu/*", "country": "United States"}
-{"name": "William Paterson University", "root_url": "*.wpunj.edu/*", "country": "United States"}
-{"name": "William Penn College", "root_url": "*.wmpenn.edu/*", "country": "United States"}
-{"name": "Williams College", "root_url": "*.williams.edu/*", "country": "United States"}
-{"name": "William Woods University", "root_url": "*.wmwoods.edu/*", "country": "United States"}
-{"name": "Wilmington College", "root_url": "*.wilmington.edu/*", "country": "United States"}
-{"name": "Winona State University", "root_url": "*.winona.msus.edu/*", "country": "United States"}
-{"name": "Winthrop University", "root_url": "*.winthrop.edu/*", "country": "United States"}
-{"name": "Wittenberg University", "root_url": "*.wittenberg.edu/*", "country": "United States"}
-{"name": "Wofford College", "root_url": "*.wofford.edu/*", "country": "United States"}
-{"name": "Woodbury University", "root_url": "*.woodbury.edu/*", "country": "United States"}
-{"name": "Worcester Polytechnic Institute", "root_url": "*.wpi.edu/*", "country": "United States"}
-{"name": "Wright State University", "root_url": "*.wright.edu/*", "country": "United States"}
-{"name": "Xavier University of Louisiana", "root_url": "*.xula.edu/*", "country": "United States"}
-{"name": "Yale University", "root_url": "*.yale.edu/*", "country": "United States"}
-{"name": "Yeshiva University", "root_url": "*.yu.edu/*", "country": "United States"}
-{"name": "York College of Pennsylvania", "root_url": "*.ycp.edu/*", "country": "United States"}
-{"name": "Youngstown State University", "root_url": "*.ysu.edu/*", "country": "United States"}
-{"name": "Afghan University", "root_url": "*.afghanuniversity.edu.af/*", "country": "Afghanistan"}
-{"name": "Aria Institute of Higher Education", "root_url": "*.aria.edu.af/*", "country": "Afghanistan"}
+{"entity": "Western Governors University", "url": "*.wgu.edu/*", "country": "United States"}
+{"entity": "Western Illinois University", "url": "*.wiu.edu/*", "country": "United States"}
+{"entity": "Western Kentucky University", "url": "*.wku.edu/*", "country": "United States"}
+{"entity": "Western Michigan University", "url": "*.wmich.edu/*", "country": "United States"}
+{"entity": "Western Montana College", "url": "*.wmc.edu/*", "country": "United States"}
+{"entity": "Western New England College", "url": "*.wnec.edu/*", "country": "United States"}
+{"entity": "Western New Mexico University", "url": "*.wnmu.edu/*", "country": "United States"}
+{"entity": "Western State Colorado University", "url": "*.western.edu/*", "country": "United States"}
+{"entity": "Western Washington University", "url": "*.wwu.edu/*", "country": "United States"}
+{"entity": "Westfield State College", "url": "*.westfield.mass.edu/*", "country": "United States"}
+{"entity": "West Georgia College", "url": "*.westga.edu/*", "country": "United States"}
+{"entity": "West Liberty State College", "url": "*.wlsc.wvnet.edu/*", "country": "United States"}
+{"entity": "Westminster College", "url": "*.westminster.edu/*", "country": "United States"}
+{"entity": "Westminster College of Salt Lake City", "url": "*.wcslc.edu/*", "country": "United States"}
+{"entity": "Westminster Theological Seminary", "url": "*.wts.edu/*", "country": "United States"}
+{"entity": "Westmont College", "url": "*.westmont.edu/*", "country": "United States"}
+{"entity": "West Virginia University", "url": "*.wvu.edu/*", "country": "United States"}
+{"entity": "West Virginia University at Parkersburg", "url": "*.westliberty.edu/*", "country": "United States"}
+{"entity": "Wheaton College", "url": "*.wheaton.edu/*", "country": "United States"}
+{"entity": "Wheeling Jesuit College", "url": "*.wjc.edu/*", "country": "United States"}
+{"entity": "Whitman College", "url": "*.whitman.edu/*", "country": "United States"}
+{"entity": "Whittier College", "url": "*.whittier.edu/*", "country": "United States"}
+{"entity": "Whitworth College", "url": "*.whitworth.edu/*", "country": "United States"}
+{"entity": "Wichita State University", "url": "*.wichita.edu/*", "country": "United States"}
+{"entity": "Widener University", "url": "*.widener.edu/*", "country": "United States"}
+{"entity": "Wilberforce University", "url": "*.wilberforce.edu/*", "country": "United States"}
+{"entity": "Wilkes University", "url": "*.wilkes.edu/*", "country": "United States"}
+{"entity": "Willamette University", "url": "*.willamette.edu/*", "country": "United States"}
+{"entity": "William Howard Taft University", "url": "*.taftu.edu/*", "country": "United States"}
+{"entity": "William Jewell College", "url": "*.jewell.edu/*", "country": "United States"}
+{"entity": "William Mitchell College of Law", "url": "*.wmitchell.edu/*", "country": "United States"}
+{"entity": "William Paterson University", "url": "*.wpunj.edu/*", "country": "United States"}
+{"entity": "William Penn College", "url": "*.wmpenn.edu/*", "country": "United States"}
+{"entity": "Williams College", "url": "*.williams.edu/*", "country": "United States"}
+{"entity": "William Woods University", "url": "*.wmwoods.edu/*", "country": "United States"}
+{"entity": "Wilmington College", "url": "*.wilmington.edu/*", "country": "United States"}
+{"entity": "Winona State University", "url": "*.winona.msus.edu/*", "country": "United States"}
+{"entity": "Winthrop University", "url": "*.winthrop.edu/*", "country": "United States"}
+{"entity": "Wittenberg University", "url": "*.wittenberg.edu/*", "country": "United States"}
+{"entity": "Wofford College", "url": "*.wofford.edu/*", "country": "United States"}
+{"entity": "Woodbury University", "url": "*.woodbury.edu/*", "country": "United States"}
+{"entity": "Worcester Polytechnic Institute", "url": "*.wpi.edu/*", "country": "United States"}
+{"entity": "Wright State University", "url": "*.wright.edu/*", "country": "United States"}
+{"entity": "Xavier University of Louisiana", "url": "*.xula.edu/*", "country": "United States"}
+{"entity": "Yale University", "url": "*.yale.edu/*", "country": "United States"}
+{"entity": "Yeshiva University", "url": "*.yu.edu/*", "country": "United States"}
+{"entity": "York College of Pennsylvania", "url": "*.ycp.edu/*", "country": "United States"}
+{"entity": "Youngstown State University", "url": "*.ysu.edu/*", "country": "United States"}
+{"entity": "Afghan University", "url": "*.afghanuniversity.edu.af/*", "country": "Afghanistan"}
+{"entity": "Aria Institute of Higher Education", "url": "*.aria.edu.af/*", "country": "Afghanistan"}

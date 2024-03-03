@@ -1,50 +1,50 @@
-{"name": "Universitas Pekalongan", "root_url": "*.unikal.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Kediri", "root_url": "*.unik-kediri.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Komputer Indonesia", "root_url": "*.unikom.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Lampung", "root_url": "*.unila.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Lancang Kuning", "root_url": "*.unilak.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Negeri Manado", "root_url": "*.unima.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Negeri Medan", "root_url": "*.unimed.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Islam Nusantara", "root_url": "*.uninus.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Pesantren Darul Ulum Jombang", "root_url": "*.unipdu.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Madura", "root_url": "*.unira-pmk.net/*", "country": "Indonesia"}
-{"name": "Universitas Islam Bandung", "root_url": "*.unisba.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Islam Malang", "root_url": "*.unisma.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Muhammadiyah Makassar", "root_url": "*.unismuh.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Slamet Riyadi Surakarta", "root_url": "*.unisri.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Islam Sultan Agung", "root_url": "*.unissula.ac.id/*", "country": "Indonesia"}
-{"name": "Unitomo Surabaya", "root_url": "*.unitomo.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Trilogi", "root_url": "*.universitas-trilogi.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Pancasila", "root_url": "*.univpancasila.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Jambi", "root_url": "*.unja.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Negeri Jakarta", "root_url": "*.unj.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Jenderal Achmad Yani", "root_url": "*.unjani.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Khairun", "root_url": "*.unkhair.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Krisnadwipayana", "root_url": "*.unkris.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Lambung Mangkurat", "root_url": "*.unlam.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Negeri Makassar", "root_url": "*.unm.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Mahasaraswati Denpasar", "root_url": "*.unmas.org/*", "country": "Indonesia"}
-{"name": "Universitas Merdeka Malang", "root_url": "*.unmer.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Merdeka Madiun", "root_url": "*.unmer-madiun.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Muhammadiyah Jember", "root_url": "*.unmuhjember.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Muhammadiyah Mataram", "root_url": "*.unmuhmataram.com/*", "country": "Indonesia"}
-{"name": "Universitas Mulawarman", "root_url": "*.unmul.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Negeri Semarang", "root_url": "*.unnes.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Negeri Padang", "root_url": "*.unp.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Padjadjaran", "root_url": "*.unpad.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Pakuan", "root_url": "*.unpak.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Katolik Parahyangan", "root_url": "*.unpar.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Pasundan", "root_url": "*.unpas.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Pattimura", "root_url": "*.unpatti.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Ngurah Rai", "root_url": "*.unr.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Mataram", "root_url": "*.unram.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Riau", "root_url": "*.unri.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Sebelas Maret", "root_url": "*.uns.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Darma Persada", "root_url": "*.unsada.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Siliwangi", "root_url": "*.unsil.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Jenderal Soedirman", "root_url": "*.unsoed.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Sam Ratulangi", "root_url": "*.unsrat.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Sriwijaya", "root_url": "*.unsri.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Swadaya Gunung Djati", "root_url": "*.unswagati-crb.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Syiah Kuala", "root_url": "*.unsyiah.ac.id/*", "country": "Indonesia"}
-{"name": "Universitas Tadulako", "root_url": "*.untad.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Pekalongan", "url": "*.unikal.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Kediri", "url": "*.unik-kediri.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Komputer Indonesia", "url": "*.unikom.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Lampung", "url": "*.unila.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Lancang Kuning", "url": "*.unilak.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Negeri Manado", "url": "*.unima.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Negeri Medan", "url": "*.unimed.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Islam Nusantara", "url": "*.uninus.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Pesantren Darul Ulum Jombang", "url": "*.unipdu.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Madura", "url": "*.unira-pmk.net/*", "country": "Indonesia"}
+{"entity": "Universitas Islam Bandung", "url": "*.unisba.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Islam Malang", "url": "*.unisma.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Muhammadiyah Makassar", "url": "*.unismuh.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Slamet Riyadi Surakarta", "url": "*.unisri.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Islam Sultan Agung", "url": "*.unissula.ac.id/*", "country": "Indonesia"}
+{"entity": "Unitomo Surabaya", "url": "*.unitomo.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Trilogi", "url": "*.universitas-trilogi.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Pancasila", "url": "*.univpancasila.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Jambi", "url": "*.unja.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Negeri Jakarta", "url": "*.unj.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Jenderal Achmad Yani", "url": "*.unjani.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Khairun", "url": "*.unkhair.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Krisnadwipayana", "url": "*.unkris.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Lambung Mangkurat", "url": "*.unlam.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Negeri Makassar", "url": "*.unm.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Mahasaraswati Denpasar", "url": "*.unmas.org/*", "country": "Indonesia"}
+{"entity": "Universitas Merdeka Malang", "url": "*.unmer.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Merdeka Madiun", "url": "*.unmer-madiun.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Muhammadiyah Jember", "url": "*.unmuhjember.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Muhammadiyah Mataram", "url": "*.unmuhmataram.com/*", "country": "Indonesia"}
+{"entity": "Universitas Mulawarman", "url": "*.unmul.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Negeri Semarang", "url": "*.unnes.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Negeri Padang", "url": "*.unp.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Padjadjaran", "url": "*.unpad.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Pakuan", "url": "*.unpak.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Katolik Parahyangan", "url": "*.unpar.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Pasundan", "url": "*.unpas.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Pattimura", "url": "*.unpatti.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Ngurah Rai", "url": "*.unr.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Mataram", "url": "*.unram.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Riau", "url": "*.unri.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Sebelas Maret", "url": "*.uns.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Darma Persada", "url": "*.unsada.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Siliwangi", "url": "*.unsil.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Jenderal Soedirman", "url": "*.unsoed.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Sam Ratulangi", "url": "*.unsrat.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Sriwijaya", "url": "*.unsri.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Swadaya Gunung Djati", "url": "*.unswagati-crb.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Syiah Kuala", "url": "*.unsyiah.ac.id/*", "country": "Indonesia"}
+{"entity": "Universitas Tadulako", "url": "*.untad.ac.id/*", "country": "Indonesia"}

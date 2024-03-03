@@ -1,50 +1,50 @@
-{"name": "Instituto de Estudios Superiores de la Sierra", "root_url": "*.ties.com.mx/*", "country": "Mexico"}
-{"name": "Universidad Autonoma  de Durango", "root_url": "*.uad.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Cientifica Latinoamericana de Hidalgo", "root_url": "*.uclah.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Colima", "root_url": "*.ucol.mx/*", "country": "Mexico"}
-{"name": "Universidad de Celaya", "root_url": "*.udec.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Cuautitlan Izcalli", "root_url": "*.udeci.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Hermosillo", "root_url": "*.udeh.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Monterrey", "root_url": "*.udem.edu/*", "country": "Mexico"}
-{"name": "Universidad de San Miguel", "root_url": "*.udesanmiguel.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Guadalajara", "root_url": "*.udg.mx/*", "country": "Mexico"}
-{"name": "Universidad de Occidente", "root_url": "*.udo.mx/*", "country": "Mexico"}
-{"name": "Universidad Don Vasco", "root_url": "*.udv.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Guanajuato", "root_url": "*.ugto.mx/*", "country": "Mexico"}
-{"name": "Universidad Iberoamericana", "root_url": "*.uia.mx/*", "country": "Mexico"}
-{"name": "Universidad Intercontinental", "root_url": "*.uic.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Justo Sierra", "root_url": "*.ujsierra.mx/*", "country": "Mexico"}
-{"name": "Universidad Latinoamericana", "root_url": "*.ula.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Lasallista Benavente", "root_url": "*.ulsab.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad La Salle Cuernavaca", "root_url": "*.ulsac.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad La Salle", "root_url": "*.ulsa.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Madero", "root_url": "*.umad.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad del Mar", "root_url": "*.umar.mx/*", "country": "Mexico"}
-{"name": "Universidad Metropolitana Latin Campus", "root_url": "*.umla.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Metropolitana de Monterrey", "root_url": "*.umm.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Mexicana del Noreste", "root_url": "*.umne.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Montemorelos", "root_url": "*.umontemorelos.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad del Norte", "root_url": "*.un.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad del Noreste", "root_url": "*.une.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Ciencias y Artes de Chiapas", "root_url": "*.unicach.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Kino", "root_url": "*.unikino.mx/*", "country": "Mexico"}
-{"name": "Universidad del Mayab", "root_url": "*.unimayab.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Mexicana", "root_url": "*.unimex.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad del Valle de Atemajac", "root_url": "*.univa.mx/*", "country": "Mexico"}
-{"name": "Universidad la Concordia", "root_url": "*.universidadlaconcordia.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Salesiana", "root_url": "*.universidadsalesiana.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Latina", "root_url": "*.unla.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad de Norteamerica", "root_url": "*.un.mx/*", "country": "Mexico"}
-{"name": "Universidad del Noroeste", "root_url": "*.uno.mx/*", "country": "Mexico"}
-{"name": "Universidad Nuevo Mundo", "root_url": "*.unum.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Obrera de Mexico", "root_url": "*.uom.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Panamericana", "root_url": "*.up.mx/*", "country": "Mexico"}
-{"name": "Universidad de Quintana Roo", "root_url": "*.uqroo.mx/*", "country": "Mexico"}
-{"name": "Universidad Regional Miguel Hidalgo", "root_url": "*.urmh.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Regiomontana", "root_url": "*.ur.mx/*", "country": "Mexico"}
-{"name": "Universidad Regional del Sureste", "root_url": "*.urse.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad Santa Fe", "root_url": "*.usf.com.mx/*", "country": "Mexico"}
-{"name": "Universidad de Sonora", "root_url": "*.uson.mx/*", "country": "Mexico"}
-{"name": "Universidad Tecnologica de la Mixteca", "root_url": "*.utm.mx/*", "country": "Mexico"}
-{"name": "Universidad Tecnologica de Nezahualcoyotl", "root_url": "*.utneza.edu.mx/*", "country": "Mexico"}
-{"name": "Universidad del Valle del Bravo", "root_url": "*.uvb.edu.mx/*", "country": "Mexico"}
+{"entity": "Instituto de Estudios Superiores de la Sierra", "url": "*.ties.com.mx/*", "country": "Mexico"}
+{"entity": "Universidad Autonoma  de Durango", "url": "*.uad.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Cientifica Latinoamericana de Hidalgo", "url": "*.uclah.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Colima", "url": "*.ucol.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Celaya", "url": "*.udec.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Cuautitlan Izcalli", "url": "*.udeci.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Hermosillo", "url": "*.udeh.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Monterrey", "url": "*.udem.edu/*", "country": "Mexico"}
+{"entity": "Universidad de San Miguel", "url": "*.udesanmiguel.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Guadalajara", "url": "*.udg.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Occidente", "url": "*.udo.mx/*", "country": "Mexico"}
+{"entity": "Universidad Don Vasco", "url": "*.udv.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Guanajuato", "url": "*.ugto.mx/*", "country": "Mexico"}
+{"entity": "Universidad Iberoamericana", "url": "*.uia.mx/*", "country": "Mexico"}
+{"entity": "Universidad Intercontinental", "url": "*.uic.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Justo Sierra", "url": "*.ujsierra.mx/*", "country": "Mexico"}
+{"entity": "Universidad Latinoamericana", "url": "*.ula.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Lasallista Benavente", "url": "*.ulsab.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad La Salle Cuernavaca", "url": "*.ulsac.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad La Salle", "url": "*.ulsa.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Madero", "url": "*.umad.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Mar", "url": "*.umar.mx/*", "country": "Mexico"}
+{"entity": "Universidad Metropolitana Latin Campus", "url": "*.umla.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Metropolitana de Monterrey", "url": "*.umm.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Mexicana del Noreste", "url": "*.umne.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Montemorelos", "url": "*.umontemorelos.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Norte", "url": "*.un.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Noreste", "url": "*.une.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Ciencias y Artes de Chiapas", "url": "*.unicach.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Kino", "url": "*.unikino.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Mayab", "url": "*.unimayab.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Mexicana", "url": "*.unimex.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Valle de Atemajac", "url": "*.univa.mx/*", "country": "Mexico"}
+{"entity": "Universidad la Concordia", "url": "*.universidadlaconcordia.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Salesiana", "url": "*.universidadsalesiana.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Latina", "url": "*.unla.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Norteamerica", "url": "*.un.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Noroeste", "url": "*.uno.mx/*", "country": "Mexico"}
+{"entity": "Universidad Nuevo Mundo", "url": "*.unum.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Obrera de Mexico", "url": "*.uom.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Panamericana", "url": "*.up.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Quintana Roo", "url": "*.uqroo.mx/*", "country": "Mexico"}
+{"entity": "Universidad Regional Miguel Hidalgo", "url": "*.urmh.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Regiomontana", "url": "*.ur.mx/*", "country": "Mexico"}
+{"entity": "Universidad Regional del Sureste", "url": "*.urse.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad Santa Fe", "url": "*.usf.com.mx/*", "country": "Mexico"}
+{"entity": "Universidad de Sonora", "url": "*.uson.mx/*", "country": "Mexico"}
+{"entity": "Universidad Tecnologica de la Mixteca", "url": "*.utm.mx/*", "country": "Mexico"}
+{"entity": "Universidad Tecnologica de Nezahualcoyotl", "url": "*.utneza.edu.mx/*", "country": "Mexico"}
+{"entity": "Universidad del Valle del Bravo", "url": "*.uvb.edu.mx/*", "country": "Mexico"}

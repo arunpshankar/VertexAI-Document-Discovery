@@ -104,7 +104,7 @@ def process_blobs(bucket_name: str, folder: str, engine: Engine) -> None:
     blobs = list_blobs_with_prefix(bucket_name, folder)
     for blob in blobs:
         process_blob(blob, bucket_name, engine)
-        break
+        # break  # Uncomment this line for testing
 
 
 def process_blob(blob, bucket_name: str, engine: Engine) -> None:
@@ -208,9 +208,10 @@ def main():
     Returns:
     None
     """
-    #load_and_process_input_data(config.INPUT_FILE_PATH, config.LOCAL_OUTPUT_PATH)
-    #upload_chunks_to_gcs(config.LOCAL_OUTPUT_PATH, config.BUCKET)
+    load_and_process_input_data(config.INPUT_FILE_PATH, config.LOCAL_OUTPUT_PATH)
+    upload_chunks_to_gcs(config.LOCAL_OUTPUT_PATH, config.BUCKET)
     process_most_recent_data(config.BUCKET)
+
 
 if __name__ == '__main__':
     main()

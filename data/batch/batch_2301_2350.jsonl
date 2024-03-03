@@ -1,50 +1,50 @@
-{"name": "Jimma University", "root_url": "*.ju.edu.et/*", "country": "Ethiopia"}
-{"name": "Mekelle Institute of Technology", "root_url": "*.mitethiopia.edu.et/*", "country": "Ethiopia"}
-{"name": "Mizan Tepi University", "root_url": "*.mtu.edu.et/*", "country": "Ethiopia"}
-{"name": "Mekelle University", "root_url": "*.mu.edu.et/*", "country": "Ethiopia"}
-{"name": "Madawalabu University", "root_url": "*.mwu.edu.et/*", "country": "Ethiopia"}
-{"name": "Semera University", "root_url": "*.su.edu.et/*", "country": "Ethiopia"}
-{"name": "Gondar University", "root_url": "*.uog.edu.et/*", "country": "Ethiopia"}
-{"name": "Unity  University", "root_url": "*.uuc.edu.et/*", "country": "Ethiopia"}
-{"name": "Wolkite University", "root_url": "*.wku.edu.et/*", "country": "Ethiopia"}
-{"name": "Wolaita Sodo University", "root_url": "*.wsu.edu.et/*", "country": "Ethiopia"}
-{"name": "Wollo University", "root_url": "*.wu.edu.et/*", "country": "Ethiopia"}
-{"name": "Wollega University", "root_url": "*.wuni.edu.et/*", "country": "Ethiopia"}
-{"name": "University of the Faroe Islands", "root_url": "*.setur.fo/*", "country": "Faroe Islands"}
-{"name": "Fiji National University", "root_url": "*.fnu.ac.fj/*", "country": "Fiji"}
-{"name": "Fiji School of Medicine", "root_url": "*.fsm.ac.fj/*", "country": "Fiji"}
-{"name": "University of Fiji", "root_url": "*.unifiji.ac.fj/*", "country": "Fiji"}
-{"name": "University of the South Pacific", "root_url": "*.usp.ac.fj/*", "country": "Fiji"}
-{"name": "Abo Akademi University", "root_url": "*.abo.fi/*", "country": "Finland"}
-{"name": "Central Ostrobothnia University of Applied Sciences", "root_url": "*.cou.fi/*", "country": "Finland"}
-{"name": "Diaconia University of Applied Sciences", "root_url": "*.diak.fi/*", "country": "Finland"}
-{"name": "EVTEK University of Applied Sciences", "root_url": "*.evtek.fi/*", "country": "Finland"}
-{"name": "University of Helsinki", "root_url": "*.helsinki.fi/*", "country": "Finland"}
-{"name": "Helsinki School of Economics and Business Administration", "root_url": "*.hkkk.fi/*", "country": "Finland"}
-{"name": "Helsinki University of Technology", "root_url": "*.hut.fi/*", "country": "Finland"}
-{"name": "University of Joensuu", "root_url": "*.joensuu.fi/*", "country": "Finland"}
-{"name": "Academy of Fine Arts", "root_url": "*.kuva.fi/*", "country": "Finland"}
-{"name": "Lahti Polytechnic", "root_url": "*.lamk.fi/*", "country": "Finland"}
-{"name": "Lappeenranta University of Technology", "root_url": "*.lut.fi/*", "country": "Finland"}
-{"name": "Oulu Polytechnic", "root_url": "*.oamk.fi/*", "country": "Finland"}
-{"name": "University of Oulu", "root_url": "*.oulu.fi/*", "country": "Finland"}
-{"name": "Vaasa University of Applied Sciences", "root_url": "*.puv.fi/*", "country": "Finland"}
-{"name": "Rovaniemi University of Applied Sciences", "root_url": "*.ramk.fi/*", "country": "Finland"}
-{"name": "Scandinavian Art and Business Institute", "root_url": "*.sabi.eu.com/*", "country": "Finland"}
-{"name": "Satakunta University Of Applied Scinces", "root_url": "*.samk.fi/*", "country": "Finland"}
-{"name": "South Carelian Polytechnic", "root_url": "*.scp.fi/*", "country": "Finland"}
-{"name": "Sibelius Academy", "root_url": "*.siba.fi/*", "country": "Finland"}
-{"name": "Theatre Academy Finland", "root_url": "*.teak.fi/*", "country": "Finland"}
-{"name": "Tampere Polytechnic", "root_url": "*.tpu.fi/*", "country": "Finland"}
-{"name": "Turku School of Economics and Business Administration", "root_url": "*.tukkk.fi/*", "country": "Finland"}
-{"name": "Tampere University of Technology", "root_url": "*.tut.fi/*", "country": "Finland"}
-{"name": "University of Art and Design Helsinki", "root_url": "*.uiah.fi/*", "country": "Finland"}
-{"name": "University of Kuopio", "root_url": "*.uku.fi/*", "country": "Finland"}
-{"name": "University of Lapland", "root_url": "*.ulapland.fi/*", "country": "Finland"}
-{"name": "University of Tampere", "root_url": "*.uta.fi/*", "country": "Finland"}
-{"name": "University of Turku", "root_url": "*.utu.fi/*", "country": "Finland"}
-{"name": "University of Vaasa", "root_url": "*.uwasa.fi/*", "country": "Finland"}
-{"name": "AgroParisTech", "root_url": "*.agroparistech.fr/*", "country": "France"}
-{"name": "AgroSup Dijon", "root_url": "*.agrosupdijon.fr/*", "country": "France"}
-{"name": "American Graduate School in Paris", "root_url": "*.ags.edu/*", "country": "France"}
-{"name": "American University of Paris", "root_url": "*.aup.fr/*", "country": "France"}
+{"entity": "Jimma University", "url": "*.ju.edu.et/*", "country": "Ethiopia"}
+{"entity": "Mekelle Institute of Technology", "url": "*.mitethiopia.edu.et/*", "country": "Ethiopia"}
+{"entity": "Mizan Tepi University", "url": "*.mtu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Mekelle University", "url": "*.mu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Madawalabu University", "url": "*.mwu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Semera University", "url": "*.su.edu.et/*", "country": "Ethiopia"}
+{"entity": "Gondar University", "url": "*.uog.edu.et/*", "country": "Ethiopia"}
+{"entity": "Unity  University", "url": "*.uuc.edu.et/*", "country": "Ethiopia"}
+{"entity": "Wolkite University", "url": "*.wku.edu.et/*", "country": "Ethiopia"}
+{"entity": "Wolaita Sodo University", "url": "*.wsu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Wollo University", "url": "*.wu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Wollega University", "url": "*.wuni.edu.et/*", "country": "Ethiopia"}
+{"entity": "University of the Faroe Islands", "url": "*.setur.fo/*", "country": "Faroe Islands"}
+{"entity": "Fiji National University", "url": "*.fnu.ac.fj/*", "country": "Fiji"}
+{"entity": "Fiji School of Medicine", "url": "*.fsm.ac.fj/*", "country": "Fiji"}
+{"entity": "University of Fiji", "url": "*.unifiji.ac.fj/*", "country": "Fiji"}
+{"entity": "University of the South Pacific", "url": "*.usp.ac.fj/*", "country": "Fiji"}
+{"entity": "Abo Akademi University", "url": "*.abo.fi/*", "country": "Finland"}
+{"entity": "Central Ostrobothnia University of Applied Sciences", "url": "*.cou.fi/*", "country": "Finland"}
+{"entity": "Diaconia University of Applied Sciences", "url": "*.diak.fi/*", "country": "Finland"}
+{"entity": "EVTEK University of Applied Sciences", "url": "*.evtek.fi/*", "country": "Finland"}
+{"entity": "University of Helsinki", "url": "*.helsinki.fi/*", "country": "Finland"}
+{"entity": "Helsinki School of Economics and Business Administration", "url": "*.hkkk.fi/*", "country": "Finland"}
+{"entity": "Helsinki University of Technology", "url": "*.hut.fi/*", "country": "Finland"}
+{"entity": "University of Joensuu", "url": "*.joensuu.fi/*", "country": "Finland"}
+{"entity": "Academy of Fine Arts", "url": "*.kuva.fi/*", "country": "Finland"}
+{"entity": "Lahti Polytechnic", "url": "*.lamk.fi/*", "country": "Finland"}
+{"entity": "Lappeenranta University of Technology", "url": "*.lut.fi/*", "country": "Finland"}
+{"entity": "Oulu Polytechnic", "url": "*.oamk.fi/*", "country": "Finland"}
+{"entity": "University of Oulu", "url": "*.oulu.fi/*", "country": "Finland"}
+{"entity": "Vaasa University of Applied Sciences", "url": "*.puv.fi/*", "country": "Finland"}
+{"entity": "Rovaniemi University of Applied Sciences", "url": "*.ramk.fi/*", "country": "Finland"}
+{"entity": "Scandinavian Art and Business Institute", "url": "*.sabi.eu.com/*", "country": "Finland"}
+{"entity": "Satakunta University Of Applied Scinces", "url": "*.samk.fi/*", "country": "Finland"}
+{"entity": "South Carelian Polytechnic", "url": "*.scp.fi/*", "country": "Finland"}
+{"entity": "Sibelius Academy", "url": "*.siba.fi/*", "country": "Finland"}
+{"entity": "Theatre Academy Finland", "url": "*.teak.fi/*", "country": "Finland"}
+{"entity": "Tampere Polytechnic", "url": "*.tpu.fi/*", "country": "Finland"}
+{"entity": "Turku School of Economics and Business Administration", "url": "*.tukkk.fi/*", "country": "Finland"}
+{"entity": "Tampere University of Technology", "url": "*.tut.fi/*", "country": "Finland"}
+{"entity": "University of Art and Design Helsinki", "url": "*.uiah.fi/*", "country": "Finland"}
+{"entity": "University of Kuopio", "url": "*.uku.fi/*", "country": "Finland"}
+{"entity": "University of Lapland", "url": "*.ulapland.fi/*", "country": "Finland"}
+{"entity": "University of Tampere", "url": "*.uta.fi/*", "country": "Finland"}
+{"entity": "University of Turku", "url": "*.utu.fi/*", "country": "Finland"}
+{"entity": "University of Vaasa", "url": "*.uwasa.fi/*", "country": "Finland"}
+{"entity": "AgroParisTech", "url": "*.agroparistech.fr/*", "country": "France"}
+{"entity": "AgroSup Dijon", "url": "*.agrosupdijon.fr/*", "country": "France"}
+{"entity": "American Graduate School in Paris", "url": "*.ags.edu/*", "country": "France"}
+{"entity": "American University of Paris", "url": "*.aup.fr/*", "country": "France"}

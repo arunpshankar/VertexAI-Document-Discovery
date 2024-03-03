@@ -1,50 +1,50 @@
-{"name": "Centre de Formation et de Perfectionnement des Journalistes", "root_url": "*.cfpj.com/*", "country": "France"}
-{"name": "European Business School", "root_url": "*.ebs-paris.com/*", "country": "France"}
-{"name": "Ecole Centrale de Lille", "root_url": "*.ec-lille.fr/*", "country": "France"}
-{"name": "Ecole Centrale de Lyon", "root_url": "*.ec-lyon.fr/*", "country": "France"}
-{"name": "Ecole Centrale de Nantes", "root_url": "*.ec-nantes.fr/*", "country": "France"}
-{"name": "Ecole Centrale de Marseille", "root_url": "*.centrale-marseille.fr/*", "country": "France"}
-{"name": "Ecole des Hautes Etudes Commerciales du Nord", "root_url": "*.edu.edhec.com/*", "country": "France"}
-{"name": "Ecole pour les Etudes et la Recherche en Informatique et Electronique", "root_url": "*.eerie.fr/*", "country": "France"}
-{"name": "European Management Center Paris", "root_url": "*.emc-campus.com/*", "country": "France"}
-{"name": "Ecole Nationale des Ponts et Chausees", "root_url": "*.enpc.fr/*", "country": "France"}
-{"name": "Grenoble Ecole de Management", "root_url": "*.grenoble-em.com/*", "country": "France"}
-{"name": "Ecole des Hautes Etudes Commerciales", "root_url": "*.hec.fr/*", "country": "France"}
-{"name": "Ecole des Hautes Etudes Industrielles de Lille", "root_url": "*.hei.fr/*", "country": "France"}
-{"name": "Institut Commercial de Nancy", "root_url": "*.icn-nancy.com/*", "country": "France"}
-{"name": "Institut Catholique de Paris", "root_url": "*.icp.fr/*", "country": "France"}
-{"name": "Institut Catholique de Toulouse", "root_url": "*.ict-toulouse.asso.fr/*", "country": "France"}
-{"name": "Institut National Polytechnique de Toulouse", "root_url": "*.inp-fc.fr/*", "country": "France"}
-{"name": "Institut National Polytechnique de Grenoble", "root_url": "*.inpg.fr/*", "country": "France"}
-{"name": "Institut National Polytechnique de Lorraine", "root_url": "*.inpl-nancy.fr/*", "country": "France"}
-{"name": "Institut Textile et Chimique de Lyon", "root_url": "*.itech.fr/*", "country": "France"}
-{"name": "Ecole Polytechnique Universitaire de Lille", "root_url": "*.polytech-lille.fr/*", "country": "France"}
-{"name": "Ecole Polytechnique Marseille", "root_url": "*.polytech-marseille.fr/*", "country": "France"}
-{"name": "Ecole Polytechnique", "root_url": "*.polytechnique.fr/*", "country": "France"}
-{"name": "Ecole Superieure Robert de Sorbon", "root_url": "*.sorbon.fr/*", "country": "France"}
-{"name": "Groupe Sup de Co Amiens Picardie", "root_url": "*.supco-amiens.fr/*", "country": "France"}
-{"name": "Groupe Sup de Co Montpellier", "root_url": "*.supco-montpellier.fr/*", "country": "France"}
-{"name": "American International University West Africa", "root_url": "*.aiu.edu.gm/*", "country": "Gambia"}
-{"name": "EUCLID University", "root_url": "*.euclid.int/*", "country": "Gambia"}
-{"name": "University of the Gambia", "root_url": "*.utg.edu.gm/*", "country": "Gambia"}
-{"name": "Akaki Tsereteli State University", "root_url": "*.atsu.edu.ge/*", "country": "Georgia"}
-{"name": "Caucasus University", "root_url": "*.cu.edu.ge/*", "country": "Georgia"}
-{"name": "University of Grigol Robakidze", "root_url": "*.gruni.edu.ge/*", "country": "Georgia"}
-{"name": "Georgian Agricultural University", "root_url": "*.gsau.edu.ge/*", "country": "Georgia"}
-{"name": "Georgian Technical University", "root_url": "*.gtu.edu.ge/*", "country": "Georgia"}
-{"name": "International Blacksea University", "root_url": "*.ibsu.edu.ge/*", "country": "Georgia"}
-{"name": "Ilia Chavchavadze State University", "root_url": "*.iliauni.edu.ge/*", "country": "Georgia"}
-{"name": "Tbilisi Pedagogical University", "root_url": "*.saba.edu.ge/*", "country": "Georgia"}
-{"name": "Tbilisi Institute of Asia and Africa", "root_url": "*.tiaa.edu.ge/*", "country": "Georgia"}
-{"name": "Tbilisi State Medical University", "root_url": "*.tsmu.edu/*", "country": "Georgia"}
-{"name": "Tbilisi State University", "root_url": "*.tsu.edu.ge/*", "country": "Georgia"}
-{"name": "Augustana Hochschule Neuendettelsau", "root_url": "*.augustana.de/*", "country": "Germany"}
-{"name": "Kirchliche Hochschule Bethel", "root_url": "*.bethel.de/kiho/*", "country": "Germany"}
-{"name": "Cologne Business School", "root_url": "*.cbs.de/*", "country": "Germany"}
-{"name": "Fachhochschule Nordhessen", "root_url": "*.diploma.de/*", "country": "Germany"}
-{"name": "European College of Liberal Arts", "root_url": "*.ecla.de/*", "country": "Germany"}
-{"name": "Evangelische Fachhochschule Darmstadt", "root_url": "*.efh-darmstadt.de/*", "country": "Germany"}
-{"name": "Evangelische Fachhochschule Hannover", "root_url": "*.efh-hannover.de/*", "country": "Germany"}
-{"name": "European Management School", "root_url": "*.ems-mainz.de/*", "country": "Germany"}
-{"name": "Fachhochschule Aachen", "root_url": "*.fh-aachen.de/*", "country": "Germany"}
-{"name": "Fachhochschule Aschaffenburg", "root_url": "*.fh-aschaffenburg.de/*", "country": "Germany"}
+{"entity": "Centre de Formation et de Perfectionnement des Journalistes", "url": "*.cfpj.com/*", "country": "France"}
+{"entity": "European Business School", "url": "*.ebs-paris.com/*", "country": "France"}
+{"entity": "Ecole Centrale de Lille", "url": "*.ec-lille.fr/*", "country": "France"}
+{"entity": "Ecole Centrale de Lyon", "url": "*.ec-lyon.fr/*", "country": "France"}
+{"entity": "Ecole Centrale de Nantes", "url": "*.ec-nantes.fr/*", "country": "France"}
+{"entity": "Ecole Centrale de Marseille", "url": "*.centrale-marseille.fr/*", "country": "France"}
+{"entity": "Ecole des Hautes Etudes Commerciales du Nord", "url": "*.edu.edhec.com/*", "country": "France"}
+{"entity": "Ecole pour les Etudes et la Recherche en Informatique et Electronique", "url": "*.eerie.fr/*", "country": "France"}
+{"entity": "European Management Center Paris", "url": "*.emc-campus.com/*", "country": "France"}
+{"entity": "Ecole Nationale des Ponts et Chausees", "url": "*.enpc.fr/*", "country": "France"}
+{"entity": "Grenoble Ecole de Management", "url": "*.grenoble-em.com/*", "country": "France"}
+{"entity": "Ecole des Hautes Etudes Commerciales", "url": "*.hec.fr/*", "country": "France"}
+{"entity": "Ecole des Hautes Etudes Industrielles de Lille", "url": "*.hei.fr/*", "country": "France"}
+{"entity": "Institut Commercial de Nancy", "url": "*.icn-nancy.com/*", "country": "France"}
+{"entity": "Institut Catholique de Paris", "url": "*.icp.fr/*", "country": "France"}
+{"entity": "Institut Catholique de Toulouse", "url": "*.ict-toulouse.asso.fr/*", "country": "France"}
+{"entity": "Institut National Polytechnique de Toulouse", "url": "*.inp-fc.fr/*", "country": "France"}
+{"entity": "Institut National Polytechnique de Grenoble", "url": "*.inpg.fr/*", "country": "France"}
+{"entity": "Institut National Polytechnique de Lorraine", "url": "*.inpl-nancy.fr/*", "country": "France"}
+{"entity": "Institut Textile et Chimique de Lyon", "url": "*.itech.fr/*", "country": "France"}
+{"entity": "Ecole Polytechnique Universitaire de Lille", "url": "*.polytech-lille.fr/*", "country": "France"}
+{"entity": "Ecole Polytechnique Marseille", "url": "*.polytech-marseille.fr/*", "country": "France"}
+{"entity": "Ecole Polytechnique", "url": "*.polytechnique.fr/*", "country": "France"}
+{"entity": "Ecole Superieure Robert de Sorbon", "url": "*.sorbon.fr/*", "country": "France"}
+{"entity": "Groupe Sup de Co Amiens Picardie", "url": "*.supco-amiens.fr/*", "country": "France"}
+{"entity": "Groupe Sup de Co Montpellier", "url": "*.supco-montpellier.fr/*", "country": "France"}
+{"entity": "American International University West Africa", "url": "*.aiu.edu.gm/*", "country": "Gambia"}
+{"entity": "EUCLID University", "url": "*.euclid.int/*", "country": "Gambia"}
+{"entity": "University of the Gambia", "url": "*.utg.edu.gm/*", "country": "Gambia"}
+{"entity": "Akaki Tsereteli State University", "url": "*.atsu.edu.ge/*", "country": "Georgia"}
+{"entity": "Caucasus University", "url": "*.cu.edu.ge/*", "country": "Georgia"}
+{"entity": "University of Grigol Robakidze", "url": "*.gruni.edu.ge/*", "country": "Georgia"}
+{"entity": "Georgian Agricultural University", "url": "*.gsau.edu.ge/*", "country": "Georgia"}
+{"entity": "Georgian Technical University", "url": "*.gtu.edu.ge/*", "country": "Georgia"}
+{"entity": "International Blacksea University", "url": "*.ibsu.edu.ge/*", "country": "Georgia"}
+{"entity": "Ilia Chavchavadze State University", "url": "*.iliauni.edu.ge/*", "country": "Georgia"}
+{"entity": "Tbilisi Pedagogical University", "url": "*.saba.edu.ge/*", "country": "Georgia"}
+{"entity": "Tbilisi Institute of Asia and Africa", "url": "*.tiaa.edu.ge/*", "country": "Georgia"}
+{"entity": "Tbilisi State Medical University", "url": "*.tsmu.edu/*", "country": "Georgia"}
+{"entity": "Tbilisi State University", "url": "*.tsu.edu.ge/*", "country": "Georgia"}
+{"entity": "Augustana Hochschule Neuendettelsau", "url": "*.augustana.de/*", "country": "Germany"}
+{"entity": "Kirchliche Hochschule Bethel", "url": "*.bethel.de/kiho/*", "country": "Germany"}
+{"entity": "Cologne Business School", "url": "*.cbs.de/*", "country": "Germany"}
+{"entity": "Fachhochschule Nordhessen", "url": "*.diploma.de/*", "country": "Germany"}
+{"entity": "European College of Liberal Arts", "url": "*.ecla.de/*", "country": "Germany"}
+{"entity": "Evangelische Fachhochschule Darmstadt", "url": "*.efh-darmstadt.de/*", "country": "Germany"}
+{"entity": "Evangelische Fachhochschule Hannover", "url": "*.efh-hannover.de/*", "country": "Germany"}
+{"entity": "European Management School", "url": "*.ems-mainz.de/*", "country": "Germany"}
+{"entity": "Fachhochschule Aachen", "url": "*.fh-aachen.de/*", "country": "Germany"}
+{"entity": "Fachhochschule Aschaffenburg", "url": "*.fh-aschaffenburg.de/*", "country": "Germany"}

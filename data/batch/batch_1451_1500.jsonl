@@ -1,50 +1,50 @@
-{"name": "Universidade Metodista de Piracicaba", "root_url": "*.unimep.br/*", "country": "Brazil"}
-{"name": "Universidade Metropolitana de Santos", "root_url": "*.unimes.com.br/*", "country": "Brazil"}
-{"name": "Universidade Estadual de Montes Claros", "root_url": "*.unimontes.br/*", "country": "Brazil"}
-{"name": "Universidade Paulista", "root_url": "*.unip-objetivo.br/*", "country": "Brazil"}
-{"name": "Universidade do Rio de Janeiro", "root_url": "*.unirio.br/*", "country": "Brazil"}
-{"name": "Universidade de Santo Amaro", "root_url": "*.unisa.br/*", "country": "Brazil"}
-{"name": "Universidade de Santa Cruz do Sul", "root_url": "*.unisc.br/*", "country": "Brazil"}
-{"name": "Universidade Vale do Rio dos Sinos", "root_url": "*.unisinos.br/*", "country": "Brazil"}
-{"name": "Universidade do Sul de Santa Catarina", "root_url": "*.unisul.br/*", "country": "Brazil"}
-{"name": "Universidade Tiradentes", "root_url": "*.unit.br/*", "country": "Brazil"}
-{"name": "Universidade de Uberaba", "root_url": "*.uniube.br/*", "country": "Brazil"}
-{"name": "Universidade Vale do Rio Doce", "root_url": "*.univale.br/*", "country": "Brazil"}
-{"name": "Universidade Vale do Paraiba", "root_url": "*.univap.br/*", "country": "Brazil"}
-{"name": "Universidade Salgado de Oliveira", "root_url": "*.universo.br/*", "country": "Brazil"}
-{"name": "Universidade do Oeste de Santa Catarina", "root_url": "*.unoesc.edu.br/*", "country": "Brazil"}
-{"name": "Universidade do Oeste Paulista", "root_url": "*.unoeste.br/*", "country": "Brazil"}
-{"name": "Universidade Potiguar", "root_url": "*.unp.br/*", "country": "Brazil"}
-{"name": "Universidade de Pernambuco", "root_url": "*.upe.br/*", "country": "Brazil"}
-{"name": "Universidade de Passo Fundo", "root_url": "*.upf.tche.br/*", "country": "Brazil"}
-{"name": "Faculdades Integradas UPIS", "root_url": "*.upis.br/*", "country": "Brazil"}
-{"name": "Universidade Regional do Cariri", "root_url": "*.urca.br/*", "country": "Brazil"}
-{"name": "Universidade Veiga de Almeida", "root_url": "*.uva.br/*", "country": "Brazil"}
-{"name": "Institut Teknologi Brunei", "root_url": "*.itb.edu.bn/*", "country": "Brunei Darussalam"}
-{"name": "University of Brunei Darussalam", "root_url": "*.ubd.edu.bn/*", "country": "Brunei Darussalam"}
-{"name": "Universiti Islam Sultan Sharif Ali", "root_url": "*.unissa.edu.bn/*", "country": "Brunei Darussalam"}
-{"name": "American University in Bulgaria", "root_url": "*.aubg.bg/*", "country": "Bulgaria"}
-{"name": "Agricultural University of Plovdiv", "root_url": "*.au-plovdiv.bg/*", "country": "Bulgaria"}
-{"name": "Bourgas Free University", "root_url": "*.bfu.bg/*", "country": "Bulgaria"}
-{"name": "City University Programs in Bulgaria", "root_url": "*.cityu.bg/*", "country": "Bulgaria"}
-{"name": "University of Forestry Sofia", "root_url": "*.ltu.bg/*", "country": "Bulgaria"}
-{"name": "Medical University Plovdiv", "root_url": "*.meduniversity-plovdiv.bg/*", "country": "Bulgaria"}
-{"name": "Medical University Pleven", "root_url": "*.mu-pleven.bg/*", "country": "Bulgaria"}
-{"name": "Medical University of Sofia", "root_url": "*.mu-sofia.bg/*", "country": "Bulgaria"}
-{"name": "Medical University Varna", "root_url": "*.mu-varna.bg/*", "country": "Bulgaria"}
-{"name": "New Bulgarian University", "root_url": "*.nbu.bg/*", "country": "Bulgaria"}
-{"name": "National Academy of Arts", "root_url": "*.nha-bg.org/*", "country": "Bulgaria"}
-{"name": "National Sports Academy Sofia", "root_url": "*.nsa.bg/*", "country": "Bulgaria"}
-{"name": "Military University Shoumen", "root_url": "*.pv-ma.bg/*", "country": "Bulgaria"}
-{"name": "University of Rousse", "root_url": "*.ru.acad.bg/*", "country": "Bulgaria"}
-{"name": "Technical University of Gabrovo", "root_url": "*.tugab.bg/*", "country": "Bulgaria"}
-{"name": "Technical University of Sofia", "root_url": "*.tu-sofia.bg/*", "country": "Bulgaria"}
-{"name": "Technical University of Varna", "root_url": "*.tu-varna.acad.bg/*", "country": "Bulgaria"}
-{"name": "University of Chemical Technology and Metallurgy", "root_url": "*.uctm.edu/*", "country": "Bulgaria"}
-{"name": "University of Economics Varna", "root_url": "*.ue-varna.bg/*", "country": "Bulgaria"}
-{"name": "University of Food Technology", "root_url": "*.uft-plovdiv.bg/*", "country": "Bulgaria"}
-{"name": "University of Plovdiv", "root_url": "*.uni-plovdiv.bg/*", "country": "Bulgaria"}
-{"name": "Trakia University Stara Zagora", "root_url": "*.uni-sz.bg/*", "country": "Bulgaria"}
-{"name": "University of National and World Economy", "root_url": "*.unwe.acad.bg/*", "country": "Bulgaria"}
-{"name": "Varna Free University", "root_url": "*.vfu.bg/*", "country": "Bulgaria"}
-{"name": "International University College", "root_url": "*.vumk.eu/*", "country": "Bulgaria"}
+{"entity": "Universidade Metodista de Piracicaba", "url": "*.unimep.br/*", "country": "Brazil"}
+{"entity": "Universidade Metropolitana de Santos", "url": "*.unimes.com.br/*", "country": "Brazil"}
+{"entity": "Universidade Estadual de Montes Claros", "url": "*.unimontes.br/*", "country": "Brazil"}
+{"entity": "Universidade Paulista", "url": "*.unip-objetivo.br/*", "country": "Brazil"}
+{"entity": "Universidade do Rio de Janeiro", "url": "*.unirio.br/*", "country": "Brazil"}
+{"entity": "Universidade de Santo Amaro", "url": "*.unisa.br/*", "country": "Brazil"}
+{"entity": "Universidade de Santa Cruz do Sul", "url": "*.unisc.br/*", "country": "Brazil"}
+{"entity": "Universidade Vale do Rio dos Sinos", "url": "*.unisinos.br/*", "country": "Brazil"}
+{"entity": "Universidade do Sul de Santa Catarina", "url": "*.unisul.br/*", "country": "Brazil"}
+{"entity": "Universidade Tiradentes", "url": "*.unit.br/*", "country": "Brazil"}
+{"entity": "Universidade de Uberaba", "url": "*.uniube.br/*", "country": "Brazil"}
+{"entity": "Universidade Vale do Rio Doce", "url": "*.univale.br/*", "country": "Brazil"}
+{"entity": "Universidade Vale do Paraiba", "url": "*.univap.br/*", "country": "Brazil"}
+{"entity": "Universidade Salgado de Oliveira", "url": "*.universo.br/*", "country": "Brazil"}
+{"entity": "Universidade do Oeste de Santa Catarina", "url": "*.unoesc.edu.br/*", "country": "Brazil"}
+{"entity": "Universidade do Oeste Paulista", "url": "*.unoeste.br/*", "country": "Brazil"}
+{"entity": "Universidade Potiguar", "url": "*.unp.br/*", "country": "Brazil"}
+{"entity": "Universidade de Pernambuco", "url": "*.upe.br/*", "country": "Brazil"}
+{"entity": "Universidade de Passo Fundo", "url": "*.upf.tche.br/*", "country": "Brazil"}
+{"entity": "Faculdades Integradas UPIS", "url": "*.upis.br/*", "country": "Brazil"}
+{"entity": "Universidade Regional do Cariri", "url": "*.urca.br/*", "country": "Brazil"}
+{"entity": "Universidade Veiga de Almeida", "url": "*.uva.br/*", "country": "Brazil"}
+{"entity": "Institut Teknologi Brunei", "url": "*.itb.edu.bn/*", "country": "Brunei Darussalam"}
+{"entity": "University of Brunei Darussalam", "url": "*.ubd.edu.bn/*", "country": "Brunei Darussalam"}
+{"entity": "Universiti Islam Sultan Sharif Ali", "url": "*.unissa.edu.bn/*", "country": "Brunei Darussalam"}
+{"entity": "American University in Bulgaria", "url": "*.aubg.bg/*", "country": "Bulgaria"}
+{"entity": "Agricultural University of Plovdiv", "url": "*.au-plovdiv.bg/*", "country": "Bulgaria"}
+{"entity": "Bourgas Free University", "url": "*.bfu.bg/*", "country": "Bulgaria"}
+{"entity": "City University Programs in Bulgaria", "url": "*.cityu.bg/*", "country": "Bulgaria"}
+{"entity": "University of Forestry Sofia", "url": "*.ltu.bg/*", "country": "Bulgaria"}
+{"entity": "Medical University Plovdiv", "url": "*.meduniversity-plovdiv.bg/*", "country": "Bulgaria"}
+{"entity": "Medical University Pleven", "url": "*.mu-pleven.bg/*", "country": "Bulgaria"}
+{"entity": "Medical University of Sofia", "url": "*.mu-sofia.bg/*", "country": "Bulgaria"}
+{"entity": "Medical University Varna", "url": "*.mu-varna.bg/*", "country": "Bulgaria"}
+{"entity": "New Bulgarian University", "url": "*.nbu.bg/*", "country": "Bulgaria"}
+{"entity": "National Academy of Arts", "url": "*.nha-bg.org/*", "country": "Bulgaria"}
+{"entity": "National Sports Academy Sofia", "url": "*.nsa.bg/*", "country": "Bulgaria"}
+{"entity": "Military University Shoumen", "url": "*.pv-ma.bg/*", "country": "Bulgaria"}
+{"entity": "University of Rousse", "url": "*.ru.acad.bg/*", "country": "Bulgaria"}
+{"entity": "Technical University of Gabrovo", "url": "*.tugab.bg/*", "country": "Bulgaria"}
+{"entity": "Technical University of Sofia", "url": "*.tu-sofia.bg/*", "country": "Bulgaria"}
+{"entity": "Technical University of Varna", "url": "*.tu-varna.acad.bg/*", "country": "Bulgaria"}
+{"entity": "University of Chemical Technology and Metallurgy", "url": "*.uctm.edu/*", "country": "Bulgaria"}
+{"entity": "University of Economics Varna", "url": "*.ue-varna.bg/*", "country": "Bulgaria"}
+{"entity": "University of Food Technology", "url": "*.uft-plovdiv.bg/*", "country": "Bulgaria"}
+{"entity": "University of Plovdiv", "url": "*.uni-plovdiv.bg/*", "country": "Bulgaria"}
+{"entity": "Trakia University Stara Zagora", "url": "*.uni-sz.bg/*", "country": "Bulgaria"}
+{"entity": "University of National and World Economy", "url": "*.unwe.acad.bg/*", "country": "Bulgaria"}
+{"entity": "Varna Free University", "url": "*.vfu.bg/*", "country": "Bulgaria"}
+{"entity": "International University College", "url": "*.vumk.eu/*", "country": "Bulgaria"}

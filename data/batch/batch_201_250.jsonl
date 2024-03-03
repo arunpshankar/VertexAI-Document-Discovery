@@ -1,50 +1,50 @@
-{"name": "Coe College", "root_url": "*.coe.edu/*", "country": "United States"}
-{"name": "Coker College", "root_url": "*.coker.edu/*", "country": "United States"}
-{"name": "Colby College", "root_url": "*.colby.edu/*", "country": "United States"}
-{"name": "Colgate University", "root_url": "*.colgate.edu/*", "country": "United States"}
-{"name": "College of Charleston", "root_url": "*.cofc.edu/*", "country": "United States"}
-{"name": "College of Eastern Utah", "root_url": "*.ceu.edu/*", "country": "United States"}
-{"name": "College of New Rochelle", "root_url": "*.cnr.edu/*", "country": "United States"}
-{"name": "College of Saint Benedict", "root_url": "*.csbsju.edu/*", "country": "United States"}
-{"name": "College of Saint Catherine", "root_url": "*.stkate.edu/*", "country": "United States"}
-{"name": "College of Saint Rose", "root_url": "*.strose.edu/*", "country": "United States"}
-{"name": "College of the Atlantic", "root_url": "*.coa.edu/*", "country": "United States"}
-{"name": "College of the Holy Cross", "root_url": "*.holycross.edu/*", "country": "United States"}
-{"name": "College of William and Mary", "root_url": "*.wm.edu/*", "country": "United States"}
-{"name": "College of Wooster", "root_url": "*.wooster.edu/*", "country": "United States"}
-{"name": "Colorado Christian University", "root_url": "*.ccu.edu/*", "country": "United States"}
-{"name": "Colorado College", "root_url": "*.coloradocollege.edu/*", "country": "United States"}
-{"name": "Colorado Mesa University", "root_url": "*.coloradomesa.edu/*", "country": "United States"}
-{"name": "Colorado School of Mines", "root_url": "*.mines.edu/*", "country": "United States"}
-{"name": "Colorado State University", "root_url": "*.colostate.edu/*", "country": "United States"}
-{"name": "Colorado Technical University", "root_url": "*.coloradotech.edu/*", "country": "United States"}
-{"name": "Columbia College Chicago", "root_url": "*.colum.edu/*", "country": "United States"}
-{"name": "Columbia Southern University", "root_url": "*.colsouth.edu/*", "country": "United States"}
-{"name": "Columbia Union College", "root_url": "*.cuc.edu/*", "country": "United States"}
-{"name": "Columbia University", "root_url": "*.columbia.edu/*", "country": "United States"}
-{"name": "Community College of Baltimore County", "root_url": "*.ccbcmd.edu/*", "country": "United States"}
-{"name": "Connecticut College", "root_url": "*.conncoll.edu/*", "country": "United States"}
-{"name": "Connecticut State University System", "root_url": "*.ct.edu/*", "country": "United States"}
-{"name": "Cooper Union for the Advancement of Science and Art", "root_url": "*.cooper.edu/*", "country": "United States"}
-{"name": "Coppin State University", "root_url": "*.coppin.edu/*", "country": "United States"}
-{"name": "Cornell College", "root_url": "*.cornell-iowa.edu/*", "country": "United States"}
-{"name": "Cornell University", "root_url": "*.cornell.edu/*", "country": "United States"}
-{"name": "Corning Community College", "root_url": "*.corning-cc.edu/*", "country": "United States"}
-{"name": "Creighton University", "root_url": "*.creighton.edu/*", "country": "United States"}
-{"name": "Curry College", "root_url": "*.curry.edu/*", "country": "United States"}
-{"name": "Daemen College", "root_url": "*.daemen.edu/*", "country": "United States"}
-{"name": "Dakota State University", "root_url": "*.dsu.edu/*", "country": "United States"}
-{"name": "Dakota Wesleyan University", "root_url": "*.dwu.edu/*", "country": "United States"}
-{"name": "Dallas Baptist University", "root_url": "*.dbu.edu/*", "country": "United States"}
-{"name": "Dallas County Community College", "root_url": "*.dcccd.edu/*", "country": "United States"}
-{"name": "Dana College", "root_url": "*.dana.edu/*", "country": "United States"}
-{"name": "Daniel Webster College", "root_url": "*.dwc.edu/*", "country": "United States"}
-{"name": "Dartmouth College", "root_url": "*.dartmouth.edu/*", "country": "United States"}
-{"name": "Davenport University", "root_url": "*.davenport.edu/*", "country": "United States"}
-{"name": "Davidson College", "root_url": "*.davidson.edu/*", "country": "United States"}
-{"name": "Daytona State College", "root_url": "*.daytonastate.edu/*", "country": "United States"}
-{"name": "Delaware State University", "root_url": "*.dsc.edu/*", "country": "United States"}
-{"name": "Delta State University", "root_url": "*.deltastate.edu/*", "country": "United States"}
-{"name": "Denison University", "root_url": "*.denison.edu/*", "country": "United States"}
-{"name": "DePaul University", "root_url": "*.depaul.edu/*", "country": "United States"}
-{"name": "DePauw University", "root_url": "*.depauw.edu/*", "country": "United States"}
+{"entity": "Coe College", "url": "*.coe.edu/*", "country": "United States"}
+{"entity": "Coker College", "url": "*.coker.edu/*", "country": "United States"}
+{"entity": "Colby College", "url": "*.colby.edu/*", "country": "United States"}
+{"entity": "Colgate University", "url": "*.colgate.edu/*", "country": "United States"}
+{"entity": "College of Charleston", "url": "*.cofc.edu/*", "country": "United States"}
+{"entity": "College of Eastern Utah", "url": "*.ceu.edu/*", "country": "United States"}
+{"entity": "College of New Rochelle", "url": "*.cnr.edu/*", "country": "United States"}
+{"entity": "College of Saint Benedict", "url": "*.csbsju.edu/*", "country": "United States"}
+{"entity": "College of Saint Catherine", "url": "*.stkate.edu/*", "country": "United States"}
+{"entity": "College of Saint Rose", "url": "*.strose.edu/*", "country": "United States"}
+{"entity": "College of the Atlantic", "url": "*.coa.edu/*", "country": "United States"}
+{"entity": "College of the Holy Cross", "url": "*.holycross.edu/*", "country": "United States"}
+{"entity": "College of William and Mary", "url": "*.wm.edu/*", "country": "United States"}
+{"entity": "College of Wooster", "url": "*.wooster.edu/*", "country": "United States"}
+{"entity": "Colorado Christian University", "url": "*.ccu.edu/*", "country": "United States"}
+{"entity": "Colorado College", "url": "*.coloradocollege.edu/*", "country": "United States"}
+{"entity": "Colorado Mesa University", "url": "*.coloradomesa.edu/*", "country": "United States"}
+{"entity": "Colorado School of Mines", "url": "*.mines.edu/*", "country": "United States"}
+{"entity": "Colorado State University", "url": "*.colostate.edu/*", "country": "United States"}
+{"entity": "Colorado Technical University", "url": "*.coloradotech.edu/*", "country": "United States"}
+{"entity": "Columbia College Chicago", "url": "*.colum.edu/*", "country": "United States"}
+{"entity": "Columbia Southern University", "url": "*.colsouth.edu/*", "country": "United States"}
+{"entity": "Columbia Union College", "url": "*.cuc.edu/*", "country": "United States"}
+{"entity": "Columbia University", "url": "*.columbia.edu/*", "country": "United States"}
+{"entity": "Community College of Baltimore County", "url": "*.ccbcmd.edu/*", "country": "United States"}
+{"entity": "Connecticut College", "url": "*.conncoll.edu/*", "country": "United States"}
+{"entity": "Connecticut State University System", "url": "*.ct.edu/*", "country": "United States"}
+{"entity": "Cooper Union for the Advancement of Science and Art", "url": "*.cooper.edu/*", "country": "United States"}
+{"entity": "Coppin State University", "url": "*.coppin.edu/*", "country": "United States"}
+{"entity": "Cornell College", "url": "*.cornell-iowa.edu/*", "country": "United States"}
+{"entity": "Cornell University", "url": "*.cornell.edu/*", "country": "United States"}
+{"entity": "Corning Community College", "url": "*.corning-cc.edu/*", "country": "United States"}
+{"entity": "Creighton University", "url": "*.creighton.edu/*", "country": "United States"}
+{"entity": "Curry College", "url": "*.curry.edu/*", "country": "United States"}
+{"entity": "Daemen College", "url": "*.daemen.edu/*", "country": "United States"}
+{"entity": "Dakota State University", "url": "*.dsu.edu/*", "country": "United States"}
+{"entity": "Dakota Wesleyan University", "url": "*.dwu.edu/*", "country": "United States"}
+{"entity": "Dallas Baptist University", "url": "*.dbu.edu/*", "country": "United States"}
+{"entity": "Dallas County Community College", "url": "*.dcccd.edu/*", "country": "United States"}
+{"entity": "Dana College", "url": "*.dana.edu/*", "country": "United States"}
+{"entity": "Daniel Webster College", "url": "*.dwc.edu/*", "country": "United States"}
+{"entity": "Dartmouth College", "url": "*.dartmouth.edu/*", "country": "United States"}
+{"entity": "Davenport University", "url": "*.davenport.edu/*", "country": "United States"}
+{"entity": "Davidson College", "url": "*.davidson.edu/*", "country": "United States"}
+{"entity": "Daytona State College", "url": "*.daytonastate.edu/*", "country": "United States"}
+{"entity": "Delaware State University", "url": "*.dsc.edu/*", "country": "United States"}
+{"entity": "Delta State University", "url": "*.deltastate.edu/*", "country": "United States"}
+{"entity": "Denison University", "url": "*.denison.edu/*", "country": "United States"}
+{"entity": "DePaul University", "url": "*.depaul.edu/*", "country": "United States"}
+{"entity": "DePauw University", "url": "*.depauw.edu/*", "country": "United States"}

@@ -1,50 +1,50 @@
-{"name": "Xinjiang University of Finance and Economics", "root_url": "*.xjufe.edu.cn/*", "country": "China"}
-{"name": "Xiamen University", "root_url": "*.xmu.edu.cn/*", "country": "China"}
-{"name": "Xiangtan Normal University", "root_url": "*.xtnu.edu.cn/*", "country": "China"}
-{"name": "Xiangtan University", "root_url": "*.xtu.edu.cn/*", "country": "China"}
-{"name": "Tibet Agricultural and Animal Husbandry College", "root_url": "*.xza.cn/*", "country": "China"}
-{"name": "Tibet University of Nationalities", "root_url": "*.xzmy.edu.cn/*", "country": "China"}
-{"name": "Xuzhou Normal University", "root_url": "*.xznu.edu.cn/*", "country": "China"}
-{"name": "Yangtze University", "root_url": "*.yangtzeu.edu.cn/*", "country": "China"}
-{"name": "Yanbian University", "root_url": "*.ybu.edu.cn/*", "country": "China"}
-{"name": "Yanbian University of Science and Technology", "root_url": "*.ybust.edu.cn/*", "country": "China"}
-{"name": "Huaihua Medical College", "root_url": "*.yizhuan.com/*", "country": "China"}
-{"name": "Yunnan Agriculture University", "root_url": "*.ynau.edu.cn/*", "country": "China"}
-{"name": "Yunnan Normal University", "root_url": "*.ynnu.edu.cn/*", "country": "China"}
-{"name": "Yunnan University", "root_url": "*.ynu.edu.cn/*", "country": "China"}
-{"name": "Yan Shan University", "root_url": "*.ysu.edu.cn/*", "country": "China"}
-{"name": "Ludong University", "root_url": "*.ytnc.edu.cn/*", "country": "China"}
-{"name": "Yantai University", "root_url": "*.ytu.edu.cn/*", "country": "China"}
-{"name": "Yangtze Normal University", "root_url": "*.yznu.cn/*", "country": "China"}
-{"name": "Yangzhou University", "root_url": "*.yzu.edu.cn/*", "country": "China"}
-{"name": "Zhengda Software College", "root_url": "*.zdsoft.com.cn/*", "country": "China"}
-{"name": "Buddhist Acamedy of China", "root_url": "*.zgfxy.cn/*", "country": "China"}
-{"name": "Zhongnan University of Technology", "root_url": "*.zhnut.edu.cn/*", "country": "China"}
-{"name": "Zhejiang Forestry University", "root_url": "*.zjfc.edu.cn/*", "country": "China"}
-{"name": "Zhejiang Gongshang University", "root_url": "*.zjgsu.edu.cn/*", "country": "China"}
-{"name": "Zhejiang Normal University", "root_url": "*.zjnu.edu.cn/*", "country": "China"}
-{"name": "Zhanjiang Ocean University", "root_url": "*.zjou.edu.cn/*", "country": "China"}
-{"name": "Zhejiang University", "root_url": "*.zju.edu.cn/*", "country": "China"}
-{"name": "Zhejiang University of Technology", "root_url": "*.zjut.edu.cn/*", "country": "China"}
-{"name": "Zhongnan University of Economics and Law", "root_url": "*.znuel.net/*", "country": "China"}
-{"name": "Zhongnan University of Finance and Economics", "root_url": "*.znufe.edu.cn/*", "country": "China"}
-{"name": "Sichuan Fine Art Institute", "root_url": "*.zsb.scfai.edu.cn/*", "country": "China"}
-{"name": "Zhongshan University", "root_url": "*.zsu.edu.cn/*", "country": "China"}
-{"name": "Zhengzhou Grain University", "root_url": "*.zzgc.edu.cn/*", "country": "China"}
-{"name": "Zhengzhou University of Technology", "root_url": "*.zzut.edu.cn/*", "country": "China"}
-{"name": "Universidad Bellas Artes", "root_url": "*.bellasartes.edu.co/*", "country": "Colombia"}
-{"name": "Conservatorio del Tolima", "root_url": "*.bundenet.com/umusical/*", "country": "Colombia"}
-{"name": "Universidad CES", "root_url": "*.ces.edu.co/*", "country": "Colombia"}
-{"name": "Universidad EAFIT", "root_url": "*.eafit.edu.co/*", "country": "Colombia"}
-{"name": "Escuela Colombiana de Carreras Industriales", "root_url": "*.ecci.edu.co/*", "country": "Colombia"}
-{"name": "Universidad ICESI", "root_url": "*.icesi.edu.co/*", "country": "Colombia"}
-{"name": "Institucion Universitaria de Envigado", "root_url": "*.iue.edu.co/*", "country": "Colombia"}
-{"name": "Pontificia Universidad Javeriana", "root_url": "*.javeriana.edu.co/*", "country": "Colombia"}
-{"name": "Universidad de La Salle", "root_url": "*.lasalle.edu.co/*", "country": "Colombia"}
-{"name": "Universidad Pedagogica Nacional", "root_url": "*.pedagogica.edu.co/*", "country": "Colombia"}
-{"name": "Universidad de Caldas", "root_url": "*.ucaldas.edu.co/*", "country": "Colombia"}
-{"name": "Universidad del Cauca", "root_url": "*.ucauca.edu.co/*", "country": "Colombia"}
-{"name": "Universidad Cooperativa de Colombia", "root_url": "*.ucc.edu.co/*", "country": "Colombia"}
-{"name": "Universidad Central", "root_url": "*.ucentral.edu.co/*", "country": "Colombia"}
-{"name": "Universidad Central del Valle del Cauca", "root_url": "*.uceva.edu.co/*", "country": "Colombia"}
-{"name": "Universidad de Antioquia", "root_url": "*.udea.edu.co/*", "country": "Colombia"}
+{"entity": "Xinjiang University of Finance and Economics", "url": "*.xjufe.edu.cn/*", "country": "China"}
+{"entity": "Xiamen University", "url": "*.xmu.edu.cn/*", "country": "China"}
+{"entity": "Xiangtan Normal University", "url": "*.xtnu.edu.cn/*", "country": "China"}
+{"entity": "Xiangtan University", "url": "*.xtu.edu.cn/*", "country": "China"}
+{"entity": "Tibet Agricultural and Animal Husbandry College", "url": "*.xza.cn/*", "country": "China"}
+{"entity": "Tibet University of Nationalities", "url": "*.xzmy.edu.cn/*", "country": "China"}
+{"entity": "Xuzhou Normal University", "url": "*.xznu.edu.cn/*", "country": "China"}
+{"entity": "Yangtze University", "url": "*.yangtzeu.edu.cn/*", "country": "China"}
+{"entity": "Yanbian University", "url": "*.ybu.edu.cn/*", "country": "China"}
+{"entity": "Yanbian University of Science and Technology", "url": "*.ybust.edu.cn/*", "country": "China"}
+{"entity": "Huaihua Medical College", "url": "*.yizhuan.com/*", "country": "China"}
+{"entity": "Yunnan Agriculture University", "url": "*.ynau.edu.cn/*", "country": "China"}
+{"entity": "Yunnan Normal University", "url": "*.ynnu.edu.cn/*", "country": "China"}
+{"entity": "Yunnan University", "url": "*.ynu.edu.cn/*", "country": "China"}
+{"entity": "Yan Shan University", "url": "*.ysu.edu.cn/*", "country": "China"}
+{"entity": "Ludong University", "url": "*.ytnc.edu.cn/*", "country": "China"}
+{"entity": "Yantai University", "url": "*.ytu.edu.cn/*", "country": "China"}
+{"entity": "Yangtze Normal University", "url": "*.yznu.cn/*", "country": "China"}
+{"entity": "Yangzhou University", "url": "*.yzu.edu.cn/*", "country": "China"}
+{"entity": "Zhengda Software College", "url": "*.zdsoft.com.cn/*", "country": "China"}
+{"entity": "Buddhist Acamedy of China", "url": "*.zgfxy.cn/*", "country": "China"}
+{"entity": "Zhongnan University of Technology", "url": "*.zhnut.edu.cn/*", "country": "China"}
+{"entity": "Zhejiang Forestry University", "url": "*.zjfc.edu.cn/*", "country": "China"}
+{"entity": "Zhejiang Gongshang University", "url": "*.zjgsu.edu.cn/*", "country": "China"}
+{"entity": "Zhejiang Normal University", "url": "*.zjnu.edu.cn/*", "country": "China"}
+{"entity": "Zhanjiang Ocean University", "url": "*.zjou.edu.cn/*", "country": "China"}
+{"entity": "Zhejiang University", "url": "*.zju.edu.cn/*", "country": "China"}
+{"entity": "Zhejiang University of Technology", "url": "*.zjut.edu.cn/*", "country": "China"}
+{"entity": "Zhongnan University of Economics and Law", "url": "*.znuel.net/*", "country": "China"}
+{"entity": "Zhongnan University of Finance and Economics", "url": "*.znufe.edu.cn/*", "country": "China"}
+{"entity": "Sichuan Fine Art Institute", "url": "*.zsb.scfai.edu.cn/*", "country": "China"}
+{"entity": "Zhongshan University", "url": "*.zsu.edu.cn/*", "country": "China"}
+{"entity": "Zhengzhou Grain University", "url": "*.zzgc.edu.cn/*", "country": "China"}
+{"entity": "Zhengzhou University of Technology", "url": "*.zzut.edu.cn/*", "country": "China"}
+{"entity": "Universidad Bellas Artes", "url": "*.bellasartes.edu.co/*", "country": "Colombia"}
+{"entity": "Conservatorio del Tolima", "url": "*.bundenet.com/umusical/*", "country": "Colombia"}
+{"entity": "Universidad CES", "url": "*.ces.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad EAFIT", "url": "*.eafit.edu.co/*", "country": "Colombia"}
+{"entity": "Escuela Colombiana de Carreras Industriales", "url": "*.ecci.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad ICESI", "url": "*.icesi.edu.co/*", "country": "Colombia"}
+{"entity": "Institucion Universitaria de Envigado", "url": "*.iue.edu.co/*", "country": "Colombia"}
+{"entity": "Pontificia Universidad Javeriana", "url": "*.javeriana.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad de La Salle", "url": "*.lasalle.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad Pedagogica Nacional", "url": "*.pedagogica.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad de Caldas", "url": "*.ucaldas.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad del Cauca", "url": "*.ucauca.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad Cooperativa de Colombia", "url": "*.ucc.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad Central", "url": "*.ucentral.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad Central del Valle del Cauca", "url": "*.uceva.edu.co/*", "country": "Colombia"}
+{"entity": "Universidad de Antioquia", "url": "*.udea.edu.co/*", "country": "Colombia"}

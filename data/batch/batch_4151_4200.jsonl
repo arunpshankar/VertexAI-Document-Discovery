@@ -1,50 +1,50 @@
-{"name": "Lithuania Christian College", "root_url": "*.lcc.lt/*", "country": "Lithuania"}
-{"name": "Military academy of Lithuania", "root_url": "*.lka.lt/*", "country": "Lithuania"}
-{"name": "Lithunian Institute of Physical Education", "root_url": "*.lkka.lt/*", "country": "Lithuania"}
-{"name": "Lithunian Academy of Music and Theatre", "root_url": "*.lmta.lt/*", "country": "Lithuania"}
-{"name": "Lithunian Veterinary Academy", "root_url": "*.lva.lt/*", "country": "Lithuania"}
-{"name": "Lithunian University of Agriculture", "root_url": "*.lzua.lt/*", "country": "Lithuania"}
-{"name": "Vilnius Academy of Arts", "root_url": "*.mch.mii.lt/more/vda/*", "country": "Lithuania"}
-{"name": "Mykolo Romerio university", "root_url": "*.mruni.eu/*", "country": "Lithuania"}
-{"name": "Siauliai University", "root_url": "*.su.lt/*", "country": "Lithuania"}
-{"name": "Vytautas Magnus University", "root_url": "*.vdu.lt/*", "country": "Lithuania"}
-{"name": "Vilnius Gediminas Technical University", "root_url": "*.vgtu.lt/*", "country": "Lithuania"}
-{"name": "Vilnius Pedagogical University", "root_url": "*.vpu.lt/*", "country": "Lithuania"}
-{"name": "Vilnius University", "root_url": "*.vu.lt/*", "country": "Lithuania"}
-{"name": "International University Institute of Luxembourg", "root_url": "*.iuil.lu/*", "country": "Luxembourg"}
-{"name": "University of Luxemburg", "root_url": "*.uni.lu/*", "country": "Luxembourg"}
-{"name": "Macau Polytechnic Institute", "root_url": "*.ipm.edu.mo/*", "country": "Macao"}
-{"name": "University of Macau", "root_url": "*.umac.mo/*", "country": "Macao"}
-{"name": "University of Saint Joseph", "root_url": "*.usj.edu.mo/*", "country": "Macao"}
-{"name": "FON University", "root_url": "*.fon.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
-{"name": "South East European University", "root_url": "*.seeu.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
-{"name": "University Goce Delcev", "root_url": "*.ugd.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
-{"name": "State University of Tetova", "root_url": "*.unite.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
-{"name": "Catholic University of Malawi", "root_url": "*.cunima.net/*", "country": "Malawi"}
-{"name": "Mzuzu University", "root_url": "*.mzuni.ac.mw/*", "country": "Malawi"}
-{"name": "University of Livingstonia", "root_url": "*.ulivingstonia.com/*", "country": "Malawi"}
-{"name": "University of Malawi", "root_url": "*.unima.mw/*", "country": "Malawi"}
-{"name": "Asia E University", "root_url": "*.aeu.edu.my/*", "country": "Malaysia"}
-{"name": "Aimst University", "root_url": "*.aimst.edu.my/*", "country": "Malaysia"}
-{"name": "Advance Tertiary College", "root_url": "*.atc2u.com/*", "country": "Malaysia"}
-{"name": "Brickfields Asia College", "root_url": "*.bac.edu.my/*", "country": "Malaysia"}
-{"name": "British Malaysian Institute", "root_url": "*.bmi.edu.my/*", "country": "Malaysia"}
-{"name": "City University College of Science and Technology", "root_url": "*.city.edu.my/*", "country": "Malaysia"}
-{"name": "Cyberjaya University College of Medical Science", "root_url": "*.cybermed.edu.my/*", "country": "Malaysia"}
-{"name": "FTMS Global Academy", "root_url": "*.ftmsglobal.com/*", "country": "Malaysia"}
-{"name": "Help University College", "root_url": "*.help.edu.my/*", "country": "Malaysia"}
-{"name": "Darul Hikmah Islamic College", "root_url": "*.hikmah.edu.my/*", "country": "Malaysia"}
-{"name": "Iact College", "root_url": "*.iact.edu.my/*", "country": "Malaysia"}
-{"name": "International Islamic College", "root_url": "*.iic.edu.my/*", "country": "Malaysia"}
-{"name": "International Islamic University", "root_url": "*.iiu.edu.my/*", "country": "Malaysia"}
-{"name": "International Medical University", "root_url": "*.imu.edu.my/*", "country": "Malaysia"}
-{"name": "Darul Takzim Institute of Technology", "root_url": "*.instedt.edu.my/*", "country": "Malaysia"}
-{"name": "Perlis Islamic Higher Learning Institute", "root_url": "*.iptips.edu.my/*", "country": "Malaysia"}
-{"name": "KBU International College", "root_url": "*.kbu.edu.my/*", "country": "Malaysia"}
-{"name": "KDU College Sdn Bhd", "root_url": "*.kdu.edu.my/*", "country": "Malaysia"}
-{"name": "Sultan Ismail Petra International Islamic College", "root_url": "*.kias.edu.my/*", "country": "Malaysia"}
-{"name": "Darul Ulum Islamic College", "root_url": "*.kidu-darululum.blogspot.com/*", "country": "Malaysia"}
-{"name": "Perak Islamic College", "root_url": "*.kiperak.edu.my/*", "country": "Malaysia"}
-{"name": "Sultan Ahmad Shah Islamic College", "root_url": "*.kipsas.edu.my/*", "country": "Malaysia"}
-{"name": "Islamic College for Sciences and Technologies", "root_url": "*.kist.edu.my/*", "country": "Malaysia"}
-{"name": "International Islamic College of Penang", "root_url": "*.kitab.edu.my/*", "country": "Malaysia"}
+{"entity": "Lithuania Christian College", "url": "*.lcc.lt/*", "country": "Lithuania"}
+{"entity": "Military academy of Lithuania", "url": "*.lka.lt/*", "country": "Lithuania"}
+{"entity": "Lithunian Institute of Physical Education", "url": "*.lkka.lt/*", "country": "Lithuania"}
+{"entity": "Lithunian Academy of Music and Theatre", "url": "*.lmta.lt/*", "country": "Lithuania"}
+{"entity": "Lithunian Veterinary Academy", "url": "*.lva.lt/*", "country": "Lithuania"}
+{"entity": "Lithunian University of Agriculture", "url": "*.lzua.lt/*", "country": "Lithuania"}
+{"entity": "Vilnius Academy of Arts", "url": "*.mch.mii.lt/more/vda/*", "country": "Lithuania"}
+{"entity": "Mykolo Romerio university", "url": "*.mruni.eu/*", "country": "Lithuania"}
+{"entity": "Siauliai University", "url": "*.su.lt/*", "country": "Lithuania"}
+{"entity": "Vytautas Magnus University", "url": "*.vdu.lt/*", "country": "Lithuania"}
+{"entity": "Vilnius Gediminas Technical University", "url": "*.vgtu.lt/*", "country": "Lithuania"}
+{"entity": "Vilnius Pedagogical University", "url": "*.vpu.lt/*", "country": "Lithuania"}
+{"entity": "Vilnius University", "url": "*.vu.lt/*", "country": "Lithuania"}
+{"entity": "International University Institute of Luxembourg", "url": "*.iuil.lu/*", "country": "Luxembourg"}
+{"entity": "University of Luxemburg", "url": "*.uni.lu/*", "country": "Luxembourg"}
+{"entity": "Macau Polytechnic Institute", "url": "*.ipm.edu.mo/*", "country": "Macao"}
+{"entity": "University of Macau", "url": "*.umac.mo/*", "country": "Macao"}
+{"entity": "University of Saint Joseph", "url": "*.usj.edu.mo/*", "country": "Macao"}
+{"entity": "FON University", "url": "*.fon.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
+{"entity": "South East European University", "url": "*.seeu.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
+{"entity": "University Goce Delcev", "url": "*.ugd.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
+{"entity": "State University of Tetova", "url": "*.unite.edu.mk/*", "country": "Macedonia, the Former Yugoslav Republic of"}
+{"entity": "Catholic University of Malawi", "url": "*.cunima.net/*", "country": "Malawi"}
+{"entity": "Mzuzu University", "url": "*.mzuni.ac.mw/*", "country": "Malawi"}
+{"entity": "University of Livingstonia", "url": "*.ulivingstonia.com/*", "country": "Malawi"}
+{"entity": "University of Malawi", "url": "*.unima.mw/*", "country": "Malawi"}
+{"entity": "Asia E University", "url": "*.aeu.edu.my/*", "country": "Malaysia"}
+{"entity": "Aimst University", "url": "*.aimst.edu.my/*", "country": "Malaysia"}
+{"entity": "Advance Tertiary College", "url": "*.atc2u.com/*", "country": "Malaysia"}
+{"entity": "Brickfields Asia College", "url": "*.bac.edu.my/*", "country": "Malaysia"}
+{"entity": "British Malaysian Institute", "url": "*.bmi.edu.my/*", "country": "Malaysia"}
+{"entity": "City University College of Science and Technology", "url": "*.city.edu.my/*", "country": "Malaysia"}
+{"entity": "Cyberjaya University College of Medical Science", "url": "*.cybermed.edu.my/*", "country": "Malaysia"}
+{"entity": "FTMS Global Academy", "url": "*.ftmsglobal.com/*", "country": "Malaysia"}
+{"entity": "Help University College", "url": "*.help.edu.my/*", "country": "Malaysia"}
+{"entity": "Darul Hikmah Islamic College", "url": "*.hikmah.edu.my/*", "country": "Malaysia"}
+{"entity": "Iact College", "url": "*.iact.edu.my/*", "country": "Malaysia"}
+{"entity": "International Islamic College", "url": "*.iic.edu.my/*", "country": "Malaysia"}
+{"entity": "International Islamic University", "url": "*.iiu.edu.my/*", "country": "Malaysia"}
+{"entity": "International Medical University", "url": "*.imu.edu.my/*", "country": "Malaysia"}
+{"entity": "Darul Takzim Institute of Technology", "url": "*.instedt.edu.my/*", "country": "Malaysia"}
+{"entity": "Perlis Islamic Higher Learning Institute", "url": "*.iptips.edu.my/*", "country": "Malaysia"}
+{"entity": "KBU International College", "url": "*.kbu.edu.my/*", "country": "Malaysia"}
+{"entity": "KDU College Sdn Bhd", "url": "*.kdu.edu.my/*", "country": "Malaysia"}
+{"entity": "Sultan Ismail Petra International Islamic College", "url": "*.kias.edu.my/*", "country": "Malaysia"}
+{"entity": "Darul Ulum Islamic College", "url": "*.kidu-darululum.blogspot.com/*", "country": "Malaysia"}
+{"entity": "Perak Islamic College", "url": "*.kiperak.edu.my/*", "country": "Malaysia"}
+{"entity": "Sultan Ahmad Shah Islamic College", "url": "*.kipsas.edu.my/*", "country": "Malaysia"}
+{"entity": "Islamic College for Sciences and Technologies", "url": "*.kist.edu.my/*", "country": "Malaysia"}
+{"entity": "International Islamic College of Penang", "url": "*.kitab.edu.my/*", "country": "Malaysia"}

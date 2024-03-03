@@ -1,50 +1,50 @@
-{"name": "Heilongjiang University", "root_url": "*.hlju.edu.cn/*", "country": "China"}
-{"name": "Henan Buddhist College", "root_url": "*.hnfjxy.cn/*", "country": "China"}
-{"name": "Logistics Engineering University of PLA", "root_url": "*.hqgc.net/*", "country": "China"}
-{"name": "Huaqiao University Quanzhuo", "root_url": "*.hqu.edu.cn/*", "country": "China"}
-{"name": "Harbin Engineering University", "root_url": "*.hrbeu.edu.cn/*", "country": "China"}
-{"name": "Harbin Medical University", "root_url": "*.hrbmu.edu.cn/*", "country": "China"}
-{"name": "Harbin Normal University", "root_url": "*.hrbnu.edu.cn/*", "country": "China"}
-{"name": "Harbin University of Science and Technology", "root_url": "*.hrbust.edu.cn/*", "country": "China"}
-{"name": "Hubei University", "root_url": "*.hubu.edu.cn/*", "country": "China"}
-{"name": "Hunan Agricultural University", "root_url": "*.hunau.net/*", "country": "China"}
-{"name": "Hunan Normal University", "root_url": "*.hunnu.edu.cn/*", "country": "China"}
-{"name": "Hunan University", "root_url": "*.hunu.edu.cn/*", "country": "China"}
-{"name": "Huazhong University of Science and Technology", "root_url": "*.hust.edu.cn/*", "country": "China"}
-{"name": "Huazhong Agricultural University", "root_url": "*.hzau.edu.cn/*", "country": "China"}
-{"name": "Huizhou University", "root_url": "*.hzu.edu.cn/*", "country": "China"}
-{"name": "International Business University of Beijing", "root_url": "*.ibub.edu.cn/*", "country": "China"}
-{"name": "Inner Mongolia Agricultural University", "root_url": "*.imau.edu.cn/*", "country": "China"}
-{"name": "Inner Mongolia Normal University", "root_url": "*.imnu.edu.cn/*", "country": "China"}
-{"name": "Inner Mongolia Polytechnic University", "root_url": "*.impu.edu.cn/*", "country": "China"}
-{"name": "Inner Mongolia University", "root_url": "*.imu.edu.cn/*", "country": "China"}
-{"name": "Beijing Union University", "root_url": "*.ipdbuu.com.cn/*", "country": "China"}
-{"name": "Jingdezhen China Institute", "root_url": "*.jci.edu.cn/*", "country": "China"}
-{"name": "Jilin Agricultural University", "root_url": "*.jlau.edu.cn/*", "country": "China"}
-{"name": "Jilin University", "root_url": "*.jlu.edu.cn/*", "country": "China"}
-{"name": "Jimei University", "root_url": "*.jmu.edu.cn/*", "country": "China"}
-{"name": "Jinan University", "root_url": "*.jnu.edu.cn/*", "country": "China"}
-{"name": "Jishou University", "root_url": "*.jsu.edu.cn/*", "country": "China"}
-{"name": "Jiangsu University of Science and Technology", "root_url": "*.jsust.edu.cn/*", "country": "China"}
-{"name": "Jiangxi University of Traditional Chinese Medicine", "root_url": "*.jutcm.com/*", "country": "China"}
-{"name": "Jilin University of Technology", "root_url": "*.jut.edu.cn/*", "country": "China"}
-{"name": "Jiangxi Agricultural University", "root_url": "*.jxau.edu.cn/*", "country": "China"}
-{"name": "Jiangxi Normal University", "root_url": "*.jxnu.edu.cn/*", "country": "China"}
-{"name": "Jiangxi University of Finance and Economics", "root_url": "*.jxufe.edu.cn/*", "country": "China"}
-{"name": "Jiaying University", "root_url": "*.jyu.edu.cn/*", "country": "China"}
-{"name": "Kunmimg University of Science and Technology", "root_url": "*.kmust.edu.cn/*", "country": "China"}
-{"name": "Liaocheng Teachers University", "root_url": "*.lctu.edu.cn/*", "country": "China"}
-{"name": "Shanghai Lida Polytechnic Institute", "root_url": "*.lidapoly.com/*", "country": "China"}
-{"name": "Shanghai Lixin University of Commerce", "root_url": "*.lixin.edu.cn/*", "country": "China"}
-{"name": "Liaoning Normal University", "root_url": "*.lnnu.edu.cn/*", "country": "China"}
-{"name": "Liaoning Technical University", "root_url": "*.lntu.edu.cn/*", "country": "China"}
-{"name": "Liaoning University", "root_url": "*.lnu.edu.cn/*", "country": "China"}
-{"name": "Luxun Academy of Fine Art", "root_url": "*.lumei.edu.cn/*", "country": "China"}
-{"name": "Luzhou Medical College", "root_url": "*.lzmc.edu.cn/*", "country": "China"}
-{"name": "Lanzhou University", "root_url": "*.lzu.edu.cn/*", "country": "China"}
-{"name": "Ningbo University", "root_url": "*.nbu.edu.cn/*", "country": "China"}
-{"name": "Ningbo University of Technology", "root_url": "*.nbut.edu.cn/*", "country": "China"}
-{"name": "North China Electric Power University", "root_url": "*.ncepubj.edu.cn/*", "country": "China"}
-{"name": "Nanchang University", "root_url": "*.ncu.edu.cn/*", "country": "China"}
-{"name": "North China University of Technology", "root_url": "*.ncut.edu.cn/*", "country": "China"}
-{"name": "Northeast Agricultural University", "root_url": "*.neau.edu.cn/*", "country": "China"}
+{"entity": "Heilongjiang University", "url": "*.hlju.edu.cn/*", "country": "China"}
+{"entity": "Henan Buddhist College", "url": "*.hnfjxy.cn/*", "country": "China"}
+{"entity": "Logistics Engineering University of PLA", "url": "*.hqgc.net/*", "country": "China"}
+{"entity": "Huaqiao University Quanzhuo", "url": "*.hqu.edu.cn/*", "country": "China"}
+{"entity": "Harbin Engineering University", "url": "*.hrbeu.edu.cn/*", "country": "China"}
+{"entity": "Harbin Medical University", "url": "*.hrbmu.edu.cn/*", "country": "China"}
+{"entity": "Harbin Normal University", "url": "*.hrbnu.edu.cn/*", "country": "China"}
+{"entity": "Harbin University of Science and Technology", "url": "*.hrbust.edu.cn/*", "country": "China"}
+{"entity": "Hubei University", "url": "*.hubu.edu.cn/*", "country": "China"}
+{"entity": "Hunan Agricultural University", "url": "*.hunau.net/*", "country": "China"}
+{"entity": "Hunan Normal University", "url": "*.hunnu.edu.cn/*", "country": "China"}
+{"entity": "Hunan University", "url": "*.hunu.edu.cn/*", "country": "China"}
+{"entity": "Huazhong University of Science and Technology", "url": "*.hust.edu.cn/*", "country": "China"}
+{"entity": "Huazhong Agricultural University", "url": "*.hzau.edu.cn/*", "country": "China"}
+{"entity": "Huizhou University", "url": "*.hzu.edu.cn/*", "country": "China"}
+{"entity": "International Business University of Beijing", "url": "*.ibub.edu.cn/*", "country": "China"}
+{"entity": "Inner Mongolia Agricultural University", "url": "*.imau.edu.cn/*", "country": "China"}
+{"entity": "Inner Mongolia Normal University", "url": "*.imnu.edu.cn/*", "country": "China"}
+{"entity": "Inner Mongolia Polytechnic University", "url": "*.impu.edu.cn/*", "country": "China"}
+{"entity": "Inner Mongolia University", "url": "*.imu.edu.cn/*", "country": "China"}
+{"entity": "Beijing Union University", "url": "*.ipdbuu.com.cn/*", "country": "China"}
+{"entity": "Jingdezhen China Institute", "url": "*.jci.edu.cn/*", "country": "China"}
+{"entity": "Jilin Agricultural University", "url": "*.jlau.edu.cn/*", "country": "China"}
+{"entity": "Jilin University", "url": "*.jlu.edu.cn/*", "country": "China"}
+{"entity": "Jimei University", "url": "*.jmu.edu.cn/*", "country": "China"}
+{"entity": "Jinan University", "url": "*.jnu.edu.cn/*", "country": "China"}
+{"entity": "Jishou University", "url": "*.jsu.edu.cn/*", "country": "China"}
+{"entity": "Jiangsu University of Science and Technology", "url": "*.jsust.edu.cn/*", "country": "China"}
+{"entity": "Jiangxi University of Traditional Chinese Medicine", "url": "*.jutcm.com/*", "country": "China"}
+{"entity": "Jilin University of Technology", "url": "*.jut.edu.cn/*", "country": "China"}
+{"entity": "Jiangxi Agricultural University", "url": "*.jxau.edu.cn/*", "country": "China"}
+{"entity": "Jiangxi Normal University", "url": "*.jxnu.edu.cn/*", "country": "China"}
+{"entity": "Jiangxi University of Finance and Economics", "url": "*.jxufe.edu.cn/*", "country": "China"}
+{"entity": "Jiaying University", "url": "*.jyu.edu.cn/*", "country": "China"}
+{"entity": "Kunmimg University of Science and Technology", "url": "*.kmust.edu.cn/*", "country": "China"}
+{"entity": "Liaocheng Teachers University", "url": "*.lctu.edu.cn/*", "country": "China"}
+{"entity": "Shanghai Lida Polytechnic Institute", "url": "*.lidapoly.com/*", "country": "China"}
+{"entity": "Shanghai Lixin University of Commerce", "url": "*.lixin.edu.cn/*", "country": "China"}
+{"entity": "Liaoning Normal University", "url": "*.lnnu.edu.cn/*", "country": "China"}
+{"entity": "Liaoning Technical University", "url": "*.lntu.edu.cn/*", "country": "China"}
+{"entity": "Liaoning University", "url": "*.lnu.edu.cn/*", "country": "China"}
+{"entity": "Luxun Academy of Fine Art", "url": "*.lumei.edu.cn/*", "country": "China"}
+{"entity": "Luzhou Medical College", "url": "*.lzmc.edu.cn/*", "country": "China"}
+{"entity": "Lanzhou University", "url": "*.lzu.edu.cn/*", "country": "China"}
+{"entity": "Ningbo University", "url": "*.nbu.edu.cn/*", "country": "China"}
+{"entity": "Ningbo University of Technology", "url": "*.nbut.edu.cn/*", "country": "China"}
+{"entity": "North China Electric Power University", "url": "*.ncepubj.edu.cn/*", "country": "China"}
+{"entity": "Nanchang University", "url": "*.ncu.edu.cn/*", "country": "China"}
+{"entity": "North China University of Technology", "url": "*.ncut.edu.cn/*", "country": "China"}
+{"entity": "Northeast Agricultural University", "url": "*.neau.edu.cn/*", "country": "China"}

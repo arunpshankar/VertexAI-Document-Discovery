@@ -1,50 +1,50 @@
-{"name": "Rostov State University", "root_url": "*.rsu.ru/*", "country": "Russian Federation"}
-{"name": "Moscow State University of Commerce", "root_url": "*.rsute.ru/*", "country": "Russian Federation"}
-{"name": "Ufa State Petroleum Technological University", "root_url": "*.rusoil.net/*", "country": "Russian Federation"}
-{"name": "Sakhalin State University", "root_url": "*.sakhgu.sakhalin.ru/*", "country": "Russian Federation"}
-{"name": "Samara State Academy for Railway Transportation", "root_url": "*.samiit.ru/*", "country": "Russian Federation"}
-{"name": "Samara State Medical University", "root_url": "*.samsmu.ru/*", "country": "Russian Federation"}
-{"name": "Siberian Academy of Public Services", "root_url": "*.sapanet.ru/*", "country": "Russian Federation"}
-{"name": "Saratov State Academy of Law", "root_url": "*.sgap.ru/*", "country": "Russian Federation"}
-{"name": "Saratov State Agrarian University", "root_url": "*.sgau.ru/*", "country": "Russian Federation"}
-{"name": "Smolensk State Medical Academy", "root_url": "*.sgma.info/*", "country": "Russian Federation"}
-{"name": "Saratov State University", "root_url": "*.sgu.ru/*", "country": "Russian Federation"}
-{"name": "Smolensk Humanitarian University", "root_url": "*.shu.smolensk.su/*", "country": "Russian Federation"}
-{"name": "Siberian State Industrial University", "root_url": "*.sibsiu.kemerovo.su/*", "country": "Russian Federation"}
-{"name": "Smolny University", "root_url": "*.smolny-un.spb.ru/*", "country": "Russian Federation"}
-{"name": "Academic University", "root_url": "*.spbau.ru/*", "country": "Russian Federation"}
-{"name": "Samara State Agricultural Academy", "root_url": "*.ssaa.ru/*", "country": "Russian Federation"}
-{"name": "Samara State Academy of Architecture and Civil Engineering", "root_url": "*.ssaba.smr.ru/*", "country": "Russian Federation"}
-{"name": "Samara State Aerospace University", "root_url": "*.ssau.ru/*", "country": "Russian Federation"}
-{"name": "Samara State University of Economics", "root_url": "*.sseu.ru/*", "country": "Russian Federation"}
-{"name": "Siberian State Medical University", "root_url": "*.ssmu.ru/*", "country": "Russian Federation"}
-{"name": "Samara State University of Teacher Training", "root_url": "*.ssttu.samara.ru/*", "country": "Russian Federation"}
-{"name": "Saratov State Technical University", "root_url": "*.sstu-edu.ru/*", "country": "Russian Federation"}
-{"name": "Samara State Technical University", "root_url": "*.sstu.samara.ru/*", "country": "Russian Federation"}
-{"name": "Syktyvkar State University", "root_url": "*.ssu.komi.com:8101/*", "country": "Russian Federation"}
-{"name": "Samara State University", "root_url": "*.ssu.samara.ru/*", "country": "Russian Federation"}
-{"name": "Stavropol State University", "root_url": "*.stavsu.ru/*", "country": "Russian Federation"}
-{"name": "Lipeck State Technical University", "root_url": "*.stu.lipetsk.ru/*", "country": "Russian Federation"}
-{"name": "Siberian State Transport University", "root_url": "*.stu.ru/*", "country": "Russian Federation"}
-{"name": "Surgut State University", "root_url": "*.surgu.wsnet.ru/*", "country": "Russian Federation"}
-{"name": "Taganrog State Pedagogical Institute", "root_url": "*.tgpi.ttn.ru/*", "country": "Russian Federation"}
-{"name": "Tyumen State Agricultural Academy", "root_url": "*.tgsha.ru/*", "country": "Russian Federation"}
-{"name": "Yaroslavl State Theatre Institute", "root_url": "*.theatrins-yar.ru/*", "country": "Russian Federation"}
-{"name": "Timirjazev Moscow Academy of Agricultutre", "root_url": "*.timacad.ru/*", "country": "Russian Federation"}
-{"name": "Togliatti State University", "root_url": "*.tltsu.ru/*", "country": "Russian Federation"}
-{"name": "Moscow University Touro", "root_url": "*.touro.ru/*", "country": "Russian Federation"}
-{"name": "Tomsk Polytechnic University", "root_url": "*.tpu.ru/*", "country": "Russian Federation"}
-{"name": "Tver State Medical Academy", "root_url": "*.tsma.ru/*", "country": "Russian Federation"}
-{"name": "Tyumen State University of Gas and Oil", "root_url": "*.tsogu.ru/*", "country": "Russian Federation"}
-{"name": "Tomsk State Pedagogical University", "root_url": "*.tspu.edu.ru/*", "country": "Russian Federation"}
-{"name": "Tambov State Technical University", "root_url": "*.tstu.ru/*", "country": "Russian Federation"}
-{"name": "Tver State Technical University", "root_url": "*.tstu.tver.ru/*", "country": "Russian Federation"}
-{"name": "Tomsk State University of Architecture and Building", "root_url": "*.tsuab.ru/*", "country": "Russian Federation"}
-{"name": "Taganrog State University of Radioengineering", "root_url": "*.tsure.ru/*", "country": "Russian Federation"}
-{"name": "Tomsk State University", "root_url": "*.tsu.ru/*", "country": "Russian Federation"}
-{"name": "Tyumen State University", "root_url": "*.tsu.tmn.ru/*", "country": "Russian Federation"}
-{"name": "Tula State University", "root_url": "*.tsu.tula.ru/*", "country": "Russian Federation"}
-{"name": "Ryazan State Pedagogical University", "root_url": "*.ttc.ryazan.ru/*", "country": "Russian Federation"}
-{"name": "Brjansk State Technical University", "root_url": "*.tu-bryansk.ru/*", "country": "Russian Federation"}
-{"name": "Southern Ural State University", "root_url": "*.tu-chel.ac.ru/*", "country": "Russian Federation"}
-{"name": "Tomsk State University of Control Systems and Radioelectronics", "root_url": "*.tusur.ru/*", "country": "Russian Federation"}
+{"entity": "Rostov State University", "url": "*.rsu.ru/*", "country": "Russian Federation"}
+{"entity": "Moscow State University of Commerce", "url": "*.rsute.ru/*", "country": "Russian Federation"}
+{"entity": "Ufa State Petroleum Technological University", "url": "*.rusoil.net/*", "country": "Russian Federation"}
+{"entity": "Sakhalin State University", "url": "*.sakhgu.sakhalin.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State Academy for Railway Transportation", "url": "*.samiit.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State Medical University", "url": "*.samsmu.ru/*", "country": "Russian Federation"}
+{"entity": "Siberian Academy of Public Services", "url": "*.sapanet.ru/*", "country": "Russian Federation"}
+{"entity": "Saratov State Academy of Law", "url": "*.sgap.ru/*", "country": "Russian Federation"}
+{"entity": "Saratov State Agrarian University", "url": "*.sgau.ru/*", "country": "Russian Federation"}
+{"entity": "Smolensk State Medical Academy", "url": "*.sgma.info/*", "country": "Russian Federation"}
+{"entity": "Saratov State University", "url": "*.sgu.ru/*", "country": "Russian Federation"}
+{"entity": "Smolensk Humanitarian University", "url": "*.shu.smolensk.su/*", "country": "Russian Federation"}
+{"entity": "Siberian State Industrial University", "url": "*.sibsiu.kemerovo.su/*", "country": "Russian Federation"}
+{"entity": "Smolny University", "url": "*.smolny-un.spb.ru/*", "country": "Russian Federation"}
+{"entity": "Academic University", "url": "*.spbau.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State Agricultural Academy", "url": "*.ssaa.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State Academy of Architecture and Civil Engineering", "url": "*.ssaba.smr.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State Aerospace University", "url": "*.ssau.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State University of Economics", "url": "*.sseu.ru/*", "country": "Russian Federation"}
+{"entity": "Siberian State Medical University", "url": "*.ssmu.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State University of Teacher Training", "url": "*.ssttu.samara.ru/*", "country": "Russian Federation"}
+{"entity": "Saratov State Technical University", "url": "*.sstu-edu.ru/*", "country": "Russian Federation"}
+{"entity": "Samara State Technical University", "url": "*.sstu.samara.ru/*", "country": "Russian Federation"}
+{"entity": "Syktyvkar State University", "url": "*.ssu.komi.com:8101/*", "country": "Russian Federation"}
+{"entity": "Samara State University", "url": "*.ssu.samara.ru/*", "country": "Russian Federation"}
+{"entity": "Stavropol State University", "url": "*.stavsu.ru/*", "country": "Russian Federation"}
+{"entity": "Lipeck State Technical University", "url": "*.stu.lipetsk.ru/*", "country": "Russian Federation"}
+{"entity": "Siberian State Transport University", "url": "*.stu.ru/*", "country": "Russian Federation"}
+{"entity": "Surgut State University", "url": "*.surgu.wsnet.ru/*", "country": "Russian Federation"}
+{"entity": "Taganrog State Pedagogical Institute", "url": "*.tgpi.ttn.ru/*", "country": "Russian Federation"}
+{"entity": "Tyumen State Agricultural Academy", "url": "*.tgsha.ru/*", "country": "Russian Federation"}
+{"entity": "Yaroslavl State Theatre Institute", "url": "*.theatrins-yar.ru/*", "country": "Russian Federation"}
+{"entity": "Timirjazev Moscow Academy of Agricultutre", "url": "*.timacad.ru/*", "country": "Russian Federation"}
+{"entity": "Togliatti State University", "url": "*.tltsu.ru/*", "country": "Russian Federation"}
+{"entity": "Moscow University Touro", "url": "*.touro.ru/*", "country": "Russian Federation"}
+{"entity": "Tomsk Polytechnic University", "url": "*.tpu.ru/*", "country": "Russian Federation"}
+{"entity": "Tver State Medical Academy", "url": "*.tsma.ru/*", "country": "Russian Federation"}
+{"entity": "Tyumen State University of Gas and Oil", "url": "*.tsogu.ru/*", "country": "Russian Federation"}
+{"entity": "Tomsk State Pedagogical University", "url": "*.tspu.edu.ru/*", "country": "Russian Federation"}
+{"entity": "Tambov State Technical University", "url": "*.tstu.ru/*", "country": "Russian Federation"}
+{"entity": "Tver State Technical University", "url": "*.tstu.tver.ru/*", "country": "Russian Federation"}
+{"entity": "Tomsk State University of Architecture and Building", "url": "*.tsuab.ru/*", "country": "Russian Federation"}
+{"entity": "Taganrog State University of Radioengineering", "url": "*.tsure.ru/*", "country": "Russian Federation"}
+{"entity": "Tomsk State University", "url": "*.tsu.ru/*", "country": "Russian Federation"}
+{"entity": "Tyumen State University", "url": "*.tsu.tmn.ru/*", "country": "Russian Federation"}
+{"entity": "Tula State University", "url": "*.tsu.tula.ru/*", "country": "Russian Federation"}
+{"entity": "Ryazan State Pedagogical University", "url": "*.ttc.ryazan.ru/*", "country": "Russian Federation"}
+{"entity": "Brjansk State Technical University", "url": "*.tu-bryansk.ru/*", "country": "Russian Federation"}
+{"entity": "Southern Ural State University", "url": "*.tu-chel.ac.ru/*", "country": "Russian Federation"}
+{"entity": "Tomsk State University of Control Systems and Radioelectronics", "url": "*.tusur.ru/*", "country": "Russian Federation"}

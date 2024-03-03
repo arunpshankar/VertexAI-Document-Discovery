@@ -1,50 +1,50 @@
-{"name": "Ain Shams University", "root_url": "*.shams.edu.eg/*", "country": "Egypt"}
-{"name": "Sohag University", "root_url": "*.sohag-univ.edu.eg/*", "country": "Egypt"}
-{"name": "Sinai University", "root_url": "*.su.edu.eg/*", "country": "Egypt"}
-{"name": "Suez Canal University", "root_url": "*.suez.edu.eg/*", "country": "Egypt"}
-{"name": "South Valley University", "root_url": "*.svu.edu.eg/*", "country": "Egypt"}
-{"name": "Tanta University", "root_url": "*.tanta.edu.eg/*", "country": "Egypt"}
-{"name": "Zagazig University", "root_url": "*.zu.edu.eg/*", "country": "Egypt"}
-{"name": "Universidad Don Bosco", "root_url": "*.cdb.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Luterana Salvadorena", "root_url": "*.netcomsa.com/uls/*", "country": "El Salvador"}
-{"name": "Universidad Albert Einstein", "root_url": "*.uae.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Cristiana de las Asambleas de Dios", "root_url": "*.ucad.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad de El Salvador", "root_url": "*.ues.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Francisco Gavidia", "root_url": "*.ufg.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Capitain General Gerardo Barrios", "root_url": "*.ugb.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Modular Abierta", "root_url": "*.uma.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Monsenor Oscar Arnulfo Romeo", "root_url": "*.umoar.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad de Oriente", "root_url": "*.univo.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Nueva San Salvador", "root_url": "*.unssa.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Panamericana de San Salvador", "root_url": "*.upan.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Isaac Newton", "root_url": "*.usin.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad de Sonsonate", "root_url": "*.usonsonate.edu.sv/*", "country": "El Salvador"}
-{"name": "Universidad Nacional de Guinea Ecuatorial", "root_url": "*.unge.gq/*", "country": "Equatorial Guinea"}
-{"name": "Eritrea Institute of Technology", "root_url": "*.eit.edu.er/*", "country": "Eritrea"}
-{"name": "Estonian Academy of Arts", "root_url": "*.artun.ee/*", "country": "Estonia"}
-{"name": "Estonian Business School", "root_url": "*.ebs.ee/*", "country": "Estonia"}
-{"name": "Estonian Academy of Music and Theatre", "root_url": "*.ema.edu.ee/*", "country": "Estonia"}
-{"name": "Estonian University of Life Sciences", "root_url": "*.emu.ee/*", "country": "Estonia"}
-{"name": "Tartu Health Care College", "root_url": "*.nooruse.ee/*", "country": "Estonia"}
-{"name": "Estonian Academy of Security Sciences", "root_url": "*.sisekaitse.ee/*", "country": "Estonia"}
-{"name": "University of Applied Sciences", "root_url": "*.tktk.ee/*", "country": "Estonia"}
-{"name": "Tallinn University", "root_url": "*.tlu.ee/*", "country": "Estonia"}
-{"name": "Tallinn University of Technology", "root_url": "*.ttu.ee/*", "country": "Estonia"}
-{"name": "University of Tartu", "root_url": "*.ut.ee/*", "country": "Estonia"}
-{"name": "Addis Ababa University", "root_url": "*.aau.edu.et/*", "country": "Ethiopia"}
-{"name": "Adigrat University", "root_url": "*.adu.edu.et/*", "country": "Ethiopia"}
-{"name": "Aksum University", "root_url": "*.aku.edu.et/*", "country": "Ethiopia"}
-{"name": "Ambo University", "root_url": "*.ambou.edu.et/*", "country": "Ethiopia"}
-{"name": "Arba Minch University", "root_url": "*.amu.edu.et/*", "country": "Ethiopia"}
-{"name": "Adama Science and Technology University", "root_url": "*.astu.edu.et/*", "country": "Ethiopia"}
-{"name": "Assosa University", "root_url": "*.asu.edu.et/*", "country": "Ethiopia"}
-{"name": "Bahir Dar University", "root_url": "*.bdu.edu.et/*", "country": "Ethiopia"}
-{"name": "Bule Hora  University", "root_url": "*.bulehorauniversity.com/*", "country": "Ethiopia"}
-{"name": "Debre Birhan University", "root_url": "*.dbu.edu.et/*", "country": "Ethiopia"}
-{"name": "Dire Dawa University", "root_url": "*.ddu.edu.et/*", "country": "Ethiopia"}
-{"name": "Dilla University", "root_url": "*.dillauniversity.edu.et/*", "country": "Ethiopia"}
-{"name": "Debre Markos University", "root_url": "*.dmu.edu.et/*", "country": "Ethiopia"}
-{"name": "Ethiopian Civil Service University", "root_url": "*.ecsc.edu.et/*", "country": "Ethiopia"}
-{"name": "Haramaya University", "root_url": "*.haramaya.edu.et/*", "country": "Ethiopia"}
-{"name": "Hawassa University", "root_url": "*.hu.edu.et/*", "country": "Ethiopia"}
-{"name": "Jigjiga University", "root_url": "*.jju.edu.et/*", "country": "Ethiopia"}
+{"entity": "Ain Shams University", "url": "*.shams.edu.eg/*", "country": "Egypt"}
+{"entity": "Sohag University", "url": "*.sohag-univ.edu.eg/*", "country": "Egypt"}
+{"entity": "Sinai University", "url": "*.su.edu.eg/*", "country": "Egypt"}
+{"entity": "Suez Canal University", "url": "*.suez.edu.eg/*", "country": "Egypt"}
+{"entity": "South Valley University", "url": "*.svu.edu.eg/*", "country": "Egypt"}
+{"entity": "Tanta University", "url": "*.tanta.edu.eg/*", "country": "Egypt"}
+{"entity": "Zagazig University", "url": "*.zu.edu.eg/*", "country": "Egypt"}
+{"entity": "Universidad Don Bosco", "url": "*.cdb.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Luterana Salvadorena", "url": "*.netcomsa.com/uls/*", "country": "El Salvador"}
+{"entity": "Universidad Albert Einstein", "url": "*.uae.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Cristiana de las Asambleas de Dios", "url": "*.ucad.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad de El Salvador", "url": "*.ues.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Francisco Gavidia", "url": "*.ufg.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Capitain General Gerardo Barrios", "url": "*.ugb.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Modular Abierta", "url": "*.uma.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Monsenor Oscar Arnulfo Romeo", "url": "*.umoar.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad de Oriente", "url": "*.univo.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Nueva San Salvador", "url": "*.unssa.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Panamericana de San Salvador", "url": "*.upan.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Isaac Newton", "url": "*.usin.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad de Sonsonate", "url": "*.usonsonate.edu.sv/*", "country": "El Salvador"}
+{"entity": "Universidad Nacional de Guinea Ecuatorial", "url": "*.unge.gq/*", "country": "Equatorial Guinea"}
+{"entity": "Eritrea Institute of Technology", "url": "*.eit.edu.er/*", "country": "Eritrea"}
+{"entity": "Estonian Academy of Arts", "url": "*.artun.ee/*", "country": "Estonia"}
+{"entity": "Estonian Business School", "url": "*.ebs.ee/*", "country": "Estonia"}
+{"entity": "Estonian Academy of Music and Theatre", "url": "*.ema.edu.ee/*", "country": "Estonia"}
+{"entity": "Estonian University of Life Sciences", "url": "*.emu.ee/*", "country": "Estonia"}
+{"entity": "Tartu Health Care College", "url": "*.nooruse.ee/*", "country": "Estonia"}
+{"entity": "Estonian Academy of Security Sciences", "url": "*.sisekaitse.ee/*", "country": "Estonia"}
+{"entity": "University of Applied Sciences", "url": "*.tktk.ee/*", "country": "Estonia"}
+{"entity": "Tallinn University", "url": "*.tlu.ee/*", "country": "Estonia"}
+{"entity": "Tallinn University of Technology", "url": "*.ttu.ee/*", "country": "Estonia"}
+{"entity": "University of Tartu", "url": "*.ut.ee/*", "country": "Estonia"}
+{"entity": "Addis Ababa University", "url": "*.aau.edu.et/*", "country": "Ethiopia"}
+{"entity": "Adigrat University", "url": "*.adu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Aksum University", "url": "*.aku.edu.et/*", "country": "Ethiopia"}
+{"entity": "Ambo University", "url": "*.ambou.edu.et/*", "country": "Ethiopia"}
+{"entity": "Arba Minch University", "url": "*.amu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Adama Science and Technology University", "url": "*.astu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Assosa University", "url": "*.asu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Bahir Dar University", "url": "*.bdu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Bule Hora  University", "url": "*.bulehorauniversity.com/*", "country": "Ethiopia"}
+{"entity": "Debre Birhan University", "url": "*.dbu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Dire Dawa University", "url": "*.ddu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Dilla University", "url": "*.dillauniversity.edu.et/*", "country": "Ethiopia"}
+{"entity": "Debre Markos University", "url": "*.dmu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Ethiopian Civil Service University", "url": "*.ecsc.edu.et/*", "country": "Ethiopia"}
+{"entity": "Haramaya University", "url": "*.haramaya.edu.et/*", "country": "Ethiopia"}
+{"entity": "Hawassa University", "url": "*.hu.edu.et/*", "country": "Ethiopia"}
+{"entity": "Jigjiga University", "url": "*.jju.edu.et/*", "country": "Ethiopia"}

@@ -1,50 +1,50 @@
-{"name": "Indian Statistical Institute", "root_url": "*.isical.ac.in/*", "country": "India"}
-{"name": "Institute of Technology and Management", "root_url": "*.itmindia.edu/*", "country": "India"}
-{"name": "Indian University", "root_url": "*.iur.ac.in/*", "country": "India"}
-{"name": "Indian Veterinary Research Institute", "root_url": "*.ivri.nic.in/*", "country": "India"}
-{"name": "Jadavpur University", "root_url": "*.jadavpur.edu/*", "country": "India"}
-{"name": "First Global University to teaching Jainism", "root_url": "*.jainuniversity.org/*", "country": "India"}
-{"name": "Jamia Hamdard University", "root_url": "*.jamiahamdard.edu/*", "country": "India"}
-{"name": "University of Jammu", "root_url": "*.jammuvarsity.org/*", "country": "India"}
-{"name": "Jaypee Institute of Information Technology", "root_url": "*.jiit.ac.in/*", "country": "India"}
-{"name": "Jiwaji University", "root_url": "*.jiwaji.edu/*", "country": "India"}
-{"name": "Jamia Millia Islamia University", "root_url": "*.jmi.nic.in/*", "country": "India"}
-{"name": "Jawaharlal Nehru Centre for Advanced  Scientific Research", "root_url": "*.jncasr.ac.in/*", "country": "India"}
-{"name": "Jawaharlal Nehru Agricultural University", "root_url": "*.jnkvv.nic.in/*", "country": "India"}
-{"name": "Jawaharlal Nehru Technological University", "root_url": "*.jntu.ac.in/*", "country": "India"}
-{"name": "Jawaharlal Nehru University", "root_url": "*.jnu.ac.in/*", "country": "India"}
-{"name": "Jaipur National University", "root_url": "*.jnujaipur.ac.in/*", "country": "India"}
-{"name": "Jodhpur National University", "root_url": "*.jodhpurnationaluniversity.com/*", "country": "India"}
-{"name": "Jai Prakash University", "root_url": "*.jpv.bih.nic.in/*", "country": "India"}
-{"name": "Rajasthan Vidyapeeth University", "root_url": "*.jrnrvu.org/*", "country": "India"}
-{"name": "Jain Vishva Bharati Institute", "root_url": "*.jvbi.ac.in/*", "country": "India"}
-{"name": "Kalinga University", "root_url": "*.kalingauniversity.com/*", "country": "India"}
-{"name": "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya", "root_url": "*.kanchiuniv.ac.in/*", "country": "India"}
-{"name": "Kannada University", "root_url": "*.kannadauniversity.org/*", "country": "India"}
-{"name": "Kannur University", "root_url": "*.kannuruniversity.ac.in/*", "country": "India"}
-{"name": "Chhatrapati Shahu Ji Maharaj University", "root_url": "*.kanpuruniversity.org/*", "country": "India"}
-{"name": "Kanpur University", "root_url": "*.kanpuruniversity.org/*", "country": "India"}
-{"name": "Karnataka State Open University", "root_url": "*.karnatakastateopenuniversity.in/*", "country": "India"}
-{"name": "Karpagam University", "root_url": "*.karpagamuniv.com/*", "country": "India"}
-{"name": "University of Kashmir", "root_url": "*.kashmiruniversity.net/*", "country": "India"}
-{"name": "Kerala Agricultural University", "root_url": "*.kau.edu/*", "country": "India"}
-{"name": "University of Kerala", "root_url": "*.keralauniversity.ac.in/*", "country": "India"}
-{"name": "Kohinoor School of Hospitality Management", "root_url": "*.kimi.kohinoor.ac.in/*", "country": "India"}
-{"name": "University of Kalyani", "root_url": "*.klyuniv.ac.in/*", "country": "India"}
-{"name": "Krishna University", "root_url": "*.krishnauniversity.ac.in/*", "country": "India"}
-{"name": "Kameshwar Singh Darbhanga Sanskrit University", "root_url": "*.ksdsu.edu.in/*", "country": "India"}
-{"name": "Karnataka State Law University", "root_url": "*.kslu.ac.in/*", "country": "India"}
-{"name": "Karnatak University", "root_url": "*.kud.ac.in/*", "country": "India"}
-{"name": "Kerala University of Fisheries and Ocean Sciences", "root_url": "*.kufos.ac.in/*", "country": "India"}
-{"name": "Kurukshetra University", "root_url": "*.kukinfo.com/*", "country": "India"}
-{"name": "Kumaraguru College of Technology", "root_url": "*.kct.ac.in/*", "country": "India"}
-{"name": "Kumaun University", "root_url": "*.kumaununiversity.org/*", "country": "India"}
-{"name": "Kuvempu University", "root_url": "*.kuvempu.ac.in/*", "country": "India"}
-{"name": "Kakatiya University", "root_url": "*.kuwarangal.com/*", "country": "India"}
-{"name": "Lakshmibai National Institute of Physical Education", "root_url": "*.lnipe.edu/*", "country": "India"}
-{"name": "Lalit Narayan Mithila University", "root_url": "*.lnmu.bih.nic.in/*", "country": "India"}
-{"name": "University of Lucknow", "root_url": "*.lucknowuniv.org/*", "country": "India"}
-{"name": "Mar Athanasios College for Advanced Studies", "root_url": "*.macfast.org/*", "country": "India"}
-{"name": "Magadh University", "root_url": "*.magadhuniversity.org/*", "country": "India"}
-{"name": "Mangalore University", "root_url": "*.mangaloreuniversity.ac.in/*", "country": "India"}
-{"name": "Manipal University", "root_url": "*.manipal.edu/*", "country": "India"}
+{"entity": "Indian Statistical Institute", "url": "*.isical.ac.in/*", "country": "India"}
+{"entity": "Institute of Technology and Management", "url": "*.itmindia.edu/*", "country": "India"}
+{"entity": "Indian University", "url": "*.iur.ac.in/*", "country": "India"}
+{"entity": "Indian Veterinary Research Institute", "url": "*.ivri.nic.in/*", "country": "India"}
+{"entity": "Jadavpur University", "url": "*.jadavpur.edu/*", "country": "India"}
+{"entity": "First Global University to teaching Jainism", "url": "*.jainuniversity.org/*", "country": "India"}
+{"entity": "Jamia Hamdard University", "url": "*.jamiahamdard.edu/*", "country": "India"}
+{"entity": "University of Jammu", "url": "*.jammuvarsity.org/*", "country": "India"}
+{"entity": "Jaypee Institute of Information Technology", "url": "*.jiit.ac.in/*", "country": "India"}
+{"entity": "Jiwaji University", "url": "*.jiwaji.edu/*", "country": "India"}
+{"entity": "Jamia Millia Islamia University", "url": "*.jmi.nic.in/*", "country": "India"}
+{"entity": "Jawaharlal Nehru Centre for Advanced  Scientific Research", "url": "*.jncasr.ac.in/*", "country": "India"}
+{"entity": "Jawaharlal Nehru Agricultural University", "url": "*.jnkvv.nic.in/*", "country": "India"}
+{"entity": "Jawaharlal Nehru Technological University", "url": "*.jntu.ac.in/*", "country": "India"}
+{"entity": "Jawaharlal Nehru University", "url": "*.jnu.ac.in/*", "country": "India"}
+{"entity": "Jaipur National University", "url": "*.jnujaipur.ac.in/*", "country": "India"}
+{"entity": "Jodhpur National University", "url": "*.jodhpurnationaluniversity.com/*", "country": "India"}
+{"entity": "Jai Prakash University", "url": "*.jpv.bih.nic.in/*", "country": "India"}
+{"entity": "Rajasthan Vidyapeeth University", "url": "*.jrnrvu.org/*", "country": "India"}
+{"entity": "Jain Vishva Bharati Institute", "url": "*.jvbi.ac.in/*", "country": "India"}
+{"entity": "Kalinga University", "url": "*.kalingauniversity.com/*", "country": "India"}
+{"entity": "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya", "url": "*.kanchiuniv.ac.in/*", "country": "India"}
+{"entity": "Kannada University", "url": "*.kannadauniversity.org/*", "country": "India"}
+{"entity": "Kannur University", "url": "*.kannuruniversity.ac.in/*", "country": "India"}
+{"entity": "Chhatrapati Shahu Ji Maharaj University", "url": "*.kanpuruniversity.org/*", "country": "India"}
+{"entity": "Kanpur University", "url": "*.kanpuruniversity.org/*", "country": "India"}
+{"entity": "Karnataka State Open University", "url": "*.karnatakastateopenuniversity.in/*", "country": "India"}
+{"entity": "Karpagam University", "url": "*.karpagamuniv.com/*", "country": "India"}
+{"entity": "University of Kashmir", "url": "*.kashmiruniversity.net/*", "country": "India"}
+{"entity": "Kerala Agricultural University", "url": "*.kau.edu/*", "country": "India"}
+{"entity": "University of Kerala", "url": "*.keralauniversity.ac.in/*", "country": "India"}
+{"entity": "Kohinoor School of Hospitality Management", "url": "*.kimi.kohinoor.ac.in/*", "country": "India"}
+{"entity": "University of Kalyani", "url": "*.klyuniv.ac.in/*", "country": "India"}
+{"entity": "Krishna University", "url": "*.krishnauniversity.ac.in/*", "country": "India"}
+{"entity": "Kameshwar Singh Darbhanga Sanskrit University", "url": "*.ksdsu.edu.in/*", "country": "India"}
+{"entity": "Karnataka State Law University", "url": "*.kslu.ac.in/*", "country": "India"}
+{"entity": "Karnatak University", "url": "*.kud.ac.in/*", "country": "India"}
+{"entity": "Kerala University of Fisheries and Ocean Sciences", "url": "*.kufos.ac.in/*", "country": "India"}
+{"entity": "Kurukshetra University", "url": "*.kukinfo.com/*", "country": "India"}
+{"entity": "Kumaraguru College of Technology", "url": "*.kct.ac.in/*", "country": "India"}
+{"entity": "Kumaun University", "url": "*.kumaununiversity.org/*", "country": "India"}
+{"entity": "Kuvempu University", "url": "*.kuvempu.ac.in/*", "country": "India"}
+{"entity": "Kakatiya University", "url": "*.kuwarangal.com/*", "country": "India"}
+{"entity": "Lakshmibai National Institute of Physical Education", "url": "*.lnipe.edu/*", "country": "India"}
+{"entity": "Lalit Narayan Mithila University", "url": "*.lnmu.bih.nic.in/*", "country": "India"}
+{"entity": "University of Lucknow", "url": "*.lucknowuniv.org/*", "country": "India"}
+{"entity": "Mar Athanasios College for Advanced Studies", "url": "*.macfast.org/*", "country": "India"}
+{"entity": "Magadh University", "url": "*.magadhuniversity.org/*", "country": "India"}
+{"entity": "Mangalore University", "url": "*.mangaloreuniversity.ac.in/*", "country": "India"}
+{"entity": "Manipal University", "url": "*.manipal.edu/*", "country": "India"}

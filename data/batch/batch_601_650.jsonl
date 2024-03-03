@@ -1,50 +1,50 @@
-{"name": "Phillips University", "root_url": "*.phillips.edu/*", "country": "United States"}
-{"name": "Pittsburg State University", "root_url": "*.pittstate.edu/*", "country": "United States"}
-{"name": "Pitzer College", "root_url": "*.pitzer.edu/*", "country": "United States"}
-{"name": "Platt College", "root_url": "*.platt.edu/*", "country": "United States"}
-{"name": "Plymouth State College", "root_url": "*.plymouth.edu/*", "country": "United States"}
-{"name": "Polytechnic University of New York", "root_url": "*.poly.edu/*", "country": "United States"}
-{"name": "Polytechnic University of Puerto Rico", "root_url": "*.pupr.edu/*", "country": "United States"}
-{"name": "Pomona College", "root_url": "*.pomona.edu/*", "country": "United States"}
-{"name": "Portland Community College", "root_url": "*.pcc.edu/*", "country": "United States"}
-{"name": "Portland State University", "root_url": "*.ee.pdx.edu/*", "country": "United States"}
-{"name": "Pratt Institute", "root_url": "*.pratt.edu/*", "country": "United States"}
-{"name": "Presbyterian College", "root_url": "*.presby.edu/*", "country": "United States"}
-{"name": "Prescott College", "root_url": "*.prescott.edu/*", "country": "United States"}
-{"name": "Princeton University", "root_url": "*.princeton.edu/*", "country": "United States"}
-{"name": "Providence College", "root_url": "*.providence.edu/*", "country": "United States"}
-{"name": "Purdue University", "root_url": "*.purdue.edu/*", "country": "United States"}
-{"name": "Purdue University Calumet", "root_url": "*.webs.purduecal.edu/*", "country": "United States"}
-{"name": "Purdue University North Central", "root_url": "*.pnc.edu/*", "country": "United States"}
-{"name": "Quincy University", "root_url": "*.quincy.edu/*", "country": "United States"}
-{"name": "Quinnipiac College", "root_url": "*.quinnipiac.edu/*", "country": "United States"}
-{"name": "Radford University", "root_url": "*.radford.edu/*", "country": "United States"}
-{"name": "Ramapo College", "root_url": "*.ramapo.edu/*", "country": "United States"}
-{"name": "Reed College", "root_url": "*.reed.edu/*", "country": "United States"}
-{"name": "Regent University", "root_url": "*.regent.edu/*", "country": "United States"}
-{"name": "Regis University", "root_url": "*.regis.edu/*", "country": "United States"}
-{"name": "Rensselaer Polytechnic Institute", "root_url": "*.rpi.edu/*", "country": "United States"}
-{"name": "Rhode Island College", "root_url": "*.ric.edu/*", "country": "United States"}
-{"name": "Rhodes College", "root_url": "*.rhodes.edu/*", "country": "United States"}
-{"name": "Rice University", "root_url": "*.rice.edu/*", "country": "United States"}
-{"name": "Richard Stockton College of New Jersey", "root_url": "*.stockton.edu/*", "country": "United States"}
-{"name": "Rider University", "root_url": "*.rider.edu/*", "country": "United States"}
-{"name": "Ripon College", "root_url": "*.ripon.edu/*", "country": "United States"}
-{"name": "Rivier College", "root_url": "*.riv.edu/*", "country": "United States"}
-{"name": "Roanoke College", "root_url": "*.roanoke.edu/*", "country": "United States"}
-{"name": "Robert Morris University", "root_url": "*.rmu.edu/*", "country": "United States"}
-{"name": "Rochester Institute of Technology", "root_url": "*.rit.edu/*", "country": "United States"}
-{"name": "Rockefeller University", "root_url": "*.rockefeller.edu/*", "country": "United States"}
-{"name": "Rockford College", "root_url": "*.rockford.edu/*", "country": "United States"}
-{"name": "Rockhurst College", "root_url": "*.rockhurst.edu/*", "country": "United States"}
-{"name": "Rocky Mountain College", "root_url": "*.rocky.edu/*", "country": "United States"}
-{"name": "Roger Williams University", "root_url": "*.rwu.edu/*", "country": "United States"}
-{"name": "Rollins College", "root_url": "*.rollins.edu/*", "country": "United States"}
-{"name": "Rosary College", "root_url": "*.rosary.edu/*", "country": "United States"}
-{"name": "Rowan College", "root_url": "*.rowan.edu/*", "country": "United States"}
-{"name": "Rutgers University", "root_url": "*.rutgers.edu/*", "country": "United States"}
-{"name": "Sacred Heart University", "root_url": "*.sacredheart.edu/*", "country": "United States"}
-{"name": "Sage Colleges", "root_url": "*.sage.edu/*", "country": "United States"}
-{"name": "Saginaw Valley State University", "root_url": "*.svsu.edu/*", "country": "United States"}
-{"name": "Saint Anselm College", "root_url": "*.anselm.edu/*", "country": "United States"}
-{"name": "Saint Cloud State University", "root_url": "*.stcloudstate.edu/*", "country": "United States"}
+{"entity": "Phillips University", "url": "*.phillips.edu/*", "country": "United States"}
+{"entity": "Pittsburg State University", "url": "*.pittstate.edu/*", "country": "United States"}
+{"entity": "Pitzer College", "url": "*.pitzer.edu/*", "country": "United States"}
+{"entity": "Platt College", "url": "*.platt.edu/*", "country": "United States"}
+{"entity": "Plymouth State College", "url": "*.plymouth.edu/*", "country": "United States"}
+{"entity": "Polytechnic University of New York", "url": "*.poly.edu/*", "country": "United States"}
+{"entity": "Polytechnic University of Puerto Rico", "url": "*.pupr.edu/*", "country": "United States"}
+{"entity": "Pomona College", "url": "*.pomona.edu/*", "country": "United States"}
+{"entity": "Portland Community College", "url": "*.pcc.edu/*", "country": "United States"}
+{"entity": "Portland State University", "url": "*.ee.pdx.edu/*", "country": "United States"}
+{"entity": "Pratt Institute", "url": "*.pratt.edu/*", "country": "United States"}
+{"entity": "Presbyterian College", "url": "*.presby.edu/*", "country": "United States"}
+{"entity": "Prescott College", "url": "*.prescott.edu/*", "country": "United States"}
+{"entity": "Princeton University", "url": "*.princeton.edu/*", "country": "United States"}
+{"entity": "Providence College", "url": "*.providence.edu/*", "country": "United States"}
+{"entity": "Purdue University", "url": "*.purdue.edu/*", "country": "United States"}
+{"entity": "Purdue University Calumet", "url": "*.webs.purduecal.edu/*", "country": "United States"}
+{"entity": "Purdue University North Central", "url": "*.pnc.edu/*", "country": "United States"}
+{"entity": "Quincy University", "url": "*.quincy.edu/*", "country": "United States"}
+{"entity": "Quinnipiac College", "url": "*.quinnipiac.edu/*", "country": "United States"}
+{"entity": "Radford University", "url": "*.radford.edu/*", "country": "United States"}
+{"entity": "Ramapo College", "url": "*.ramapo.edu/*", "country": "United States"}
+{"entity": "Reed College", "url": "*.reed.edu/*", "country": "United States"}
+{"entity": "Regent University", "url": "*.regent.edu/*", "country": "United States"}
+{"entity": "Regis University", "url": "*.regis.edu/*", "country": "United States"}
+{"entity": "Rensselaer Polytechnic Institute", "url": "*.rpi.edu/*", "country": "United States"}
+{"entity": "Rhode Island College", "url": "*.ric.edu/*", "country": "United States"}
+{"entity": "Rhodes College", "url": "*.rhodes.edu/*", "country": "United States"}
+{"entity": "Rice University", "url": "*.rice.edu/*", "country": "United States"}
+{"entity": "Richard Stockton College of New Jersey", "url": "*.stockton.edu/*", "country": "United States"}
+{"entity": "Rider University", "url": "*.rider.edu/*", "country": "United States"}
+{"entity": "Ripon College", "url": "*.ripon.edu/*", "country": "United States"}
+{"entity": "Rivier College", "url": "*.riv.edu/*", "country": "United States"}
+{"entity": "Roanoke College", "url": "*.roanoke.edu/*", "country": "United States"}
+{"entity": "Robert Morris University", "url": "*.rmu.edu/*", "country": "United States"}
+{"entity": "Rochester Institute of Technology", "url": "*.rit.edu/*", "country": "United States"}
+{"entity": "Rockefeller University", "url": "*.rockefeller.edu/*", "country": "United States"}
+{"entity": "Rockford College", "url": "*.rockford.edu/*", "country": "United States"}
+{"entity": "Rockhurst College", "url": "*.rockhurst.edu/*", "country": "United States"}
+{"entity": "Rocky Mountain College", "url": "*.rocky.edu/*", "country": "United States"}
+{"entity": "Roger Williams University", "url": "*.rwu.edu/*", "country": "United States"}
+{"entity": "Rollins College", "url": "*.rollins.edu/*", "country": "United States"}
+{"entity": "Rosary College", "url": "*.rosary.edu/*", "country": "United States"}
+{"entity": "Rowan College", "url": "*.rowan.edu/*", "country": "United States"}
+{"entity": "Rutgers University", "url": "*.rutgers.edu/*", "country": "United States"}
+{"entity": "Sacred Heart University", "url": "*.sacredheart.edu/*", "country": "United States"}
+{"entity": "Sage Colleges", "url": "*.sage.edu/*", "country": "United States"}
+{"entity": "Saginaw Valley State University", "url": "*.svsu.edu/*", "country": "United States"}
+{"entity": "Saint Anselm College", "url": "*.anselm.edu/*", "country": "United States"}
+{"entity": "Saint Cloud State University", "url": "*.stcloudstate.edu/*", "country": "United States"}

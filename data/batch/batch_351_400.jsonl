@@ -1,50 +1,50 @@
-{"name": "Hartwick College", "root_url": "*.hartwick.edu/*", "country": "United States"}
-{"name": "Harvard University", "root_url": "*.harvard.edu/*", "country": "United States"}
-{"name": "Harvey Mudd College", "root_url": "*.hmc.edu/*", "country": "United States"}
-{"name": "Haskell Indian Nations University", "root_url": "*.haskell.edu/*", "country": "United States"}
-{"name": "Hastings College", "root_url": "*.hastings.edu/*", "country": "United States"}
-{"name": "Haverford College in Pennsylvania", "root_url": "*.haverford.edu/*", "country": "United States"}
-{"name": "Hawaii Pacific University", "root_url": "*.hpu.edu/*", "country": "United States"}
-{"name": "Heidelberg College", "root_url": "*.heidelberg.edu/*", "country": "United States"}
-{"name": "Hendrix College", "root_url": "*.hendrix.edu/*", "country": "United States"}
-{"name": "Hesston College", "root_url": "*.hesston.edu/*", "country": "United States"}
-{"name": "High Point University", "root_url": "*.highpoint.edu/*", "country": "United States"}
-{"name": "Hillsdale College", "root_url": "*.hillsdale.edu/*", "country": "United States"}
-{"name": "Hiram College", "root_url": "*.hiram.edu/*", "country": "United States"}
-{"name": "Hobart and William Smith Colleges", "root_url": "*.hws.edu/*", "country": "United States"}
-{"name": "Hofstra University", "root_url": "*.hofstra.edu/*", "country": "United States"}
-{"name": "Hollins College", "root_url": "*.hollins.edu/*", "country": "United States"}
-{"name": "Hood College", "root_url": "*.hood.edu/*", "country": "United States"}
-{"name": "Hope College", "root_url": "*.hope.edu/*", "country": "United States"}
-{"name": "Howard Community College", "root_url": "*.howardcc.edu/*", "country": "United States"}
-{"name": "Howard University", "root_url": "*.howard.edu/*", "country": "United States"}
-{"name": "Humboldt State University", "root_url": "*.humboldt.edu/*", "country": "United States"}
-{"name": "Hunter College", "root_url": "*.hunter.cuny.edu/*", "country": "United States"}
-{"name": "Huntingdon College", "root_url": "*.huntingdon.edu/*", "country": "United States"}
-{"name": "Huntington University", "root_url": "*.huntington.edu/*", "country": "United States"}
-{"name": "ICI University", "root_url": "*.ici.edu/*", "country": "United States"}
-{"name": "Idaho State University", "root_url": "*.isu.edu/*", "country": "United States"}
-{"name": "Illinois Benedictine College", "root_url": "*.ibc.edu/*", "country": "United States"}
-{"name": "Illinois Institute of Technology", "root_url": "*.iit.edu/*", "country": "United States"}
-{"name": "Illinois State University", "root_url": "*.illinoisstate.edu/*", "country": "United States"}
-{"name": "Indiana Institute of Technology", "root_url": "*.indianatech.edu/*", "country": "United States"}
-{"name": "Indiana State University", "root_url": "*.indstate.edu/*", "country": "United States"}
-{"name": "Indiana University", "root_url": "*.iu.edu/*", "country": "United States"}
-{"name": "Indiana University at Bloomington", "root_url": "*.indiana.edu/*", "country": "United States"}
-{"name": "Indiana University at South Bend", "root_url": "*.iusb.edu/*", "country": "United States"}
-{"name": "Indiana University of Pennsylvania", "root_url": "*.iup.edu/*", "country": "United States"}
-{"name": "Indiana University Southeast", "root_url": "*.ius.edu/*", "country": "United States"}
-{"name": "Institute for World Politics", "root_url": "*.iwp.edu/*", "country": "United States"}
-{"name": "Iona College", "root_url": "*.iona.edu/*", "country": "United States"}
-{"name": "Iowa State University", "root_url": "*.iastate.edu/*", "country": "United States"}
-{"name": "Irvine Valley College", "root_url": "*.ivc.edu/*", "country": "United States"}
-{"name": "Ithaca College", "root_url": "*.ithaca.edu/*", "country": "United States"}
-{"name": "Jackson State University", "root_url": "*.jsums.edu/*", "country": "United States"}
-{"name": "Jacksonville State University", "root_url": "*.jsu.edu/*", "country": "United States"}
-{"name": "Jacksonville University", "root_url": "*.ju.edu/*", "country": "United States"}
-{"name": "James Madison University", "root_url": "*.jmu.edu/*", "country": "United States"}
-{"name": "John Brown University", "root_url": "*.jbu.edu/*", "country": "United States"}
-{"name": "Johns Hopkins University", "root_url": "*.jhu.edu/*", "country": "United States"}
-{"name": "Johns Hopkins University Applied Physics Laboratory", "root_url": "*.jhuapl.edu/*", "country": "United States"}
-{"name": "Johnson Bible College", "root_url": "*.jbc.edu/*", "country": "United States"}
-{"name": "Jones College", "root_url": "*.jones.edu/*", "country": "United States"}
+{"entity": "Hartwick College", "url": "*.hartwick.edu/*", "country": "United States"}
+{"entity": "Harvard University", "url": "*.harvard.edu/*", "country": "United States"}
+{"entity": "Harvey Mudd College", "url": "*.hmc.edu/*", "country": "United States"}
+{"entity": "Haskell Indian Nations University", "url": "*.haskell.edu/*", "country": "United States"}
+{"entity": "Hastings College", "url": "*.hastings.edu/*", "country": "United States"}
+{"entity": "Haverford College in Pennsylvania", "url": "*.haverford.edu/*", "country": "United States"}
+{"entity": "Hawaii Pacific University", "url": "*.hpu.edu/*", "country": "United States"}
+{"entity": "Heidelberg College", "url": "*.heidelberg.edu/*", "country": "United States"}
+{"entity": "Hendrix College", "url": "*.hendrix.edu/*", "country": "United States"}
+{"entity": "Hesston College", "url": "*.hesston.edu/*", "country": "United States"}
+{"entity": "High Point University", "url": "*.highpoint.edu/*", "country": "United States"}
+{"entity": "Hillsdale College", "url": "*.hillsdale.edu/*", "country": "United States"}
+{"entity": "Hiram College", "url": "*.hiram.edu/*", "country": "United States"}
+{"entity": "Hobart and William Smith Colleges", "url": "*.hws.edu/*", "country": "United States"}
+{"entity": "Hofstra University", "url": "*.hofstra.edu/*", "country": "United States"}
+{"entity": "Hollins College", "url": "*.hollins.edu/*", "country": "United States"}
+{"entity": "Hood College", "url": "*.hood.edu/*", "country": "United States"}
+{"entity": "Hope College", "url": "*.hope.edu/*", "country": "United States"}
+{"entity": "Howard Community College", "url": "*.howardcc.edu/*", "country": "United States"}
+{"entity": "Howard University", "url": "*.howard.edu/*", "country": "United States"}
+{"entity": "Humboldt State University", "url": "*.humboldt.edu/*", "country": "United States"}
+{"entity": "Hunter College", "url": "*.hunter.cuny.edu/*", "country": "United States"}
+{"entity": "Huntingdon College", "url": "*.huntingdon.edu/*", "country": "United States"}
+{"entity": "Huntington University", "url": "*.huntington.edu/*", "country": "United States"}
+{"entity": "ICI University", "url": "*.ici.edu/*", "country": "United States"}
+{"entity": "Idaho State University", "url": "*.isu.edu/*", "country": "United States"}
+{"entity": "Illinois Benedictine College", "url": "*.ibc.edu/*", "country": "United States"}
+{"entity": "Illinois Institute of Technology", "url": "*.iit.edu/*", "country": "United States"}
+{"entity": "Illinois State University", "url": "*.illinoisstate.edu/*", "country": "United States"}
+{"entity": "Indiana Institute of Technology", "url": "*.indianatech.edu/*", "country": "United States"}
+{"entity": "Indiana State University", "url": "*.indstate.edu/*", "country": "United States"}
+{"entity": "Indiana University", "url": "*.iu.edu/*", "country": "United States"}
+{"entity": "Indiana University at Bloomington", "url": "*.indiana.edu/*", "country": "United States"}
+{"entity": "Indiana University at South Bend", "url": "*.iusb.edu/*", "country": "United States"}
+{"entity": "Indiana University of Pennsylvania", "url": "*.iup.edu/*", "country": "United States"}
+{"entity": "Indiana University Southeast", "url": "*.ius.edu/*", "country": "United States"}
+{"entity": "Institute for World Politics", "url": "*.iwp.edu/*", "country": "United States"}
+{"entity": "Iona College", "url": "*.iona.edu/*", "country": "United States"}
+{"entity": "Iowa State University", "url": "*.iastate.edu/*", "country": "United States"}
+{"entity": "Irvine Valley College", "url": "*.ivc.edu/*", "country": "United States"}
+{"entity": "Ithaca College", "url": "*.ithaca.edu/*", "country": "United States"}
+{"entity": "Jackson State University", "url": "*.jsums.edu/*", "country": "United States"}
+{"entity": "Jacksonville State University", "url": "*.jsu.edu/*", "country": "United States"}
+{"entity": "Jacksonville University", "url": "*.ju.edu/*", "country": "United States"}
+{"entity": "James Madison University", "url": "*.jmu.edu/*", "country": "United States"}
+{"entity": "John Brown University", "url": "*.jbu.edu/*", "country": "United States"}
+{"entity": "Johns Hopkins University", "url": "*.jhu.edu/*", "country": "United States"}
+{"entity": "Johns Hopkins University Applied Physics Laboratory", "url": "*.jhuapl.edu/*", "country": "United States"}
+{"entity": "Johnson Bible College", "url": "*.jbc.edu/*", "country": "United States"}
+{"entity": "Jones College", "url": "*.jones.edu/*", "country": "United States"}

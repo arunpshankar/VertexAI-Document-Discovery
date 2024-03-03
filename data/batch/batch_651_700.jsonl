@@ -1,50 +1,50 @@
-{"name": "Saint Francis College", "root_url": "*.sfcpa.edu/*", "country": "United States"}
-{"name": "Saint Leo University", "root_url": "*.saintleo.edu/*", "country": "United States"}
-{"name": "Saint Louis University", "root_url": "*.slu.edu/*", "country": "United States"}
-{"name": "Saint Mary College", "root_url": "*.smcks.edu/*", "country": "United States"}
-{"name": "Saint Olaf College", "root_url": "*.stolaf.edu/*", "country": "United States"}
-{"name": "Saint Vincent College", "root_url": "*.stvincent.edu/*", "country": "United States"}
-{"name": "Saint Xavier University", "root_url": "*.sxu.edu/*", "country": "United States"}
-{"name": "Salisbury University", "root_url": "*.salisbury.edu/*", "country": "United States"}
-{"name": "Salish Kootenai College", "root_url": "*.skc.edu/*", "country": "United States"}
-{"name": "Samford University", "root_url": "*.samford.edu/*", "country": "United States"}
-{"name": "Sam Houston State University", "root_url": "*.shsu.edu/*", "country": "United States"}
-{"name": "San Diego State University", "root_url": "*.sdsu.edu/*", "country": "United States"}
-{"name": "San Francisco State University", "root_url": "*.sfsu.edu/*", "country": "United States"}
-{"name": "San Jose State University", "root_url": "*.sjsu.edu/*", "country": "United States"}
-{"name": "Santa Clara University", "root_url": "*.scu.edu/*", "country": "United States"}
-{"name": "Sarah Lawrence College", "root_url": "*.slc.edu/*", "country": "United States"}
-{"name": "School of the Art Institute of Chicago", "root_url": "*.saic.edu*", "country": "United States"}
-{"name": "Seattle Central College", "root_url": "*.seattlecentral.edu/*", "country": "United States"}
-{"name": "Seattle Pacific University", "root_url": "*.spu.edu/*", "country": "United States"}
-{"name": "Seattle University", "root_url": "*.seattleu.edu/*", "country": "United States"}
-{"name": "Seton Hall University", "root_url": "*.shu.edu/*", "country": "United States"}
-{"name": "Shawnee State University", "root_url": "*.shawnee.edu/*", "country": "United States"}
-{"name": "Shenandoah University", "root_url": "*.su.edu/*", "country": "United States"}
-{"name": "Shippensburg University of Pennsylvania", "root_url": "*.ship.edu/*", "country": "United States"}
-{"name": "Shorter College", "root_url": "*.shorter.edu/*", "country": "United States"}
-{"name": "Simmons College", "root_url": "*.simmons.edu/*", "country": "United States"}
-{"name": "Simpson College", "root_url": "*.simpson.edu/*", "country": "United States"}
-{"name": "Sinclair Community College", "root_url": "*.sinclair.edu/*", "country": "United States"}
-{"name": "Skidmore College", "root_url": "*.skidmore.edu/*", "country": "United States"}
-{"name": "Slippery Rock University of Pennsylvania", "root_url": "*.sru.edu/*", "country": "United States"}
-{"name": "Smith College", "root_url": "*.smith.edu/*", "country": "United States"}
-{"name": "Sonoma State University", "root_url": "*.sonoma.edu/*", "country": "United States"}
-{"name": "South Dakota School of Mines and Technology", "root_url": "*.sdsmt.edu/*", "country": "United States"}
-{"name": "South Dakota State University", "root_url": "*.sdstate.edu/*", "country": "United States"}
-{"name": "Southeastern Louisiana University", "root_url": "*.selu.edu/*", "country": "United States"}
-{"name": "Southeast Missouri State University", "root_url": "*.semo.edu/*", "country": "United States"}
-{"name": "Southern College", "root_url": "*.southern.edu/*", "country": "United States"}
-{"name": "Southern College of Technology", "root_url": "*.sct.edu/*", "country": "United States"}
-{"name": "Southern Connecticut State University", "root_url": "*.southernct.edu/*", "country": "United States"}
-{"name": "Southern Methodist University", "root_url": "*.smu.edu/*", "country": "United States"}
-{"name": "Southern Nazarene University", "root_url": "*.snu.edu/*", "country": "United States"}
-{"name": "Southern New Hampshire University", "root_url": "*.snhu.edu/*", "country": "United States"}
-{"name": "Southern Oregon State College", "root_url": "*.sou.edu/*", "country": "United States"}
-{"name": "Southern Utah University", "root_url": "*.suu.edu/*", "country": "United States"}
-{"name": "South Texas College of Law", "root_url": "*.stcl.edu/*", "country": "United States"}
-{"name": "Southwest Baptist University", "root_url": "*.sbuniv.edu/*", "country": "United States"}
-{"name": "Southwestern Adventist College", "root_url": "*.swac.edu/*", "country": "United States"}
-{"name": "Southwestern Assemblies of God University", "root_url": "*.sagu.edu/*", "country": "United States"}
-{"name": "Southwestern College", "root_url": "*.sckans.edu/*", "country": "United States"}
-{"name": "Southwestern University", "root_url": "*.southwestern.edu/*", "country": "United States"}
+{"entity": "Saint Francis College", "url": "*.sfcpa.edu/*", "country": "United States"}
+{"entity": "Saint Leo University", "url": "*.saintleo.edu/*", "country": "United States"}
+{"entity": "Saint Louis University", "url": "*.slu.edu/*", "country": "United States"}
+{"entity": "Saint Mary College", "url": "*.smcks.edu/*", "country": "United States"}
+{"entity": "Saint Olaf College", "url": "*.stolaf.edu/*", "country": "United States"}
+{"entity": "Saint Vincent College", "url": "*.stvincent.edu/*", "country": "United States"}
+{"entity": "Saint Xavier University", "url": "*.sxu.edu/*", "country": "United States"}
+{"entity": "Salisbury University", "url": "*.salisbury.edu/*", "country": "United States"}
+{"entity": "Salish Kootenai College", "url": "*.skc.edu/*", "country": "United States"}
+{"entity": "Samford University", "url": "*.samford.edu/*", "country": "United States"}
+{"entity": "Sam Houston State University", "url": "*.shsu.edu/*", "country": "United States"}
+{"entity": "San Diego State University", "url": "*.sdsu.edu/*", "country": "United States"}
+{"entity": "San Francisco State University", "url": "*.sfsu.edu/*", "country": "United States"}
+{"entity": "San Jose State University", "url": "*.sjsu.edu/*", "country": "United States"}
+{"entity": "Santa Clara University", "url": "*.scu.edu/*", "country": "United States"}
+{"entity": "Sarah Lawrence College", "url": "*.slc.edu/*", "country": "United States"}
+{"entity": "School of the Art Institute of Chicago", "url": "*.saic.edu*", "country": "United States"}
+{"entity": "Seattle Central College", "url": "*.seattlecentral.edu/*", "country": "United States"}
+{"entity": "Seattle Pacific University", "url": "*.spu.edu/*", "country": "United States"}
+{"entity": "Seattle University", "url": "*.seattleu.edu/*", "country": "United States"}
+{"entity": "Seton Hall University", "url": "*.shu.edu/*", "country": "United States"}
+{"entity": "Shawnee State University", "url": "*.shawnee.edu/*", "country": "United States"}
+{"entity": "Shenandoah University", "url": "*.su.edu/*", "country": "United States"}
+{"entity": "Shippensburg University of Pennsylvania", "url": "*.ship.edu/*", "country": "United States"}
+{"entity": "Shorter College", "url": "*.shorter.edu/*", "country": "United States"}
+{"entity": "Simmons College", "url": "*.simmons.edu/*", "country": "United States"}
+{"entity": "Simpson College", "url": "*.simpson.edu/*", "country": "United States"}
+{"entity": "Sinclair Community College", "url": "*.sinclair.edu/*", "country": "United States"}
+{"entity": "Skidmore College", "url": "*.skidmore.edu/*", "country": "United States"}
+{"entity": "Slippery Rock University of Pennsylvania", "url": "*.sru.edu/*", "country": "United States"}
+{"entity": "Smith College", "url": "*.smith.edu/*", "country": "United States"}
+{"entity": "Sonoma State University", "url": "*.sonoma.edu/*", "country": "United States"}
+{"entity": "South Dakota School of Mines and Technology", "url": "*.sdsmt.edu/*", "country": "United States"}
+{"entity": "South Dakota State University", "url": "*.sdstate.edu/*", "country": "United States"}
+{"entity": "Southeastern Louisiana University", "url": "*.selu.edu/*", "country": "United States"}
+{"entity": "Southeast Missouri State University", "url": "*.semo.edu/*", "country": "United States"}
+{"entity": "Southern College", "url": "*.southern.edu/*", "country": "United States"}
+{"entity": "Southern College of Technology", "url": "*.sct.edu/*", "country": "United States"}
+{"entity": "Southern Connecticut State University", "url": "*.southernct.edu/*", "country": "United States"}
+{"entity": "Southern Methodist University", "url": "*.smu.edu/*", "country": "United States"}
+{"entity": "Southern Nazarene University", "url": "*.snu.edu/*", "country": "United States"}
+{"entity": "Southern New Hampshire University", "url": "*.snhu.edu/*", "country": "United States"}
+{"entity": "Southern Oregon State College", "url": "*.sou.edu/*", "country": "United States"}
+{"entity": "Southern Utah University", "url": "*.suu.edu/*", "country": "United States"}
+{"entity": "South Texas College of Law", "url": "*.stcl.edu/*", "country": "United States"}
+{"entity": "Southwest Baptist University", "url": "*.sbuniv.edu/*", "country": "United States"}
+{"entity": "Southwestern Adventist College", "url": "*.swac.edu/*", "country": "United States"}
+{"entity": "Southwestern Assemblies of God University", "url": "*.sagu.edu/*", "country": "United States"}
+{"entity": "Southwestern College", "url": "*.sckans.edu/*", "country": "United States"}
+{"entity": "Southwestern University", "url": "*.southwestern.edu/*", "country": "United States"}

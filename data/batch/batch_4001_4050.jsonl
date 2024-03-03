@@ -1,50 +1,50 @@
-{"name": "Korea National Open University", "root_url": "*.knou.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Korea National University of Arts", "root_url": "*.knua.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Korea National University of Education", "root_url": "*.knue.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Korea National University of Physical Education", "root_url": "*.knupe.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kongju National University of Education", "root_url": "*.kongju-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Konkuk University", "root_url": "*.konkuk.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Konyang University", "root_url": "*.konyang.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kookmin University", "root_url": "*.kookmin.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Korea University", "root_url": "*.korea.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kosin University", "root_url": "*.kosin.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kumoh National University of Technology", "root_url": "*.kumoh.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kunsan National University", "root_url": "*.kunsan.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kwan Dong University", "root_url": "*.kwandong.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kwangju University", "root_url": "*.kwangju.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kwangju National University of Education", "root_url": "*.kwangju-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kwangwoon University", "root_url": "*.kwangwoon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kyonggi University", "root_url": "*.kyonggi.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kongju National University", "root_url": "*.kyongju.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kyunghee University", "root_url": "*.kyunghee.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kyungil University", "root_url": "*.kyungil.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kyungnam University", "root_url": "*.kyungnam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kyungpook National University", "root_url": "*.kyungpook.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kyungsung University", "root_url": "*.kyungsung.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kyungwon University", "root_url": "*.kyungwon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Miryang National University", "root_url": "*.miryang.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Mokpo National Maritime University", "root_url": "*.mmu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Mokpo National University", "root_url": "*.mokpo.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Mokwon University Taejon", "root_url": "*.mokwon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Myongji University", "root_url": "*.myongji.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Paichai University", "root_url": "*.paichai.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Pukyong National University", "root_url": "*.pknu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Pohang University of Science and Technology", "root_url": "*.postech.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Pyongtaek University", "root_url": "*.ptuniv.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Pusan University of Foreign Studies", "root_url": "*.pufs.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Pusan National University", "root_url": "*.pusan.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Pusan National University of Education", "root_url": "*.pusan-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Samchok National University", "root_url": "*.samchok.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sang Ji University", "root_url": "*.sangji.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sang Myung University", "root_url": "*.sangmyung.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Soonchunhyang University", "root_url": "*.sch.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sejong University", "root_url": "*.sejong.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Semyung University", "root_url": "*.semyung.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seokyeong University", "root_url": "*.seokyeong.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seonam University", "root_url": "*.seonam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seoul National University of Education", "root_url": "*.seoul-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seowon University", "root_url": "*.seowon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Silla University", "root_url": "*.silla.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Sung Kyun Kwan University", "root_url": "*.skku.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seoul National University", "root_url": "*.snu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Seoul National University of Technology", "root_url": "*.snut.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Korea National Open University", "url": "*.knou.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Korea National University of Arts", "url": "*.knua.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Korea National University of Education", "url": "*.knue.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Korea National University of Physical Education", "url": "*.knupe.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kongju National University of Education", "url": "*.kongju-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Konkuk University", "url": "*.konkuk.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Konyang University", "url": "*.konyang.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kookmin University", "url": "*.kookmin.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Korea University", "url": "*.korea.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kosin University", "url": "*.kosin.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kumoh National University of Technology", "url": "*.kumoh.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kunsan National University", "url": "*.kunsan.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kwan Dong University", "url": "*.kwandong.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kwangju University", "url": "*.kwangju.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kwangju National University of Education", "url": "*.kwangju-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kwangwoon University", "url": "*.kwangwoon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kyonggi University", "url": "*.kyonggi.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kongju National University", "url": "*.kyongju.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kyunghee University", "url": "*.kyunghee.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kyungil University", "url": "*.kyungil.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kyungnam University", "url": "*.kyungnam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kyungpook National University", "url": "*.kyungpook.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kyungsung University", "url": "*.kyungsung.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kyungwon University", "url": "*.kyungwon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Miryang National University", "url": "*.miryang.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Mokpo National Maritime University", "url": "*.mmu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Mokpo National University", "url": "*.mokpo.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Mokwon University Taejon", "url": "*.mokwon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Myongji University", "url": "*.myongji.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Paichai University", "url": "*.paichai.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Pukyong National University", "url": "*.pknu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Pohang University of Science and Technology", "url": "*.postech.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Pyongtaek University", "url": "*.ptuniv.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Pusan University of Foreign Studies", "url": "*.pufs.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Pusan National University", "url": "*.pusan.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Pusan National University of Education", "url": "*.pusan-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Samchok National University", "url": "*.samchok.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sang Ji University", "url": "*.sangji.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sang Myung University", "url": "*.sangmyung.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Soonchunhyang University", "url": "*.sch.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sejong University", "url": "*.sejong.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Semyung University", "url": "*.semyung.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seokyeong University", "url": "*.seokyeong.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seonam University", "url": "*.seonam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seoul National University of Education", "url": "*.seoul-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seowon University", "url": "*.seowon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Silla University", "url": "*.silla.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Sung Kyun Kwan University", "url": "*.skku.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seoul National University", "url": "*.snu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Seoul National University of Technology", "url": "*.snut.ac.kr/*", "country": "Korea, Republic of"}

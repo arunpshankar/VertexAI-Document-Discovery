@@ -1,50 +1,50 @@
-{"name": "University of Vermont", "root_url": "*.uvm.edu/*", "country": "United States"}
-{"name": "University of Washington", "root_url": "*.washington.edu/*", "country": "United States"}
-{"name": "University of West Alabama", "root_url": "*.westal.edu/*", "country": "United States"}
-{"name": "University of West Florida", "root_url": "*.uwf.edu/*", "country": "United States"}
-{"name": "University of Wisconsin System", "root_url": "*.uwsa.edu/*", "country": "United States"}
-{"name": "University of Wyoming", "root_url": "*.uwyo.edu/*", "country": "United States"}
-{"name": "Upper Iowa University", "root_url": "*.uiu.edu/*", "country": "United States"}
-{"name": "Ursinus College", "root_url": "*.ursinus.edu/*", "country": "United States"}
-{"name": "Utah State University", "root_url": "*.usu.edu/*", "country": "United States"}
-{"name": "Utah Valley State College", "root_url": "*.uvsc.edu/*", "country": "United States"}
-{"name": "Valdosta State University", "root_url": "*.valdosta.edu/*", "country": "United States"}
-{"name": "Valley City State University", "root_url": "*.vcsu.nodak.edu/home.html*", "country": "United States"}
-{"name": "Valparaiso University", "root_url": "*.valpo.edu/*", "country": "United States"}
-{"name": "Vanderbilt University", "root_url": "*.vanderbilt.edu/*", "country": "United States"}
-{"name": "Vassar College", "root_url": "*.vassar.edu/*", "country": "United States"}
-{"name": "Vermont Technical College", "root_url": "*.vtc.edu/*", "country": "United States"}
-{"name": "Villa Julie College", "root_url": "*.vjc.edu/*", "country": "United States"}
-{"name": "Villanova University", "root_url": "*.villanova.edu/*", "country": "United States"}
-{"name": "Virginia Commonwealth University", "root_url": "*.vcu.vcu.edu/*", "country": "United States"}
-{"name": "Virginia Community College System", "root_url": "*.vccs.edu/*", "country": "United States"}
-{"name": "Virginia Intermont College", "root_url": "*.vic.edu/*", "country": "United States"}
-{"name": "Virginia Military Institute", "root_url": "*.vmi.edu/*", "country": "United States"}
-{"name": "Virginia Polytechnic Institute and State University", "root_url": "*.vt.edu/*", "country": "United States"}
-{"name": "Virginia State University", "root_url": "*.vsu.edu/*", "country": "United States"}
-{"name": "Virginia Wesleyan College", "root_url": "*.vwc.edu/*", "country": "United States"}
-{"name": "Wabash College", "root_url": "*.wabash.edu/*", "country": "United States"}
-{"name": "Wake Forest University", "root_url": "*.wfu.edu/*", "country": "United States"}
-{"name": "Walden University", "root_url": "*.waldenu.edu/*", "country": "United States"}
-{"name": "Walla Walla College", "root_url": "*.wwc.edu/*", "country": "United States"}
-{"name": "Walsh College", "root_url": "*.walshcollege.edu/*", "country": "United States"}
-{"name": "Warren Wilson College", "root_url": "*.warren-wilson.edu/*", "country": "United States"}
-{"name": "Wartburg College", "root_url": "*.wartburg.edu/*", "country": "United States"}
-{"name": "Washburn University", "root_url": "*.wuacc.edu/*", "country": "United States"}
-{"name": "Washington College", "root_url": "*.washcoll.edu/*", "country": "United States"}
-{"name": "Washington State University", "root_url": "*.wsu.edu/*", "country": "United States"}
-{"name": "Washington State University at Vancouver", "root_url": "*.vancouver.wsu.edu/*", "country": "United States"}
-{"name": "Waubonsee Community College", "root_url": "*.waubonsee.edu/*", "country": "United States"}
-{"name": "Waynesburg College", "root_url": "*.waynesburg.edu/*", "country": "United States"}
-{"name": "Wayne State University", "root_url": "*.wayne.edu/*", "country": "United States"}
-{"name": "Weber State University", "root_url": "*.weber.edu/*", "country": "United States"}
-{"name": "Webster University", "root_url": "*.webster.edu/*", "country": "United States"}
-{"name": "Wellesley College", "root_url": "*.wellesley.edu/*", "country": "United States"}
-{"name": "Wells College", "root_url": "*.wells.edu/*", "country": "United States"}
-{"name": "Wentworth Institute of Technology", "root_url": "*.wit.edu/*", "country": "United States"}
-{"name": "Wesleyan University", "root_url": "*.wesleyan.edu/*", "country": "United States"}
-{"name": "Wesley College", "root_url": "*.wesley.edu/*", "country": "United States"}
-{"name": "West Chester University of Pennsylvania", "root_url": "*.wcupa.edu/*", "country": "United States"}
-{"name": "West Coast University", "root_url": "*.westcoastuniversity.edu/*", "country": "United States"}
-{"name": "Western Carolina University", "root_url": "*.wcu.edu/*", "country": "United States"}
-{"name": "Western Connecticut State University", "root_url": "*.wcsu.edu/*", "country": "United States"}
+{"entity": "University of Vermont", "url": "*.uvm.edu/*", "country": "United States"}
+{"entity": "University of Washington", "url": "*.washington.edu/*", "country": "United States"}
+{"entity": "University of West Alabama", "url": "*.westal.edu/*", "country": "United States"}
+{"entity": "University of West Florida", "url": "*.uwf.edu/*", "country": "United States"}
+{"entity": "University of Wisconsin System", "url": "*.uwsa.edu/*", "country": "United States"}
+{"entity": "University of Wyoming", "url": "*.uwyo.edu/*", "country": "United States"}
+{"entity": "Upper Iowa University", "url": "*.uiu.edu/*", "country": "United States"}
+{"entity": "Ursinus College", "url": "*.ursinus.edu/*", "country": "United States"}
+{"entity": "Utah State University", "url": "*.usu.edu/*", "country": "United States"}
+{"entity": "Utah Valley State College", "url": "*.uvsc.edu/*", "country": "United States"}
+{"entity": "Valdosta State University", "url": "*.valdosta.edu/*", "country": "United States"}
+{"entity": "Valley City State University", "url": "*.vcsu.nodak.edu/home.html*", "country": "United States"}
+{"entity": "Valparaiso University", "url": "*.valpo.edu/*", "country": "United States"}
+{"entity": "Vanderbilt University", "url": "*.vanderbilt.edu/*", "country": "United States"}
+{"entity": "Vassar College", "url": "*.vassar.edu/*", "country": "United States"}
+{"entity": "Vermont Technical College", "url": "*.vtc.edu/*", "country": "United States"}
+{"entity": "Villa Julie College", "url": "*.vjc.edu/*", "country": "United States"}
+{"entity": "Villanova University", "url": "*.villanova.edu/*", "country": "United States"}
+{"entity": "Virginia Commonwealth University", "url": "*.vcu.vcu.edu/*", "country": "United States"}
+{"entity": "Virginia Community College System", "url": "*.vccs.edu/*", "country": "United States"}
+{"entity": "Virginia Intermont College", "url": "*.vic.edu/*", "country": "United States"}
+{"entity": "Virginia Military Institute", "url": "*.vmi.edu/*", "country": "United States"}
+{"entity": "Virginia Polytechnic Institute and State University", "url": "*.vt.edu/*", "country": "United States"}
+{"entity": "Virginia State University", "url": "*.vsu.edu/*", "country": "United States"}
+{"entity": "Virginia Wesleyan College", "url": "*.vwc.edu/*", "country": "United States"}
+{"entity": "Wabash College", "url": "*.wabash.edu/*", "country": "United States"}
+{"entity": "Wake Forest University", "url": "*.wfu.edu/*", "country": "United States"}
+{"entity": "Walden University", "url": "*.waldenu.edu/*", "country": "United States"}
+{"entity": "Walla Walla College", "url": "*.wwc.edu/*", "country": "United States"}
+{"entity": "Walsh College", "url": "*.walshcollege.edu/*", "country": "United States"}
+{"entity": "Warren Wilson College", "url": "*.warren-wilson.edu/*", "country": "United States"}
+{"entity": "Wartburg College", "url": "*.wartburg.edu/*", "country": "United States"}
+{"entity": "Washburn University", "url": "*.wuacc.edu/*", "country": "United States"}
+{"entity": "Washington College", "url": "*.washcoll.edu/*", "country": "United States"}
+{"entity": "Washington State University", "url": "*.wsu.edu/*", "country": "United States"}
+{"entity": "Washington State University at Vancouver", "url": "*.vancouver.wsu.edu/*", "country": "United States"}
+{"entity": "Waubonsee Community College", "url": "*.waubonsee.edu/*", "country": "United States"}
+{"entity": "Waynesburg College", "url": "*.waynesburg.edu/*", "country": "United States"}
+{"entity": "Wayne State University", "url": "*.wayne.edu/*", "country": "United States"}
+{"entity": "Weber State University", "url": "*.weber.edu/*", "country": "United States"}
+{"entity": "Webster University", "url": "*.webster.edu/*", "country": "United States"}
+{"entity": "Wellesley College", "url": "*.wellesley.edu/*", "country": "United States"}
+{"entity": "Wells College", "url": "*.wells.edu/*", "country": "United States"}
+{"entity": "Wentworth Institute of Technology", "url": "*.wit.edu/*", "country": "United States"}
+{"entity": "Wesleyan University", "url": "*.wesleyan.edu/*", "country": "United States"}
+{"entity": "Wesley College", "url": "*.wesley.edu/*", "country": "United States"}
+{"entity": "West Chester University of Pennsylvania", "url": "*.wcupa.edu/*", "country": "United States"}
+{"entity": "West Coast University", "url": "*.westcoastuniversity.edu/*", "country": "United States"}
+{"entity": "Western Carolina University", "url": "*.wcu.edu/*", "country": "United States"}
+{"entity": "Western Connecticut State University", "url": "*.wcsu.edu/*", "country": "United States"}

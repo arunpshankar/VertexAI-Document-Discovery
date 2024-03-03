@@ -1,50 +1,50 @@
-{"name": "Izhevsk State Technical University", "root_url": "*.istu.ru/*", "country": "Russian Federation"}
-{"name": "Ivanovo State University of Chemistry and Technology", "root_url": "*.isuct.ru/*", "country": "Russian Federation"}
-{"name": "Irkutsk State University", "root_url": "*.isu.ru/*", "country": "Russian Federation"}
-{"name": "Yaroslavl International University of Business and New Technologies", "root_url": "*.iubnt.yar.ru/*", "country": "Russian Federation"}
-{"name": "Ivanovo State University", "root_url": "*.ivanovo.ac.ru/*", "country": "Russian Federation"}
-{"name": "Jewish University in Moscow", "root_url": "*.jum.ru/*", "country": "Russian Federation"}
-{"name": "Kazan State University of Technology", "root_url": "*.kai.ru/*", "country": "Russian Federation"}
-{"name": "Kalmyk State University", "root_url": "*.kalmsu.ru/*", "country": "Russian Federation"}
-{"name": "Kamchatka State University Vitus Bering", "root_url": "*.kamgu.ru/*", "country": "Russian Federation"}
-{"name": "Immanuel Kant State University of Russia", "root_url": "*.kantiana.ru/*", "country": "Russian Federation"}
-{"name": "Petrozavodsk State University", "root_url": "*.karelia.ru/psu/*", "country": "Russian Federation"}
-{"name": "Kazan State Music Conservatory", "root_url": "*.kazanconservatory.ru/*", "country": "Russian Federation"}
-{"name": "Kemerovo State University", "root_url": "*.kemsu.ru/*", "country": "Russian Federation"}
-{"name": "Kazan State University of Medicine", "root_url": "*.kgmu.kcn.ru/*", "country": "Russian Federation"}
-{"name": "Kazan State Pedagogical University", "root_url": "*.kgpu.ru/*", "country": "Russian Federation"}
-{"name": "Krasnoyarsk State Technical University", "root_url": "*.kgtu.runnet.ru/*", "country": "Russian Federation"}
-{"name": "Far Easten State University of Humanities", "root_url": "*.khspu.ru/*", "country": "Russian Federation"}
-{"name": "Khabarovsk State University of Technology", "root_url": "*.khstu.ru/*", "country": "Russian Federation"}
-{"name": "Vaganova Academy of Russian Ballet", "root_url": "*.kirovballet.com/vaganova.html*", "country": "Russian Federation"}
-{"name": "Kurgan International University", "root_url": "*.kiu.ru/*", "country": "Russian Federation"}
-{"name": "Kaliningrad State Technical University", "root_url": "*.klgtu.ru/*", "country": "Russian Federation"}
-{"name": "Kazan State Academy of Architecture and Civil Engineering", "root_url": "*.ksaba.ru/*", "country": "Russian Federation"}
-{"name": "Kazan State Finance and Economics Institute", "root_url": "*.ksfei.ru/*", "country": "Russian Federation"}
-{"name": "Kursk State Medical University", "root_url": "*.ksmu.kursknet.ru/*", "country": "Russian Federation"}
-{"name": "Kaluga State Pedagogical University", "root_url": "*.kspu.kaluga.ru/*", "country": "Russian Federation"}
-{"name": "Karelian State Pedagogical University", "root_url": "*.kspu.ptz.ru/*", "country": "Russian Federation"}
-{"name": "Kostroma State Technological University", "root_url": "*.kstu.edu.ru/*", "country": "Russian Federation"}
-{"name": "Kursk State Technical University", "root_url": "*.kstu.kursk.ru/*", "country": "Russian Federation"}
-{"name": "Kazan State University", "root_url": "*.ksu.ru/*", "country": "Russian Federation"}
-{"name": "Kuban State University of Agriculture", "root_url": "*.kubagro.ru/*", "country": "Russian Federation"}
-{"name": "Kuban State University of Technology", "root_url": "*.kubstu.ru/*", "country": "Russian Federation"}
-{"name": "Kuban State University", "root_url": "*.kubsu.ru/*", "country": "Russian Federation"}
-{"name": "Kursk State University", "root_url": "*.kursk-uni.ru/*", "country": "Russian Federation"}
-{"name": "Kuzbass State Technical University", "root_url": "*.kuzstu.ac.ru/*", "country": "Russian Federation"}
-{"name": "Linguistic University of Nizhny Novgorod", "root_url": "*.lunn.sci-nnov.ru/*", "country": "Russian Federation"}
-{"name": "Moscow State Automobile and Road Technical University", "root_url": "*.madi.ru/*", "country": "Russian Federation"}
-{"name": "Marij State University", "root_url": "*.margu.mari.ru/*", "country": "Russian Federation"}
-{"name": "Marij State Technical University", "root_url": "*.marstu.mari.ru/*", "country": "Russian Federation"}
-{"name": "Magnitogorsk State University", "root_url": "*.masu.ru/*", "country": "Russian Federation"}
-{"name": "Novosibirsk State Medical Academy", "root_url": "*.medin.nsc.ru/*", "country": "Russian Federation"}
-{"name": "Saratov State Medical University", "root_url": "*.med.sgu.ru/*", "country": "Russian Federation"}
-{"name": "Skrjabin Moscow State Academy of Veterinary Medicine and Biotechnology", "root_url": "*.mgavm.ru/*", "country": "Russian Federation"}
-{"name": "Russian State Geological Prospecting University", "root_url": "*.mgri-rggru.ru/*", "country": "Russian Federation"}
-{"name": "Moscow State University of Civil Engineering", "root_url": "*.mgsu.norna.ru/*", "country": "Russian Federation"}
-{"name": "Moscow State University of Forestry Engineering", "root_url": "*.mgul.ac.ru/*", "country": "Russian Federation"}
-{"name": "National Research University of Electronic Technology", "root_url": "*.miet.ru/*", "country": "Russian Federation"}
-{"name": "Moscow State University of Geodesy and Cartography", "root_url": "*.miigaik.ru/*", "country": "Russian Federation"}
-{"name": "Moscow State University of Railway Transport", "root_url": "*.miit.ru/*", "country": "Russian Federation"}
-{"name": "Modern Institute of Managament", "root_url": "*.miom.org/*", "country": "Russian Federation"}
-{"name": "Moscow Institute of Physics and Technology", "root_url": "*.phystech.edu/*", "country": "Russian Federation"}
+{"entity": "Izhevsk State Technical University", "url": "*.istu.ru/*", "country": "Russian Federation"}
+{"entity": "Ivanovo State University of Chemistry and Technology", "url": "*.isuct.ru/*", "country": "Russian Federation"}
+{"entity": "Irkutsk State University", "url": "*.isu.ru/*", "country": "Russian Federation"}
+{"entity": "Yaroslavl International University of Business and New Technologies", "url": "*.iubnt.yar.ru/*", "country": "Russian Federation"}
+{"entity": "Ivanovo State University", "url": "*.ivanovo.ac.ru/*", "country": "Russian Federation"}
+{"entity": "Jewish University in Moscow", "url": "*.jum.ru/*", "country": "Russian Federation"}
+{"entity": "Kazan State University of Technology", "url": "*.kai.ru/*", "country": "Russian Federation"}
+{"entity": "Kalmyk State University", "url": "*.kalmsu.ru/*", "country": "Russian Federation"}
+{"entity": "Kamchatka State University Vitus Bering", "url": "*.kamgu.ru/*", "country": "Russian Federation"}
+{"entity": "Immanuel Kant State University of Russia", "url": "*.kantiana.ru/*", "country": "Russian Federation"}
+{"entity": "Petrozavodsk State University", "url": "*.karelia.ru/psu/*", "country": "Russian Federation"}
+{"entity": "Kazan State Music Conservatory", "url": "*.kazanconservatory.ru/*", "country": "Russian Federation"}
+{"entity": "Kemerovo State University", "url": "*.kemsu.ru/*", "country": "Russian Federation"}
+{"entity": "Kazan State University of Medicine", "url": "*.kgmu.kcn.ru/*", "country": "Russian Federation"}
+{"entity": "Kazan State Pedagogical University", "url": "*.kgpu.ru/*", "country": "Russian Federation"}
+{"entity": "Krasnoyarsk State Technical University", "url": "*.kgtu.runnet.ru/*", "country": "Russian Federation"}
+{"entity": "Far Easten State University of Humanities", "url": "*.khspu.ru/*", "country": "Russian Federation"}
+{"entity": "Khabarovsk State University of Technology", "url": "*.khstu.ru/*", "country": "Russian Federation"}
+{"entity": "Vaganova Academy of Russian Ballet", "url": "*.kirovballet.com/vaganova.html*", "country": "Russian Federation"}
+{"entity": "Kurgan International University", "url": "*.kiu.ru/*", "country": "Russian Federation"}
+{"entity": "Kaliningrad State Technical University", "url": "*.klgtu.ru/*", "country": "Russian Federation"}
+{"entity": "Kazan State Academy of Architecture and Civil Engineering", "url": "*.ksaba.ru/*", "country": "Russian Federation"}
+{"entity": "Kazan State Finance and Economics Institute", "url": "*.ksfei.ru/*", "country": "Russian Federation"}
+{"entity": "Kursk State Medical University", "url": "*.ksmu.kursknet.ru/*", "country": "Russian Federation"}
+{"entity": "Kaluga State Pedagogical University", "url": "*.kspu.kaluga.ru/*", "country": "Russian Federation"}
+{"entity": "Karelian State Pedagogical University", "url": "*.kspu.ptz.ru/*", "country": "Russian Federation"}
+{"entity": "Kostroma State Technological University", "url": "*.kstu.edu.ru/*", "country": "Russian Federation"}
+{"entity": "Kursk State Technical University", "url": "*.kstu.kursk.ru/*", "country": "Russian Federation"}
+{"entity": "Kazan State University", "url": "*.ksu.ru/*", "country": "Russian Federation"}
+{"entity": "Kuban State University of Agriculture", "url": "*.kubagro.ru/*", "country": "Russian Federation"}
+{"entity": "Kuban State University of Technology", "url": "*.kubstu.ru/*", "country": "Russian Federation"}
+{"entity": "Kuban State University", "url": "*.kubsu.ru/*", "country": "Russian Federation"}
+{"entity": "Kursk State University", "url": "*.kursk-uni.ru/*", "country": "Russian Federation"}
+{"entity": "Kuzbass State Technical University", "url": "*.kuzstu.ac.ru/*", "country": "Russian Federation"}
+{"entity": "Linguistic University of Nizhny Novgorod", "url": "*.lunn.sci-nnov.ru/*", "country": "Russian Federation"}
+{"entity": "Moscow State Automobile and Road Technical University", "url": "*.madi.ru/*", "country": "Russian Federation"}
+{"entity": "Marij State University", "url": "*.margu.mari.ru/*", "country": "Russian Federation"}
+{"entity": "Marij State Technical University", "url": "*.marstu.mari.ru/*", "country": "Russian Federation"}
+{"entity": "Magnitogorsk State University", "url": "*.masu.ru/*", "country": "Russian Federation"}
+{"entity": "Novosibirsk State Medical Academy", "url": "*.medin.nsc.ru/*", "country": "Russian Federation"}
+{"entity": "Saratov State Medical University", "url": "*.med.sgu.ru/*", "country": "Russian Federation"}
+{"entity": "Skrjabin Moscow State Academy of Veterinary Medicine and Biotechnology", "url": "*.mgavm.ru/*", "country": "Russian Federation"}
+{"entity": "Russian State Geological Prospecting University", "url": "*.mgri-rggru.ru/*", "country": "Russian Federation"}
+{"entity": "Moscow State University of Civil Engineering", "url": "*.mgsu.norna.ru/*", "country": "Russian Federation"}
+{"entity": "Moscow State University of Forestry Engineering", "url": "*.mgul.ac.ru/*", "country": "Russian Federation"}
+{"entity": "National Research University of Electronic Technology", "url": "*.miet.ru/*", "country": "Russian Federation"}
+{"entity": "Moscow State University of Geodesy and Cartography", "url": "*.miigaik.ru/*", "country": "Russian Federation"}
+{"entity": "Moscow State University of Railway Transport", "url": "*.miit.ru/*", "country": "Russian Federation"}
+{"entity": "Modern Institute of Managament", "url": "*.miom.org/*", "country": "Russian Federation"}
+{"entity": "Moscow Institute of Physics and Technology", "url": "*.phystech.edu/*", "country": "Russian Federation"}

@@ -1,50 +1,50 @@
-{"name": "Universidad Adventista de Bolivia", "root_url": "*.uab.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Juan Misael Saracho", "root_url": "*.uajms.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Amazonica de Pando", "root_url": "*.uapnet.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad de Aquino Bolivia", "root_url": "*.udabol.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Los Andes", "root_url": "*.udelosandes.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Central", "root_url": "*.unicen.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Empresarial Mateo Kuljis", "root_url": "*.unikuljis.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Privada del Valle", "root_url": "*.univalle.edu/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Nuestra Senora de La Paz", "root_url": "*.unslp.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Nacional Siglo XX Llallagua", "root_url": "*.unsxx.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Privada Abierta Latinoamericana", "root_url": "*.upal.edu/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Privada Boliviana", "root_url": "*.upb.edu/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Domingo Savio", "root_url": "*.upds.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Privada de Santa Cruz de la Sierra", "root_url": "*.upsa.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad Salesiana de Bolivia", "root_url": "*.usalesiana.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad San Francisco Xavier de Chuquisaca", "root_url": "*.usfx.edu.bo/*", "country": "Bolivia, Plurinational State of"}
-{"name": "Universidad San Francisco Xavier", "root_url": "*.usfx.info/*", "country": "Bolivia, Plurinational State of"}
-{"name": "American University", "root_url": "*.aubih.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "International Burch University", "root_url": "*.ibu.edu.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "International University of Sarajevo", "root_url": "*.ius.edu.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "International University of Travnik", "root_url": "*.iu-travnik.com/*", "country": "Bosnia and Herzegovina"}
-{"name": "Sarajevo Film Academy", "root_url": "*.sfa.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "Slobomir P Univerzitet", "root_url": "*.spu.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "University of Mostar", "root_url": "*.sve-mo.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "University of Bihac", "root_url": "*.unbi.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "University of Banja Luka", "root_url": "*.unibl.org/*", "country": "Bosnia and Herzegovina"}
-{"name": "University of Sarajevo", "root_url": "*.unsa.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "University of East Srarajevo", "root_url": "*.unssa.rs.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "University of Tuzla", "root_url": "*.untz.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "University Vitez In Travnik", "root_url": "*.unvi.edu.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "University of Zenica", "root_url": "*.unze.ba/*", "country": "Bosnia and Herzegovina"}
-{"name": "ABM University College", "root_url": "*.abm.ac.bw/*", "country": "Botswana"}
-{"name": "Botswana Accountancy College", "root_url": "*.bac.ac.bw/*", "country": "Botswana"}
-{"name": "Botswana College of Agriculture", "root_url": "*.bca.bw/*", "country": "Botswana"}
-{"name": "Botho University", "root_url": "*.bothocollege.ac.bw/*", "country": "Botswana"}
-{"name": "Gaborone Universal College of Law", "root_url": "*.guc.co.bw/*", "country": "Botswana"}
-{"name": "University of Botswana", "root_url": "*.ub.bw/*", "country": "Botswana"}
-{"name": "Universidade Braz Cubas", "root_url": "*.brazcubas.br/*", "country": "Brazil"}
-{"name": "Universidade Candido Mendes", "root_url": "*.candidomendes.br/*", "country": "Brazil"}
-{"name": "Universidade Castelo Branco", "root_url": "*.castelobranco.br/*", "country": "Brazil"}
-{"name": "Faculdades Integradas Curitiba", "root_url": "*.faculdadescuritiba.br/*", "country": "Brazil"}
-{"name": "Universidade do Amazonas", "root_url": "*.fua.br/*", "country": "Brazil"}
-{"name": "Universidade Regional de Blumenau", "root_url": "*.furb.rct-sc.br/*", "country": "Brazil"}
-{"name": "Universidade do Rio Grande", "root_url": "*.furg.br/*", "country": "Brazil"}
-{"name": "Faculdade Italo Brasileira", "root_url": "*.italo.br/*", "country": "Brazil"}
-{"name": "Universidade Mackenzie", "root_url": "*.mackenzie.br/*", "country": "Brazil"}
-{"name": "Universidade de Tocantins", "root_url": "*.pop-to.rnp.br/*", "country": "Brazil"}
-{"name": "Universidade Federal de Roraima", "root_url": "*.technet.com.br/vestibular/*", "country": "Brazil"}
-{"name": "Faculdades Integradas Toledo", "root_url": "*.toledo.br/*", "country": "Brazil"}
-{"name": "Universidade de Caxias do Sul", "root_url": "*.ucs.tche.br/*", "country": "Brazil"}
+{"entity": "Universidad Adventista de Bolivia", "url": "*.uab.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Juan Misael Saracho", "url": "*.uajms.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Amazonica de Pando", "url": "*.uapnet.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad de Aquino Bolivia", "url": "*.udabol.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Los Andes", "url": "*.udelosandes.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Central", "url": "*.unicen.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Empresarial Mateo Kuljis", "url": "*.unikuljis.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Privada del Valle", "url": "*.univalle.edu/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Nuestra Senora de La Paz", "url": "*.unslp.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Nacional Siglo XX Llallagua", "url": "*.unsxx.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Privada Abierta Latinoamericana", "url": "*.upal.edu/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Privada Boliviana", "url": "*.upb.edu/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Domingo Savio", "url": "*.upds.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Privada de Santa Cruz de la Sierra", "url": "*.upsa.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad Salesiana de Bolivia", "url": "*.usalesiana.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad San Francisco Xavier de Chuquisaca", "url": "*.usfx.edu.bo/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "Universidad San Francisco Xavier", "url": "*.usfx.info/*", "country": "Bolivia, Plurinational State of"}
+{"entity": "American University", "url": "*.aubih.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "International Burch University", "url": "*.ibu.edu.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "International University of Sarajevo", "url": "*.ius.edu.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "International University of Travnik", "url": "*.iu-travnik.com/*", "country": "Bosnia and Herzegovina"}
+{"entity": "Sarajevo Film Academy", "url": "*.sfa.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "Slobomir P Univerzitet", "url": "*.spu.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University of Mostar", "url": "*.sve-mo.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University of Bihac", "url": "*.unbi.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University of Banja Luka", "url": "*.unibl.org/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University of Sarajevo", "url": "*.unsa.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University of East Srarajevo", "url": "*.unssa.rs.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University of Tuzla", "url": "*.untz.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University Vitez In Travnik", "url": "*.unvi.edu.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "University of Zenica", "url": "*.unze.ba/*", "country": "Bosnia and Herzegovina"}
+{"entity": "ABM University College", "url": "*.abm.ac.bw/*", "country": "Botswana"}
+{"entity": "Botswana Accountancy College", "url": "*.bac.ac.bw/*", "country": "Botswana"}
+{"entity": "Botswana College of Agriculture", "url": "*.bca.bw/*", "country": "Botswana"}
+{"entity": "Botho University", "url": "*.bothocollege.ac.bw/*", "country": "Botswana"}
+{"entity": "Gaborone Universal College of Law", "url": "*.guc.co.bw/*", "country": "Botswana"}
+{"entity": "University of Botswana", "url": "*.ub.bw/*", "country": "Botswana"}
+{"entity": "Universidade Braz Cubas", "url": "*.brazcubas.br/*", "country": "Brazil"}
+{"entity": "Universidade Candido Mendes", "url": "*.candidomendes.br/*", "country": "Brazil"}
+{"entity": "Universidade Castelo Branco", "url": "*.castelobranco.br/*", "country": "Brazil"}
+{"entity": "Faculdades Integradas Curitiba", "url": "*.faculdadescuritiba.br/*", "country": "Brazil"}
+{"entity": "Universidade do Amazonas", "url": "*.fua.br/*", "country": "Brazil"}
+{"entity": "Universidade Regional de Blumenau", "url": "*.furb.rct-sc.br/*", "country": "Brazil"}
+{"entity": "Universidade do Rio Grande", "url": "*.furg.br/*", "country": "Brazil"}
+{"entity": "Faculdade Italo Brasileira", "url": "*.italo.br/*", "country": "Brazil"}
+{"entity": "Universidade Mackenzie", "url": "*.mackenzie.br/*", "country": "Brazil"}
+{"entity": "Universidade de Tocantins", "url": "*.pop-to.rnp.br/*", "country": "Brazil"}
+{"entity": "Universidade Federal de Roraima", "url": "*.technet.com.br/vestibular/*", "country": "Brazil"}
+{"entity": "Faculdades Integradas Toledo", "url": "*.toledo.br/*", "country": "Brazil"}
+{"entity": "Universidade de Caxias do Sul", "url": "*.ucs.tche.br/*", "country": "Brazil"}

@@ -1,50 +1,50 @@
-{"name": "Adamson University", "root_url": "*.adamson.edu.ph/*", "country": "Philippines"}
-{"name": "Ateneo de Davao University", "root_url": "*.addu.edu.ph/*", "country": "Philippines"}
-{"name": "Ateneo de Manila University", "root_url": "*.admu.edu.ph/*", "country": "Philippines"}
-{"name": "Ateneo de Naga University", "root_url": "*.adnu.edu.ph/*", "country": "Philippines"}
-{"name": "Ateneo de Zamboanga University", "root_url": "*.adzu.edu.ph/*", "country": "Philippines"}
-{"name": "Aquinas University", "root_url": "*.aquinas-university.edu/*", "country": "Philippines"}
-{"name": "Arellano University", "root_url": "*.arellano.edu.ph/*", "country": "Philippines"}
-{"name": "Angeles University", "root_url": "*.auf.edu.ph/*", "country": "Philippines"}
-{"name": "Adventist University of the Philippines", "root_url": "*.aup.edu.ph/*", "country": "Philippines"}
-{"name": "Araullo University", "root_url": "*.aupen.edu.ph/*", "country": "Philippines"}
-{"name": "Bicol University", "root_url": "*.bicol-u.edu.ph/*", "country": "Philippines"}
-{"name": "Benguet State University", "root_url": "*.bsu.edu.ph/*", "country": "Philippines"}
-{"name": "Bulacan State University", "root_url": "*.bulsu.edu.ph/*", "country": "Philippines"}
-{"name": "Centro Escolar University", "root_url": "*.ceu.edu.ph/*", "country": "Philippines"}
-{"name": "Central Mindanao University", "root_url": "*.cmu.edu.ph/*", "country": "Philippines"}
-{"name": "Central Philippine University", "root_url": "*.cpuic.edu/*", "country": "Philippines"}
-{"name": "Cagayan State University", "root_url": "*.csu.edu.ph/*", "country": "Philippines"}
-{"name": "Capitol University", "root_url": "*.cu-cdo.edu.ph/*", "country": "Philippines"}
-{"name": "Davao Doctors College", "root_url": "*.davaodoctors.edu.ph/*", "country": "Philippines"}
-{"name": "De La Salle University", "root_url": "*.dlsu.edu.ph/*", "country": "Philippines"}
-{"name": "Don Mariano Marcos Memorial State University", "root_url": "*.dmmmsu.edu.ph/*", "country": "Philippines"}
-{"name": "Divine Word College of Legazpi", "root_url": "*.dwc-legazpi.edu/*", "country": "Philippines"}
-{"name": "Our Lady of Fatima University", "root_url": "*.fatima.edu.ph/*", "country": "Philippines"}
-{"name": "Feati University", "root_url": "*.featiu.edu.ph/*", "country": "Philippines"}
-{"name": "Far Eastern University", "root_url": "*.feu.edu.ph/*", "country": "Philippines"}
-{"name": "Foundation University", "root_url": "*.foundationu.com/*", "country": "Philippines"}
-{"name": "Holy Angel University", "root_url": "*.hau.edu.ph/*", "country": "Philippines"}
-{"name": "College of the Holy Spirit", "root_url": "*.holyspirit.edu.ph/*", "country": "Philippines"}
-{"name": "Information and Communications Technology Academy", "root_url": "*.iacademy.ph/*", "country": "Philippines"}
-{"name": "Isabela State University", "root_url": "*.isu.edu.ph/*", "country": "Philippines"}
-{"name": "Liceo de Cagayan University", "root_url": "*.ldcu.edu.ph/*", "country": "Philippines"}
-{"name": "Colegio de San Juan de Letran", "root_url": "*.letran.edu/*", "country": "Philippines"}
-{"name": "Leyte Normal University", "root_url": "*.lnu.evis.net.ph/*", "country": "Philippines"}
-{"name": "Lyceum of the Philippines University", "root_url": "*.lpu.edu.ph/*", "country": "Philippines"}
-{"name": "Leyte State University", "root_url": "*.lsu-visca.edu.ph/*", "country": "Philippines"}
-{"name": "Manila Central University", "root_url": "*.mcu.edu.ph/*", "country": "Philippines"}
-{"name": "Mariano Marcos State University", "root_url": "*.mmsu.edu.ph/*", "country": "Philippines"}
-{"name": "Mindanao State University", "root_url": "*.msumain.edu.ph/*", "country": "Philippines"}
-{"name": "Misamis University", "root_url": "*.mu.fapenet.org/*", "country": "Philippines"}
-{"name": "Mountain View College", "root_url": "*.mvc.edu.ph/*", "country": "Philippines"}
-{"name": "Notre Dame of Marbel University", "root_url": "*.ndmu.edu.ph/*", "country": "Philippines"}
-{"name": "Notre Dame University", "root_url": "*.ndu.fapenet.org/*", "country": "Philippines"}
-{"name": "New Era University", "root_url": "*.neu.edu.ph/*", "country": "Philippines"}
-{"name": "National University", "root_url": "*.nu.edu.ph/*", "country": "Philippines"}
-{"name": "Northwestern University of the Philippines", "root_url": "*.nulaoag.com/*", "country": "Philippines"}
-{"name": "Philippine Christian University", "root_url": "*.pcu.edu.ph/*", "country": "Philippines"}
-{"name": "University of the City of Manila", "root_url": "*.plm.edu.ph/*", "country": "Philippines"}
-{"name": "Philippine Military Academy", "root_url": "*.pma.ph/*", "country": "Philippines"}
-{"name": "Philippine Normal University", "root_url": "*.pnumanila.com.ph/*", "country": "Philippines"}
-{"name": "Pangasinan State University", "root_url": "*.psu.edu.ph/*", "country": "Philippines"}
+{"entity": "Adamson University", "url": "*.adamson.edu.ph/*", "country": "Philippines"}
+{"entity": "Ateneo de Davao University", "url": "*.addu.edu.ph/*", "country": "Philippines"}
+{"entity": "Ateneo de Manila University", "url": "*.admu.edu.ph/*", "country": "Philippines"}
+{"entity": "Ateneo de Naga University", "url": "*.adnu.edu.ph/*", "country": "Philippines"}
+{"entity": "Ateneo de Zamboanga University", "url": "*.adzu.edu.ph/*", "country": "Philippines"}
+{"entity": "Aquinas University", "url": "*.aquinas-university.edu/*", "country": "Philippines"}
+{"entity": "Arellano University", "url": "*.arellano.edu.ph/*", "country": "Philippines"}
+{"entity": "Angeles University", "url": "*.auf.edu.ph/*", "country": "Philippines"}
+{"entity": "Adventist University of the Philippines", "url": "*.aup.edu.ph/*", "country": "Philippines"}
+{"entity": "Araullo University", "url": "*.aupen.edu.ph/*", "country": "Philippines"}
+{"entity": "Bicol University", "url": "*.bicol-u.edu.ph/*", "country": "Philippines"}
+{"entity": "Benguet State University", "url": "*.bsu.edu.ph/*", "country": "Philippines"}
+{"entity": "Bulacan State University", "url": "*.bulsu.edu.ph/*", "country": "Philippines"}
+{"entity": "Centro Escolar University", "url": "*.ceu.edu.ph/*", "country": "Philippines"}
+{"entity": "Central Mindanao University", "url": "*.cmu.edu.ph/*", "country": "Philippines"}
+{"entity": "Central Philippine University", "url": "*.cpuic.edu/*", "country": "Philippines"}
+{"entity": "Cagayan State University", "url": "*.csu.edu.ph/*", "country": "Philippines"}
+{"entity": "Capitol University", "url": "*.cu-cdo.edu.ph/*", "country": "Philippines"}
+{"entity": "Davao Doctors College", "url": "*.davaodoctors.edu.ph/*", "country": "Philippines"}
+{"entity": "De La Salle University", "url": "*.dlsu.edu.ph/*", "country": "Philippines"}
+{"entity": "Don Mariano Marcos Memorial State University", "url": "*.dmmmsu.edu.ph/*", "country": "Philippines"}
+{"entity": "Divine Word College of Legazpi", "url": "*.dwc-legazpi.edu/*", "country": "Philippines"}
+{"entity": "Our Lady of Fatima University", "url": "*.fatima.edu.ph/*", "country": "Philippines"}
+{"entity": "Feati University", "url": "*.featiu.edu.ph/*", "country": "Philippines"}
+{"entity": "Far Eastern University", "url": "*.feu.edu.ph/*", "country": "Philippines"}
+{"entity": "Foundation University", "url": "*.foundationu.com/*", "country": "Philippines"}
+{"entity": "Holy Angel University", "url": "*.hau.edu.ph/*", "country": "Philippines"}
+{"entity": "College of the Holy Spirit", "url": "*.holyspirit.edu.ph/*", "country": "Philippines"}
+{"entity": "Information and Communications Technology Academy", "url": "*.iacademy.ph/*", "country": "Philippines"}
+{"entity": "Isabela State University", "url": "*.isu.edu.ph/*", "country": "Philippines"}
+{"entity": "Liceo de Cagayan University", "url": "*.ldcu.edu.ph/*", "country": "Philippines"}
+{"entity": "Colegio de San Juan de Letran", "url": "*.letran.edu/*", "country": "Philippines"}
+{"entity": "Leyte Normal University", "url": "*.lnu.evis.net.ph/*", "country": "Philippines"}
+{"entity": "Lyceum of the Philippines University", "url": "*.lpu.edu.ph/*", "country": "Philippines"}
+{"entity": "Leyte State University", "url": "*.lsu-visca.edu.ph/*", "country": "Philippines"}
+{"entity": "Manila Central University", "url": "*.mcu.edu.ph/*", "country": "Philippines"}
+{"entity": "Mariano Marcos State University", "url": "*.mmsu.edu.ph/*", "country": "Philippines"}
+{"entity": "Mindanao State University", "url": "*.msumain.edu.ph/*", "country": "Philippines"}
+{"entity": "Misamis University", "url": "*.mu.fapenet.org/*", "country": "Philippines"}
+{"entity": "Mountain View College", "url": "*.mvc.edu.ph/*", "country": "Philippines"}
+{"entity": "Notre Dame of Marbel University", "url": "*.ndmu.edu.ph/*", "country": "Philippines"}
+{"entity": "Notre Dame University", "url": "*.ndu.fapenet.org/*", "country": "Philippines"}
+{"entity": "New Era University", "url": "*.neu.edu.ph/*", "country": "Philippines"}
+{"entity": "National University", "url": "*.nu.edu.ph/*", "country": "Philippines"}
+{"entity": "Northwestern University of the Philippines", "url": "*.nulaoag.com/*", "country": "Philippines"}
+{"entity": "Philippine Christian University", "url": "*.pcu.edu.ph/*", "country": "Philippines"}
+{"entity": "University of the City of Manila", "url": "*.plm.edu.ph/*", "country": "Philippines"}
+{"entity": "Philippine Military Academy", "url": "*.pma.ph/*", "country": "Philippines"}
+{"entity": "Philippine Normal University", "url": "*.pnumanila.com.ph/*", "country": "Philippines"}
+{"entity": "Pangasinan State University", "url": "*.psu.edu.ph/*", "country": "Philippines"}

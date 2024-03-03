@@ -1,50 +1,50 @@
-{"name": "CMJ University", "root_url": "*.cmjuniversity.edu.in/*", "country": "India"}
-{"name": "Chandra Shekhar Azad University of Agriculture and Technology", "root_url": "*.csauk.ac.in/*", "country": "India"}
-{"name": "Cochin University of Science and Technology", "root_url": "*.cusat.ac.in/*", "country": "India"}
-{"name": "Dhirubhai Ambani Institute of Information and Communication Technology", "root_url": "*.da-iict.org/*", "country": "India"}
-{"name": "Darul Huda Islamic University", "root_url": "*.darulhuda.com/*", "country": "India"}
-{"name": "Dav University", "root_url": "*.davuniversity.org/*", "country": "India"}
-{"name": "Devi Ahilya University of Indore", "root_url": "*.davv.ac.in/*", "country": "India"}
-{"name": "Konkan Agricultural University", "root_url": "*.dbskkv.org/*", "country": "India"}
-{"name": "Tamil Nadu Agricultural University", "root_url": "*.dbs.tn.nic.in/tnau/*", "country": "India"}
-{"name": "Deen Dayal Upadhyay Gorakhpur University", "root_url": "*.ddugu.edu.in/*", "country": "India"}
-{"name": "Deccan College Postgraduate and Research Institute", "root_url": "*.deccancollegepune.ac.in/*", "country": "India"}
-{"name": "Dayalbagh Educational Institute", "root_url": "*.dei.ac.in/*", "country": "India"}
-{"name": "Dibrugarh University", "root_url": "*.dibru.ernet.in/*", "country": "India"}
-{"name": "Dravidian University", "root_url": "*.dravidianuniversity.ac.in/*", "country": "India"}
-{"name": "University of Delhi", "root_url": "*.du.ac.in/*", "country": "India"}
-{"name": "Eiilm University", "root_url": "*.eiilmuniversity.ac.in/*", "country": "India"}
-{"name": "Fatima mata national college kollam kerala", "root_url": "*.fatimacollege.net/*", "country": "India"}
-{"name": "Forest Research Institute Dehradun", "root_url": "*.fri.icfre.gov.in/*", "country": "India"}
-{"name": "Govind Ballabh Pant University of Agriculture and Technology", "root_url": "*.gbpuat.ac.in/*", "country": "India"}
-{"name": "Guru Ghasidas University", "root_url": "*.ggu.ac.in/*", "country": "India"}
-{"name": "Gokhale Institute of Politics and Economics", "root_url": "*.gipe.ernet.in/*", "country": "India"}
-{"name": "Gandhi Institute of Technology and Managment", "root_url": "*.gitam.edu/*", "country": "India"}
-{"name": "Guru Jambeshwar University", "root_url": "*.gju.ernet.in/*", "country": "India"}
-{"name": "Gurukula Kangri University", "root_url": "*.gkvharidwar.org/*", "country": "India"}
-{"name": "Guru Nanak Dev University", "root_url": "*.gnduonline.org/*", "country": "India"}
-{"name": "Gujarat Technological University Ahmedabad", "root_url": "*.gtu.ac.in/*", "country": "India"}
-{"name": "Gujarat University Ahmedabad", "root_url": "*.gujaratuniversity.org.in/*", "country": "India"}
-{"name": "Gulbarga University", "root_url": "*.gulbargauniversity.kar.nic.in/*", "country": "India"}
-{"name": "Gauhati University", "root_url": "*.gu.nic.in/*", "country": "India"}
-{"name": "Gurukul University", "root_url": "*.gurukuluniversity.org/*", "country": "India"}
-{"name": "CCS Haryana Agricultural University", "root_url": "*.hau.ernet.in/*", "country": "India"}
-{"name": "Chaudhary Charan Singh Haryana Agricultural University", "root_url": "*.hau.ernet.in/*", "country": "India"}
-{"name": "Himachal Pradesh Agricultural University", "root_url": "*.hillagric.ernet.in/*", "country": "India"}
-{"name": "Hemwati Nandan Bahuguna Garhwal University", "root_url": "*.hnbgu.ac.in/*", "country": "India"}
-{"name": "Sri Ramachardra Medical College and Research Institute", "root_url": "*.hostindia.com/srmc/*", "country": "India"}
-{"name": "Himachal Pradesh University", "root_url": "*.hpuniv.nic.in/*", "country": "India"}
-{"name": "Indian Agricultural Research Institute", "root_url": "*.iari.ernet.in/*", "country": "India"}
-{"name": "ICFAI University", "root_url": "*.icfai.org/*", "country": "India"}
-{"name": "Indira Gandhi Agricultural University", "root_url": "*.igau.edu.in/*", "country": "India"}
-{"name": "Indira Gandhi Institute of Development and Research", "root_url": "*.igidr.ac.in/*", "country": "India"}
-{"name": "Indira Gandhi Institute of Medical Sciences", "root_url": "*.igims.org/*", "country": "India"}
-{"name": "Indira Gandhi National Open University", "root_url": "*.ignou.ac.in/*", "country": "India"}
-{"name": "Indian Institute of Information Technology", "root_url": "*.iiita.com/*", "country": "India"}
-{"name": "International Institute for Population Sciences", "root_url": "*.iipsindia.org/*", "country": "India"}
-{"name": "Indian Institute of Science", "root_url": "*.iisc.ernet.in/*", "country": "India"}
-{"name": "University of Music and Fine Arts", "root_url": "*.iksvv.com/*", "country": "India"}
-{"name": "Indian Law Institue", "root_url": "*.ilidelhi.org/*", "country": "India"}
-{"name": "Integral University", "root_url": "*.integraluniversity.ac.in/*", "country": "India"}
-{"name": "Guru Gobind Singh Indraprastha University", "root_url": "*.ipu.ac.in/*", "country": "India"}
-{"name": "Indian School of Business Management and Administration", "root_url": "*.isbm.org.in/*", "country": "India"}
+{"entity": "CMJ University", "url": "*.cmjuniversity.edu.in/*", "country": "India"}
+{"entity": "Chandra Shekhar Azad University of Agriculture and Technology", "url": "*.csauk.ac.in/*", "country": "India"}
+{"entity": "Cochin University of Science and Technology", "url": "*.cusat.ac.in/*", "country": "India"}
+{"entity": "Dhirubhai Ambani Institute of Information and Communication Technology", "url": "*.da-iict.org/*", "country": "India"}
+{"entity": "Darul Huda Islamic University", "url": "*.darulhuda.com/*", "country": "India"}
+{"entity": "Dav University", "url": "*.davuniversity.org/*", "country": "India"}
+{"entity": "Devi Ahilya University of Indore", "url": "*.davv.ac.in/*", "country": "India"}
+{"entity": "Konkan Agricultural University", "url": "*.dbskkv.org/*", "country": "India"}
+{"entity": "Tamil Nadu Agricultural University", "url": "*.dbs.tn.nic.in/tnau/*", "country": "India"}
+{"entity": "Deen Dayal Upadhyay Gorakhpur University", "url": "*.ddugu.edu.in/*", "country": "India"}
+{"entity": "Deccan College Postgraduate and Research Institute", "url": "*.deccancollegepune.ac.in/*", "country": "India"}
+{"entity": "Dayalbagh Educational Institute", "url": "*.dei.ac.in/*", "country": "India"}
+{"entity": "Dibrugarh University", "url": "*.dibru.ernet.in/*", "country": "India"}
+{"entity": "Dravidian University", "url": "*.dravidianuniversity.ac.in/*", "country": "India"}
+{"entity": "University of Delhi", "url": "*.du.ac.in/*", "country": "India"}
+{"entity": "Eiilm University", "url": "*.eiilmuniversity.ac.in/*", "country": "India"}
+{"entity": "Fatima mata national college kollam kerala", "url": "*.fatimacollege.net/*", "country": "India"}
+{"entity": "Forest Research Institute Dehradun", "url": "*.fri.icfre.gov.in/*", "country": "India"}
+{"entity": "Govind Ballabh Pant University of Agriculture and Technology", "url": "*.gbpuat.ac.in/*", "country": "India"}
+{"entity": "Guru Ghasidas University", "url": "*.ggu.ac.in/*", "country": "India"}
+{"entity": "Gokhale Institute of Politics and Economics", "url": "*.gipe.ernet.in/*", "country": "India"}
+{"entity": "Gandhi Institute of Technology and Managment", "url": "*.gitam.edu/*", "country": "India"}
+{"entity": "Guru Jambeshwar University", "url": "*.gju.ernet.in/*", "country": "India"}
+{"entity": "Gurukula Kangri University", "url": "*.gkvharidwar.org/*", "country": "India"}
+{"entity": "Guru Nanak Dev University", "url": "*.gnduonline.org/*", "country": "India"}
+{"entity": "Gujarat Technological University Ahmedabad", "url": "*.gtu.ac.in/*", "country": "India"}
+{"entity": "Gujarat University Ahmedabad", "url": "*.gujaratuniversity.org.in/*", "country": "India"}
+{"entity": "Gulbarga University", "url": "*.gulbargauniversity.kar.nic.in/*", "country": "India"}
+{"entity": "Gauhati University", "url": "*.gu.nic.in/*", "country": "India"}
+{"entity": "Gurukul University", "url": "*.gurukuluniversity.org/*", "country": "India"}
+{"entity": "CCS Haryana Agricultural University", "url": "*.hau.ernet.in/*", "country": "India"}
+{"entity": "Chaudhary Charan Singh Haryana Agricultural University", "url": "*.hau.ernet.in/*", "country": "India"}
+{"entity": "Himachal Pradesh Agricultural University", "url": "*.hillagric.ernet.in/*", "country": "India"}
+{"entity": "Hemwati Nandan Bahuguna Garhwal University", "url": "*.hnbgu.ac.in/*", "country": "India"}
+{"entity": "Sri Ramachardra Medical College and Research Institute", "url": "*.hostindia.com/srmc/*", "country": "India"}
+{"entity": "Himachal Pradesh University", "url": "*.hpuniv.nic.in/*", "country": "India"}
+{"entity": "Indian Agricultural Research Institute", "url": "*.iari.ernet.in/*", "country": "India"}
+{"entity": "ICFAI University", "url": "*.icfai.org/*", "country": "India"}
+{"entity": "Indira Gandhi Agricultural University", "url": "*.igau.edu.in/*", "country": "India"}
+{"entity": "Indira Gandhi Institute of Development and Research", "url": "*.igidr.ac.in/*", "country": "India"}
+{"entity": "Indira Gandhi Institute of Medical Sciences", "url": "*.igims.org/*", "country": "India"}
+{"entity": "Indira Gandhi National Open University", "url": "*.ignou.ac.in/*", "country": "India"}
+{"entity": "Indian Institute of Information Technology", "url": "*.iiita.com/*", "country": "India"}
+{"entity": "International Institute for Population Sciences", "url": "*.iipsindia.org/*", "country": "India"}
+{"entity": "Indian Institute of Science", "url": "*.iisc.ernet.in/*", "country": "India"}
+{"entity": "University of Music and Fine Arts", "url": "*.iksvv.com/*", "country": "India"}
+{"entity": "Indian Law Institue", "url": "*.ilidelhi.org/*", "country": "India"}
+{"entity": "Integral University", "url": "*.integraluniversity.ac.in/*", "country": "India"}
+{"entity": "Guru Gobind Singh Indraprastha University", "url": "*.ipu.ac.in/*", "country": "India"}
+{"entity": "Indian School of Business Management and Administration", "url": "*.isbm.org.in/*", "country": "India"}

@@ -1,50 +1,50 @@
-{"name": "Adventist University of Africa", "root_url": "*.aua.ac.ke/*", "country": "Kenya"}
-{"name": "Chuka University", "root_url": "*.chuka.ac.ke/*", "country": "Kenya"}
-{"name": "Catholic University of Eastern Africa", "root_url": "*.cuea.edu/*", "country": "Kenya"}
-{"name": "Daystar University", "root_url": "*.daystar.ac.ke/*", "country": "Kenya"}
-{"name": "Dedan Kimathi University of Technology", "root_url": "*.dkut.ac.ke/*", "country": "Kenya"}
-{"name": "Egerton University", "root_url": "*.egerton.ac.ke/*", "country": "Kenya"}
-{"name": "Great Lakes University of Kisumu", "root_url": "*.gluk.ac.ke/*", "country": "Kenya"}
-{"name": "Gretsa Universtiy", "root_url": "*.gretsauniversity.ac.ke/*", "country": "Kenya"}
-{"name": "Inoorero University", "root_url": "*.iu.ac.ke/*", "country": "Kenya"}
-{"name": "Jomo Kenyatta University of Agriculture and Technology", "root_url": "*.jkuat.ac.ke/*", "country": "Kenya"}
-{"name": "Jaramogi Oginga Odinga University of Science and Technology", "root_url": "*.jooust.ac.ke/*", "country": "Kenya"}
-{"name": "Kabarak University", "root_url": "*.kabarak.ac.ke/*", "country": "Kenya"}
-{"name": "University of Kabianga", "root_url": "*.kabianga.ac.ke/*", "country": "Kenya"}
-{"name": "Karatina University", "root_url": "*.karatinauniversity.ac.ke/*", "country": "Kenya"}
-{"name": "Kenya College of Accountancy", "root_url": "*.kca.ac.ke/*", "country": "Kenya"}
-{"name": "Kenya Methodist University", "root_url": "*.kemu.ac.ke/*", "country": "Kenya"}
-{"name": "Kisii University", "root_url": "*.kisiiuniversity.ac.ke/*", "country": "Kenya"}
-{"name": "Kenya Medical Training College", "root_url": "*.kmtc.ac.ke/*", "country": "Kenya"}
-{"name": "Kenyatta University", "root_url": "*.ku.ac.ke/*", "country": "Kenya"}
-{"name": "Kiriri Womens University of Science and Technology", "root_url": "*.kwust.ac.ke/*", "country": "Kenya"}
-{"name": "Laikipia University", "root_url": "*.laikipia.ac.ke/*", "country": "Kenya"}
-{"name": "Maseno University", "root_url": "*.maseno.ac.ke/*", "country": "Kenya"}
-{"name": "Mount Kenya University", "root_url": "*.mku.ac.ke/*", "country": "Kenya"}
-{"name": "Maasai Mara University", "root_url": "*.mmarau.ac.ke/*", "country": "Kenya"}
-{"name": "Multimedia University of Kenya", "root_url": "*.mmu.ac.ke/*", "country": "Kenya"}
-{"name": "Masinde Muliro University of Science and Technology", "root_url": "*.mmust.ac.ke/*", "country": "Kenya"}
-{"name": "Moi University", "root_url": "*.mu.ac.ke/*", "country": "Kenya"}
-{"name": "Meru University of Science and Technology", "root_url": "*.must.ac.ke/*", "country": "Kenya"}
-{"name": "Nairobi Institute of Business Studies", "root_url": "*.nibs.ac.ke/*", "country": "Kenya"}
-{"name": "Nairobi Technical Training Institute", "root_url": "*.ntti.ac.ke/*", "country": "Kenya"}
-{"name": "Pan Africa Christian University", "root_url": "*.pacuniversity.ac.ke/*", "country": "Kenya"}
-{"name": "Pioneer International University", "root_url": "*.piu.ac.ke/*", "country": "Kenya"}
-{"name": "Pwani University", "root_url": "*.pu.ac.ke/*", "country": "Kenya"}
-{"name": "Presbyterian University of East Africa", "root_url": "*.puea.ac.ke/*", "country": "Kenya"}
-{"name": "Riara University School of Business and Law", "root_url": "*.riarauniversity.ac.ke/*", "country": "Kenya"}
-{"name": "Scott Christian University", "root_url": "*.scott.ac.ke/*", "country": "Kenya"}
-{"name": "South Eastern Kenya University", "root_url": "*.seku.ac.ke/*", "country": "Kenya"}
-{"name": "Strathmore University", "root_url": "*.strathmore.edu/*", "country": "Kenya"}
-{"name": "Technical University of Kenya", "root_url": "*.tukenya.ac.ke/*", "country": "Kenya"}
-{"name": "Technical University of Mombasa", "root_url": "*.tum.ac.ke/*", "country": "Kenya"}
-{"name": "University of Eldoret", "root_url": "*.uoeld.ac.ke/*", "country": "Kenya"}
-{"name": "University of Nairobi", "root_url": "*.uonbi.ac.ke/*", "country": "Kenya"}
-{"name": "United States International University", "root_url": "*.usiu.ac.ke/*", "country": "Kenya"}
-{"name": "Uzima University College", "root_url": "*.uzimauniversity.ac.ke/*", "country": "Kenya"}
-{"name": "Zetech College", "root_url": "*.zetechcollege.com/*", "country": "Kenya"}
-{"name": "Pyongyang University of Science and Technology", "root_url": "*.pust.net/*", "country": "Korea, Democratic People's Republic of"}
-{"name": "Ajou University", "root_url": "*.ajou.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Andong National University", "root_url": "*.andong.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Changwon National University", "root_url": "*.changwon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Cheju National University", "root_url": "*.cheju.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Adventist University of Africa", "url": "*.aua.ac.ke/*", "country": "Kenya"}
+{"entity": "Chuka University", "url": "*.chuka.ac.ke/*", "country": "Kenya"}
+{"entity": "Catholic University of Eastern Africa", "url": "*.cuea.edu/*", "country": "Kenya"}
+{"entity": "Daystar University", "url": "*.daystar.ac.ke/*", "country": "Kenya"}
+{"entity": "Dedan Kimathi University of Technology", "url": "*.dkut.ac.ke/*", "country": "Kenya"}
+{"entity": "Egerton University", "url": "*.egerton.ac.ke/*", "country": "Kenya"}
+{"entity": "Great Lakes University of Kisumu", "url": "*.gluk.ac.ke/*", "country": "Kenya"}
+{"entity": "Gretsa Universtiy", "url": "*.gretsauniversity.ac.ke/*", "country": "Kenya"}
+{"entity": "Inoorero University", "url": "*.iu.ac.ke/*", "country": "Kenya"}
+{"entity": "Jomo Kenyatta University of Agriculture and Technology", "url": "*.jkuat.ac.ke/*", "country": "Kenya"}
+{"entity": "Jaramogi Oginga Odinga University of Science and Technology", "url": "*.jooust.ac.ke/*", "country": "Kenya"}
+{"entity": "Kabarak University", "url": "*.kabarak.ac.ke/*", "country": "Kenya"}
+{"entity": "University of Kabianga", "url": "*.kabianga.ac.ke/*", "country": "Kenya"}
+{"entity": "Karatina University", "url": "*.karatinauniversity.ac.ke/*", "country": "Kenya"}
+{"entity": "Kenya College of Accountancy", "url": "*.kca.ac.ke/*", "country": "Kenya"}
+{"entity": "Kenya Methodist University", "url": "*.kemu.ac.ke/*", "country": "Kenya"}
+{"entity": "Kisii University", "url": "*.kisiiuniversity.ac.ke/*", "country": "Kenya"}
+{"entity": "Kenya Medical Training College", "url": "*.kmtc.ac.ke/*", "country": "Kenya"}
+{"entity": "Kenyatta University", "url": "*.ku.ac.ke/*", "country": "Kenya"}
+{"entity": "Kiriri Womens University of Science and Technology", "url": "*.kwust.ac.ke/*", "country": "Kenya"}
+{"entity": "Laikipia University", "url": "*.laikipia.ac.ke/*", "country": "Kenya"}
+{"entity": "Maseno University", "url": "*.maseno.ac.ke/*", "country": "Kenya"}
+{"entity": "Mount Kenya University", "url": "*.mku.ac.ke/*", "country": "Kenya"}
+{"entity": "Maasai Mara University", "url": "*.mmarau.ac.ke/*", "country": "Kenya"}
+{"entity": "Multimedia University of Kenya", "url": "*.mmu.ac.ke/*", "country": "Kenya"}
+{"entity": "Masinde Muliro University of Science and Technology", "url": "*.mmust.ac.ke/*", "country": "Kenya"}
+{"entity": "Moi University", "url": "*.mu.ac.ke/*", "country": "Kenya"}
+{"entity": "Meru University of Science and Technology", "url": "*.must.ac.ke/*", "country": "Kenya"}
+{"entity": "Nairobi Institute of Business Studies", "url": "*.nibs.ac.ke/*", "country": "Kenya"}
+{"entity": "Nairobi Technical Training Institute", "url": "*.ntti.ac.ke/*", "country": "Kenya"}
+{"entity": "Pan Africa Christian University", "url": "*.pacuniversity.ac.ke/*", "country": "Kenya"}
+{"entity": "Pioneer International University", "url": "*.piu.ac.ke/*", "country": "Kenya"}
+{"entity": "Pwani University", "url": "*.pu.ac.ke/*", "country": "Kenya"}
+{"entity": "Presbyterian University of East Africa", "url": "*.puea.ac.ke/*", "country": "Kenya"}
+{"entity": "Riara University School of Business and Law", "url": "*.riarauniversity.ac.ke/*", "country": "Kenya"}
+{"entity": "Scott Christian University", "url": "*.scott.ac.ke/*", "country": "Kenya"}
+{"entity": "South Eastern Kenya University", "url": "*.seku.ac.ke/*", "country": "Kenya"}
+{"entity": "Strathmore University", "url": "*.strathmore.edu/*", "country": "Kenya"}
+{"entity": "Technical University of Kenya", "url": "*.tukenya.ac.ke/*", "country": "Kenya"}
+{"entity": "Technical University of Mombasa", "url": "*.tum.ac.ke/*", "country": "Kenya"}
+{"entity": "University of Eldoret", "url": "*.uoeld.ac.ke/*", "country": "Kenya"}
+{"entity": "University of Nairobi", "url": "*.uonbi.ac.ke/*", "country": "Kenya"}
+{"entity": "United States International University", "url": "*.usiu.ac.ke/*", "country": "Kenya"}
+{"entity": "Uzima University College", "url": "*.uzimauniversity.ac.ke/*", "country": "Kenya"}
+{"entity": "Zetech College", "url": "*.zetechcollege.com/*", "country": "Kenya"}
+{"entity": "Pyongyang University of Science and Technology", "url": "*.pust.net/*", "country": "Korea, Democratic People's Republic of"}
+{"entity": "Ajou University", "url": "*.ajou.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Andong National University", "url": "*.andong.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Changwon National University", "url": "*.changwon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Cheju National University", "url": "*.cheju.ac.kr/*", "country": "Korea, Republic of"}

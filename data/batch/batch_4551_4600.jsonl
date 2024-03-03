@@ -1,50 +1,50 @@
-{"name": "Western Delta University", "root_url": "*.wdu.edu.ng/*", "country": "Nigeria"}
-{"name": "Wellspring University", "root_url": "*.wellspringuniversity.edu.ng/*", "country": "Nigeria"}
-{"name": "Wesley University of Science and Technology", "root_url": "*.wustoportal.edu.ng/*", "country": "Nigeria"}
-{"name": "Yaba College of Technology", "root_url": "*.yabatech.edu.ng/*", "country": "Nigeria"}
-{"name": "Oslo School of Architecture", "root_url": "*.aho.no/*", "country": "Norway"}
-{"name": "Norwegian School of Management BI", "root_url": "*.bi.no/*", "country": "Norway"}
-{"name": "Agder University College", "root_url": "*.hia.no/*", "country": "Norway"}
-{"name": "Bergen University College", "root_url": "*.hib.no/*", "country": "Norway"}
-{"name": "Bodo Regional University", "root_url": "*.hibo.no/*", "country": "Norway"}
-{"name": "Finnmark University College", "root_url": "*.hifm.no/*", "country": "Norway"}
-{"name": "Lillehammer University College", "root_url": "*.hil.no/*", "country": "Norway"}
-{"name": "Molde University College", "root_url": "*.himolde.no/*", "country": "Norway"}
-{"name": "National College of Art and Design", "root_url": "*.khio.no/shks/*", "country": "Norway"}
-{"name": "Norwegian School of Economics and Business Administration", "root_url": "*.nhh.no/*", "country": "Norway"}
-{"name": "Norwegian University of Sport and Physical Education", "root_url": "*.nih.no/*", "country": "Norway"}
-{"name": "Norwegian Teacher Academy for Studies in Religion and Education", "root_url": "*.nla.no/*", "country": "Norway"}
-{"name": "Agricultural University of Norway", "root_url": "*.nlh.no/*", "country": "Norway"}
-{"name": "Norwegian State Academy of Music", "root_url": "*.nmh.no/*", "country": "Norway"}
-{"name": "Norwegian University of Science and Technology", "root_url": "*.ntnu.no/*", "country": "Norway"}
-{"name": "National Academy of Fine Arts", "root_url": "*.ska.khio.no/main*", "country": "Norway"}
-{"name": "University of Bergen", "root_url": "*.uib.no/*", "country": "Norway"}
-{"name": "University of Oslo", "root_url": "*.uio.no/*", "country": "Norway"}
-{"name": "University of Stavanger", "root_url": "*.uis.no/*", "country": "Norway"}
-{"name": "Norwegian University of Life Sciences", "root_url": "*.umb.no/*", "country": "Norway"}
-{"name": "Norwegian College of Veterinary Medicine", "root_url": "*.veths.no/*", "country": "Norway"}
-{"name": "Arab Open University", "root_url": "*.aou.edu.om/*", "country": "Oman"}
-{"name": "Dhofar University", "root_url": "*.du.edu.om/*", "country": "Oman"}
-{"name": "Ibra College of Technology", "root_url": "*.ict.edu.om/*", "country": "Oman"}
-{"name": "Majan University College", "root_url": "*.majancollege.edu.om/*", "country": "Oman"}
-{"name": "Muscat College", "root_url": "*.muscatcollege.edu.om/*", "country": "Oman"}
-{"name": "Sohar University", "root_url": "*.soharuni.edu.om/*", "country": "Oman"}
-{"name": "Sultan Qaboos University", "root_url": "*.squ.edu.om/*", "country": "Oman"}
-{"name": "Sur University College", "root_url": "*.suc.edu.om/*", "country": "Oman"}
-{"name": "University of Nizwa", "root_url": "*.unizwa.edu.om/*", "country": "Oman"}
-{"name": "Abasyn University Peshawar", "root_url": "*.abasyn.edu.pk/*", "country": "Pakistan"}
-{"name": "Allama Iqbal Open University", "root_url": "*.aiou.edu.pk/*", "country": "Pakistan"}
-{"name": "Azad Jammu and Kashmir University", "root_url": "*.ajku.edu.pk/*", "country": "Pakistan"}
-{"name": "Aga Khan University", "root_url": "*.aku.edu/*", "country": "Pakistan"}
-{"name": "University of Islamic Studies", "root_url": "*.aldirasat.edu.pk/*", "country": "Pakistan"}
-{"name": "Alpha Omega University", "root_url": "*.alphaomega.edu.pk/*", "country": "Pakistan"}
-{"name": "Asian Management Institute", "root_url": "*.ami.edu.pk/*", "country": "Pakistan"}
-{"name": "Air University", "root_url": "*.au.edu.pk/*", "country": "Pakistan"}
-{"name": "North West Frontier Province Agricultural University", "root_url": "*.aup.edu.pk/*", "country": "Pakistan"}
-{"name": "Bahria University", "root_url": "*.bahria.edu.pk/*", "country": "Pakistan"}
-{"name": "Baqai Medical University", "root_url": "*.baqai.freeyellow.com/*", "country": "Pakistan"}
-{"name": "Balochistan University of Engineering and Technology Khuzdar", "root_url": "*.buetk.edu.pk/*", "country": "Pakistan"}
-{"name": "Cecos Univeristy of Information Technology", "root_url": "*.cecos.edu.pk/*", "country": "Pakistan"}
-{"name": "COMSATS Institute of Information Technology", "root_url": "*.ciit.edu.pk/*", "country": "Pakistan"}
-{"name": "COSMIQ Institute of Technology", "root_url": "*.cosmiq.edu.pk/*", "country": "Pakistan"}
-{"name": "Dadabhoy Institute of Higher Education", "root_url": "*.dadabhoy.edu.pk/*", "country": "Pakistan"}
+{"entity": "Western Delta University", "url": "*.wdu.edu.ng/*", "country": "Nigeria"}
+{"entity": "Wellspring University", "url": "*.wellspringuniversity.edu.ng/*", "country": "Nigeria"}
+{"entity": "Wesley University of Science and Technology", "url": "*.wustoportal.edu.ng/*", "country": "Nigeria"}
+{"entity": "Yaba College of Technology", "url": "*.yabatech.edu.ng/*", "country": "Nigeria"}
+{"entity": "Oslo School of Architecture", "url": "*.aho.no/*", "country": "Norway"}
+{"entity": "Norwegian School of Management BI", "url": "*.bi.no/*", "country": "Norway"}
+{"entity": "Agder University College", "url": "*.hia.no/*", "country": "Norway"}
+{"entity": "Bergen University College", "url": "*.hib.no/*", "country": "Norway"}
+{"entity": "Bodo Regional University", "url": "*.hibo.no/*", "country": "Norway"}
+{"entity": "Finnmark University College", "url": "*.hifm.no/*", "country": "Norway"}
+{"entity": "Lillehammer University College", "url": "*.hil.no/*", "country": "Norway"}
+{"entity": "Molde University College", "url": "*.himolde.no/*", "country": "Norway"}
+{"entity": "National College of Art and Design", "url": "*.khio.no/shks/*", "country": "Norway"}
+{"entity": "Norwegian School of Economics and Business Administration", "url": "*.nhh.no/*", "country": "Norway"}
+{"entity": "Norwegian University of Sport and Physical Education", "url": "*.nih.no/*", "country": "Norway"}
+{"entity": "Norwegian Teacher Academy for Studies in Religion and Education", "url": "*.nla.no/*", "country": "Norway"}
+{"entity": "Agricultural University of Norway", "url": "*.nlh.no/*", "country": "Norway"}
+{"entity": "Norwegian State Academy of Music", "url": "*.nmh.no/*", "country": "Norway"}
+{"entity": "Norwegian University of Science and Technology", "url": "*.ntnu.no/*", "country": "Norway"}
+{"entity": "National Academy of Fine Arts", "url": "*.ska.khio.no/main*", "country": "Norway"}
+{"entity": "University of Bergen", "url": "*.uib.no/*", "country": "Norway"}
+{"entity": "University of Oslo", "url": "*.uio.no/*", "country": "Norway"}
+{"entity": "University of Stavanger", "url": "*.uis.no/*", "country": "Norway"}
+{"entity": "Norwegian University of Life Sciences", "url": "*.umb.no/*", "country": "Norway"}
+{"entity": "Norwegian College of Veterinary Medicine", "url": "*.veths.no/*", "country": "Norway"}
+{"entity": "Arab Open University", "url": "*.aou.edu.om/*", "country": "Oman"}
+{"entity": "Dhofar University", "url": "*.du.edu.om/*", "country": "Oman"}
+{"entity": "Ibra College of Technology", "url": "*.ict.edu.om/*", "country": "Oman"}
+{"entity": "Majan University College", "url": "*.majancollege.edu.om/*", "country": "Oman"}
+{"entity": "Muscat College", "url": "*.muscatcollege.edu.om/*", "country": "Oman"}
+{"entity": "Sohar University", "url": "*.soharuni.edu.om/*", "country": "Oman"}
+{"entity": "Sultan Qaboos University", "url": "*.squ.edu.om/*", "country": "Oman"}
+{"entity": "Sur University College", "url": "*.suc.edu.om/*", "country": "Oman"}
+{"entity": "University of Nizwa", "url": "*.unizwa.edu.om/*", "country": "Oman"}
+{"entity": "Abasyn University Peshawar", "url": "*.abasyn.edu.pk/*", "country": "Pakistan"}
+{"entity": "Allama Iqbal Open University", "url": "*.aiou.edu.pk/*", "country": "Pakistan"}
+{"entity": "Azad Jammu and Kashmir University", "url": "*.ajku.edu.pk/*", "country": "Pakistan"}
+{"entity": "Aga Khan University", "url": "*.aku.edu/*", "country": "Pakistan"}
+{"entity": "University of Islamic Studies", "url": "*.aldirasat.edu.pk/*", "country": "Pakistan"}
+{"entity": "Alpha Omega University", "url": "*.alphaomega.edu.pk/*", "country": "Pakistan"}
+{"entity": "Asian Management Institute", "url": "*.ami.edu.pk/*", "country": "Pakistan"}
+{"entity": "Air University", "url": "*.au.edu.pk/*", "country": "Pakistan"}
+{"entity": "North West Frontier Province Agricultural University", "url": "*.aup.edu.pk/*", "country": "Pakistan"}
+{"entity": "Bahria University", "url": "*.bahria.edu.pk/*", "country": "Pakistan"}
+{"entity": "Baqai Medical University", "url": "*.baqai.freeyellow.com/*", "country": "Pakistan"}
+{"entity": "Balochistan University of Engineering and Technology Khuzdar", "url": "*.buetk.edu.pk/*", "country": "Pakistan"}
+{"entity": "Cecos Univeristy of Information Technology", "url": "*.cecos.edu.pk/*", "country": "Pakistan"}
+{"entity": "COMSATS Institute of Information Technology", "url": "*.ciit.edu.pk/*", "country": "Pakistan"}
+{"entity": "COSMIQ Institute of Technology", "url": "*.cosmiq.edu.pk/*", "country": "Pakistan"}
+{"entity": "Dadabhoy Institute of Higher Education", "url": "*.dadabhoy.edu.pk/*", "country": "Pakistan"}

@@ -1,50 +1,50 @@
-{"name": "Walter Sisulu University for Technology and Science", "root_url": "*.wsu.ac.za/*", "country": "South Africa"}
-{"name": "Monash Univerisity South Africa", "root_url": "*.msa.ac.za/*", "country": "South Africa"}
-{"name": "University of Juba", "root_url": "*.juba.edu.sd/*", "country": "South Sudan"}
-{"name": "Barcelona Graduate School of Economics", "root_url": "*.barcelonagse.eu/*", "country": "Spain"}
-{"name": "Bircham International University", "root_url": "*.bircham.edu/*", "country": "Spain"}
-{"name": "Universidad de San Pablo CEU", "root_url": "*.ceu.es/*", "country": "Spain"}
-{"name": "Universidad de Deusto", "root_url": "*.deusto.es/*", "country": "Spain"}
-{"name": "Global Business School Barcelona", "root_url": "*.global-business-school.org/*", "country": "Spain"}
-{"name": "IE University", "root_url": "*.ie.edu/*", "country": "Spain"}
-{"name": "International University of Southern Europe", "root_url": "*.iuse.edu.es/*", "country": "Spain"}
-{"name": "Mondragon Univertsitatea", "root_url": "*.muni.es/*", "country": "Spain"}
-{"name": "Universidad de Alicante", "root_url": "*.ua.es/*", "country": "Spain"}
-{"name": "Universidad Alfonso X El Sabio", "root_url": "*.uax.es/*", "country": "Spain"}
-{"name": "Universitat de Barcelona", "root_url": "*.ub.es/*", "country": "Spain"}
-{"name": "Universidad de Burgos", "root_url": "*.ubu.es/*", "country": "Spain"}
-{"name": "Universidad Carlos III de Madrid", "root_url": "*.uc3m.es/*", "country": "Spain"}
-{"name": "Universidad de Castilla La Mancha", "root_url": "*.uclm.es/*", "country": "Spain"}
-{"name": "Universidad Complutense de Madrid", "root_url": "*.ucm.es/*", "country": "Spain"}
-{"name": "Universidad de Gerona", "root_url": "*.udg.es/*", "country": "Spain"}
-{"name": "Universitat de Lleida", "root_url": "*.udl.es/*", "country": "Spain"}
-{"name": "Universidad Europea de Madrid", "root_url": "*.uem.es/*", "country": "Spain"}
-{"name": "Universidad Francisco de Vitoria", "root_url": "*.ufv.es/*", "country": "Spain"}
-{"name": "Universidad de Granada", "root_url": "*.ugr.es/*", "country": "Spain"}
-{"name": "Universidad de Huelva", "root_url": "*.uhu.es/*", "country": "Spain"}
-{"name": "Universitat de les Illes Balears", "root_url": "*.uib.es/*", "country": "Spain"}
-{"name": "Universitat Internacional de Catalunya", "root_url": "*.uic.es/*", "country": "Spain"}
-{"name": "Universidad de La Laguna", "root_url": "*.ull.es/*", "country": "Spain"}
-{"name": "Universidad de Las Palmas de Gran Canaria", "root_url": "*.ulpgc.es/*", "country": "Spain"}
-{"name": "Universidad de Murcia", "root_url": "*.um.es/*", "country": "Spain"}
-{"name": "Universidad de Navarra", "root_url": "*.unav.es/*", "country": "Spain"}
-{"name": "Universidad de Extremadura", "root_url": "*.unex.es/*", "country": "Spain"}
-{"name": "Universidad Abierta Interactiva", "root_url": "*.uniactiva.com/*", "country": "Spain"}
-{"name": "Universidad de Cantabria", "root_url": "*.unican.es/*", "country": "Spain"}
-{"name": "Universidad de Oviedo", "root_url": "*.uniovi.es/*", "country": "Spain"}
-{"name": "Universidad de La Rioja", "root_url": "*.unirioja.es/*", "country": "Spain"}
-{"name": "Iniciativa Universidad del Atlantico", "root_url": "*.universidadatlantico.org/*", "country": "Spain"}
-{"name": "Universidad de Zaragoza", "root_url": "*.unizar.es/*", "country": "Spain"}
-{"name": "Universidad Antonio de Nebrija", "root_url": "*.unnet.es/*", "country": "Spain"}
-{"name": "Universitat Oberta de Catalunya", "root_url": "*.uoc.es/*", "country": "Spain"}
-{"name": "Universidad Pontificia Comillas", "root_url": "*.upco.es/*", "country": "Spain"}
-{"name": "Universitat Pompeu Fabra", "root_url": "*.upf.es/*", "country": "Spain"}
-{"name": "Universidad Pablo de Olavide", "root_url": "*.upo.es/*", "country": "Spain"}
-{"name": "Universidad Pontificia de Salamanca", "root_url": "*.upsa.es/*", "country": "Spain"}
-{"name": "Universidad Rey Juan Carlos", "root_url": "*.urjc.es/*", "country": "Spain"}
-{"name": "Universitat Rovira I Virgili Tarragona", "root_url": "*.urv.es/*", "country": "Spain"}
-{"name": "Universidad de Salamanca", "root_url": "*.usal.es/*", "country": "Spain"}
-{"name": "Universidad de Santiago de Compostela", "root_url": "*.usc.es/*", "country": "Spain"}
-{"name": "Universidad de Sevilla", "root_url": "*.us.es/*", "country": "Spain"}
-{"name": "Universidad de Valladolid", "root_url": "*.uva.es/*", "country": "Spain"}
-{"name": "Universidad de Valencia", "root_url": "*.uv.es/*", "country": "Spain"}
+{"entity": "Walter Sisulu University for Technology and Science", "url": "*.wsu.ac.za/*", "country": "South Africa"}
+{"entity": "Monash Univerisity South Africa", "url": "*.msa.ac.za/*", "country": "South Africa"}
+{"entity": "University of Juba", "url": "*.juba.edu.sd/*", "country": "South Sudan"}
+{"entity": "Barcelona Graduate School of Economics", "url": "*.barcelonagse.eu/*", "country": "Spain"}
+{"entity": "Bircham International University", "url": "*.bircham.edu/*", "country": "Spain"}
+{"entity": "Universidad de San Pablo CEU", "url": "*.ceu.es/*", "country": "Spain"}
+{"entity": "Universidad de Deusto", "url": "*.deusto.es/*", "country": "Spain"}
+{"entity": "Global Business School Barcelona", "url": "*.global-business-school.org/*", "country": "Spain"}
+{"entity": "IE University", "url": "*.ie.edu/*", "country": "Spain"}
+{"entity": "International University of Southern Europe", "url": "*.iuse.edu.es/*", "country": "Spain"}
+{"entity": "Mondragon Univertsitatea", "url": "*.muni.es/*", "country": "Spain"}
+{"entity": "Universidad de Alicante", "url": "*.ua.es/*", "country": "Spain"}
+{"entity": "Universidad Alfonso X El Sabio", "url": "*.uax.es/*", "country": "Spain"}
+{"entity": "Universitat de Barcelona", "url": "*.ub.es/*", "country": "Spain"}
+{"entity": "Universidad de Burgos", "url": "*.ubu.es/*", "country": "Spain"}
+{"entity": "Universidad Carlos III de Madrid", "url": "*.uc3m.es/*", "country": "Spain"}
+{"entity": "Universidad de Castilla La Mancha", "url": "*.uclm.es/*", "country": "Spain"}
+{"entity": "Universidad Complutense de Madrid", "url": "*.ucm.es/*", "country": "Spain"}
+{"entity": "Universidad de Gerona", "url": "*.udg.es/*", "country": "Spain"}
+{"entity": "Universitat de Lleida", "url": "*.udl.es/*", "country": "Spain"}
+{"entity": "Universidad Europea de Madrid", "url": "*.uem.es/*", "country": "Spain"}
+{"entity": "Universidad Francisco de Vitoria", "url": "*.ufv.es/*", "country": "Spain"}
+{"entity": "Universidad de Granada", "url": "*.ugr.es/*", "country": "Spain"}
+{"entity": "Universidad de Huelva", "url": "*.uhu.es/*", "country": "Spain"}
+{"entity": "Universitat de les Illes Balears", "url": "*.uib.es/*", "country": "Spain"}
+{"entity": "Universitat Internacional de Catalunya", "url": "*.uic.es/*", "country": "Spain"}
+{"entity": "Universidad de La Laguna", "url": "*.ull.es/*", "country": "Spain"}
+{"entity": "Universidad de Las Palmas de Gran Canaria", "url": "*.ulpgc.es/*", "country": "Spain"}
+{"entity": "Universidad de Murcia", "url": "*.um.es/*", "country": "Spain"}
+{"entity": "Universidad de Navarra", "url": "*.unav.es/*", "country": "Spain"}
+{"entity": "Universidad de Extremadura", "url": "*.unex.es/*", "country": "Spain"}
+{"entity": "Universidad Abierta Interactiva", "url": "*.uniactiva.com/*", "country": "Spain"}
+{"entity": "Universidad de Cantabria", "url": "*.unican.es/*", "country": "Spain"}
+{"entity": "Universidad de Oviedo", "url": "*.uniovi.es/*", "country": "Spain"}
+{"entity": "Universidad de La Rioja", "url": "*.unirioja.es/*", "country": "Spain"}
+{"entity": "Iniciativa Universidad del Atlantico", "url": "*.universidadatlantico.org/*", "country": "Spain"}
+{"entity": "Universidad de Zaragoza", "url": "*.unizar.es/*", "country": "Spain"}
+{"entity": "Universidad Antonio de Nebrija", "url": "*.unnet.es/*", "country": "Spain"}
+{"entity": "Universitat Oberta de Catalunya", "url": "*.uoc.es/*", "country": "Spain"}
+{"entity": "Universidad Pontificia Comillas", "url": "*.upco.es/*", "country": "Spain"}
+{"entity": "Universitat Pompeu Fabra", "url": "*.upf.es/*", "country": "Spain"}
+{"entity": "Universidad Pablo de Olavide", "url": "*.upo.es/*", "country": "Spain"}
+{"entity": "Universidad Pontificia de Salamanca", "url": "*.upsa.es/*", "country": "Spain"}
+{"entity": "Universidad Rey Juan Carlos", "url": "*.urjc.es/*", "country": "Spain"}
+{"entity": "Universitat Rovira I Virgili Tarragona", "url": "*.urv.es/*", "country": "Spain"}
+{"entity": "Universidad de Salamanca", "url": "*.usal.es/*", "country": "Spain"}
+{"entity": "Universidad de Santiago de Compostela", "url": "*.usc.es/*", "country": "Spain"}
+{"entity": "Universidad de Sevilla", "url": "*.us.es/*", "country": "Spain"}
+{"entity": "Universidad de Valladolid", "url": "*.uva.es/*", "country": "Spain"}
+{"entity": "Universidad de Valencia", "url": "*.uv.es/*", "country": "Spain"}

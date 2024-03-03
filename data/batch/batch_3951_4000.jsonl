@@ -1,50 +1,50 @@
-{"name": "Cheju National University of Education", "root_url": "*.cheju-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chinju National University", "root_url": "*.chinju.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chinju National University of Education", "root_url": "*.chinju-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chodang University", "root_url": "*.chodang.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chonbuk National University", "root_url": "*.chonbuk.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chongju University", "root_url": "*.chongju.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chongju National University of Education", "root_url": "*.chongju-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chonju National University of Education", "root_url": "*.chonju-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chonnam National University", "root_url": "*.chonnam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chosun University", "root_url": "*.chosun.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chungbuk National University", "root_url": "*.chungbuk.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chungnam National University", "root_url": "*.chungnam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Chunchon National University of Education", "root_url": "*.cnue-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Catholic University of Korea", "root_url": "*.cuk.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Catholic University of Pusan", "root_url": "*.cup.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Daebul University", "root_url": "*.daebul.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Dankook University", "root_url": "*.dankook.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Dong Eui University", "root_url": "*.dongeui.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Dongguk University", "root_url": "*.dongguk.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Dongseo University", "root_url": "*.dongseo.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Dongshin University", "root_url": "*.dongshinu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Dong Yang University of Technology", "root_url": "*.dytc.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Gyeongsang National University", "root_url": "*.gsnu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hallym University", "root_url": "*.hallym.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hankuk Aviation University", "root_url": "*.hangkong.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hannam University", "root_url": "*.hannam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hansei University", "root_url": "*.hansei.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hanseo University", "root_url": "*.hanseo.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hanshin University", "root_url": "*.hanshin.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hansung University Seoul", "root_url": "*.hansung.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hanyang University", "root_url": "*.hanyang.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hankyong National University", "root_url": "*.hknu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Honam University", "root_url": "*.honam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hongik University", "root_url": "*.hongik.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hoseo University", "root_url": "*.hoseo.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hankuk University of Foreign Studies", "root_url": "*.hufs.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Hyupsung University", "root_url": "*.hyupsung.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Information and Communications University", "root_url": "*.icu.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Inchon University", "root_url": "*.inchon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Inchon National University of Education", "root_url": "*.inchon-e.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Inha University", "root_url": "*.inha.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Inje University", "root_url": "*.inje.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Jeonju University", "root_url": "*.jeonju.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kangnam University", "root_url": "*.kangnam.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kangnung National University", "root_url": "*.kangnung.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kangwon National University", "root_url": "*.kangwon.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Kaya University", "root_url": "*.kaya.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "KDI School of Public Policy and Management", "root_url": "*.kdischool.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Keimyung University", "root_url": "*.keimyung.ac.kr/*", "country": "Korea, Republic of"}
-{"name": "Korea Maritime University", "root_url": "*.kmaritime.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Cheju National University of Education", "url": "*.cheju-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chinju National University", "url": "*.chinju.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chinju National University of Education", "url": "*.chinju-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chodang University", "url": "*.chodang.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chonbuk National University", "url": "*.chonbuk.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chongju University", "url": "*.chongju.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chongju National University of Education", "url": "*.chongju-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chonju National University of Education", "url": "*.chonju-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chonnam National University", "url": "*.chonnam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chosun University", "url": "*.chosun.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chungbuk National University", "url": "*.chungbuk.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chungnam National University", "url": "*.chungnam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Chunchon National University of Education", "url": "*.cnue-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Catholic University of Korea", "url": "*.cuk.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Catholic University of Pusan", "url": "*.cup.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Daebul University", "url": "*.daebul.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Dankook University", "url": "*.dankook.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Dong Eui University", "url": "*.dongeui.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Dongguk University", "url": "*.dongguk.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Dongseo University", "url": "*.dongseo.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Dongshin University", "url": "*.dongshinu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Dong Yang University of Technology", "url": "*.dytc.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Gyeongsang National University", "url": "*.gsnu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hallym University", "url": "*.hallym.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hankuk Aviation University", "url": "*.hangkong.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hannam University", "url": "*.hannam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hansei University", "url": "*.hansei.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hanseo University", "url": "*.hanseo.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hanshin University", "url": "*.hanshin.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hansung University Seoul", "url": "*.hansung.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hanyang University", "url": "*.hanyang.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hankyong National University", "url": "*.hknu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Honam University", "url": "*.honam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hongik University", "url": "*.hongik.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hoseo University", "url": "*.hoseo.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hankuk University of Foreign Studies", "url": "*.hufs.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Hyupsung University", "url": "*.hyupsung.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Information and Communications University", "url": "*.icu.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Inchon University", "url": "*.inchon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Inchon National University of Education", "url": "*.inchon-e.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Inha University", "url": "*.inha.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Inje University", "url": "*.inje.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Jeonju University", "url": "*.jeonju.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kangnam University", "url": "*.kangnam.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kangnung National University", "url": "*.kangnung.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kangwon National University", "url": "*.kangwon.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Kaya University", "url": "*.kaya.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "KDI School of Public Policy and Management", "url": "*.kdischool.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Keimyung University", "url": "*.keimyung.ac.kr/*", "country": "Korea, Republic of"}
+{"entity": "Korea Maritime University", "url": "*.kmaritime.ac.kr/*", "country": "Korea, Republic of"}

@@ -1,50 +1,50 @@
-{"name": "Miyazaki Medical College", "root_url": "*.miyazaki-med.ac.jp/*", "country": "Japan"}
-{"name": "Miyazaki Municipal University", "root_url": "*.miyazaki-mu.ac.jp/*", "country": "Japan"}
-{"name": "Miyazaki University", "root_url": "*.miyazaki-u.ac.jp/*", "country": "Japan"}
-{"name": "Morioka College", "root_url": "*.morioka-u.ac.jp/*", "country": "Japan"}
-{"name": "Miyazaki Prefectural Nursing University", "root_url": "*.mpu.ac.jp/*", "country": "Japan"}
-{"name": "Muroran Institute of Technology", "root_url": "*.muroran-it.ac.jp/*", "country": "Japan"}
-{"name": "Musashino Art University", "root_url": "*.musabi.ac.jp/*", "country": "Japan"}
-{"name": "Musashi University", "root_url": "*.musashi.ac.jp/*", "country": "Japan"}
-{"name": "Musashino Academy of Music", "root_url": "*.musashino-music.ac.jp/*", "country": "Japan"}
-{"name": "Musashi Institute of Technology", "root_url": "*.musashi-tech.ac.jp/*", "country": "Japan"}
-{"name": "Meiji College of Pharmacy", "root_url": "*.my-pharm.ac.jp/*", "country": "Japan"}
-{"name": "Miyagi University", "root_url": "*.myu.ac.jp/*", "country": "Japan"}
-{"name": "Nagano University", "root_url": "*.nagano.ac.jp/*", "country": "Japan"}
-{"name": "Nagaoka University of Technology", "root_url": "*.nagaokaut.ac.jp/*", "country": "Japan"}
-{"name": "Nagasaki Prefectural University", "root_url": "*.nagasakipu.ac.jp/*", "country": "Japan"}
-{"name": "Nagasaki University", "root_url": "*.nagasaki-u.ac.jp/*", "country": "Japan"}
-{"name": "Nagoya City University", "root_url": "*.nagoya-cu.ac.jp/*", "country": "Japan"}
-{"name": "Nagoya Economics University", "root_url": "*.nagoya-ku.ac.jp/*", "country": "Japan"}
-{"name": "Nagoya University", "root_url": "*.nagoya-u.ac.jp/*", "country": "Japan"}
-{"name": "Nakamura Gakuen University", "root_url": "*.nakamura-u.ac.jp/*", "country": "Japan"}
-{"name": "Minamikyushu University", "root_url": "*.nankyudai.ac.jp/*", "country": "Japan"}
-{"name": "Nanzan University", "root_url": "*.nanzan-u.ac.jp/*", "country": "Japan"}
-{"name": "Nara University of Education", "root_url": "*.nara-edu.ac.jp/*", "country": "Japan"}
-{"name": "Nara Medical University", "root_url": "*.naramed-u.ac.jp/*", "country": "Japan"}
-{"name": "Nara Sangyo University", "root_url": "*.nara-su.ac.jp/*", "country": "Japan"}
-{"name": "Nara University", "root_url": "*.nara-u.ac.jp/*", "country": "Japan"}
-{"name": "Nara University of Commerce", "root_url": "*.narauc.ac.jp/*", "country": "Japan"}
-{"name": "Naruto University of Education", "root_url": "*.naruto-u.ac.jp/*", "country": "Japan"}
-{"name": "Nippon Bunri University", "root_url": "*.nbu.ac.jp/*", "country": "Japan"}
-{"name": "National Defence Medical College", "root_url": "*.ndmc.ac.jp/*", "country": "Japan"}
-{"name": "Nortre Dame Seishin University", "root_url": "*.ndsu.ac.jp/*", "country": "Japan"}
-{"name": "Nippon Dental University", "root_url": "*.ndu.ac.jp/*", "country": "Japan"}
-{"name": "Aomori Public College", "root_url": "*.nebuta.ac.jp/*", "country": "Japan"}
-{"name": "Nihon Fukushi University", "root_url": "*.n-fukushi.ac.jp/*", "country": "Japan"}
-{"name": "Nagoya Gakuin University", "root_url": "*.ngu.ac.jp/*", "country": "Japan"}
-{"name": "Nagasaki Institute of Applied Science", "root_url": "*.nias.ac.jp/*", "country": "Japan"}
-{"name": "National Institute of Fitness and Sports Kanoya", "root_url": "*.nifs-k.ac.jp/*", "country": "Japan"}
-{"name": "Nihon University", "root_url": "*.nihon-u.ac.jp/*", "country": "Japan"}
-{"name": "Niigata College of Pharmacy", "root_url": "*.niigata-pharm.ac.jp/*", "country": "Japan"}
-{"name": "Niigata University", "root_url": "*.niigata-u.ac.jp/*", "country": "Japan"}
-{"name": "Niigata University of Management", "root_url": "*.niigataum.ac.jp/*", "country": "Japan"}
-{"name": "Nishinippon Institute of Technology", "root_url": "*.nishitech.ac.jp/*", "country": "Japan"}
-{"name": "Nisho Gakusha University", "root_url": "*.nishogakusha-u.ac.jp/*", "country": "Japan"}
-{"name": "Nishikyushu University", "root_url": "*.nisikyu-u.ac.jp/*", "country": "Japan"}
-{"name": "Nippon Institute of Technology", "root_url": "*.nit.ac.jp/*", "country": "Japan"}
-{"name": "Nagoya Institute of Technology", "root_url": "*.nitech.ac.jp/*", "country": "Japan"}
-{"name": "Nippon Sport Science University", "root_url": "*.nittai.ac.jp/*", "country": "Japan"}
-{"name": "Nippon Medical School", "root_url": "*.nms.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo University of Agriculture", "root_url": "*.nodai.ac.jp/*", "country": "Japan"}
-{"name": "Niigata Sangyo University", "root_url": "*.nsu.ac.jp/*", "country": "Japan"}
+{"entity": "Miyazaki Medical College", "url": "*.miyazaki-med.ac.jp/*", "country": "Japan"}
+{"entity": "Miyazaki Municipal University", "url": "*.miyazaki-mu.ac.jp/*", "country": "Japan"}
+{"entity": "Miyazaki University", "url": "*.miyazaki-u.ac.jp/*", "country": "Japan"}
+{"entity": "Morioka College", "url": "*.morioka-u.ac.jp/*", "country": "Japan"}
+{"entity": "Miyazaki Prefectural Nursing University", "url": "*.mpu.ac.jp/*", "country": "Japan"}
+{"entity": "Muroran Institute of Technology", "url": "*.muroran-it.ac.jp/*", "country": "Japan"}
+{"entity": "Musashino Art University", "url": "*.musabi.ac.jp/*", "country": "Japan"}
+{"entity": "Musashi University", "url": "*.musashi.ac.jp/*", "country": "Japan"}
+{"entity": "Musashino Academy of Music", "url": "*.musashino-music.ac.jp/*", "country": "Japan"}
+{"entity": "Musashi Institute of Technology", "url": "*.musashi-tech.ac.jp/*", "country": "Japan"}
+{"entity": "Meiji College of Pharmacy", "url": "*.my-pharm.ac.jp/*", "country": "Japan"}
+{"entity": "Miyagi University", "url": "*.myu.ac.jp/*", "country": "Japan"}
+{"entity": "Nagano University", "url": "*.nagano.ac.jp/*", "country": "Japan"}
+{"entity": "Nagaoka University of Technology", "url": "*.nagaokaut.ac.jp/*", "country": "Japan"}
+{"entity": "Nagasaki Prefectural University", "url": "*.nagasakipu.ac.jp/*", "country": "Japan"}
+{"entity": "Nagasaki University", "url": "*.nagasaki-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nagoya City University", "url": "*.nagoya-cu.ac.jp/*", "country": "Japan"}
+{"entity": "Nagoya Economics University", "url": "*.nagoya-ku.ac.jp/*", "country": "Japan"}
+{"entity": "Nagoya University", "url": "*.nagoya-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nakamura Gakuen University", "url": "*.nakamura-u.ac.jp/*", "country": "Japan"}
+{"entity": "Minamikyushu University", "url": "*.nankyudai.ac.jp/*", "country": "Japan"}
+{"entity": "Nanzan University", "url": "*.nanzan-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nara University of Education", "url": "*.nara-edu.ac.jp/*", "country": "Japan"}
+{"entity": "Nara Medical University", "url": "*.naramed-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nara Sangyo University", "url": "*.nara-su.ac.jp/*", "country": "Japan"}
+{"entity": "Nara University", "url": "*.nara-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nara University of Commerce", "url": "*.narauc.ac.jp/*", "country": "Japan"}
+{"entity": "Naruto University of Education", "url": "*.naruto-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nippon Bunri University", "url": "*.nbu.ac.jp/*", "country": "Japan"}
+{"entity": "National Defence Medical College", "url": "*.ndmc.ac.jp/*", "country": "Japan"}
+{"entity": "Nortre Dame Seishin University", "url": "*.ndsu.ac.jp/*", "country": "Japan"}
+{"entity": "Nippon Dental University", "url": "*.ndu.ac.jp/*", "country": "Japan"}
+{"entity": "Aomori Public College", "url": "*.nebuta.ac.jp/*", "country": "Japan"}
+{"entity": "Nihon Fukushi University", "url": "*.n-fukushi.ac.jp/*", "country": "Japan"}
+{"entity": "Nagoya Gakuin University", "url": "*.ngu.ac.jp/*", "country": "Japan"}
+{"entity": "Nagasaki Institute of Applied Science", "url": "*.nias.ac.jp/*", "country": "Japan"}
+{"entity": "National Institute of Fitness and Sports Kanoya", "url": "*.nifs-k.ac.jp/*", "country": "Japan"}
+{"entity": "Nihon University", "url": "*.nihon-u.ac.jp/*", "country": "Japan"}
+{"entity": "Niigata College of Pharmacy", "url": "*.niigata-pharm.ac.jp/*", "country": "Japan"}
+{"entity": "Niigata University", "url": "*.niigata-u.ac.jp/*", "country": "Japan"}
+{"entity": "Niigata University of Management", "url": "*.niigataum.ac.jp/*", "country": "Japan"}
+{"entity": "Nishinippon Institute of Technology", "url": "*.nishitech.ac.jp/*", "country": "Japan"}
+{"entity": "Nisho Gakusha University", "url": "*.nishogakusha-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nishikyushu University", "url": "*.nisikyu-u.ac.jp/*", "country": "Japan"}
+{"entity": "Nippon Institute of Technology", "url": "*.nit.ac.jp/*", "country": "Japan"}
+{"entity": "Nagoya Institute of Technology", "url": "*.nitech.ac.jp/*", "country": "Japan"}
+{"entity": "Nippon Sport Science University", "url": "*.nittai.ac.jp/*", "country": "Japan"}
+{"entity": "Nippon Medical School", "url": "*.nms.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University of Agriculture", "url": "*.nodai.ac.jp/*", "country": "Japan"}
+{"entity": "Niigata Sangyo University", "url": "*.nsu.ac.jp/*", "country": "Japan"}

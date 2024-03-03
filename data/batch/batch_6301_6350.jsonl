@@ -1,50 +1,50 @@
-{"name": "Northland Pioneer College", "root_url": "*.npc.edu*", "country": "United States"}
-{"name": "Paradise Valley Community College", "root_url": "*.pvc.maricopa.edu*", "country": "United States"}
-{"name": "Phoenix College", "root_url": "*.phoenixcollege.edu*", "country": "United States"}
-{"name": "Pima Community College", "root_url": "*.pima.edu*", "country": "United States"}
-{"name": "Rio Salado College", "root_url": "*.rio.maricopa.edu*", "country": "United States"}
-{"name": "Scottsdale Community College", "root_url": "*.scottsdalecc.edu*", "country": "United States"}
-{"name": "South Mountain Community College", "root_url": "*.southmountaincc.edu*", "country": "United States"}
-{"name": "Yavapai College", "root_url": "*.YC.EDU*", "country": "United States"}
-{"name": "Arkansas Northeastern College", "root_url": "*.anc.edu*", "country": "United States"}
-{"name": "Black River Technical College", "root_url": "*.blackrivertech.edu*", "country": "United States"}
-{"name": "College of the Ouachitas", "root_url": "*.coto.edu*", "country": "United States"}
-{"name": "Cossatot Community College of the University of Arkansas", "root_url": "*.cccua.edu/*", "country": "United States"}
-{"name": "East Arkansas Community College", "root_url": "*.WWW.EACC.EDU*", "country": "United States"}
-{"name": "National Park Community College", "root_url": "*.npcc.edu*", "country": "United States"}
-{"name": "North Arkansas College", "root_url": "*.northark.edu*", "country": "United States"}
-{"name": "NorthWest Arkansas Community College", "root_url": "*.nwacc.edu*", "country": "United States"}
-{"name": "Ozarka College", "root_url": "*.ozarka.edu*", "country": "United States"}
-{"name": "Phillips Community College of the University of Arkansas", "root_url": "*.pccua.edu*", "country": "United States"}
-{"name": "Pulaski Technical College", "root_url": "*.pulaskitech.edu*", "country": "United States"}
-{"name": "Rich Mountain Community College", "root_url": "*.rmcc.edu*", "country": "United States"}
-{"name": "South Arkansas Community College", "root_url": "*.southark.edu*", "country": "United States"}
-{"name": "Southeast Arkansas College", "root_url": "*.seark.edu*", "country": "United States"}
-{"name": "Southern Arkansas University Tech", "root_url": "*.sautech.edu*", "country": "United States"}
-{"name": "Allan Hancock College", "root_url": "*.hancockcollege.edu/*", "country": "United States"}
-{"name": "American River College", "root_url": "*.arc.losrios.edu/*", "country": "United States"}
-{"name": "Antelope Valley College", "root_url": "*.avc.edu*", "country": "United States"}
-{"name": "Bakersfield College", "root_url": "*.bakersfieldcollege.edu/*", "country": "United States"}
-{"name": "Barstow Community College", "root_url": "*.barstow.edu*", "country": "United States"}
-{"name": "Berkeley City College", "root_url": "*.berkeleycitycollege.edu/wp/*", "country": "United States"}
-{"name": "Butte College", "root_url": "*.butte.edu*", "country": "United States"}
-{"name": "Cabrillo College", "root_url": "*.cabrillo.edu*", "country": "United States"}
-{"name": "Canada College", "root_url": "*.canadacollege.edu*", "country": "United States"}
-{"name": "Cerritos College", "root_url": "*.cerritos.edu*", "country": "United States"}
-{"name": "Cerro Coso Community College", "root_url": "*.cerrocoso.edu*", "country": "United States"}
-{"name": "Chabot College", "root_url": "*.chabotcollege.edu*", "country": "United States"}
-{"name": "Chaffey College", "root_url": "*.chaffey.edu*", "country": "United States"}
-{"name": "Citrus College", "root_url": "*.citruscollege.edu*", "country": "United States"}
-{"name": "City College of San Francisco", "root_url": "*.ccsf.edu*", "country": "United States"}
-{"name": "Coastline Community College", "root_url": "*.coastline.edu*", "country": "United States"}
-{"name": "College of Alameda", "root_url": "*.peralta.edu*", "country": "United States"}
-{"name": "College of Marin", "root_url": "*.marin.edu*", "country": "United States"}
-{"name": "College of San Mateo", "root_url": "*.collegeofsanmateo.edu*", "country": "United States"}
-{"name": "College of the Canyons", "root_url": "*.canyons.edu*", "country": "United States"}
-{"name": "College of the Desert", "root_url": "*.collegeofthedesert.edu*", "country": "United States"}
-{"name": "College of the Redwoods", "root_url": "*.redwoods.edu*", "country": "United States"}
-{"name": "College of the Sequoias", "root_url": "*.cos.edu*", "country": "United States"}
-{"name": "College of the Siskiyous", "root_url": "*.siskiyous.edu*", "country": "United States"}
-{"name": "Columbia College", "root_url": "*.ccis.edu/*", "country": "United States"}
-{"name": "Contra Costa College", "root_url": "*.contracosta.edu*", "country": "United States"}
-{"name": "Copper Mountain Community College", "root_url": "*.cmccd.edu*", "country": "United States"}
+{"entity": "Northland Pioneer College", "url": "*.npc.edu*", "country": "United States"}
+{"entity": "Paradise Valley Community College", "url": "*.pvc.maricopa.edu*", "country": "United States"}
+{"entity": "Phoenix College", "url": "*.phoenixcollege.edu*", "country": "United States"}
+{"entity": "Pima Community College", "url": "*.pima.edu*", "country": "United States"}
+{"entity": "Rio Salado College", "url": "*.rio.maricopa.edu*", "country": "United States"}
+{"entity": "Scottsdale Community College", "url": "*.scottsdalecc.edu*", "country": "United States"}
+{"entity": "South Mountain Community College", "url": "*.southmountaincc.edu*", "country": "United States"}
+{"entity": "Yavapai College", "url": "*.YC.EDU*", "country": "United States"}
+{"entity": "Arkansas Northeastern College", "url": "*.anc.edu*", "country": "United States"}
+{"entity": "Black River Technical College", "url": "*.blackrivertech.edu*", "country": "United States"}
+{"entity": "College of the Ouachitas", "url": "*.coto.edu*", "country": "United States"}
+{"entity": "Cossatot Community College of the University of Arkansas", "url": "*.cccua.edu/*", "country": "United States"}
+{"entity": "East Arkansas Community College", "url": "*.WWW.EACC.EDU*", "country": "United States"}
+{"entity": "National Park Community College", "url": "*.npcc.edu*", "country": "United States"}
+{"entity": "North Arkansas College", "url": "*.northark.edu*", "country": "United States"}
+{"entity": "NorthWest Arkansas Community College", "url": "*.nwacc.edu*", "country": "United States"}
+{"entity": "Ozarka College", "url": "*.ozarka.edu*", "country": "United States"}
+{"entity": "Phillips Community College of the University of Arkansas", "url": "*.pccua.edu*", "country": "United States"}
+{"entity": "Pulaski Technical College", "url": "*.pulaskitech.edu*", "country": "United States"}
+{"entity": "Rich Mountain Community College", "url": "*.rmcc.edu*", "country": "United States"}
+{"entity": "South Arkansas Community College", "url": "*.southark.edu*", "country": "United States"}
+{"entity": "Southeast Arkansas College", "url": "*.seark.edu*", "country": "United States"}
+{"entity": "Southern Arkansas University Tech", "url": "*.sautech.edu*", "country": "United States"}
+{"entity": "Allan Hancock College", "url": "*.hancockcollege.edu/*", "country": "United States"}
+{"entity": "American River College", "url": "*.arc.losrios.edu/*", "country": "United States"}
+{"entity": "Antelope Valley College", "url": "*.avc.edu*", "country": "United States"}
+{"entity": "Bakersfield College", "url": "*.bakersfieldcollege.edu/*", "country": "United States"}
+{"entity": "Barstow Community College", "url": "*.barstow.edu*", "country": "United States"}
+{"entity": "Berkeley City College", "url": "*.berkeleycitycollege.edu/wp/*", "country": "United States"}
+{"entity": "Butte College", "url": "*.butte.edu*", "country": "United States"}
+{"entity": "Cabrillo College", "url": "*.cabrillo.edu*", "country": "United States"}
+{"entity": "Canada College", "url": "*.canadacollege.edu*", "country": "United States"}
+{"entity": "Cerritos College", "url": "*.cerritos.edu*", "country": "United States"}
+{"entity": "Cerro Coso Community College", "url": "*.cerrocoso.edu*", "country": "United States"}
+{"entity": "Chabot College", "url": "*.chabotcollege.edu*", "country": "United States"}
+{"entity": "Chaffey College", "url": "*.chaffey.edu*", "country": "United States"}
+{"entity": "Citrus College", "url": "*.citruscollege.edu*", "country": "United States"}
+{"entity": "City College of San Francisco", "url": "*.ccsf.edu*", "country": "United States"}
+{"entity": "Coastline Community College", "url": "*.coastline.edu*", "country": "United States"}
+{"entity": "College of Alameda", "url": "*.peralta.edu*", "country": "United States"}
+{"entity": "College of Marin", "url": "*.marin.edu*", "country": "United States"}
+{"entity": "College of San Mateo", "url": "*.collegeofsanmateo.edu*", "country": "United States"}
+{"entity": "College of the Canyons", "url": "*.canyons.edu*", "country": "United States"}
+{"entity": "College of the Desert", "url": "*.collegeofthedesert.edu*", "country": "United States"}
+{"entity": "College of the Redwoods", "url": "*.redwoods.edu*", "country": "United States"}
+{"entity": "College of the Sequoias", "url": "*.cos.edu*", "country": "United States"}
+{"entity": "College of the Siskiyous", "url": "*.siskiyous.edu*", "country": "United States"}
+{"entity": "Columbia College", "url": "*.ccis.edu/*", "country": "United States"}
+{"entity": "Contra Costa College", "url": "*.contracosta.edu*", "country": "United States"}
+{"entity": "Copper Mountain Community College", "url": "*.cmccd.edu*", "country": "United States"}

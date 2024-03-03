@@ -1,50 +1,50 @@
-{"name": "Tokyo University of Mercantile Marine", "root_url": "*.tosho-u.ac.jp/*", "country": "Japan"}
-{"name": "Tottori University", "root_url": "*.tottori-u.ac.jp/*", "country": "Japan"}
-{"name": "University of East Asia", "root_url": "*.toua-u.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo University of Pharmacy and Life Science", "root_url": "*.toyaku.ac.jp/*", "country": "Japan"}
-{"name": "Toyama Medical and Pharmaceutical University", "root_url": "*.toyama-mpu.ac.jp/*", "country": "Japan"}
-{"name": "Toyama University", "root_url": "*.toyama-u.ac.jp/*", "country": "Japan"}
-{"name": "Toyo University", "root_url": "*.toyo.ac.jp/*", "country": "Japan"}
-{"name": "Toyo Gakuen University", "root_url": "*.toyogakuen-u.ac.jp/*", "country": "Japan"}
-{"name": "Toyota Technological Institute", "root_url": "*.toyota-ti.ac.jp/*", "country": "Japan"}
-{"name": "Tsuda College", "root_url": "*.tsuda.ac.jp/*", "country": "Japan"}
-{"name": "Tsukuba University", "root_url": "*.tsukuba.ac.jp/*", "country": "Japan"}
-{"name": "Tsuru University", "root_url": "*.tsuru.ac.jp/*", "country": "Japan"}
-{"name": "Tsurumi University", "root_url": "*.tsurumi-u.ac.jp/*", "country": "Japan"}
-{"name": "Tohoku University of Art and Design", "root_url": "*.tuad.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo University of Agriculture and Technology", "root_url": "*.tuat.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo University of Foreign Studies", "root_url": "*.tufs.ac.jp/*", "country": "Japan"}
-{"name": "Toyama University of International Studies", "root_url": "*.tuins.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo University of Information Sciences", "root_url": "*.tuis.ac.jp/*", "country": "Japan"}
-{"name": "Temple University Japan", "root_url": "*.tuj.ac.jp/*", "country": "Japan"}
-{"name": "Toyohashi University of Technology", "root_url": "*.tut.ac.jp/*", "country": "Japan"}
-{"name": "University of the Air", "root_url": "*.u-air.ac.jp/*", "country": "Japan"}
-{"name": "University of Aizu", "root_url": "*.u-aizu.ac.jp/*", "country": "Japan"}
-{"name": "University of Bunkyo", "root_url": "*.u-bunkyo.ac.jp/*", "country": "Japan"}
-{"name": "Ueno Gakuen College", "root_url": "*.uenogakuen.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo Gakugei University", "root_url": "*.u-gakugei.ac.jp/*", "country": "Japan"}
-{"name": "Polytechnic University", "root_url": "*.uitec.ac.jp/*", "country": "Japan"}
-{"name": "Keiai University", "root_url": "*.u-keiai.ac.jp/*", "country": "Japan"}
-{"name": "University of Marketing and Distribution Sciences", "root_url": "*.umds.ac.jp/*", "country": "Japan"}
-{"name": "United Nations University", "root_url": "*.unu.edu/*", "country": "Japan"}
-{"name": "University of the Ryukyus", "root_url": "*.u-ryukyu.ac.jp/*", "country": "Japan"}
-{"name": "University of the Sacred Heart Tokyo", "root_url": "*.u-sacred-heart.ac.jp/*", "country": "Japan"}
-{"name": "Shizuoka Prefectural University", "root_url": "*.u-shizuoka-ken.ac.jp/*", "country": "Japan"}
-{"name": "University of Shiga Prefecture", "root_url": "*.usp.ac.jp/*", "country": "Japan"}
-{"name": "Hokkaido Tokai University", "root_url": "*.u-tokai.ac.jp/*", "country": "Japan"}
-{"name": "Tokyo University", "root_url": "*.u-tokyo.ac.jp/*", "country": "Japan"}
-{"name": "Utsunomiya University", "root_url": "*.utsunomiya-u.ac.jp/*", "country": "Japan"}
-{"name": "Wakayama Medical College", "root_url": "*.wakayama-med.ac.jp/*", "country": "Japan"}
-{"name": "Wakayama University", "root_url": "*.wakayama-u.ac.jp/*", "country": "Japan"}
-{"name": "Wakkanai Hokusei Gakuen University", "root_url": "*.wakhok.ac.jp/*", "country": "Japan"}
-{"name": "Wako University", "root_url": "*.wako.ac.jp/*", "country": "Japan"}
-{"name": "Waseda University", "root_url": "*.waseda.ac.jp/*", "country": "Japan"}
-{"name": "Yamagata University", "root_url": "*.yamagata-u.ac.jp/*", "country": "Japan"}
-{"name": "Yamaguchi Prefectural University", "root_url": "*.yamaguchi-pu.ac.jp/*", "country": "Japan"}
-{"name": "Yamaguchi University", "root_url": "*.yamaguchi-u.ac.jp/*", "country": "Japan"}
-{"name": "Yamanashi University", "root_url": "*.yamanashi.ac.jp/*", "country": "Japan"}
-{"name": "Yamanashi Medical University", "root_url": "*.yamanashi-med.ac.jp/*", "country": "Japan"}
-{"name": "Science University of Tokyo in Yamaguchi", "root_url": "*.yama.sut.ac.jp/*", "country": "Japan"}
-{"name": "Yamanashi Gakuin University", "root_url": "*.ygu.ac.jp/*", "country": "Japan"}
-{"name": "Yokohama National University", "root_url": "*.ynu.ac.jp/*", "country": "Japan"}
-{"name": "Yokkaichi University", "root_url": "*.yokkaichi-u.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University of Mercantile Marine", "url": "*.tosho-u.ac.jp/*", "country": "Japan"}
+{"entity": "Tottori University", "url": "*.tottori-u.ac.jp/*", "country": "Japan"}
+{"entity": "University of East Asia", "url": "*.toua-u.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University of Pharmacy and Life Science", "url": "*.toyaku.ac.jp/*", "country": "Japan"}
+{"entity": "Toyama Medical and Pharmaceutical University", "url": "*.toyama-mpu.ac.jp/*", "country": "Japan"}
+{"entity": "Toyama University", "url": "*.toyama-u.ac.jp/*", "country": "Japan"}
+{"entity": "Toyo University", "url": "*.toyo.ac.jp/*", "country": "Japan"}
+{"entity": "Toyo Gakuen University", "url": "*.toyogakuen-u.ac.jp/*", "country": "Japan"}
+{"entity": "Toyota Technological Institute", "url": "*.toyota-ti.ac.jp/*", "country": "Japan"}
+{"entity": "Tsuda College", "url": "*.tsuda.ac.jp/*", "country": "Japan"}
+{"entity": "Tsukuba University", "url": "*.tsukuba.ac.jp/*", "country": "Japan"}
+{"entity": "Tsuru University", "url": "*.tsuru.ac.jp/*", "country": "Japan"}
+{"entity": "Tsurumi University", "url": "*.tsurumi-u.ac.jp/*", "country": "Japan"}
+{"entity": "Tohoku University of Art and Design", "url": "*.tuad.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University of Agriculture and Technology", "url": "*.tuat.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University of Foreign Studies", "url": "*.tufs.ac.jp/*", "country": "Japan"}
+{"entity": "Toyama University of International Studies", "url": "*.tuins.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University of Information Sciences", "url": "*.tuis.ac.jp/*", "country": "Japan"}
+{"entity": "Temple University Japan", "url": "*.tuj.ac.jp/*", "country": "Japan"}
+{"entity": "Toyohashi University of Technology", "url": "*.tut.ac.jp/*", "country": "Japan"}
+{"entity": "University of the Air", "url": "*.u-air.ac.jp/*", "country": "Japan"}
+{"entity": "University of Aizu", "url": "*.u-aizu.ac.jp/*", "country": "Japan"}
+{"entity": "University of Bunkyo", "url": "*.u-bunkyo.ac.jp/*", "country": "Japan"}
+{"entity": "Ueno Gakuen College", "url": "*.uenogakuen.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo Gakugei University", "url": "*.u-gakugei.ac.jp/*", "country": "Japan"}
+{"entity": "Polytechnic University", "url": "*.uitec.ac.jp/*", "country": "Japan"}
+{"entity": "Keiai University", "url": "*.u-keiai.ac.jp/*", "country": "Japan"}
+{"entity": "University of Marketing and Distribution Sciences", "url": "*.umds.ac.jp/*", "country": "Japan"}
+{"entity": "United Nations University", "url": "*.unu.edu/*", "country": "Japan"}
+{"entity": "University of the Ryukyus", "url": "*.u-ryukyu.ac.jp/*", "country": "Japan"}
+{"entity": "University of the Sacred Heart Tokyo", "url": "*.u-sacred-heart.ac.jp/*", "country": "Japan"}
+{"entity": "Shizuoka Prefectural University", "url": "*.u-shizuoka-ken.ac.jp/*", "country": "Japan"}
+{"entity": "University of Shiga Prefecture", "url": "*.usp.ac.jp/*", "country": "Japan"}
+{"entity": "Hokkaido Tokai University", "url": "*.u-tokai.ac.jp/*", "country": "Japan"}
+{"entity": "Tokyo University", "url": "*.u-tokyo.ac.jp/*", "country": "Japan"}
+{"entity": "Utsunomiya University", "url": "*.utsunomiya-u.ac.jp/*", "country": "Japan"}
+{"entity": "Wakayama Medical College", "url": "*.wakayama-med.ac.jp/*", "country": "Japan"}
+{"entity": "Wakayama University", "url": "*.wakayama-u.ac.jp/*", "country": "Japan"}
+{"entity": "Wakkanai Hokusei Gakuen University", "url": "*.wakhok.ac.jp/*", "country": "Japan"}
+{"entity": "Wako University", "url": "*.wako.ac.jp/*", "country": "Japan"}
+{"entity": "Waseda University", "url": "*.waseda.ac.jp/*", "country": "Japan"}
+{"entity": "Yamagata University", "url": "*.yamagata-u.ac.jp/*", "country": "Japan"}
+{"entity": "Yamaguchi Prefectural University", "url": "*.yamaguchi-pu.ac.jp/*", "country": "Japan"}
+{"entity": "Yamaguchi University", "url": "*.yamaguchi-u.ac.jp/*", "country": "Japan"}
+{"entity": "Yamanashi University", "url": "*.yamanashi.ac.jp/*", "country": "Japan"}
+{"entity": "Yamanashi Medical University", "url": "*.yamanashi-med.ac.jp/*", "country": "Japan"}
+{"entity": "Science University of Tokyo in Yamaguchi", "url": "*.yama.sut.ac.jp/*", "country": "Japan"}
+{"entity": "Yamanashi Gakuin University", "url": "*.ygu.ac.jp/*", "country": "Japan"}
+{"entity": "Yokohama National University", "url": "*.ynu.ac.jp/*", "country": "Japan"}
+{"entity": "Yokkaichi University", "url": "*.yokkaichi-u.ac.jp/*", "country": "Japan"}

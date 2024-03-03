@@ -1,50 +1,50 @@
-{"name": "Pedagogical University of the Polish Association for Adult Education in Warsaw", "root_url": "*.wsptwpwaw.edu.pl/*", "country": "Poland"}
-{"name": "Pedagogical University of Zielona Gora", "root_url": "*.wsp.zgora.pl/*", "country": "Poland"}
-{"name": "University of Insurance and Banking in Warsaw", "root_url": "*.wsub.waw.pl/*", "country": "Poland"}
-{"name": "School of Banking and Management in Cracow", "root_url": "*.wszib.krakow.pl/*", "country": "Poland"}
-{"name": "University of Management and Marketing", "root_url": "*.wszim.edu.pl/*", "country": "Poland"}
-{"name": "Gdansk Management College", "root_url": "*.wsz.pl/*", "country": "Poland"}
-{"name": "West Pomeranian Business School in Szczecin", "root_url": "*.zpsb.szczecin.pl/*", "country": "Poland"}
-{"name": "Escola Superior de Artes e Design", "root_url": "*.esad.pt/*", "country": "Portugal"}
-{"name": "Escola Superior de Hotelaria e Turismo do Estoril", "root_url": "*.eshte.pt/*", "country": "Portugal"}
-{"name": "European University Portugal", "root_url": "*.europeanuniversity.pt/*", "country": "Portugal"}
-{"name": "Instituto Piaget", "root_url": "*.ipiaget.org/*", "country": "Portugal"}
-{"name": "Instituto Politecnico do Porto", "root_url": "*.ipp.pt/*", "country": "Portugal"}
-{"name": "Instituto Superior Bissaya Barreto", "root_url": "*.isbb.pt/*", "country": "Portugal"}
-{"name": "Instituto Superior de Psicologia Aplicada", "root_url": "*.ispa.pt/*", "country": "Portugal"}
-{"name": "Instituto Superior de Entre Douro e Vouga", "root_url": "*.isvouga.com/*", "country": "Portugal"}
-{"name": "Academia Nacional Superior de Orquesta", "root_url": "*.oml.pt/anso/*", "country": "Portugal"}
-{"name": "Universidade dos Acores", "root_url": "*.uac.pt/*", "country": "Portugal"}
-{"name": "Universidade do Algarve", "root_url": "*.ualg.pt/*", "country": "Portugal"}
-{"name": "Universidade de Aveiro", "root_url": "*.ua.pt/*", "country": "Portugal"}
-{"name": "Universidade da Beira Interior", "root_url": "*.ubi.pt/*", "country": "Portugal"}
-{"name": "Universidade Catolica Portuguesa", "root_url": "*.ucp.pt/*", "country": "Portugal"}
-{"name": "Universidade de Coimbra", "root_url": "*.uc.pt/*", "country": "Portugal"}
-{"name": "Universidade de Evora", "root_url": "*.uevora.pt/*", "country": "Portugal"}
-{"name": "Universidade Fernando Pessoa", "root_url": "*.ufp.pt/*", "country": "Portugal"}
-{"name": "Universidade Internacional Lisboa", "root_url": "*.uinternacional.pt/*", "country": "Portugal"}
-{"name": "Universidade de Lisboa", "root_url": "*.ul.pt/*", "country": "Portugal"}
-{"name": "Universidade Lusiada", "root_url": "*.ulusiada.pt/*", "country": "Portugal"}
-{"name": "Universidade da Madeira", "root_url": "*.uma.pt/*", "country": "Portugal"}
-{"name": "Universidade do Minho", "root_url": "*.uminho.pt/*", "country": "Portugal"}
-{"name": "Universidade Moderna de Lisboa", "root_url": "*.umoderna.pt/*", "country": "Portugal"}
-{"name": "Universidade Independente", "root_url": "*.uni.pt/*", "country": "Portugal"}
-{"name": "Universidade Aberta Lisboa", "root_url": "*.univ-ab.pt/*", "country": "Portugal"}
-{"name": "Universidade Nova de Lisboa", "root_url": "*.unl.pt/*", "country": "Portugal"}
-{"name": "Universidade do Porto", "root_url": "*.up.pt/*", "country": "Portugal"}
-{"name": "Universidade Tecnica de Lisboa", "root_url": "*.utl.pt/*", "country": "Portugal"}
-{"name": "Caribbean University", "root_url": "*.caribbean.edu/*", "country": "Puerto Rico"}
-{"name": "Centro de Estudios Avanzados de Puerto Rico y el Caribe", "root_url": "*.ceaprc.org/*", "country": "Puerto Rico"}
-{"name": "Universidad Interamericana de Puerto Rico", "root_url": "*.inter.edu/*", "country": "Puerto Rico"}
-{"name": "Pontificia Universidad Catolica de Puerto Rico", "root_url": "*.pucpr.edu/*", "country": "Puerto Rico"}
-{"name": "Universidad Politecnica de Puerto Rico", "root_url": "*.pupr.edu/*", "country": "Puerto Rico"}
-{"name": "Universidad del Sagrado Corazon", "root_url": "*.sagrado.edu/*", "country": "Puerto Rico"}
-{"name": "San Juan Bautista School of Medicine", "root_url": "*.sanjuanbautista.edu/*", "country": "Puerto Rico"}
-{"name": "Universidad Metropolitana", "root_url": "*.suagm.edu/suagm/umet/*", "country": "Puerto Rico"}
-{"name": "Universidad Central del Caribe", "root_url": "*.uccaribe.edu/*", "country": "Puerto Rico"}
-{"name": "Universidad de Puerto Rico", "root_url": "*.upr.clu.edu/*", "country": "Puerto Rico"}
-{"name": "Universidad del Turabo", "root_url": "*.ut.pr/*", "country": "Puerto Rico"}
-{"name": "Northwestern University In Qatar", "root_url": "*.qatar.northwestern.edu/*", "country": "Qatar"}
-{"name": "University of Qatar", "root_url": "*.qu.edu.qa/*", "country": "Qatar"}
-{"name": "AISTEDA", "root_url": "*.aistedaab.ro/*", "country": "Romania"}
-{"name": "National Academy for Physical Education and Sports Bucharest", "root_url": "*.anefs-edu.ro/*", "country": "Romania"}
+{"entity": "Pedagogical University of the Polish Association for Adult Education in Warsaw", "url": "*.wsptwpwaw.edu.pl/*", "country": "Poland"}
+{"entity": "Pedagogical University of Zielona Gora", "url": "*.wsp.zgora.pl/*", "country": "Poland"}
+{"entity": "University of Insurance and Banking in Warsaw", "url": "*.wsub.waw.pl/*", "country": "Poland"}
+{"entity": "School of Banking and Management in Cracow", "url": "*.wszib.krakow.pl/*", "country": "Poland"}
+{"entity": "University of Management and Marketing", "url": "*.wszim.edu.pl/*", "country": "Poland"}
+{"entity": "Gdansk Management College", "url": "*.wsz.pl/*", "country": "Poland"}
+{"entity": "West Pomeranian Business School in Szczecin", "url": "*.zpsb.szczecin.pl/*", "country": "Poland"}
+{"entity": "Escola Superior de Artes e Design", "url": "*.esad.pt/*", "country": "Portugal"}
+{"entity": "Escola Superior de Hotelaria e Turismo do Estoril", "url": "*.eshte.pt/*", "country": "Portugal"}
+{"entity": "European University Portugal", "url": "*.europeanuniversity.pt/*", "country": "Portugal"}
+{"entity": "Instituto Piaget", "url": "*.ipiaget.org/*", "country": "Portugal"}
+{"entity": "Instituto Politecnico do Porto", "url": "*.ipp.pt/*", "country": "Portugal"}
+{"entity": "Instituto Superior Bissaya Barreto", "url": "*.isbb.pt/*", "country": "Portugal"}
+{"entity": "Instituto Superior de Psicologia Aplicada", "url": "*.ispa.pt/*", "country": "Portugal"}
+{"entity": "Instituto Superior de Entre Douro e Vouga", "url": "*.isvouga.com/*", "country": "Portugal"}
+{"entity": "Academia Nacional Superior de Orquesta", "url": "*.oml.pt/anso/*", "country": "Portugal"}
+{"entity": "Universidade dos Acores", "url": "*.uac.pt/*", "country": "Portugal"}
+{"entity": "Universidade do Algarve", "url": "*.ualg.pt/*", "country": "Portugal"}
+{"entity": "Universidade de Aveiro", "url": "*.ua.pt/*", "country": "Portugal"}
+{"entity": "Universidade da Beira Interior", "url": "*.ubi.pt/*", "country": "Portugal"}
+{"entity": "Universidade Catolica Portuguesa", "url": "*.ucp.pt/*", "country": "Portugal"}
+{"entity": "Universidade de Coimbra", "url": "*.uc.pt/*", "country": "Portugal"}
+{"entity": "Universidade de Evora", "url": "*.uevora.pt/*", "country": "Portugal"}
+{"entity": "Universidade Fernando Pessoa", "url": "*.ufp.pt/*", "country": "Portugal"}
+{"entity": "Universidade Internacional Lisboa", "url": "*.uinternacional.pt/*", "country": "Portugal"}
+{"entity": "Universidade de Lisboa", "url": "*.ul.pt/*", "country": "Portugal"}
+{"entity": "Universidade Lusiada", "url": "*.ulusiada.pt/*", "country": "Portugal"}
+{"entity": "Universidade da Madeira", "url": "*.uma.pt/*", "country": "Portugal"}
+{"entity": "Universidade do Minho", "url": "*.uminho.pt/*", "country": "Portugal"}
+{"entity": "Universidade Moderna de Lisboa", "url": "*.umoderna.pt/*", "country": "Portugal"}
+{"entity": "Universidade Independente", "url": "*.uni.pt/*", "country": "Portugal"}
+{"entity": "Universidade Aberta Lisboa", "url": "*.univ-ab.pt/*", "country": "Portugal"}
+{"entity": "Universidade Nova de Lisboa", "url": "*.unl.pt/*", "country": "Portugal"}
+{"entity": "Universidade do Porto", "url": "*.up.pt/*", "country": "Portugal"}
+{"entity": "Universidade Tecnica de Lisboa", "url": "*.utl.pt/*", "country": "Portugal"}
+{"entity": "Caribbean University", "url": "*.caribbean.edu/*", "country": "Puerto Rico"}
+{"entity": "Centro de Estudios Avanzados de Puerto Rico y el Caribe", "url": "*.ceaprc.org/*", "country": "Puerto Rico"}
+{"entity": "Universidad Interamericana de Puerto Rico", "url": "*.inter.edu/*", "country": "Puerto Rico"}
+{"entity": "Pontificia Universidad Catolica de Puerto Rico", "url": "*.pucpr.edu/*", "country": "Puerto Rico"}
+{"entity": "Universidad Politecnica de Puerto Rico", "url": "*.pupr.edu/*", "country": "Puerto Rico"}
+{"entity": "Universidad del Sagrado Corazon", "url": "*.sagrado.edu/*", "country": "Puerto Rico"}
+{"entity": "San Juan Bautista School of Medicine", "url": "*.sanjuanbautista.edu/*", "country": "Puerto Rico"}
+{"entity": "Universidad Metropolitana", "url": "*.suagm.edu/suagm/umet/*", "country": "Puerto Rico"}
+{"entity": "Universidad Central del Caribe", "url": "*.uccaribe.edu/*", "country": "Puerto Rico"}
+{"entity": "Universidad de Puerto Rico", "url": "*.upr.clu.edu/*", "country": "Puerto Rico"}
+{"entity": "Universidad del Turabo", "url": "*.ut.pr/*", "country": "Puerto Rico"}
+{"entity": "Northwestern University In Qatar", "url": "*.qatar.northwestern.edu/*", "country": "Qatar"}
+{"entity": "University of Qatar", "url": "*.qu.edu.qa/*", "country": "Qatar"}
+{"entity": "AISTEDA", "url": "*.aistedaab.ro/*", "country": "Romania"}
+{"entity": "National Academy for Physical Education and Sports Bucharest", "url": "*.anefs-edu.ro/*", "country": "Romania"}

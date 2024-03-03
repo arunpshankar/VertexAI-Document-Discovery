@@ -1,50 +1,50 @@
-{"name": "Kigali Independent University", "root_url": "*.ulk.ac.rw/*", "country": "Rwanda"}
-{"name": "Umutara Polytechnic", "root_url": "*.umutarapolytech.ac.rw/*", "country": "Rwanda"}
-{"name": "International University for Graduate Studies", "root_url": "*.iugrad.edu.kn/*", "country": "Saint Kitts and Nevis"}
-{"name": "Ross University Caribbean School of Veterinary Medicine", "root_url": "*.rossu.edu/veterinary-school/*", "country": "Saint Kitts and Nevis"}
-{"name": "University of Silvaner", "root_url": "*.unisilvaner.info/*", "country": "Saint Kitts and Nevis"}
-{"name": "Windsor University School of Medicine", "root_url": "*.windsor.edu/*", "country": "Saint Kitts and Nevis"}
-{"name": "Spartan University of Health Sciences", "root_url": "*.spartanmed.org/*", "country": "Saint Lucia"}
-{"name": "Trinity University School of Medicine", "root_url": "*.tusom.org/*", "country": "Saint Vincent and the Grenadines"}
-{"name": "National University of Samoa", "root_url": "*.nus.edu.ws/*", "country": "Samoa"}
-{"name": "University of the South Pacific School of Agriculture", "root_url": "*.usp.ac.fj/wwwsoa/*", "country": "Samoa"}
-{"name": "University of San Marino", "root_url": "*.unirsm.sm/*", "country": "San Marino"}
-{"name": "College of Technology at Abha", "root_url": "*.act.gotevot.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Alfaisal University", "root_url": "*.alfaisal.edu/*", "country": "Saudi Arabia"}
-{"name": "Knowledge International University", "root_url": "*.almaarifah.com/*", "country": "Saudi Arabia"}
-{"name": "Arab Open University", "root_url": "*.arabou.org.sa/*", "country": "Saudi Arabia"}
-{"name": "Batterjee Medical College", "root_url": "*.bmc.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Buraydah College for Applied Medical Sciences", "root_url": "*.bpc.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "College of Busniess Admnistration", "root_url": "*.cba.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Dar al Hekma College", "root_url": "*.daralhekma.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Dammam Community College", "root_url": "*.dcc.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "College of Technology at Dammam", "root_url": "*.dct.gotevot.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Effat College", "root_url": "*.effatcollege.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Fahad Bin Sultan University", "root_url": "*.fbsc.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Ibn Sina National College for Medical Studies", "root_url": "*.ibnsina.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Institute of Public Administration", "root_url": "*.ipa.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Islamic University of Medinah", "root_url": "*.iu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Jazan University", "root_url": "*.jazanu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "College of Technology at Jeddah", "root_url": "*.jct.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Jubail Industrial College", "root_url": "*.jic.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Aljouf University", "root_url": "*.ju.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Abdul Aziz University", "root_url": "*.kau.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Abdullah University of Science and Technology", "root_url": "*.kaust.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "College of Technology at Kharj", "root_url": "*.kct.gotevot.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Fahd Security College", "root_url": "*.kfsc.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Faisal University", "root_url": "*.kfu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Fahad University of Petroleum and Minerals", "root_url": "*.kfupm.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Khaled University", "root_url": "*.kku.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Saud bin Abdulaziz University for Health Sciences", "root_url": "*.ksau-hs.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "King Saud University", "root_url": "*.ksu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Alkharj University", "root_url": "*.ku.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Knowledge College for Science and Technology", "root_url": "*.mcst.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Majmaah University", "root_url": "*.mu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Naif Arab University for Security Sciences", "root_url": "*.nauss.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Northern Border University", "root_url": "*.nbu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "College of Nursing and Allied Health Scinces", "root_url": "*.ngha.med.sa/*", "country": "Saudi Arabia"}
-{"name": "Najran University", "root_url": "*.nu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Private College of Dentistry and Pharmacy", "root_url": "*.pcdp.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Prince Mohammad Bin Fahd University", "root_url": "*.pmu.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Prince Sultan College for Tourism and Hotel Scinces", "root_url": "*.pscabha.edu.sa/*", "country": "Saudi Arabia"}
-{"name": "Prince Sultan University", "root_url": "*.psu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Kigali Independent University", "url": "*.ulk.ac.rw/*", "country": "Rwanda"}
+{"entity": "Umutara Polytechnic", "url": "*.umutarapolytech.ac.rw/*", "country": "Rwanda"}
+{"entity": "International University for Graduate Studies", "url": "*.iugrad.edu.kn/*", "country": "Saint Kitts and Nevis"}
+{"entity": "Ross University Caribbean School of Veterinary Medicine", "url": "*.rossu.edu/veterinary-school/*", "country": "Saint Kitts and Nevis"}
+{"entity": "University of Silvaner", "url": "*.unisilvaner.info/*", "country": "Saint Kitts and Nevis"}
+{"entity": "Windsor University School of Medicine", "url": "*.windsor.edu/*", "country": "Saint Kitts and Nevis"}
+{"entity": "Spartan University of Health Sciences", "url": "*.spartanmed.org/*", "country": "Saint Lucia"}
+{"entity": "Trinity University School of Medicine", "url": "*.tusom.org/*", "country": "Saint Vincent and the Grenadines"}
+{"entity": "National University of Samoa", "url": "*.nus.edu.ws/*", "country": "Samoa"}
+{"entity": "University of the South Pacific School of Agriculture", "url": "*.usp.ac.fj/wwwsoa/*", "country": "Samoa"}
+{"entity": "University of San Marino", "url": "*.unirsm.sm/*", "country": "San Marino"}
+{"entity": "College of Technology at Abha", "url": "*.act.gotevot.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Alfaisal University", "url": "*.alfaisal.edu/*", "country": "Saudi Arabia"}
+{"entity": "Knowledge International University", "url": "*.almaarifah.com/*", "country": "Saudi Arabia"}
+{"entity": "Arab Open University", "url": "*.arabou.org.sa/*", "country": "Saudi Arabia"}
+{"entity": "Batterjee Medical College", "url": "*.bmc.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Buraydah College for Applied Medical Sciences", "url": "*.bpc.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "College of Busniess Admnistration", "url": "*.cba.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Dar al Hekma College", "url": "*.daralhekma.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Dammam Community College", "url": "*.dcc.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "College of Technology at Dammam", "url": "*.dct.gotevot.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Effat College", "url": "*.effatcollege.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Fahad Bin Sultan University", "url": "*.fbsc.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Ibn Sina National College for Medical Studies", "url": "*.ibnsina.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Institute of Public Administration", "url": "*.ipa.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Islamic University of Medinah", "url": "*.iu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Jazan University", "url": "*.jazanu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "College of Technology at Jeddah", "url": "*.jct.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Jubail Industrial College", "url": "*.jic.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Aljouf University", "url": "*.ju.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Abdul Aziz University", "url": "*.kau.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Abdullah University of Science and Technology", "url": "*.kaust.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "College of Technology at Kharj", "url": "*.kct.gotevot.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Fahd Security College", "url": "*.kfsc.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Faisal University", "url": "*.kfu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Fahad University of Petroleum and Minerals", "url": "*.kfupm.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Khaled University", "url": "*.kku.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Saud bin Abdulaziz University for Health Sciences", "url": "*.ksau-hs.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "King Saud University", "url": "*.ksu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Alkharj University", "url": "*.ku.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Knowledge College for Science and Technology", "url": "*.mcst.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Majmaah University", "url": "*.mu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Naif Arab University for Security Sciences", "url": "*.nauss.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Northern Border University", "url": "*.nbu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "College of Nursing and Allied Health Scinces", "url": "*.ngha.med.sa/*", "country": "Saudi Arabia"}
+{"entity": "Najran University", "url": "*.nu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Private College of Dentistry and Pharmacy", "url": "*.pcdp.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Prince Mohammad Bin Fahd University", "url": "*.pmu.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Prince Sultan College for Tourism and Hotel Scinces", "url": "*.pscabha.edu.sa/*", "country": "Saudi Arabia"}
+{"entity": "Prince Sultan University", "url": "*.psu.edu.sa/*", "country": "Saudi Arabia"}
