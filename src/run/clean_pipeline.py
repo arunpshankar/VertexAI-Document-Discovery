@@ -27,6 +27,7 @@ def delete_search_apps(prefix: str) -> None:
     except Exception as e:
         logger.error(f"Error deleting search apps: {e}")
 
+
 def delete_data_stores(prefix: str) -> None:
     """
     Deletes data stores that have a display name starting with the specified prefix.
@@ -47,6 +48,7 @@ def delete_data_stores(prefix: str) -> None:
                 delete_data_store(data_store_name)
     except Exception as e:
         logger.error(f"Error deleting data stores: {e}")
+
 
 def main():
     """
