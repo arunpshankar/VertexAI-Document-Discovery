@@ -1,6 +1,7 @@
 from src.config.logging import logger
 from google.cloud import storage
 from src.config.setup import *
+from tqdm import tqdm
 
 
 def upload_to_gcs(bucket_name: str, source_file_path: str, destination_blob_name: str):
@@ -23,7 +24,7 @@ def flush_bucket(bucket_name: str):
 
     try:
         blobs = list(bucket.list_blobs())
-        for blob in blobs:
+        for blob in tqdm(blobs, desc=f"Deleting objects in {bucket_name}"):
             blob.delete()
         logger.info(f"All objects in bucket {bucket_name} have been deleted.")
     except Exception as e:
