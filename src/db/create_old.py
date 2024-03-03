@@ -163,23 +163,5 @@ for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
 
         #insert_entity_url(engine, entry)
     
-    response = create_data_store(batch_id)
-    #print(response)
-
-    data = create_request_body(site_urls, batch_id)
     
-    # Example usage
-    chunks = list(chunk_data(data['requests'], 20))
-    for chunk in chunks:
-        #print(chunk)
-        print('_' * 100)
-    
-        batch_data = {'requests': chunk}
-        response = post_target_sites(batch_data, batch_id)
-        if response is not None:
-            logger.info(f"Successfully posted target sites: {response}")
-        else:
-            logger.error("Failed to post target sites.")
-    response = create_search_app(batch_id)
-    logger.info(response)
     break
