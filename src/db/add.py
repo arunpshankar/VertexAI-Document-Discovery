@@ -59,9 +59,9 @@ def create_engine_with_connection_pool() -> Engine:
     return engine
 
 
-def create_university_urls_table(engine: Engine):
+def create_urls_table(engine: Engine):
     """
-    Creates the 'university_urls' table in the database if it doesn't exist.
+    Creates the 'urls' table in the database if it doesn't exist.
 
     Args:
         engine: A SQLAlchemy engine object.
@@ -70,16 +70,16 @@ def create_university_urls_table(engine: Engine):
         SQLAlchemyError: If there's an issue executing the table creation command.
     """
     create_table_statement = sqlalchemy.text("""
-        CREATE TABLE IF NOT EXISTS university_urls (
-            university VARCHAR(255) NOT NULL,
+        CREATE TABLE IF NOT EXISTS urls (
+            entity VARCHAR(255) NOT NULL,
             url VARCHAR(255) NOT NULL,
             country VARCHAR(255) NOT NULL,
             batch_id VARCHAR(255) NOT NULL,
             created_at TIMESTAMP NOT NULL,
             cloud_storage_uri VARCHAR(255),
-            PRIMARY KEY (university, country), -- Composite primary key for uniqueness
-            INDEX idx_university (university)
-            -- Efficient queries on university, composite primary key handles university-country combinations
+            PRIMARY KEY (entity, country), -- Composite primary key for uniqueness
+            INDEX idx_entity (entity)
+            -- Efficient queries on entity, composite primary key handles entity-country combinations
         );
     """)
 
@@ -87,41 +87,41 @@ def create_university_urls_table(engine: Engine):
         with engine.connect() as connection:
             connection.execute(create_table_statement)
             connection.commit()
-            logger.info("Table 'university_urls' created successfully.")
+            logger.info("Table 'entity_urls' created successfully.")
     except SQLAlchemyError as e:
-        logger.error(f"Failed to create table 'university_urls': {e}")
+        logger.error(f"Failed to create table 'entity_urls': {e}")
         raise
 
 
-def insert_university_url(engine: Engine, university_url_data: dict):
+def insert_entity_url(engine: Engine, entity_url_data: dict):
     """
-    Inserts a new entry into the 'university_urls' table.
+    Inserts a new entry into the 'entity_urls' table.
 
     Args:
         engine: A SQLAlchemy engine object.
-        university_url_data: A dictionary containing the column data for the new entry.
+        entity_url_data: A dictionary containing the column data for the new entry.
     """
     insert_stmt = sqlalchemy.text(
-        "INSERT INTO university_urls (university, url, country, batch_id, "
+        "INSERT INTO entity_urls (entity, url, country, batch_id, "
         "created_at, cloud_storage_uri) "
-        "VALUES (:university, :url, :country, :batch_id, "
+        "VALUES (:entity, :url, :country, :batch_id, "
         ":created_at, :cloud_storage_uri)"
     )
     try:
         with engine.connect() as connection:
             # Pass parameters as a dictionary directly
-            connection.execute(insert_stmt, university_url_data)
+            connection.execute(insert_stmt, entity_url_data)
             connection.commit()
-            logger.info("New university_url entry inserted successfully.")
+            logger.info("New entity_url entry inserted successfully.")
     except SQLAlchemyError as e:
-        logger.error(f"Failed to insert university_url entry: {e}")
+        logger.error(f"Failed to insert entity_url entry: {e}")
         raise
 
 
 
 engine = create_engine_with_connection_pool()
-create_university_urls_table(engine)
-# Inserting data into university_urls table
+create_urls_table(engine)
+# Inserting data into entity_urls table
 
 bucket_name = 'vais-app-builder'
 most_recent_folder = find_most_recent_folder(bucket_name)
@@ -134,7 +134,7 @@ for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
 
     for info in parse_blob_contents(blob, bucket_name):
         batch_id = info['batch_id']
-        university = info['name']
+        entity = info['name']
         url = info['root_url']
         country = info['country']
         data_store_name = batch_id
@@ -147,7 +147,7 @@ for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
         site_urls.append(url)
 
         entry = {
-            "university": university,
+            "entity": entity,
             "url": url,
             "country": country,
             "batch_id": batch_id,
@@ -161,7 +161,7 @@ for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
         }
 
 
-        #insert_university_url(engine, entry)
+        #insert_entity_url(engine, entry)
     
     response = create_data_store(batch_id)
     #print(response)
