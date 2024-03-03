@@ -87,23 +87,3 @@ def parse_blob_contents(blob: storage.Blob, bucket_name: str) -> Generator[Dict[
             yield info
         except json.JSONDecodeError as e:
             logger.error(f"Error parsing JSON from blob {blob.name}: {e}")
-
-
-if __name__ == '__main__':
-    bucket_name = 'vais-app-builder'
-    most_recent_folder = find_most_recent_folder(bucket_name)
-    if most_recent_folder:
-        print(f"The most recent folder is: {most_recent_folder}")
-    else:
-        print("No recent folder found or error occurred.")
-    
-
-    # List blobs with the specified prefix
-    for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
-        # Parse each blob's contents
-        try:
-            for info in parse_blob_contents(blob, bucket_name):
-                print(info)
-        except Exception as e:
-            logger.error(f"Failed to parse blob {blob.name}: {e}")
-        break
