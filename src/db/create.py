@@ -18,7 +18,7 @@ def create_table(engine: Engine):
         engine: A SQLAlchemy engine object.
     """
     create_table_statement = text(f"""
-        CREATE TABLE IF NOT EXISTS {config.TABLE} (
+        CREATE TABLE IF NOT EXISTS {config.CLOUD_SQL_TABLE} (
             entity VARCHAR(255) NOT NULL,
             url VARCHAR(255) NOT NULL,
             country VARCHAR(255) NOT NULL,

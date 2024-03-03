@@ -39,6 +39,7 @@ class Config:
         self.CLOUD_SQL_USERNAME = self.__config['cloud_sql_username']
         self.CLOUD_SQL_PASSWORD = self.__config['cloud_sql_password']
         self.CLOUD_SQL_DATABASE = self.__config['cloud_sql_database']
+        self.CLOUD_SQL_TABLE = self.__config['cloud_sql_table']
 
 
     @staticmethod
