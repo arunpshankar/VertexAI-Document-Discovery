@@ -87,13 +87,17 @@ def insert_entity_url(engine: Engine, entity_url_data: dict):
         engine: A SQLAlchemy engine object.
         entity_url_data: A dictionary containing the column data for the new entry.
     """
-    insert_stmt = text("""
-        INSERT INTO entity_urls (entity, url, country, batch_id, created_at, cloud_storage_uri)
-        VALUES (:entity, :url, :country, :batch_id, :created_at, :cloud_storage_uri)
-    """)
+    insert_stmt = text(
+        "INSERT INTO entity_urls (entity, url, country, batch_id, "
+        "created_at, cloud_storage_uri) "
+        "VALUES (:entity, :url, :country, :batch_id, "
+        ":created_at, :cloud_storage_uri)"
+    )
     try:
-        with engine.begin() as connection:  # Use `begin()` for automatic commit/rollback
-            connection.execute(insert_stmt, **entity_url_data)
+        with engine.connect() as connection:
+            # Pass parameters as a dictionary directly
+            connection.execute(insert_stmt, entity_url_data)
+            connection.commit()
             logger.info("New entity_url entry inserted successfully.")
     except SQLAlchemyError as e:
         logger.error(f"Failed to insert entity_url entry: {e}")
