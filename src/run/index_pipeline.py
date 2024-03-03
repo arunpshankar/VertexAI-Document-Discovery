@@ -104,6 +104,7 @@ def process_blobs(bucket_name: str, folder: str, engine: Engine) -> None:
     blobs = list_blobs_with_prefix(bucket_name, folder)
     for blob in blobs:
         process_blob(blob, bucket_name, engine)
+        break
 
 
 def process_blob(blob, bucket_name: str, engine: Engine) -> None:
@@ -140,8 +141,7 @@ def parse_and_store_blob_contents(blob, bucket_name: str, engine: Engine) -> Tup
     """
     site_urls = []
     batch_id = None
-    # Simulating parsing blob contents
-    contents = parse_blob_contents(blob, bucket_name)  # Assuming this returns a list of dictionaries
+    contents = parse_blob_contents(blob, bucket_name) 
     for content in contents:
         entity = content.get('entity')
         url = content.get('url')
