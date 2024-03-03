@@ -59,7 +59,7 @@ def create_engine_with_connection_pool() -> Engine:
     return engine
 
 
-def create_urls_table(engine: Engine):
+def create_table(engine: Engine):
     """
     Creates the 'entity_urls' table in the database if it doesn't exist.
 
@@ -120,7 +120,7 @@ def insert_entity_url(engine: Engine, entity_url_data: dict):
 
 
 engine = create_engine_with_connection_pool()
-create_urls_table(engine)
+create_table(engine)
 # Inserting data into entity_urls table
 
 bucket_name = 'vais-app-builder'
