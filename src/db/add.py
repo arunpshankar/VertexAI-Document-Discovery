@@ -61,7 +61,7 @@ def create_engine_with_connection_pool() -> Engine:
 
 def create_urls_table(engine: Engine):
     """
-    Creates the 'urls' table in the database if it doesn't exist.
+    Creates the 'entity_urls' table in the database if it doesn't exist.
 
     Args:
         engine: A SQLAlchemy engine object.
@@ -70,7 +70,7 @@ def create_urls_table(engine: Engine):
         SQLAlchemyError: If there's an issue executing the table creation command.
     """
     create_table_statement = sqlalchemy.text("""
-        CREATE TABLE IF NOT EXISTS urls (
+        CREATE TABLE IF NOT EXISTS entity_urls (
             entity VARCHAR(255) NOT NULL,
             url VARCHAR(255) NOT NULL,
             country VARCHAR(255) NOT NULL,

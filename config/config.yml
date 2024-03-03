@@ -8,4 +8,4 @@ bucket: vais-app-builder
 cloud_sql_instance: vais-app-builder
 cloud_sql_username: arun
 cloud_sql_password: '9586'
-cloud_sql_database: site-search
+cloud_sql_database: site_search
