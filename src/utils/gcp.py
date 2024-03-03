@@ -1,8 +1,6 @@
 from src.config.logging import logger
 from google.cloud import storage
 from src.config.setup import *
-import datetime
-import os 
 
 
 def upload_to_gcs(bucket_name: str, source_file_path: str, destination_blob_name: str):

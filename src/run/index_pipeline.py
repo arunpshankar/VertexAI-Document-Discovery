@@ -1,6 +1,6 @@
 from src.batch.create import process_dataframe_chunks
 from src.batch.create import load_dataframe
-from src.batch.upload import upload_to_gcs
+from src.utils.gcp import upload_to_gcs
 from src.config.logging import logger 
 from src.config.setup import config
 from datetime import datetime 
