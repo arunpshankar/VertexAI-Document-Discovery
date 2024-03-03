@@ -9,12 +9,17 @@ from src.search.index import create_search_app
 from src.search.index import create_data_store
 from src.batch.create import load_dataframe
 from src.db.create import insert_entity_url
+from sqlalchemy.exc import SQLAlchemyError
 from src.search.index import chunk_data
 from src.utils.gcp import upload_to_gcs
 from src.db.create import create_table
 from src.config.logging import logger 
+from sqlalchemy.engine import Engine
 from src.config.setup import config
 from datetime import datetime 
+from typing import Optional
+from typing import Tuple
+from typing import List 
 import os 
 
 
@@ -61,73 +66,140 @@ def upload_chunks_to_gcs(local_output_path: str, bucket_name: str) -> None:
 
 def process_most_recent_data(bucket_name: str) -> None:
     """
-    Finds the most recent folder in GCS, lists blobs with the specified prefix, and parses each blob's contents.
+    Finds the most recent folder in a GCS bucket, processes all blobs within it by parsing their contents, 
+    and performs subsequent data processing tasks like database insertions and search index updates.
 
     Parameters:
-    - bucket_name: The name of the GCS bucket to search.
+    - bucket_name (str): The name of the GCS bucket.
 
     Returns:
     None
     """
-    engine = create_engine_with_connection_pool()
-    create_table(engine)
-    most_recent_folder = find_most_recent_folder(bucket_name)
-    if most_recent_folder:
-        logger.info(f"The most recent folder is: {most_recent_folder}")
-        for blob in list_blobs_with_prefix(bucket_name, most_recent_folder):
-            site_urls = []
-            batch_id = None
-            try:
-                for info in parse_blob_contents(blob, bucket_name):
-                    # Parse each blob's contents
-                    batch_id = info['batch_id']
-                    entity = info['name']
-                    url = info['root_url']
-                    country = info['country']
-                    created_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                    cloud_storage_uri = info['cloud_storage_uri']
-                    site_urls.append(url)
+    try:
+        engine = create_engine_with_connection_pool()
+        create_table(engine)
+        most_recent_folder = find_most_recent_folder(bucket_name)
+        if not most_recent_folder:
+            logger.info("No recent folder found.")
+            return
 
-                    print(entity)
-
-                    entry = {
-                        "entity": entity,
-                        "url": url,
-                        "country": country,
-                        "batch_id": batch_id,
-                        "created_at": created_at,
-                        "cloud_storage_uri": cloud_storage_uri
-                    }
-                    insert_entity_url(engine, entry)
-    
-            except Exception as e:
-                logger.error(f"Failed to parse blob {blob.name}: {e}")
+        logger.info(f"Processing folder: {most_recent_folder}")
+        process_blobs(bucket_name, most_recent_folder, engine)
+    except Exception as e:
+        logger.error(f"Error processing the most recent data: {e}", exc_info=True)
 
 
+def process_blobs(bucket_name: str, folder: str, engine: Engine) -> None:
+    """
+    Iterates over and processes each blob within a specified folder of the bucket.
 
-            response = create_data_store(batch_id)
-            print(response)
+    Parameters:
+    - bucket_name (str): The GCS bucket name.
+    - folder (str): The folder name in the bucket.
+    - engine (Engine): Database engine instance for operations.
 
-            data = create_request_body(site_urls, batch_id)
-            
-            # Example usage
-            chunks = list(chunk_data(data['requests'], 20))
-            for chunk in chunks:
-                #print(chunk)
-                print('_' * 100)
-            
-                batch_data = {'requests': chunk}
-                response = post_target_sites(batch_data, batch_id)
-                if response is not None:
-                    logger.info(f"Successfully posted target sites: {response}")
-                else:
-                    logger.error("Failed to post target sites.")
-            response = create_search_app(batch_id)
-            logger.info(response)
-            break # If you want to process all blobs, remove this break
-    else:
-        logger.info("No recent folder found or error occurred.")
-        
+    Returns:
+    None
+    """
+    blobs = list_blobs_with_prefix(bucket_name, folder)
+    for blob in blobs:
+        process_blob(blob, bucket_name, engine)
+
+
+def process_blob(blob, bucket_name: str, engine: Engine) -> None:
+    """
+    Parses a single blob's contents for processing, including database insertion and further data processing tasks.
+
+    Parameters:
+    - blob: Blob object to be processed.
+    - bucket_name (str): The GCS bucket name.
+    - engine (Engine): Database engine instance.
+
+    Returns:
+    None
+    """
+    try:
+        site_urls, batch_id = parse_and_store_blob_contents(blob, bucket_name, engine)
+        if batch_id:
+            initiate_data_indexing_and_search(batch_id, site_urls)
+    except Exception as e:
+        logger.error(f"Error processing blob {blob.name}: {e}", exc_info=True)
+
+
+def parse_and_store_blob_contents(blob, bucket_name: str, engine: Engine) -> Tuple[List[str], Optional[str]]:
+    """
+    Parses blob's contents and stores relevant data in the database.
+
+    Parameters:
+    - blob: Blob object to parse.
+    - bucket_name (str): GCS bucket name.
+    - engine (Engine): Database engine instance.
+
+    Returns:
+    Tuple[List[str], Optional[str]]: A list of URLs and a batch ID.
+    """
+    site_urls = []
+    batch_id = None
+    # Simulating parsing blob contents
+    contents = parse_blob_contents(blob, bucket_name)  # Assuming this returns a list of dictionaries
+    for content in contents:
+        entity = content.get('entity')
+        url = content.get('url')
+        country = content.get('country')
+        batch_id = content.get('batch_id', batch_id)  # Use existing batch_id if present
+        created_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        cloud_storage_uri = content.get('cloud_storage_uri')
+
+        entry = {
+            "entity": entity,
+            "url": url,
+            "country": country,
+            "batch_id": batch_id,
+            "created_at": created_at,
+            "cloud_storage_uri": cloud_storage_uri
+        }
+        try:
+            insert_entity_url(engine, entry)
+            site_urls.append(url)
+        except SQLAlchemyError as e:
+            logger.error(f"Database insertion failed for {url}: {e}", exc_info=True)
+    return site_urls, batch_id
+
+
+def initiate_data_indexing_and_search(batch_id: str, site_urls: List[str]) -> None:
+    """
+    Initiates indexing and search-related processing for a batch of site URLs.
+
+    Parameters:
+    - batch_id (str): The batch ID.
+    - site_urls (List[str]): List of site URLs.
+
+    Returns:
+    None
+    """
+    try:
+        data_store_response = create_data_store(batch_id)
+        logger.info(f"Data store created with response: {data_store_response}")
+
+        data = create_request_body(site_urls, batch_id)
+        chunks = chunk_data(data['requests'], 20)
+        for chunk in chunks:
+            response = post_target_sites({'requests': chunk}, batch_id)
+            if response:
+                logger.info(f"Successfully posted target sites for batch {batch_id}")
+            else:
+                logger.error(f"Failed to post target sites for batch {batch_id}")
+
+        search_app_response = create_search_app(batch_id)
+        logger.info(f"Search app created with response: {search_app_response}")
+    except Exception as e:
+        logger.error(f"Error in data indexing and search initiation for batch {batch_id}: {e}", exc_info=True)
+
+
+def chunk_data(data, chunk_size: int) -> List[List[dict]]:
+    """Splits data into chunks of specified size."""
+    return [data[i:i+chunk_size] for i in range(0, len(data), chunk_size)]
+
 
 def main():
     """
