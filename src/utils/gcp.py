@@ -14,3 +14,17 @@ def upload_to_gcs(bucket_name: str, source_file_path: str, destination_blob_name
         logger.info(f"File {source_file_path} uploaded to {destination_blob_name}.")
     except Exception as e:
         logger.error(f"Failed to upload file to GCS: {e}")
+
+
+def flush_bucket(bucket_name: str):
+    """Deletes all objects within the specified bucket."""
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(bucket_name)
+
+    try:
+        blobs = list(bucket.list_blobs())
+        for blob in blobs:
+            blob.delete()
+        logger.info(f"All objects in bucket {bucket_name} have been deleted.")
+    except Exception as e:
+        logger.error(f"Failed to flush bucket {bucket_name}: {e}")

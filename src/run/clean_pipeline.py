@@ -3,6 +3,8 @@ from src.search.delete import list_data_stores
 from src.search.delete import delete_app
 from src.search.delete import list_apps
 from src.db.delete import delete_table
+from src.utils.gcp import flush_bucket
+from src.config.setup import config
 from src.config.setup import logger
 
 
@@ -66,6 +68,8 @@ def main():
     delete_data_stores(prefix)
 
     # Clean GCS bucket 
+    flush_bucket(config.BUCKET)
+    
 
 if __name__ == "__main__":
     main()
