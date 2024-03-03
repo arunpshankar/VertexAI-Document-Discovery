@@ -53,12 +53,14 @@ def insert_entity_url(engine: Engine, entity_url_data: dict):
         "VALUES (:entity, :url, :country, :batch_id, "
         ":created_at, :cloud_storage_uri)"
     )
+    entity = entity_url_data['entity']
+    
     try:
         with engine.connect() as connection:
             # Pass parameters as a dictionary directly
             connection.execute(insert_stmt, entity_url_data)
             connection.commit()
-            logger.info("New entity_url entry inserted successfully.")
+            logger.info(f"Info for {entity} inserted successfully.")
     except SQLAlchemyError as e:
         logger.error(f"Failed to insert entity_url entry: {e}")
         raise
