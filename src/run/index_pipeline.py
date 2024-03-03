@@ -208,8 +208,8 @@ def main():
     Returns:
     None
     """
-    load_and_process_input_data(config.INPUT_FILE_PATH, config.LOCAL_OUTPUT_PATH)
-    upload_chunks_to_gcs(config.LOCAL_OUTPUT_PATH, config.BUCKET)
+    #load_and_process_input_data(config.INPUT_FILE_PATH, config.LOCAL_OUTPUT_PATH)
+    #upload_chunks_to_gcs(config.LOCAL_OUTPUT_PATH, config.BUCKET)
     process_most_recent_data(config.BUCKET)
 
 if __name__ == '__main__':

@@ -48,7 +48,7 @@ def insert_entity_url(engine: Engine, entity_url_data: dict):
         entity_url_data: A dictionary containing the column data for the new entry.
     """
     insert_stmt = text(
-        "INSERT INTO entity_urls (entity, url, country, batch_id, "
+        f"INSERT INTO {config.CLOUD_SQL_TABLE} (entity, url, country, batch_id, "
         "created_at, cloud_storage_uri) "
         "VALUES (:entity, :url, :country, :batch_id, "
         ":created_at, :cloud_storage_uri)"

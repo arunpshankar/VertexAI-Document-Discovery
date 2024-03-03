@@ -1,4 +1,4 @@
-name,root_url,country
+entity,url,country
 California Baptist University,*.calbaptist.edu/*,United States
 Stevenson University,*.stevenson.edu/*,United States
 Marine Biological Laboratory,*.mbl.edu/*,United States
