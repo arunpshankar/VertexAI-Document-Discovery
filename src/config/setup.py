@@ -32,6 +32,9 @@ class Config:
         self._set_google_credentials(self.CREDENTIALS_PATH)
         self.ACCESS_TOKEN = self._set_access_token()
         self.REGION = self.__config['region']
+        self.INPUT_FILE_PATH = self.__config['input_file_path']
+        self.LOCAL_OUTPUT_PATH = self.__config['local_output_path']
+        self.BUCKET = self.__config['bucket']
         self.CLOUD_SQL_INSTANCE = self.__config['cloud_sql_instance']
         self.CLOUD_SQL_USERNAME = self.__config['cloud_sql_username']
         self.CLOUD_SQL_PASSWORD = self.__config['cloud_sql_password']
