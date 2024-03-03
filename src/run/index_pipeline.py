@@ -3,8 +3,13 @@ from src.batch.create import process_dataframe_chunks
 from src.batch.ingest import find_most_recent_folder
 from src.batch.ingest import list_blobs_with_prefix
 from src.batch.ingest import parse_blob_contents
+from src.search.index import create_request_body
+from src.search.index import post_target_sites
+from src.search.index import create_search_app
+from src.search.index import create_data_store
 from src.batch.create import load_dataframe
 from src.db.create import insert_entity_url
+from src.search.index import chunk_data
 from src.utils.gcp import upload_to_gcs
 from src.db.create import create_table
 from src.config.logging import logger 
@@ -97,6 +102,28 @@ def process_most_recent_data(bucket_name: str) -> None:
     
             except Exception as e:
                 logger.error(f"Failed to parse blob {blob.name}: {e}")
+
+
+
+            response = create_data_store(batch_id)
+            print(response)
+
+            data = create_request_body(site_urls, batch_id)
+            
+            # Example usage
+            chunks = list(chunk_data(data['requests'], 20))
+            for chunk in chunks:
+                #print(chunk)
+                print('_' * 100)
+            
+                batch_data = {'requests': chunk}
+                response = post_target_sites(batch_data, batch_id)
+                if response is not None:
+                    logger.info(f"Successfully posted target sites: {response}")
+                else:
+                    logger.error("Failed to post target sites.")
+            response = create_search_app(batch_id)
+            logger.info(response)
             break # If you want to process all blobs, remove this break
     else:
         logger.info("No recent folder found or error occurred.")
@@ -109,8 +136,8 @@ def main():
     Returns:
     None
     """
-    #load_and_process_input_data(config.INPUT_FILE_PATH, config.LOCAL_OUTPUT_PATH)
-    #upload_chunks_to_gcs(config.LOCAL_OUTPUT_PATH, config.BUCKET)
+    # load_and_process_input_data(config.INPUT_FILE_PATH, config.LOCAL_OUTPUT_PATH)
+    # upload_chunks_to_gcs(config.LOCAL_OUTPUT_PATH, config.BUCKET)
     process_most_recent_data(config.BUCKET)
 
 if __name__ == '__main__':
