@@ -1,4 +1,4 @@
-from google.cloud import discoveryengine
+from google.cloud import discoveryengine_v1beta as discoveryengine
 from google.api_core.client_options import ClientOptions
 from google.protobuf import json_format
 from src.config.logging import logger 
