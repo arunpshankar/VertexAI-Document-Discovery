@@ -1,6 +1,8 @@
 from src.db.match import find_entity_url_by_key
 from src.config.logging import logger 
 from src.config.setup import * 
+from src.search.site_search import search_data_store
+from src.search.site_search import extract_relevant_data
 
 
 if __name__ == '__main__':
@@ -15,6 +17,13 @@ if __name__ == '__main__':
 
     
     # construct the API call with the targeted query 
+    response = search_data_store(query, batch_id)
+    print(response)
+
+    info = extract_relevant_data(response)
+    print(info)
+
+
 
 
     # make the API call 
