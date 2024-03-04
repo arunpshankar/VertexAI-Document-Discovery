@@ -1,6 +1,7 @@
 import logging
 import os
 
+
 def custom_path_filter(path):
     # Define the project root name
     project_root = "VertexAIDocExplorer"
@@ -16,6 +17,7 @@ class CustomLogRecord(logging.LogRecord):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.pathname = custom_path_filter(self.pathname)
+
 
 def setup_logger(log_filename="app.log", log_dir="logs"):
     # Ensure the logging directory exists
@@ -35,7 +37,6 @@ def setup_logger(log_filename="app.log", log_dir="logs"):
             logging.FileHandler(log_filepath)
         ]
     )
-
     # Return the configured logger
     return logging.getLogger()
 

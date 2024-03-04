@@ -41,7 +41,6 @@ class Config:
         self.CLOUD_SQL_DATABASE = self.__config['cloud_sql_database']
         self.CLOUD_SQL_TABLE = self.__config['cloud_sql_table']
 
-
     @staticmethod
     def _load_config(config_path: str) -> Dict[str, Any]:
         """

@@ -70,5 +70,5 @@ def log_search_results(matches: List[Dict[str, Any]]) -> None:
 if __name__ == '__main__':
     entity = 'Brown University'
     country = 'United States'
-    search_topic = 'MS computer science course list'
+    search_topic = 'Graduate financial aid guide Computer Science'
     execute_search_and_log_results(entity, country, search_topic)
