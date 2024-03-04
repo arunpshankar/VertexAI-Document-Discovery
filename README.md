@@ -1,7 +1,3 @@
-Below is a polished version of the instructions you've provided, formatted as a Markdown README for a GitHub repository. This README includes a brief introduction, prerequisites, installation steps, and a guide to setting up service account credentials, structured to be user-friendly and easy to follow.
-
----
-
 # Intelligent Document Discovery with Vertex AI Search
 
 This repository contains a Python pipeline designed to automate URL batching for creating search applications leveraging Google Cloud's Vertex AI Search. By following the steps outlined below, you will set up a local development environment, configure necessary dependencies, and prepare your system for intelligent document discovery.
