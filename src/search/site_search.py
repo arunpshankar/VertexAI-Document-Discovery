@@ -10,6 +10,7 @@ from typing import Dict
 
 LOCATION = "global" 
 
+
 def search_data_store(search_query: str, data_store_id: str) -> Optional[discoveryengine.SearchResponse]:
     """
     Search the data store using Google Cloud's Discovery Engine API.
@@ -62,9 +63,10 @@ def search_data_store(search_query: str, data_store_id: str) -> Optional[discove
         logger.error(f"Error during data store search: {e}")
         return None
 
+
 def extract_relevant_data(response: Optional[discoveryengine.SearchResponse]) -> List[Dict[str, str]]:
     """
-    Extracts entity, title, snippet, and link from the search response.
+    Extracts title, snippet, and link from the search response.
 
     Args:
         response (discoveryengine.SearchResponse): The search response object from the Discovery Engine API.
@@ -80,7 +82,6 @@ def extract_relevant_data(response: Optional[discoveryengine.SearchResponse]) ->
 
     for result in response.results:
         data = {
-            "entity": "",
             "title": "",
             "snippet": "",
             "link": ""
@@ -92,11 +93,6 @@ def extract_relevant_data(response: Optional[discoveryengine.SearchResponse]) ->
         # Extracting fields from JSON
         struct_data = result_json.get('structData', {})
         derived_struct_data = result_json.get('derivedStructData', {})
-
-        # Extracting company
-        company = struct_data.get("entity")
-        if company:
-            data["entity"] = company
 
         # Extracting title
         title = derived_struct_data.get("title")
@@ -116,18 +112,3 @@ def extract_relevant_data(response: Optional[discoveryengine.SearchResponse]) ->
         extracted_data.append(data)
 
     return extracted_data
-
-# Usage example
-if __name__ == "__main__":
-    search_query = "annual report"
-
-    try:
-        results = search_data_store(search_query)
-        if results:
-            extracted_data = extract_relevant_data(results)
-            for data in extracted_data:
-                logger.info(f"Company: {data['company']}, Title: {data['title']}, Snippet: {data['snippet']}, Link: {data['link']}")
-        else:
-            logger.error("No results returned from search_data_store function.")
-    except Exception as e:
-        logger.error(f"Error executing search_data_store: {e}")
