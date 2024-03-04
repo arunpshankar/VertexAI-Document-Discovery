@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # venv
-.vais-app-builder
-.vais-app-builder/
+.VertexAI-Document-Discovery
+.VertexAI-Document-Discovery/
 
 # .DS_Store
 .DS_Store
