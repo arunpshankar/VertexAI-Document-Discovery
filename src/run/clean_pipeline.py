@@ -63,7 +63,7 @@ def main():
     delete_table()
 
     # Clean search apps and data stores with a specific prefix
-    prefix = "moodys_site_search"
+    prefix = "site_search"
     delete_search_apps(prefix)
     delete_data_stores(prefix)
 
