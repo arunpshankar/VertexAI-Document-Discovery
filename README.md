@@ -74,8 +74,12 @@ python3 -m pip install --upgrade pip
 
    Move the downloaded JSON file into the `credentials` folder and rename it to `key.json`.
 
-<img src="img/index-creation.png" alt="Index Creation" width="50%" />
+<p align="center">
+  <img src="img/index-creation.png" alt="Index Creation" width="50%" style="border: 2px solid blue;"/>
+</p>
 
+<p align="center">
+  <img src="img/query-routing.png" alt="Query Routing" width="50%" style="border: 2px solid blue;"/>
+</p>
 
-<img src="img/query-routing.png" alt="Query Routing" width="50%" />
 
