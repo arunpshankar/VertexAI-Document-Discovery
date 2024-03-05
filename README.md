@@ -95,6 +95,10 @@ Ensure the following requirements are met before proceeding:
 
 This process involves partitioning a user input file containing site URLs, entity information, and country metadata into chunks. Each chunk (containing up to 50 URLs) is then uploaded to Cloud Storage.
 
+<p align="center">
+  <img src="img/index-creation.png" alt="Index Creation" width="50%" style="border: 2px solid blue;"/>
+</p>
+
 #### Steps for Index Creation:
 
 1. Partition the input file into multiple files, each with 50 URLs, and upload them to Cloud Storage.
@@ -104,6 +108,10 @@ This process involves partitioning a user input file containing site URLs, entit
 ### Workflow 2: Query Routing
 
 This workflow focuses on identifying the appropriate batch ID for a user query based on the entity information it contains and routing the query to the corresponding datastore.
+
+<p align="center">
+  <img src="img/query-routing.png" alt="Query Routing" width="50%" style="border: 2px solid blue;"/>
+</p>
 
 #### Steps for Query Routing:
 
