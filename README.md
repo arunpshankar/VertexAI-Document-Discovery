@@ -1,6 +1,6 @@
 # Intelligent Document Discovery with Vertex AI Search 🚀
 
-This repository offers a Python pipeline designed to simplify the process of batching URLs for creating search applications that leverage Google Cloud's Vertex AI Search. Follow the steps below to set up a local development environment, configure necessary dependencies, and jumpstart your journey into intelligent document discovery.
+This repository encapsulates a Python pipeline designed to simplify the process of batching URLs for creating search applications that leverage Google Cloud's Vertex AI Search. Follow the steps below to set up a local development environment, configure necessary dependencies, and jumpstart your journey into intelligent document discovery.
 
 ## Prerequisites 📋
 
@@ -79,6 +79,7 @@ Follow these steps to set up your local development environment for the Vertex A
    - Select or create a service account, then add a new JSON key under the "Keys" tab.
    - Download the JSON file and move it to the `credentials` directory, renaming it to `key.json`.
 
-Now, your environment is ready for intelligent document discovery with Vertex AI Search. Proceed with configuring your Google Cloud project settings, enabling APIs, and running the provided Python scripts to automate your search applications. 
+Now, your environment is ready for intelligent document discovery with Vertex AI Search. Let's now proceed with configuring your Google Cloud project settings, enabling APIs, and running the provided Python scripts to automate your search applications. 
 
-Remember, success in setting up depends on following these instructions carefully and ensuring your system meets all prerequisites. Happy coding! 🚀
+
+Happy coding! 🚀
