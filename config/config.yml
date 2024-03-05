@@ -7,6 +7,6 @@ local_output_path: ./data/batch
 bucket: vais-app-builder
 cloud_sql_instance: vais-app-builder
 cloud_sql_username: arun
-cloud_sql_password: '9586'
+cloud_sql_password: 'xxxx'
 cloud_sql_database: site_search
 cloud_sql_table: entity_urls
