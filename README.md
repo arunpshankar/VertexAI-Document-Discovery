@@ -1,85 +1,84 @@
-# Intelligent Document Discovery with Vertex AI Search
+# Intelligent Document Discovery with Vertex AI Search 🚀
 
-This repository contains a Python pipeline designed to automate URL batching for creating search applications leveraging Google Cloud's Vertex AI Search. By following the steps outlined below, you will set up a local development environment, configure necessary dependencies, and prepare your system for intelligent document discovery.
+This repository offers a Python pipeline designed to simplify the process of batching URLs for creating search applications that leverage Google Cloud's Vertex AI Search. Follow the steps below to set up a local development environment, configure necessary dependencies, and jumpstart your journey into intelligent document discovery.
 
-## Prerequisites
+## Prerequisites 📋
 
-Before you begin, ensure you have the following installed on your machine:
+Before diving in, make sure you have:
 
 - Python 3.6 or later
 - Git
 
-Additionally, you will need to have a Google Cloud Platform account and a project set up with the Vertex AI API enabled. Ensure you have the necessary permissions to create service accounts and manage API keys.
+You'll also need a Google Cloud Platform account with a project set up and the Vertex AI API enabled. Ensure you have permissions to create service accounts and manage API keys.
 
 ## Installation
 
-### Clone the Repository
+Follow these steps to set up your local development environment for the Vertex AI Document Discovery pipeline.
 
-Start by cloning this repository to your local machine. Open a terminal and run the following command:
+### Clone the Repository 📂
 
-```bash
-git clone https://github.com/arunpshankar/VertexAI-Document-Discovery.git
-cd VertexAI-Document-Discovery
-```
+1. **Get the Code**: Clone this repository to your local machine using the following command in your terminal:
 
-### Create a Virtual Environment
+   ```bash
+   git clone https://github.com/arunpshankar/VertexAI-Document-Discovery.git
+   cd VertexAI-Document-Discovery
+   ```
 
-Within the repository directory, create a Python virtual environment to manage your project's dependencies separately from your global Python installation:
+### Set Up Your Environment 🛠️
 
-```bash
-python3 -m venv .VertexAI-Document-Discovery
-```
+2. **Create a Virtual Environment**: Isolate your project dependencies by creating a Python virtual environment:
 
-Activate the virtual environment with the following command:
+   - **For macOS/Linux**:
 
-For macOS/Linux:
+     ```bash
+     python3 -m venv .VertexAI-Document-Discovery
+     source .VertexAI-Document-Discovery/bin/activate
+     ```
 
-```bash
-source .VertexAI-Document-Discovery/bin/activate
-```
+   - **For Windows**:
 
-For Windows:
+     ```bash
+     python3 -m venv .VertexAI-Document-Discovery
+     .VertexAI-Document-Discovery\Scripts\activate
+     ```
 
-```bash
-.VertexAI-Document-Discovery\Scripts\activate
-```
+3. **Upgrade pip and Install Dependencies**: Ensure you're using the latest version of pip and install project dependencies:
 
-### Upgrade pip and Install Dependencies
+   ```bash
+   python3 -m pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
 
-Ensure you have the latest version of pip installed:
+4. **Update Your PYTHONPATH**:
 
-```bash
-python3 -m pip install --upgrade pip
-```
+   Ensure your Python interpreter recognizes the project directory as a location for modules. 
 
-### Configure Service Account Credentials
+   - **For macOS/Linux**:
 
-1. **Create a Credentials Folder:**
+     ```bash
+     export PYTHONPATH=$PYTHONPATH:.
+     ```
 
-   Inside the repository directory, create a folder named `credentials` to store your Google Cloud service account key:
+   - **For Windows** (use `set` instead of `export`):
+
+     ```bash
+     set PYTHONPATH=%PYTHONPATH%;.
+     ```
+
+### Configure Service Account Credentials 🔑
+
+5. **Prepare Credentials Storage**: Create a directory within the project to securely store your Google Cloud service account key:
 
    ```bash
    mkdir credentials
    ```
 
-2. **Generate a Service Account Key:**
+6. **Generate and Store the Service Account Key**:
 
-   - Navigate to the [Google Cloud Console](https://console.cloud.google.com/).
-   - Go to the "IAM & Admin" section, then select "Service Accounts."
-   - Find the service account you wish to use or create a new one.
-   - Once you've selected a service account, navigate to the "Keys" tab.
-   - Click "Add Key" and select "JSON." A JSON file containing your key will be downloaded.
+   - Navigate to the Google Cloud Console, access the "IAM & Admin" section, and manage "Service Accounts."
+   - Select or create a service account, then add a new JSON key under the "Keys" tab.
+   - Download the JSON file and move it to the `credentials` directory, renaming it to `key.json`.
 
-3. **Store the Service Account Key:**
+Now, your environment is ready for intelligent document discovery with Vertex AI Search. Proceed with configuring your Google Cloud project settings, enabling APIs, and running the provided Python scripts to automate your search applications. 
 
-   Move the downloaded JSON file into the `credentials` folder and rename it to `key.json`.
-
-<p align="center">
-  <img src="img/index-creation.png" alt="Index Creation" width="50%" style="border: 2px solid blue;"/>
-</p>
-
-<p align="center">
-  <img src="img/query-routing.png" alt="Query Routing" width="50%" style="border: 2px solid blue;"/>
-</p>
-
-
+Remember, success in setting up depends on following these instructions carefully and ensuring your system meets all prerequisites. Happy coding! 🚀
