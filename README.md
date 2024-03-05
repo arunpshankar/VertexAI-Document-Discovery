@@ -18,18 +18,16 @@ Additionally, you will need to have a Google Cloud Platform account and a projec
 Start by cloning this repository to your local machine. Open a terminal and run the following command:
 
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_DIRECTORY>
+git clone https://github.com/arunpshankar/VertexAI-Document-Discovery.git
+cd VertexAI-Document-Discovery
 ```
-
-Replace `<REPOSITORY_URL>` with the actual URL of this repository and `<REPOSITORY_DIRECTORY>` with the name of the folder created by the `git clone` command.
 
 ### Create a Virtual Environment
 
 Within the repository directory, create a Python virtual environment to manage your project's dependencies separately from your global Python installation:
 
 ```bash
-python3 -m venv .Vertex
+python3 -m venv .VertexAI-Document-Discovery
 ```
 
 Activate the virtual environment with the following command:
@@ -37,13 +35,13 @@ Activate the virtual environment with the following command:
 For macOS/Linux:
 
 ```bash
-source .Vertex/bin/activate
+source .VertexAI-Document-Discovery/bin/activate
 ```
 
 For Windows:
 
 ```bash
-.Vertex\Scripts\activate
+.VertexAI-Document-Discovery\Scripts\activate
 ```
 
 ### Upgrade pip and Install Dependencies
@@ -76,6 +74,3 @@ python3 -m pip install --upgrade pip
 
    Move the downloaded JSON file into the `credentials` folder and rename it to `key.json`.
 
-## Usage
-
-After setting up your environment and configuring your credentials, you can start developing your search applications with Vertex AI Search. Refer to the project's documentation for specific usage instructions and examples.
