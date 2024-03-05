@@ -93,7 +93,7 @@ Ensure the following requirements are met before proceeding:
 
 ### Workflow 1: Index Creation
 
-This process involves partitioning a user input file containing site URLs, entity information, and country metadata into chunks. Each chunk (containing up to 50 URLs) is then uploaded to Cloud Storage.
+This process involves dividing a user input file, which contains site URLs, entity information, and other metadata, into chunks. Each chunk is then processed to create data stores and a search application, respectively, using other GCP services for support.
 
 <p align="center">
   <img src="img/index-creation.png" alt="Index Creation" width="50%" style="border: 2px solid blue;"/>
@@ -101,9 +101,10 @@ This process involves partitioning a user input file containing site URLs, entit
 
 #### Steps for Index Creation:
 
-1. Partition the input file into multiple files, each with 50 URLs, and upload them to Cloud Storage.
-2. For each chunk, push the associated entity, site URL, and other information to a Cloud SQL table, mapping each entity to its batch number.
-3. Use the Vertex AI Search API to create a datastore and a search application for each chunk, identifying each datastore by its batch ID.
+1. Divide the input file into multiple files, each containing 50 URLs.
+2. Transfer the partitioned files to Google Cloud Storage.
+3. For each segment, input the associated entity, site URL, and other details into a Cloud SQL table, associating each entity with its batch number.
+4. Utilize the Vertex AI Search API to establish a datastore and a search application for each segment, distinguishing each datastore by its batch ID.
 
 ### Workflow 2: Query Routing
 
