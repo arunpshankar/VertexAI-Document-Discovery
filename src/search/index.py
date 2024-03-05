@@ -30,7 +30,7 @@ def create_search_app(data_store_id) -> Optional[Dict[str, Any]]:
 
     # Request payload
     data = {
-        "displayName": f'moodys_site_search_{data_store_id}',
+        "displayName": f'site_search_{data_store_id}',
         "dataStoreIds": [data_store_id],
         "solutionType": "SOLUTION_TYPE_SEARCH", 
         "searchEngineConfig": {
@@ -122,7 +122,7 @@ def create_data_store(batch_id):
             "X-Goog-User-Project": config.PROJECT_ID
         }
     data = {
-        'displayName': f'moodys_site_search_{batch_id}',
+        'displayName': f'site_search_{batch_id}',
         'industryVertical': 'GENERIC',
         'solutionTypes': ['SOLUTION_TYPE_SEARCH'],
         'contentConfig': 'PUBLIC_WEBSITE',
