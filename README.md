@@ -127,11 +127,11 @@ This workflow focuses on identifying the appropriate batch ID for a user query b
 
 ### Running the Modules
 
-Within the `src/run` directory, you'll find three modules:
+Within the `src/run` directory, you'll find three runners:
 
-- `index_pipeline.py`: Handles chunking of URLs, uploads to GCS, creates datastores and search apps, and updates the Cloud SQL table.
-- `query_pipeline.py`: Test query routing functionality based on the provided query.
-- `clean_pipeline.py`: Cleans up resources by removing objects from Cloud Storage, entries from Cloud SQL table, and deleting datastores and search apps.
+- `index_pipeline.py`: Handles chunking of URLs, uploads to GCS, creates datastores and search apps, and updates the Cloud SQL table. This corresponds to workflow I previously discussed. 
+- `query_pipeline.py`: Tests query routing functionality based on the provided query. Also, it can be used to take a list of entities and run search requests in bulk, collect the PDF URLs, and download the PDFs to a local directory. Corresponds to workflow II. 
+- `clean_pipeline.py`: Cleans up resources by removing objects from Cloud Storage, entries from the Cloud SQL table, and deleting datastores and search apps.
 
 ### Configuration and Execution
 
